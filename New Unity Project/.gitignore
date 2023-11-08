@@ -1,7 +1,7 @@
-# This .gitignore file should be placed at the root of your Unity project directory
-#
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
+ProjectSettings/Defaulter.asset
+Assets/_Docs/~$牌.xlsx.meta
+Packages/packages-lock.json
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/

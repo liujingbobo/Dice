@@ -9,6 +9,7 @@ public class DS_Attack : DiceSide
      
      public override IEnumerator TakeAction(Unit self, Unit target)
      {
+         Debug.Log($"{self.ID} deal {Value} damage to {target.ID}");
          target.DealDamage(Value);
          yield return null;
      }

@@ -10,6 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6c7e1d9103615c74a991530acc35479b, type: 3}
-  m_Name: Dice
+  m_Name: AttackDice
   m_EditorClassIdentifier: 
-  ds: {fileID: 0}
+  Sides:
+  - {fileID: 11400000, guid: ebbb4c9ca95bc2c48b510719c563df70, type: 2}
+  - {fileID: 11400000, guid: 1211107ef380d1e41b7e56911c3b2bd7, type: 2}
+  - {fileID: 11400000, guid: e084cdd25ba4a9641a545ce2b808cd0d, type: 2}

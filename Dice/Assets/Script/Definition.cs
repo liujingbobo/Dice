@@ -1,42 +1,53 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class Unit
 {
-    private int HP; // HealthPoint
-    private int BR; // Barrier
+    private string _id;
+    private int _hp; // HealthPoint
+    private int _br; // Barrier
     private List<Dice> _dices;
-    public bool IsDead => HP <= 0;
+    public bool IsDead => _hp <= 0;
+    public int HP => _hp;
+    public int BR => _br;
+    public string ID => _id;
 
-    public Unit(int hp)
+    public Unit(int hp, List<Dice> dices, string id)
     {
-        HP = hp;
-        BR = 0;
+        _id = id;
+        _hp = hp;
+        _br = 0;
+        _dices = dices;
     }
 
     public void Clear()
     {
-        BR = 0;
+        _br = 0;
     }
 
     public void DealDamage(int dmg)
     {
-        dmg -= BR;
-        BR = Mathf.Max(BR - dmg, 0);
+        Debug.Log($"Before take damage, HP {_hp}, BR {_br}");
+        var block = _br;
+        _br = Mathf.Max(_br - dmg, 0);
+        dmg -= block;
         if (dmg > 0)
         {
-            HP -= dmg;
+            _hp -= dmg;
         }
+        Debug.Log($"After take damage, HP {_hp}, BR {_br}");
     }
 
     public void GainBlock(int value)
     {
-        BR += value;
+        _br += value;
     }
 
     public List<DiceSide> Roll()
     {
-        return null;
+        var dices = _dices.Select(_ => _.RandomlyGetOne()).ToList();
+        return dices;
     }
 }

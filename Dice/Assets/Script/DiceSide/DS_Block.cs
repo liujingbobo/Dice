@@ -9,7 +9,8 @@ public class DS_Block : DiceSide
     
     public override IEnumerator TakeAction(Unit self, Unit target)
     {
-        target.DealDamage(Value);
+        Debug.Log($"{self.ID} gain {Value} blocks.");
+        self.GainBlock(Value);
         yield return null;
     }
 }

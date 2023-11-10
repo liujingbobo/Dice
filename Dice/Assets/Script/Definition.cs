@@ -12,31 +12,6 @@ public struct Unit
     public List<Dice> Dices;
 
     public bool IsDead => HP <= 0;
-    public void Clear()
-    {
-        // _br = 0;
-    }
-    public void DealDamage(int dmg)
-    {
-        // Debug.Log($"Before take damage, HP {_hp}, BR {_br}");
-        // var block = _br;
-        // _br = Mathf.Max(_br - dmg, 0);
-        // dmg -= block;
-        // if (dmg > 0)
-        // {
-        //     _hp -= dmg;
-        // }
-        // Debug.Log($"After take damage, HP {_hp}, BR {_br}");
-    }
-    public void GainBlock(int value)
-    {
-        // _br += value;
-    }
-    public void Heal(int value)
-    {
-    //     int hpAfterHeal = value + _hp;
-    //     _hp += value;
-    }
 
     public List<DiceSide> Roll()
     {
@@ -54,11 +29,35 @@ public enum Buff
 
 public class DamageInfo
 {
+    public string Source;
+    public string Target;
     public int Value;
     public bool IgnoreBarrier;
     public bool IsCanceled;
     public DiceSide SideEffect;
-    
-    // After process
-    public int BlockedByBarrier;
 }
+
+public class GainBlockInfo
+{
+    public string Source;
+    public string Target;
+    public int Value;
+    public bool IsCanceled;
+}
+
+public class LoseBlockInfo
+{
+    public string Source;
+    public string Target;
+    public int Value;
+    public bool FromClear;
+}
+
+public class HealInfo
+{
+    public string Source;
+    public string Target;
+    public int Value;
+    public bool IsCanceled;
+}
+

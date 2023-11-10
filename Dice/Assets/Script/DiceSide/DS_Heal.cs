@@ -9,8 +9,17 @@ public class DS_Heal : DiceSide
     
     public override IEnumerator TakeAction(Unit self, Unit target)
     {
+        HealInfo info = new HealInfo()
+        {
+            Value = value,
+            Source = self.ID,
+            Target = target.ID,
+        };
+
+        yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.Heal(info));
+        
         Debug.Log($"{self.ID} heal {value};");
-        target.Heal(value);
+        
         yield return null;
     }
 }

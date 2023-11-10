@@ -10,7 +10,14 @@ public class DS_Block : DiceSide
     public override IEnumerator TakeAction(Unit self, Unit target)
     {
         Debug.Log($"{self.ID} gain {Value} blocks.");
-        self.GainBlock(Value);
+
+        BattleManager.Instance.StartCoroutine(BattleManager.Instance.GainBlock(new GainBlockInfo()
+            {
+                Value = Value,
+                Source = self.ID,
+                Target = self.ID
+            }));
+        
         yield return null;
     }
 }

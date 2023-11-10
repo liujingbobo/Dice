@@ -8,31 +8,26 @@ using UnityEngine.UI;
 
 public class UIView_UnitStatus : MonoBehaviour
 {
-    public bool isPlayer;
-
-    public Unit Target;
+    public string target;
+    
     public TMP_Text HP;
     public TMP_Text BR;
 
     public float popUpGap = 0.2f;
     
-    
     // Start is called before the first frame update
     void Start()
     {
-        Target = isPlayer ? BattleManager.Instance.Player : BattleManager.Instance.Enemy;
-
-        // if (Target != null)
-        // {
-        //
-        // }
+        if (BattleManager.Instance.Units.ContainsKey(target))
+        {
+            BattleManager.Instance.Units[target].Subscribe(UpdateInfo).AddTo(this);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    void UpdateInfo(Unit unit)
     {
-        // if (Target == null) return;
-        HP.text = Target.HP.ToString();
-        BR.text = Target.BR.ToString();
+        HP.text = unit.HP.ToString();
+        BR.text = unit.BR.ToString();
     }
+
 }

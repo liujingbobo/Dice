@@ -19,8 +19,6 @@ public class BattleManager : MonoBehaviour
         }
 
         Instance = this;
-        
-        Init();
     }
 
     public Dictionary<string, ReactiveProperty<Unit>> Units = new Dictionary<string, ReactiveProperty<Unit>>();
@@ -28,14 +26,14 @@ public class BattleManager : MonoBehaviour
     public Unit Enemy => Units[_enemyID].Value;
 
     public string _playerID;
-    public string _enemyID;
     
-    public Dice AtkDice;
-    public Dice BlkDice;
+    public string _enemyID;
     
     public ReactiveProperty<BattleState> State;
 
-    public Queue<IEnumerator> actionQueue = new Queue<IEnumerator>();
+    private readonly Queue<IEnumerator> _actionQueue = new Queue<IEnumerator>();
+
+    private Coroutine processingQueue;
 
     public bool rolled = false;
     public void Restart()
@@ -48,36 +46,15 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(StartBattle());
     }
 
-    public void Init()
+    public void Init(Unit player, Unit enemy)
     {
         State = new ReactiveProperty<BattleState>(BattleState.Init);
-        // Init Enemy
-        // Init Player
-        List<Dice> playerDices = new List<Dice>();
-        playerDices.Add(Instantiate(AtkDice));
-        playerDices.Add(Instantiate(BlkDice));
-        
-        List<Dice> enemyDices = new List<Dice>();
-        enemyDices.Add(Instantiate(AtkDice));
-        enemyDices.Add(Instantiate(BlkDice));
-        // Units["Player"] = new Unit()
-        // {
-        //     HP = 10,
-        //     MaxHP = 10,
-        //     BR = 0,
-        //     Dices = playerDices
-        // };
-        //
-        // Units["Player"] = new Unit()
-        // {
-        //     HP = 10,
-        //     MaxHP = 10,
-        //     BR = 0,
-        //     Dices = playerDices
-        // };
-        //
-        // Units["Player"]
-        // Enemy = new Unit(10,enemyDices, "Enemy");
+
+        Units[player.ID].Value = player;
+        Units[enemy.ID].Value = enemy;
+
+        _playerID = player.ID;
+        _enemyID = enemy.ID;
     }
     
     IEnumerator StartBattle()
@@ -93,7 +70,7 @@ public class BattleManager : MonoBehaviour
         
         yield return new WaitForSeconds(1);
         
-        Player.Clear();
+        Clear(_playerID);
 
         yield return new WaitUntil(() => rolled);
         
@@ -121,15 +98,27 @@ public class BattleManager : MonoBehaviour
         yield return StartCoroutine(EnemyTurn());
     }
     
+    public IEnumerator ProcessActions()
+    {
+        if (processingQueue == null)
+        {
+            processingQueue = StartCoroutine(Do());
+        }
+        else
+        {
+            yield return new WaitUntil(() => processingQueue == null);
+        }
+    }
+    
     IEnumerator Do()
     {
-        while (actionQueue.Count > 0)
+        while (_actionQueue.Count > 0)
         {
-            var action = actionQueue.Dequeue();
+            var action = _actionQueue.Dequeue();
             yield return StartCoroutine(action);
         }
-        
-        yield break;
+
+        processingQueue = null;
     }
     
     public void Roll()
@@ -145,7 +134,7 @@ public class BattleManager : MonoBehaviour
         
         yield return new WaitForSeconds(1);
         
-        Enemy.Clear();
+        Clear(_enemyID);
         
         var sides = Player.Roll();
 
@@ -184,27 +173,100 @@ public class BattleManager : MonoBehaviour
     {
         Events.BeforeProcessDamage.Invoke(info);
 
-        if (actionQueue.Count > 0)
+        if (_actionQueue.Count > 0)
         {
-            yield return StartCoroutine(Do());
+            yield return StartCoroutine(ProcessActions());
         }
         
         if (info.IsCanceled) yield break;
+
+        Unit state = Units[info.Target].Value;
         
+        Debug.Log($"Before take damage, HP {state.HP}, BR {state.BR}");
+
+        int dmg = info.Value;
         
+        int block = state.BR;
         
+        int blockUsed = info.IgnoreBarrier ? 0 : Mathf.Min(dmg, block);
         
-        Events.AfterProcessDamage.Invoke(info);
+        state.BR -= blockUsed;
         
-        if (actionQueue.Count > 0)
+        dmg -= blockUsed;
+
+        int hpCost = dmg;
+        
+        if (dmg > 0)
+        {
+            state.HP -= dmg;
+        }
+
+        Units[info.Target].Value = state;
+        
+        Debug.Log($"After take damage, HP {state.HP}, BR {state.BR}");
+        
+        Events.AfterProcessDamage.Invoke((info, hpCost, blockUsed));
+        
+        if (_actionQueue.Count > 0)
         {
             yield return StartCoroutine(Do());
+        }
+    }
+
+    public IEnumerator GainBlock(GainBlockInfo info)
+    {
+        Events.BeforeGainBlock.Invoke(info);
+
+        if (info.IsCanceled)
+        {
+            yield break;
+        }
+        else
+        {
+            var state = Units[info.Target].Value;
+
+            state.BR += info.Value;
+
+            Units[info.Target].Value = state;
+        }
+    }
+
+    public IEnumerator Heal(HealInfo info)
+    {
+        Events.BeforeHeal.Invoke(info);
+
+        if (info.IsCanceled)
+        {
+            yield break;
+        }else
+        {
+            var state = Units[info.Target].Value;
+
+            state.HP += info.Value;
+
+            state.HP = Mathf.Min(state.HP, state.MaxHP);
+
+            Units[info.Target].Value = state;
         }
     }
     
     private bool CheckGameEnd()
     {
         return Player.IsDead || Enemy.IsDead;
+    }
+
+    public void PushAction(IEnumerator enumerator)
+    {
+        _actionQueue.Enqueue(enumerator);
+    }
+
+    public void Clear(string id)
+    {
+        var state = Units[id].Value;
+
+        state.BR = 0;
+
+        Units[id].Value = state;
     }
 }
 

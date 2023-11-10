@@ -20,8 +20,15 @@ public class BattleEvents : MonoBehaviour
     }
 
     public UnityEvent<DamageInfo> BeforeProcessDamage = new UnityEvent<DamageInfo>();
-    public UnityEvent<DamageInfo> AfterProcessDamage = new UnityEvent<DamageInfo>();
-    
+    public UnityEvent<(DamageInfo info, int hpUsed, int brUsed)> AfterProcessDamage = new UnityEvent<(DamageInfo info, int hpUsed, int brUsed)>();
+
+    public UnityEvent<GainBlockInfo> BeforeGainBlock = new UnityEvent<GainBlockInfo>();
+    public UnityEvent<GainBlockInfo> AfterGainBlock = new UnityEvent<GainBlockInfo>();
+
+    public UnityEvent<LoseBlockInfo> BeforeLoseBlock = new UnityEvent<LoseBlockInfo>();
+    public UnityEvent<LoseBlockInfo> AfterLoseBlock = new UnityEvent<LoseBlockInfo>();
+
+    public UnityEvent<HealInfo> BeforeHeal = new UnityEvent<HealInfo>();
 
     public UnityEvent<(DiceSide, Unit, Unit)> BeforeTakeAction = new UnityEvent<(DiceSide, Unit, Unit)>();
     public UnityEvent<(DiceSide, Unit, Unit)> AfterTakeAction = new UnityEvent<(DiceSide, Unit, Unit)>();

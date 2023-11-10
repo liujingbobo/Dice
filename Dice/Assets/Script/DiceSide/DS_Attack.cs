@@ -10,15 +10,35 @@ public class DS_Attack : DiceSide
      
      public override IEnumerator TakeAction(Unit self, Unit target)
      {
-         AttackInfo info = new AttackInfo(self, target);
+         AttackInfo info = new AttackInfo()
+         {
+             From = self,
+             Target = target,
+             Canceled = false,
+             Value = value
+         };
          
          BattleEvents.Instance.BeforeAttack.Invoke(info);
-         
-         Debug.Log($"{self.ID} deal {value} damage to {target.ID}");
-         
-         target.DealDamage(value);
-         
-         yield return null;
+
+         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.ProcessActions());
+
+         if (info.Canceled)
+         {
+             Debug.Log("Attack is canceled.");
+         }
+         else
+         {
+             Debug.Log($"{self.ID} deal {value} damage to {target.ID}");
+
+             yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.DealDamage(new DamageInfo()
+             {
+                 Source = self.ID,
+                 Target = target.ID,
+                 Value = info.Value,
+                 IgnoreBarrier = false,
+                 SideEffect = this
+             }));
+         }
      }
 
      public class AttackInfo
@@ -26,10 +46,6 @@ public class DS_Attack : DiceSide
          public bool Canceled;
          public Unit From;
          public Unit Target;
-
-         public AttackInfo(Unit from, Unit Target)
-         {
-             
-         }
+         public int Value;
      }
 }

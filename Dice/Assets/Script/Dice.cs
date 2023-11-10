@@ -6,7 +6,6 @@ using UnityEngine;
 public class Dice : ScriptableObject
 {
     public List<DiceSide> Sides;
-    public Temp t;
     public DiceSide RandomlyGetOne()
     {
         int ran = Random.Range(0, Sides.Count);

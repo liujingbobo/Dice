@@ -4,10 +4,13 @@ using System.Collections.Generic;
 using UniRx;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
 
 public class BattleManager : MonoBehaviour
 {
     public static BattleManager Instance;
+    private BattleEvents Events => BattleEvents.Instance;
+    
     private void Awake()
     {
         if (Instance)
@@ -20,14 +23,19 @@ public class BattleManager : MonoBehaviour
         Init();
     }
 
-    public Unit Player;
-    
-    public Unit Enemy;
+    public Dictionary<string, ReactiveProperty<Unit>> Units = new Dictionary<string, ReactiveProperty<Unit>>();
+    public Unit Player => Units[_playerID].Value;
+    public Unit Enemy => Units[_enemyID].Value;
 
+    public string _playerID;
+    public string _enemyID;
+    
     public Dice AtkDice;
     public Dice BlkDice;
     
     public ReactiveProperty<BattleState> State;
+
+    public Queue<IEnumerator> actionQueue = new Queue<IEnumerator>();
 
     public bool rolled = false;
     public void Restart()
@@ -52,8 +60,24 @@ public class BattleManager : MonoBehaviour
         List<Dice> enemyDices = new List<Dice>();
         enemyDices.Add(Instantiate(AtkDice));
         enemyDices.Add(Instantiate(BlkDice));
-        Player = new Unit(10, playerDices, "Player");
-        Enemy = new Unit(10,enemyDices, "Enemy");
+        // Units["Player"] = new Unit()
+        // {
+        //     HP = 10,
+        //     MaxHP = 10,
+        //     BR = 0,
+        //     Dices = playerDices
+        // };
+        //
+        // Units["Player"] = new Unit()
+        // {
+        //     HP = 10,
+        //     MaxHP = 10,
+        //     BR = 0,
+        //     Dices = playerDices
+        // };
+        //
+        // Units["Player"]
+        // Enemy = new Unit(10,enemyDices, "Enemy");
     }
     
     IEnumerator StartBattle()
@@ -79,9 +103,13 @@ public class BattleManager : MonoBehaviour
 
         foreach (var side in sides)
         {
+            Events.BeforeTakeAction.Invoke((side, Player, Enemy));
+            
             yield return side.TakeAction(Player, Enemy);
             
             yield return new WaitForSeconds(1);
+            
+            Events.AfterTakeAction.Invoke((side, Player, Enemy));
 
             if (CheckGameEnd())
             {
@@ -89,8 +117,19 @@ public class BattleManager : MonoBehaviour
                 yield break;
             }
         }
-
+        
         yield return StartCoroutine(EnemyTurn());
+    }
+    
+    IEnumerator Do()
+    {
+        while (actionQueue.Count > 0)
+        {
+            var action = actionQueue.Dequeue();
+            yield return StartCoroutine(action);
+        }
+        
+        yield break;
     }
     
     public void Roll()
@@ -141,6 +180,28 @@ public class BattleManager : MonoBehaviour
         yield break;
     }
 
+    public IEnumerator DealDamage(DamageInfo info)
+    {
+        Events.BeforeProcessDamage.Invoke(info);
+
+        if (actionQueue.Count > 0)
+        {
+            yield return StartCoroutine(Do());
+        }
+        
+        if (info.IsCanceled) yield break;
+        
+        
+        
+        
+        Events.AfterProcessDamage.Invoke(info);
+        
+        if (actionQueue.Count > 0)
+        {
+            yield return StartCoroutine(Do());
+        }
+    }
+    
     private bool CheckGameEnd()
     {
         return Player.IsDead || Enemy.IsDead;

@@ -10,7 +10,8 @@ public class BattleManager : MonoBehaviour
 {
     public static BattleManager Instance;
     private BattleEvents Events => BattleEvents.Instance;
-    
+
+    public BuffManager _buffManager;
     private void Awake()
     {
         if (Instance)

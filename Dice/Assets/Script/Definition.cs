@@ -10,21 +10,15 @@ public struct Unit
     public int HP; // HealthPoint
     public int BR; // Barrier
     public List<Dice> Dices;
+    public Dictionary<BuffType, int> Buffs;
 
     public bool IsDead => HP <= 0;
 
-    public List<DiceSide> Roll()
+    public List<DiceSideEffect> Roll()
     {
-        // var dices = _dices.Select(_ => _.RandomlyGetOne()).ToList();
-        // return dices;
-        return null;
+        var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
+        return dices;
     }
-}
-
-public enum Buff
-{
-    Toxic,
-    Broken
 }
 
 public class DamageInfo
@@ -34,7 +28,7 @@ public class DamageInfo
     public int Value;
     public bool IgnoreBarrier;
     public bool IsCanceled;
-    public DiceSide SideEffect;
+    public DiceSideEffect SideEffectEffect;
 }
 
 public class GainBlockInfo

@@ -18,9 +18,9 @@ public class UIView_UnitStatus : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (BattleManager.Instance.Units.ContainsKey(target))
+        if (BattleManager.Instance.Units.TryGetValue(target, out var unit))
         {
-            BattleManager.Instance.Units[target].Subscribe(UpdateInfo).AddTo(this);
+            unit.Subscribe(UpdateInfo).AddTo(this);
         }
     }
 
@@ -29,5 +29,4 @@ public class UIView_UnitStatus : MonoBehaviour
         HP.text = unit.HP.ToString();
         BR.text = unit.BR.ToString();
     }
-
 }

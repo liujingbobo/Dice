@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "HealSide", menuName = "DiceSide/Attack", order = 0)]
-public class DS_Heal : DiceSide
+public class DS_Heal : DiceSideEffect
 {
     public int value;
     

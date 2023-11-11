@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Serialization;
 
 [CreateAssetMenu(fileName = "AttackSide", menuName = "DiceSide/Attack", order = 0)]
-public class DS_Attack : DiceSide
+public class DS_Attack : DiceSideEffect
 {
      [FormerlySerializedAs("Value")] public int value;
      
@@ -36,7 +36,7 @@ public class DS_Attack : DiceSide
                  Target = target.ID,
                  Value = info.Value,
                  IgnoreBarrier = false,
-                 SideEffect = this
+                 SideEffectEffect = this
              }));
          }
      }

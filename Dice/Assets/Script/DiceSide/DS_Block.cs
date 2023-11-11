@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "DiceSide", menuName = "DiceSide/Block", order = 1)]
-public class DS_Block : DiceSide
+public class DS_Block : DiceSideEffect
 {
     public int Value;
     

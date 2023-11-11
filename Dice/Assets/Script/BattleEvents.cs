@@ -30,8 +30,8 @@ public class BattleEvents : MonoBehaviour
 
     public UnityEvent<HealInfo> BeforeHeal = new UnityEvent<HealInfo>();
 
-    public UnityEvent<(DiceSide, Unit, Unit)> BeforeTakeAction = new UnityEvent<(DiceSide, Unit, Unit)>();
-    public UnityEvent<(DiceSide, Unit, Unit)> AfterTakeAction = new UnityEvent<(DiceSide, Unit, Unit)>();
+    public UnityEvent<(DiceSideEffect, Unit, Unit)> BeforeTakeAction = new UnityEvent<(DiceSideEffect, Unit, Unit)>();
+    public UnityEvent<(DiceSideEffect, Unit, Unit)> AfterTakeAction = new UnityEvent<(DiceSideEffect, Unit, Unit)>();
     
     public UnityEvent<DS_Attack.AttackInfo> BeforeAttack = new UnityEvent<DS_Attack.AttackInfo>();
     public UnityEvent<Unit> BeforeTurnStart = new UnityEvent<Unit>();

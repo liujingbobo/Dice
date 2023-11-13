@@ -5,8 +5,12 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Buff", menuName = "DiceSide/Attack", order = 0)]
 public class BuffEffect : ScriptableObject
 {
-    public virtual IEnumerator GiveBuff(int amount)
+    public BuffType _type;
+    
+    public virtual IEnumerator GiveBuff(int amount, Unit source, Unit target)
     {
+        
+        
         yield break;
     }
 }

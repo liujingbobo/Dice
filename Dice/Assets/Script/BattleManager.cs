@@ -269,6 +269,7 @@ public class BattleManager : MonoBehaviour
 
         Units[id].Value = state;
     }
+    
 }
 
 public enum BattleState

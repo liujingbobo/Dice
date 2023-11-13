@@ -9,7 +9,7 @@ public struct Unit
     public int MaxHP;
     public int HP; // HealthPoint
     public int BR; // Barrier
-    public List<Dice> Dices;
+    public List<PresetDice> Dices;
     public Dictionary<BuffType, BuffInfo> Buffs;
 
     public bool IsDead => HP <= 0;
@@ -19,6 +19,15 @@ public struct Unit
         var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
         return dices;
     }
+}
+
+public class RuntimeDice
+{
+    public List<DiceSideEffect> sides;
+}
+
+public class RuntimeSide
+{
 }
 
 public struct BuffInfo
@@ -68,3 +77,15 @@ public class HealInfo
     public bool IsCanceled;
 }
 
+public enum SideType
+{
+    Attack,
+    Skill
+}
+
+public class ActionInfo
+{
+    public Unit Source;
+    public Unit Target;
+    public int Level;
+}

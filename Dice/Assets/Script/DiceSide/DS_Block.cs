@@ -7,15 +7,14 @@ public class DS_Block : DiceSideEffect
 {
     public int Value;
     
-    public override IEnumerator TakeAction(Unit self, Unit target)
+    public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
-        Debug.Log($"{self.ID} gain {Value} blocks.");
 
         BattleManager.Instance.StartCoroutine(BattleManager.Instance.GainBlock(new GainBlockInfo()
             {
                 Value = Value,
-                Source = self.ID,
-                Target = self.ID
+                Source = actionInfo.Source.ID,
+                Target = actionInfo.Source.ID
             }));
         
         yield return null;

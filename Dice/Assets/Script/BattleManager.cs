@@ -83,8 +83,8 @@ public class BattleManager : MonoBehaviour
         foreach (var side in sides)
         {
             Events.BeforeTakeAction.Invoke((side, Player, Enemy));
-
-            yield return StartCoroutine(side.TakeAction(Player, Enemy));
+            
+            yield return StartCoroutine(side.TakeAction(new ActionInfo()));
             
             yield return new WaitForSeconds(1);
             
@@ -142,7 +142,7 @@ public class BattleManager : MonoBehaviour
 
         foreach (var side in sides)
         {
-            yield return side.TakeAction(Enemy, Player);
+            yield return side.TakeAction(new ActionInfo());
             
             yield return new WaitForSeconds(1);
 

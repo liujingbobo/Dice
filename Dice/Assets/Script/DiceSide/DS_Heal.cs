@@ -7,18 +7,16 @@ public class DS_Heal : DiceSideEffect
 {
     public int value;
     
-    public override IEnumerator TakeAction(Unit self, Unit target)
+    public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
         HealInfo info = new HealInfo()
         {
             Value = value,
-            Source = self.ID,
-            Target = target.ID,
+            Source = actionInfo.Source.ID,
+            Target = actionInfo.Target.ID,
         };
 
         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.Heal(info));
-        
-        Debug.Log($"{self.ID} heal {value};");
         
         yield return null;
     }

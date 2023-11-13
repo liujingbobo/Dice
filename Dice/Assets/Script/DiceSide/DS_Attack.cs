@@ -6,39 +6,28 @@ using UnityEngine.Serialization;
 [CreateAssetMenu(fileName = "AttackSide", menuName = "DiceSide/Attack", order = 0)]
 public class DS_Attack : DiceSideEffect
 {
-     [FormerlySerializedAs("Value")] public int value;
-     
-     public override IEnumerator TakeAction(Unit self, Unit target)
+     public List<int> value;
+     public override int MaxLevel => value.Count - 1;
+     public override IEnumerator TakeAction(ActionInfo actionInfo)
      {
-         AttackInfo info = new AttackInfo()
+         DamageInfo dmgInfo = new DamageInfo()
          {
-             From = self,
-             Target = target,
-             Canceled = false,
-             Value = value
+             Source = actionInfo.Source.ID,
+             Target = actionInfo.Target.ID,
+             Value = value[actionInfo.Level],
+             IgnoreBarrier = false,
+             SideEffectEffect = this
          };
          
-         BattleEvents.Instance.BeforeAttack.Invoke(info);
+         yield return BattleManager.Instance.StartCoroutine(Action(dmgInfo));
+     }
 
-         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.ProcessActions());
-
-         if (info.Canceled)
-         {
-             Debug.Log("Attack is canceled.");
-         }
-         else
-         {
-             Debug.Log($"{self.ID} deal {value} damage to {target.ID}");
-
-             yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.DealDamage(new DamageInfo()
-             {
-                 Source = self.ID,
-                 Target = target.ID,
-                 Value = info.Value,
-                 IgnoreBarrier = false,
-                 SideEffectEffect = this
-             }));
-         }
+     IEnumerator Action(DamageInfo info)
+     {
+         // Play Animation
+         yield return new WaitForSeconds(1f);
+         
+         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.DealDamage(info));
      }
 
      public class AttackInfo

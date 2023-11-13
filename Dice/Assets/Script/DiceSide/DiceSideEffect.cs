@@ -4,8 +4,21 @@ using UnityEngine;
 
 public class DiceSideEffect : ScriptableObject
 {
-    public virtual IEnumerator TakeAction(Unit self, Unit target)
+    [SerializeField] private SideType _sideType;
+    [SerializeField] private bool _isPositive;
+    public SideType SideType => _sideType;
+    public bool isPositive => isPositive;
+
+    public virtual bool CanLevelUp(int curLevel)
+    {
+        return curLevel < MaxLevel;
+    }
+    public virtual int MaxLevel => 0;
+    
+    public virtual IEnumerator TakeAction(ActionInfo actionInfo)
     {
         yield return null;
     }
 }
+
+

@@ -35,4 +35,6 @@ public class BattleEvents : MonoBehaviour
     
     public UnityEvent<DS_Attack.AttackInfo> BeforeAttack = new UnityEvent<DS_Attack.AttackInfo>();
     public UnityEvent<Unit> BeforeTurnStart = new UnityEvent<Unit>();
+
+    public UnityEvent<GiveBuffInfo> BeforeGiveBuff = new UnityEvent<GiveBuffInfo>();
 }

@@ -22,9 +22,10 @@ public class BattleManager : MonoBehaviour
         Instance = this;
     }
 
-    public Dictionary<string, ReactiveProperty<Unit>> Units = new Dictionary<string, ReactiveProperty<Unit>>();
-    public Unit Player => Units[_playerID].Value;
-    public Unit Enemy => Units[_enemyID].Value;
+    private readonly Dictionary<string, ReactiveProperty<Unit>> units = new Dictionary<string, ReactiveProperty<Unit>>();
+    public Dictionary<string, ReactiveProperty<Unit>> Units => units;
+    public Unit Player => units[_playerID].Value;
+    public Unit Enemy => units[_enemyID].Value;
 
     public string _playerID;
     
@@ -51,8 +52,8 @@ public class BattleManager : MonoBehaviour
     {
         State = new ReactiveProperty<BattleState>(BattleState.Init);
 
-        Units[player.ID].Value = player;
-        Units[enemy.ID].Value = enemy;
+        units[player.ID].Value = player;
+        units[enemy.ID].Value = enemy;
 
         _playerID = player.ID;
         _enemyID = enemy.ID;
@@ -71,7 +72,7 @@ public class BattleManager : MonoBehaviour
         
         yield return new WaitForSeconds(1);
         
-        Clear(_playerID);
+        ClearBlock(_playerID);
 
         yield return new WaitUntil(() => rolled);
         
@@ -82,8 +83,8 @@ public class BattleManager : MonoBehaviour
         foreach (var side in sides)
         {
             Events.BeforeTakeAction.Invoke((side, Player, Enemy));
-            
-            yield return side.TakeAction(Player, Enemy);
+
+            yield return StartCoroutine(side.TakeAction(Player, Enemy));
             
             yield return new WaitForSeconds(1);
             
@@ -135,7 +136,7 @@ public class BattleManager : MonoBehaviour
         
         yield return new WaitForSeconds(1);
         
-        Clear(_enemyID);
+        ClearBlock(_enemyID);
         
         var sides = Player.Roll();
 
@@ -181,7 +182,7 @@ public class BattleManager : MonoBehaviour
         
         if (info.IsCanceled) yield break;
 
-        Unit state = Units[info.Target].Value;
+        Unit state = units[info.Target].Value;
         
         Debug.Log($"Before take damage, HP {state.HP}, BR {state.BR}");
 
@@ -202,7 +203,7 @@ public class BattleManager : MonoBehaviour
             state.HP -= dmg;
         }
 
-        Units[info.Target].Value = state;
+        units[info.Target].Value = state;
         
         Debug.Log($"After take damage, HP {state.HP}, BR {state.BR}");
         
@@ -213,7 +214,7 @@ public class BattleManager : MonoBehaviour
             yield return StartCoroutine(Do());
         }
     }
-
+    
     public IEnumerator GainBlock(GainBlockInfo info)
     {
         Events.BeforeGainBlock.Invoke(info);
@@ -224,11 +225,11 @@ public class BattleManager : MonoBehaviour
         }
         else
         {
-            var state = Units[info.Target].Value;
+            var state = units[info.Target].Value;
 
             state.BR += info.Value;
 
-            Units[info.Target].Value = state;
+            units[info.Target].Value = state;
         }
     }
 
@@ -241,13 +242,13 @@ public class BattleManager : MonoBehaviour
             yield break;
         }else
         {
-            var state = Units[info.Target].Value;
+            var state = units[info.Target].Value;
 
             state.HP += info.Value;
 
             state.HP = Mathf.Min(state.HP, state.MaxHP);
 
-            Units[info.Target].Value = state;
+            units[info.Target].Value = state;
         }
     }
     
@@ -261,15 +262,14 @@ public class BattleManager : MonoBehaviour
         _actionQueue.Enqueue(enumerator);
     }
 
-    public void Clear(string id)
+    private void ClearBlock(string id)
     {
-        var state = Units[id].Value;
+        var state = units[id].Value;
 
         state.BR = 0;
 
-        Units[id].Value = state;
+        units[id].Value = state;
     }
-    
 }
 
 public enum BattleState

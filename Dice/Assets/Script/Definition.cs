@@ -10,7 +10,7 @@ public struct Unit
     public int HP; // HealthPoint
     public int BR; // Barrier
     public List<Dice> Dices;
-    public Dictionary<BuffType, int> Buffs;
+    public Dictionary<BuffType, BuffInfo> Buffs;
 
     public bool IsDead => HP <= 0;
 
@@ -19,6 +19,12 @@ public struct Unit
         var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
         return dices;
     }
+}
+
+public struct BuffInfo
+{
+    public int Stacks;
+    public string Source;
 }
 
 public class DamageInfo
@@ -45,6 +51,13 @@ public class LoseBlockInfo
     public string Target;
     public int Value;
     public bool FromClear;
+}
+
+public class GiveBuffInfo
+{
+    public int stacks;
+    public string source;
+    public string target;
 }
 
 public class HealInfo

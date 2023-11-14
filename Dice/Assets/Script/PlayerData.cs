@@ -4,10 +4,17 @@ using UnityEngine;
 
 public class PlayerData
 {
-    public List<DiceData> Dices;
+    public List<RTDiceData> Dices;
 }
 
-public class DiceData
+public class RTDiceData
 {
-    public List<DiceSideEffect> Dices;
+    public List<RTSideData> Dices;
+}
+
+
+public class RTSideData
+{
+    public DiceSideEffect Side;
+    public int Level;
 }

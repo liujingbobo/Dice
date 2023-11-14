@@ -9,15 +9,16 @@ public struct Unit
     public int MaxHP;
     public int HP; // HealthPoint
     public int BR; // Barrier
-    public List<PresetDice> Dices;
+    public List<RTDiceData> Dices;
     public Dictionary<BuffType, BuffInfo> Buffs;
 
     public bool IsDead => HP <= 0;
 
     public List<DiceSideEffect> Roll()
     {
-        var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
-        return dices;
+        return null;
+        // var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
+        // return dices;
     }
 }
 

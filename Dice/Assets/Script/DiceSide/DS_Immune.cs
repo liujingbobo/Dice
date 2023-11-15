@@ -6,10 +6,6 @@ public class DS_Immune : DiceSideEffect
 {
     public override IEnumerator TakeAction(ActionInfo info)
     {
-        BattleEvents.Instance.BeforeAttack.AddListener(_ =>
-        {
-            
-        });
         yield break;
     }
 }

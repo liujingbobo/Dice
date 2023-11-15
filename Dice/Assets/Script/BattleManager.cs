@@ -35,7 +35,7 @@ public class BattleManager : MonoBehaviour
 
     private readonly Queue<IEnumerator> _actionQueue = new Queue<IEnumerator>();
 
-    private Coroutine processingQueue;
+    private Coroutine _processingQueue;
 
     public bool rolled = false;
     public void Restart()
@@ -61,7 +61,7 @@ public class BattleManager : MonoBehaviour
     
     IEnumerator StartBattle()
     {
-        yield return StartCoroutine(PlayerTurn());
+        yield return PlayerTurn();
     }
 
     IEnumerator PlayerTurn()
@@ -82,34 +82,28 @@ public class BattleManager : MonoBehaviour
 
         foreach (var side in sides)
         {
-            Events.BeforeTakeAction.Invoke((side, Player, Enemy));
-            
-            yield return StartCoroutine(side.TakeAction(new ActionInfo()));
+            yield return side.TakeAction(new ActionInfo());
             
             yield return new WaitForSeconds(1);
             
-            Events.AfterTakeAction.Invoke((side, Player, Enemy));
-
             if (CheckGameEnd())
             {
-                yield return StartCoroutine(EndGame());
+                yield return EndGame();
                 yield break;
             }
         }
         
-        yield return StartCoroutine(EnemyTurn());
+        yield return EnemyTurn();
     }
     
     public IEnumerator ProcessActions()
     {
-        if (processingQueue == null)
+        if (_processingQueue == null)
         {
-            processingQueue = StartCoroutine(Do());
+            _processingQueue = StartCoroutine(Do());
         }
-        else
-        {
-            yield return new WaitUntil(() => processingQueue == null);
-        }
+        
+        yield return new WaitUntil(() => _processingQueue == null);
     }
     
     IEnumerator Do()
@@ -120,7 +114,7 @@ public class BattleManager : MonoBehaviour
             yield return StartCoroutine(action);
         }
 
-        processingQueue = null;
+        _processingQueue = null;
     }
     
     public void Roll()
@@ -173,12 +167,7 @@ public class BattleManager : MonoBehaviour
 
     public IEnumerator DealDamage(DamageInfo info)
     {
-        Events.BeforeProcessDamage.Invoke(info);
-
-        if (_actionQueue.Count > 0)
-        {
-            yield return StartCoroutine(ProcessActions());
-        }
+        yield return ProcessActions();
         
         if (info.IsCanceled) yield break;
 
@@ -207,18 +196,14 @@ public class BattleManager : MonoBehaviour
         
         Debug.Log($"After take damage, HP {state.HP}, BR {state.BR}");
         
-        Events.AfterProcessDamage.Invoke((info, hpCost, blockUsed));
-        
         if (_actionQueue.Count > 0)
         {
-            yield return StartCoroutine(Do());
+            yield return Do();
         }
     }
     
     public IEnumerator GainBlock(GainBlockInfo info)
     {
-        Events.BeforeGainBlock.Invoke(info);
-
         if (info.IsCanceled)
         {
             yield break;
@@ -235,8 +220,6 @@ public class BattleManager : MonoBehaviour
 
     public IEnumerator Heal(HealInfo info)
     {
-        Events.BeforeHeal.Invoke(info);
-
         if (info.IsCanceled)
         {
             yield break;
@@ -250,6 +233,47 @@ public class BattleManager : MonoBehaviour
 
             units[info.Target].Value = state;
         }
+    }
+
+    public IEnumerator GainBuff(BuffAction action)
+    {
+        if (action.IsCanceled)
+        {
+            //
+        }
+        else
+        {
+            var state = Units[action.Target].Value;
+
+            state.Buffs.TryGetValue(action.BuffType, out int stacks);
+
+            if (stacks == 0)
+            {
+                yield return _buffManager.Activate(action);
+            }
+
+            state.AddBuff(action);
+
+            Units[action.Target].Value = state;
+        }
+    }
+
+    public IEnumerator LoseBuff(BuffAction action)
+    {
+        if (action.IsCanceled)
+        {
+            //
+        }
+        else
+        {
+            var state = Units[action.Target].Value;
+
+            state.LoseBuff(action);
+
+            Units[action.Target].Value = state;
+        }
+        
+        yield break;
     }
     
     private bool CheckGameEnd()

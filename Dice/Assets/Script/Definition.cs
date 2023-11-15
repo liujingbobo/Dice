@@ -10,7 +10,7 @@ public struct Unit
     public int HP; // HealthPoint
     public int BR; // Barrier
     public List<RTDiceData> Dices;
-    public Dictionary<BuffType, BuffInfo> Buffs;
+    public Dictionary<BuffType, int> Buffs;
 
     public bool IsDead => HP <= 0;
 
@@ -20,6 +20,34 @@ public struct Unit
         // var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
         // return dices;
     }
+
+    public void AddBuff(BuffAction act)
+    {
+        int value = 0;
+        
+        Buffs.TryGetValue(act.BuffType, out value);
+
+        value += act.Stacks;
+        
+        if (act.ByStack)
+        {
+            Buffs[act.BuffType] = value;
+        }
+    }
+
+    public void LoseBuff(BuffAction act)
+    {
+        int value = 0;
+        
+        Buffs.TryGetValue(act.BuffType, out value);
+
+        if (value == 0) return;
+
+        value = Mathf.Max(0, value - act.Stacks);
+        
+        Buffs[act.BuffType] = value;
+    }
+    
 }
 
 public class RuntimeDice
@@ -37,14 +65,22 @@ public struct BuffInfo
     public string Source;
 }
 
+public enum SourceType
+{
+    Unit,
+    Buff
+}
+
 public class DamageInfo
 {
+    public SourceType SourceType;
     public string Source;
     public string Target;
     public int Value;
     public bool IgnoreBarrier;
     public bool IsCanceled;
     public DiceSideEffect SideEffectEffect;
+    public BuffType BuffType;
 }
 
 public class GainBlockInfo
@@ -63,11 +99,14 @@ public class LoseBlockInfo
     public bool FromClear;
 }
 
-public class GiveBuffInfo
+public class BuffAction
 {
-    public int stacks;
-    public string source;
-    public string target;
+    public BuffType BuffType;
+    public bool ByStack;
+    public int Stacks;
+    public string Source;
+    public string Target;
+    public bool IsCanceled;
 }
 
 public class HealInfo

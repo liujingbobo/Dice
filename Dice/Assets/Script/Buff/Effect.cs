@@ -2,11 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BuffEffect : ScriptableObject
+public class Effect : ScriptableObject
 {
     public BuffType BuffType;
+    public bool ByStack;
     
-    public virtual IEnumerator GiveBuff(GiveBuffInfo info)
+    public virtual IEnumerator Init(BuffAction action)
     {
         yield break;
     }
@@ -20,3 +21,4 @@ public enum BuffType
     Enraged,
     Fortified,
 }
+

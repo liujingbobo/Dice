@@ -9,14 +9,18 @@ public class DS_Block : DiceSideEffect
     
     public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
-
-        BattleManager.Instance.StartCoroutine(BattleManager.Instance.GainBlock(new GainBlockInfo()
-            {
-                Value = Value,
-                Source = actionInfo.Source.ID,
-                Target = actionInfo.Source.ID
-            }));
+        var info = new GainBlockInfo()
+        {
+            Value = Value,
+            Source = actionInfo.Source.ID,
+            Target = actionInfo.Source.ID
+        };
         
-        yield return null;
+        yield return BattleManager.Instance.StartCoroutine(Action(info));
+    }
+    
+    IEnumerator Action(GainBlockInfo info)
+    {
+        yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.GainBlock(info));
     }
 }

@@ -12,14 +12,6 @@ using Random = UnityEngine.Random;
 
 public static class ExtendTools
 {
-
-
-    public static T Clone<T>(this T source)
-    {
-        var state = new SerializableState(source);
-        return state.GetState<T>();
-    }
-
     public static void Shuffle<T>(this List<T> list)
     {
         for (int i = list.Count - 1; i >= 0; i--)

@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Sirenix.OdinInspector;
-using Unity.Plastic.Newtonsoft.Json;
 using UnityEngine;
 
 public static class M
@@ -283,8 +282,8 @@ public static class M
     [Serializable]
     public class WeightedPool<T>
     {
-        [InlineProperty, LabelText("Pool"), HideReferenceObjectPicker, SerializeField, JsonRequired
-         , ListDrawerSettings(Expanded = true, CustomAddFunction = "AddDefault")]
+        [InlineProperty, LabelText("Pool"), HideReferenceObjectPicker, SerializeField
+         , ListDrawerSettings(CustomAddFunction = "AddDefault")]
         private List<Pair<T, float>> pool = new List<Pair<T, float>>();
 
         private float TotalWeight => TempPool.Sum(_ => _.Value);

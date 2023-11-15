@@ -24,9 +24,6 @@ public class DS_Attack : DiceSideEffect
 
      IEnumerator Action(DamageInfo info)
      {
-         // Play Animation
-         yield return new WaitForSeconds(1f);
-         
          yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.DealDamage(info));
      }
 

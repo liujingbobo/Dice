@@ -16,8 +16,11 @@ public class DS_Heal : DiceSideEffect
             Target = actionInfo.Target.ID,
         };
 
+        yield return BattleManager.Instance.StartCoroutine(Action(info));
+    }
+
+    IEnumerator Action(HealInfo info)
+    {
         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.Heal(info));
-        
-        yield return null;
     }
 }

@@ -2,17 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface BeforeTurnStart
+public interface EffectTrigger
 {
-    public IEnumerator Trigger(Unit unit);
+}
+public interface BeforeTurnStart : EffectTrigger
+{
+    public IEnumerator BeforeTurnStart(Unit unit);
 }
 
-public interface AfterDealDamage
+public interface AfterDealDamage : EffectTrigger
 {
     public IEnumerator AfterDealDamage(DamageInfo DmgInfo);
 }
 
-public interface BeforeTurnEnd
+public interface BeforeTurnEnd : EffectTrigger
 {
     public IEnumerator BeforeTurnEnd(DamageInfo info);
 }

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,14 +15,20 @@ public class BF_ToxicAttack : Effect, AfterDealDamage
         yield break;
     }
 
+    public void Temp(Func<int, string> a)
+    {   
+        string b = a(1);
+    }
+
     public IEnumerator AfterDealDamage(DamageInfo DmgInfo)
     {
         if (Source == DmgInfo.Source && DmgInfo.SourceType == SourceType.Unit)
         {
             var state = BattleManager.Instance.Units[DmgInfo.Target].Value.Buffs[BuffType];
 
-            // give buff
-            yield break;
+            yield return BattleEvents.Instance.DO<AfterDealDamage>(a => a.AfterDealDamage(DmgInfo));
         }
     }
+    
+    
 }

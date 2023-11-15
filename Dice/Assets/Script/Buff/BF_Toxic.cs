@@ -37,6 +37,11 @@ public class BF_Toxic : Effect, BeforeTurnStart
     {
         throw new System.NotImplementedException();
     }
+
+    public IEnumerator BeforeTurnStart(Unit unit)
+    {
+        throw new System.NotImplementedException();
+    }
 }
 
 // 

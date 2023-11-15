@@ -17,5 +17,5 @@ public interface AfterDealDamage : EffectTrigger
 
 public interface BeforeTurnEnd : EffectTrigger
 {
-    public IEnumerator BeforeTurnEnd(DamageInfo info);
+    public IEnumerator BeforeTurnEnd(string ID);
 }

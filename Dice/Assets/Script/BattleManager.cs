@@ -38,6 +38,11 @@ public class BattleManager : MonoBehaviour
     private Coroutine _processingQueue;
 
     public bool rolled = false;
+
+    public static Unit GetUnit(string id)
+    {
+        return Instance.units[id].Value;
+    }
     public void Restart()
     {
         SceneManager.LoadScene("SampleScene");

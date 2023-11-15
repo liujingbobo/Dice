@@ -47,7 +47,20 @@ public struct Unit
         
         Buffs[act.BuffType] = value;
     }
-    
+
+    public bool HasBuff(BuffType buffType)
+    {
+        int value = 0;
+        Buffs.TryGetValue(buffType, out value);
+        return value > 0;
+    }
+
+    public int GetBuffStack(BuffType buffType)
+    {
+        int value = 0;
+        Buffs.TryGetValue(buffType, out value);
+        return value;
+    }
 }
 
 public class RuntimeDice

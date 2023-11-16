@@ -12,26 +12,27 @@ public class DS_Attack : DiceSideEffect
      {
          DamageInfo dmgInfo = new DamageInfo()
          {
-             Source = actionInfo.Source.ID,
-             Target = actionInfo.Target.ID,
+             SourceType = SourceType.Unit,
+             Source = actionInfo.Source,
+             Target = actionInfo.Target,
              Value = value[actionInfo.Level],
              IgnoreBarrier = false,
              SideEffectEffect = this
          };
          
-         yield return BattleManager.Instance.StartCoroutine(Action(dmgInfo));
+         yield return Action(dmgInfo);
      }
 
      IEnumerator Action(DamageInfo info)
      {
-         yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.DealDamage(info));
+         yield return BattleManager.Instance.DealDamage(info);
      }
 
      public class AttackInfo
      {
          public bool Canceled;
-         public Unit From;
-         public Unit Target;
+         public BTUnit From;
+         public BTUnit Target;
          public int Value;
      }
 }

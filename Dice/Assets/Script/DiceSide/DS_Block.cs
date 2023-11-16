@@ -12,15 +12,15 @@ public class DS_Block : DiceSideEffect
         var info = new GainBlockInfo()
         {
             Value = Value,
-            Source = actionInfo.Source.ID,
-            Target = actionInfo.Source.ID
+            Source = actionInfo.Source,
+            Target = actionInfo.Source
         };
         
-        yield return BattleManager.Instance.StartCoroutine(Action(info));
+        yield return Action(info);
     }
     
     IEnumerator Action(GainBlockInfo info)
     {
-        yield return BattleManager.Instance.StartCoroutine(BattleManager.Instance.GainBlock(info));
+        yield return BattleManager.Instance.GainBlock(info);
     }
 }

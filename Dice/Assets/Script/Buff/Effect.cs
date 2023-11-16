@@ -7,7 +7,12 @@ public class Effect : ScriptableObject
     public BuffType BuffType;
     public bool ByStack;
     
-    public virtual IEnumerator Init(BuffAction action)
+    public virtual IEnumerator AddBuff(BuffAction action)
+    {
+        yield break;
+    }
+
+    public virtual IEnumerator RemoveBuff(BuffAction action)
     {
         yield break;
     }
@@ -20,5 +25,6 @@ public enum BuffType
     Fragile,
     Enraged,
     Fortified,
+    ToxicAttack
 }
 

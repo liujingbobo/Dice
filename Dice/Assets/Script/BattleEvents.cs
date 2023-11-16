@@ -26,6 +26,18 @@ public class BattleEvents : MonoBehaviour
         EffectDic = new Dictionary<Type, List<EffectTrigger>>();
     }
 
+    public void AddTrigger(Effect aaa)
+    {
+        foreach (var it in aaa.GetType().GetInterfaces())
+        {
+            if (!EffectDic.ContainsKey(it))
+            {
+                EffectDic[it] = new List<EffectTrigger>();
+            }
+            EffectDic[it].Add((EffectTrigger)aaa);
+        }
+    }
+
     public IEnumerator DO<T>(Func<T, IEnumerator> act)
     {
         if(EffectDic.TryGetValue(typeof(T), out var effects))

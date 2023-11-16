@@ -7,40 +7,34 @@ using UnityEngine.Serialization;
 public class BF_Toxic : Effect, BeforeTurnStart
 {
     public int damageMultiplier = 1;
+
+    public string source;
+    public string owner;
     
-    
-    public override IEnumerator Init(BuffAction buffAction)
+    public override IEnumerator AddBuff(BuffAction buffAction)
     {
+        source = buffAction.Source;
+        owner = buffAction.Target;
         yield break;
     }
-
-    IEnumerator Action(Unit unit, BuffAction buffAction)
+    
+    public IEnumerator BeforeTurnStart(string btUnit)
     {
-        if (unit.ID == buffAction.Target)
+        if (btUnit == owner && B.HasBuff(owner, BuffType.Toxic, out int stacks))
         {
-            var state = BattleManager.Instance.Units[buffAction.Target].Value.Buffs[BuffType];
+            var state = B.GetUnit(owner).Buffs[BuffType];
             
             var info = new DamageInfo()
             {
                 SourceType = SourceType.Buff,
-                Source = buffAction.BuffType.ToString(),
-                Target = buffAction.Target,
-                Value = state * damageMultiplier,
-                BuffType = buffAction.BuffType
+                Source = source,
+                Target = owner,
+                Value = stacks * damageMultiplier,
+                BuffType = BuffType.Toxic
             };
 
             yield return BattleManager.Instance.DealDamage(info);
         }
-    }
-
-    public IEnumerator Trigger(Unit unit)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    public IEnumerator BeforeTurnStart(Unit unit)
-    {
-        throw new System.NotImplementedException();
     }
 }
 

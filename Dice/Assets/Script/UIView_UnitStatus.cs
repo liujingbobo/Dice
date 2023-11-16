@@ -24,9 +24,9 @@ public class UIView_UnitStatus : MonoBehaviour
         }
     }
 
-    void UpdateInfo(Unit unit)
+    void UpdateInfo(BTUnit btUnit)
     {
-        HP.text = unit.HP.ToString();
-        BR.text = unit.BR.ToString();
+        HP.text = btUnit.HP.ToString();
+        BR.text = btUnit.BR.ToString();
     }
 }

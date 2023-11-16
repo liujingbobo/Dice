@@ -6,11 +6,9 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Buff", menuName = "Buff/ToxicAttack", order = 0)]
 public class BF_ToxicAttack : Effect, AfterDealDamage, BeforeTurnEnd
 {
-    public int damageMultiplier = 1;
-    
     public string Source;
     
-    public override IEnumerator Init(BuffAction buffAction)
+    public override IEnumerator AddBuff(BuffAction buffAction)
     {
         Source = buffAction.Target;
         yield break;
@@ -18,14 +16,18 @@ public class BF_ToxicAttack : Effect, AfterDealDamage, BeforeTurnEnd
 
     public IEnumerator AfterDealDamage(DamageInfo DmgInfo)
     {
-        if (Source == DmgInfo.Source && DmgInfo.SourceType == SourceType.Unit)
+        if (Source == DmgInfo.Source && Source == DmgInfo.Target && DmgInfo.SourceType == SourceType.Unit)
         {
-            if (BattleManager.GetUnit(Source).HasBuff(BuffType))
+            BuffAction buffAction = new BuffAction()
             {
-                var state = BattleManager.Instance.Units[DmgInfo.Target].Value.Buffs[BuffType];
-
-                yield return BattleEvents.Instance.DO<AfterDealDamage>(a => a.AfterDealDamage(DmgInfo));
-            }
+                BuffType = BuffType,
+                ByStack = true,
+                Stacks = 1,
+                Source = DmgInfo.Source,
+                Target = DmgInfo.Target
+            };
+        
+            yield return BattleManager.Instance.GainBuff(buffAction);
         }
     }
 

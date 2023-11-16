@@ -16,15 +16,50 @@ public class BuffManager : MonoBehaviour
         Instance = this;
     }
 
-    void Init()
+    void Init(List<string> units)
     {
-        presetBuff = new Dictionary<BuffType, Effect>();
+        unitBuffDic = new Dictionary<string, Dictionary<BuffType, Effect>>();
+
+        foreach (var unit in units)
+        {
+            unitBuffDic[unit] = new Dictionary<BuffType, Effect>();
+        }
     }
 
-    private Dictionary<BuffType, Effect> presetBuff;
+    private Dictionary<string, Dictionary<BuffType, Effect>> unitBuffDic;
+    
 
-    public IEnumerator Activate(BuffAction action)
+    private Dictionary<BuffType, Effect> presetBuff;
+    
+    public IEnumerator AddBuff(BuffAction action)
     {
-        yield return StartCoroutine(presetBuff[action.BuffType].Init(action));
+        if (!unitBuffDic.ContainsKey(action.Target))
+        {
+            unitBuffDic[action.Target] = new Dictionary<BuffType, Effect>();
+        }
+
+        Dictionary<BuffType, Effect> dic = unitBuffDic[action.Target];
+
+        if (!dic.ContainsKey(action.BuffType))
+        {
+            Effect ef = Instantiate(presetBuff[action.BuffType]);
+            
+            dic[action.BuffType] = ef;
+            
+            B.AddEventTriggers(ef);
+        }
+        
+        yield return presetBuff[action.BuffType].AddBuff(action);
+    }
+
+    public IEnumerator RemoveBuff(BuffAction action)
+    {
+        if (unitBuffDic.TryGetValue(action.Target, out var dic))
+        {
+            if (dic.TryGetValue(action.BuffType, out var b))
+            {
+                yield return b.RemoveBuff(action);
+            }
+        }
     }
 }

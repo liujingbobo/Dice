@@ -7,12 +7,17 @@ public interface EffectTrigger
 }
 public interface BeforeTurnStart : EffectTrigger
 {
-    public IEnumerator BeforeTurnStart(Unit unit);
+    public IEnumerator BeforeTurnStart(string btUnit);
 }
 
 public interface AfterDealDamage : EffectTrigger
 {
     public IEnumerator AfterDealDamage(DamageInfo DmgInfo);
+}
+
+public interface BeforeDealDamage : EffectTrigger
+{
+    public IEnumerator BeforeDealDamage(DamageInfo DmgInfo);
 }
 
 public interface BeforeTurnEnd : EffectTrigger

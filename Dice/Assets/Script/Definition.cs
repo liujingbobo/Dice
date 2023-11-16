@@ -3,7 +3,7 @@ using System.Linq;
 using UniRx;
 using UnityEngine;
 
-public struct Unit
+public struct BTUnit
 {
     public string ID;
     public int MaxHP;
@@ -138,7 +138,7 @@ public enum SideType
 
 public class ActionInfo
 {
-    public Unit Source;
-    public Unit Target;
+    public string Source;
+    public string Target;
     public int Level;
 }

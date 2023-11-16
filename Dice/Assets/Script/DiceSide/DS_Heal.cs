@@ -12,8 +12,8 @@ public class DS_Heal : DiceSideEffect
         HealInfo info = new HealInfo()
         {
             Value = value,
-            Source = actionInfo.Source.ID,
-            Target = actionInfo.Target.ID,
+            Source = actionInfo.Source,
+            Target = actionInfo.Target,
         };
 
         yield return BattleManager.Instance.StartCoroutine(Action(info));

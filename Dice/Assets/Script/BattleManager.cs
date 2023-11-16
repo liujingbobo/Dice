@@ -22,10 +22,10 @@ public class BattleManager : MonoBehaviour
         Instance = this;
     }
 
-    private readonly Dictionary<string, ReactiveProperty<Unit>> units = new Dictionary<string, ReactiveProperty<Unit>>();
-    public Dictionary<string, ReactiveProperty<Unit>> Units => units;
-    public Unit Player => units[_playerID].Value;
-    public Unit Enemy => units[_enemyID].Value;
+    private readonly Dictionary<string, ReactiveProperty<BTUnit>> units = new Dictionary<string, ReactiveProperty<BTUnit>>();
+    public Dictionary<string, ReactiveProperty<BTUnit>> Units => units;
+    public BTUnit Player => units[_playerID].Value;
+    public BTUnit Enemy => units[_enemyID].Value;
 
     public string _playerID;
     
@@ -33,13 +33,9 @@ public class BattleManager : MonoBehaviour
     
     public ReactiveProperty<BattleState> State;
 
-    private readonly Queue<IEnumerator> _actionQueue = new Queue<IEnumerator>();
-
-    private Coroutine _processingQueue;
-
     public bool rolled = false;
 
-    public static Unit GetUnit(string id)
+    public static BTUnit GetUnit(string id)
     {
         return Instance.units[id].Value;
     }
@@ -53,7 +49,7 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(StartBattle());
     }
 
-    public void Init(Unit player, Unit enemy)
+    public void Init(BTUnit player, BTUnit enemy)
     {
         State = new ReactiveProperty<BattleState>(BattleState.Init);
 
@@ -99,27 +95,6 @@ public class BattleManager : MonoBehaviour
         }
         
         yield return EnemyTurn();
-    }
-    
-    public IEnumerator ProcessActions()
-    {
-        if (_processingQueue == null)
-        {
-            _processingQueue = StartCoroutine(Do());
-        }
-        
-        yield return new WaitUntil(() => _processingQueue == null);
-    }
-    
-    IEnumerator Do()
-    {
-        while (_actionQueue.Count > 0)
-        {
-            var action = _actionQueue.Dequeue();
-            yield return StartCoroutine(action);
-        }
-
-        _processingQueue = null;
     }
     
     public void Roll()
@@ -172,11 +147,11 @@ public class BattleManager : MonoBehaviour
 
     public IEnumerator DealDamage(DamageInfo info)
     {
-        yield return ProcessActions();
-        
+        yield return B.DO<BeforeDealDamage>(_ => _.BeforeDealDamage(info));
+
         if (info.IsCanceled) yield break;
 
-        Unit state = units[info.Target].Value;
+        BTUnit state = units[info.Target].Value;
         
         Debug.Log($"Before take damage, HP {state.HP}, BR {state.BR}");
 
@@ -198,13 +173,10 @@ public class BattleManager : MonoBehaviour
         }
 
         units[info.Target].Value = state;
+
+        yield return B.DO<AfterDealDamage>(_ => _.AfterDealDamage(info));
         
         Debug.Log($"After take damage, HP {state.HP}, BR {state.BR}");
-        
-        if (_actionQueue.Count > 0)
-        {
-            yield return Do();
-        }
     }
     
     public IEnumerator GainBlock(GainBlockInfo info)
@@ -250,16 +222,11 @@ public class BattleManager : MonoBehaviour
         {
             var state = Units[action.Target].Value;
 
-            state.Buffs.TryGetValue(action.BuffType, out int stacks);
-
-            if (stacks == 0)
-            {
-                yield return _buffManager.Activate(action);
-            }
-
             state.AddBuff(action);
 
             Units[action.Target].Value = state;
+            
+            yield return _buffManager.AddBuff(action);
         }
     }
 
@@ -276,19 +243,14 @@ public class BattleManager : MonoBehaviour
             state.LoseBuff(action);
 
             Units[action.Target].Value = state;
+            
+            yield return _buffManager.RemoveBuff(action);
         }
-        
-        yield break;
     }
     
     private bool CheckGameEnd()
     {
         return Player.IsDead || Enemy.IsDead;
-    }
-
-    public void PushAction(IEnumerator enumerator)
-    {
-        _actionQueue.Enqueue(enumerator);
     }
 
     private void ClearBlock(string id)

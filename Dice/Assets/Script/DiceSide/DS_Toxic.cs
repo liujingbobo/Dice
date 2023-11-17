@@ -5,7 +5,9 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "ToxicSide", menuName = "DiceSide/Toxic", order = 0)]
 public class DS_Toxic : DiceSideEffect
 {
-    public int value;
+    public List<int> Values;
+
+    public override int MaxLevel => Values.Count - 1;
 
     public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
@@ -13,7 +15,7 @@ public class DS_Toxic : DiceSideEffect
         {
             BuffType = BuffType.Toxic,
             ByStack = true,
-            Stacks = value,
+            Stacks = Values[actionInfo.Level],
             Source = actionInfo.Source,
             Target = actionInfo.Target
         };

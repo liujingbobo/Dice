@@ -5,13 +5,15 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "DiceSide", menuName = "DiceSide/Block", order = 1)]
 public class DS_Block : DiceSideEffect
 {
-    public int Value;
-    
+    public List<int> Values;
+
+    public override int MaxLevel => Values.Count - 1;
+
     public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
         var info = new GainBlockInfo()
         {
-            Value = Value,
+            Value = Values[actionInfo.Level],
             Source = actionInfo.Source,
             Target = actionInfo.Source
         };

@@ -1,17 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 [CreateAssetMenu(fileName = "HealSide", menuName = "DiceSide/Attack", order = 0)]
 public class DS_Heal : DiceSideEffect
 {
-    public int value;
-    
+    public List<int> Values;
+    public override int MaxLevel => Values.Count - 1;
+
     public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
         HealInfo info = new HealInfo()
         {
-            Value = value,
+            Value = Values[actionInfo.Level],
             Source = actionInfo.Source,
             Target = actionInfo.Target,
         };

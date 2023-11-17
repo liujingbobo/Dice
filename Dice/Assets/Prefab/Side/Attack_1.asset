@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 177ea196cf990a345a9f9728a9a97785, type: 3}
   m_Name: Attack_1
   m_EditorClassIdentifier: 
-  Value: 1
+  Icon: {fileID: 21300000, guid: 678a0ad4be47340d49403da6b930716c, type: 3}
+  _sideType: 0
+  _isPositive: 0
+  value: 010000000200000003000000

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Effect : ScriptableObject
 {
+    public Sprite Icon;
     public BuffType BuffType;
     public bool ByStack;
     

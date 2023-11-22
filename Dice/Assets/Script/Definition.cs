@@ -63,15 +63,6 @@ public struct BTUnit
     }
 }
 
-public class RuntimeDice
-{
-    public List<DiceSideEffect> sides;
-}
-
-public class RuntimeSide
-{
-}
-
 public struct BuffInfo
 {
     public int Stacks;
@@ -141,4 +132,9 @@ public class ActionInfo
     public string Source;
     public string Target;
     public int Level;
+}
+
+public interface IUIThumbnail<T>
+{
+    public void FillWith(T content);
 }

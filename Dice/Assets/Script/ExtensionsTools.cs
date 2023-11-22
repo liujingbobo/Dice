@@ -10,7 +10,7 @@ using UnityEngine.UI;
 using Object = UnityEngine.Object;
 using Random = UnityEngine.Random;
 
-public static class ExtendTools
+public static partial class Extensions
 {
     public static void Shuffle<T>(this List<T> list)
     {

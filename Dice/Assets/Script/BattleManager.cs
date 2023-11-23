@@ -11,7 +11,7 @@ public class BattleManager : MonoBehaviour
     public static BattleManager Instance;
     private BattleEvents Events => BattleEvents.Instance;
 
-    public BuffManager _buffManager;
+    public BuffManager buffManager;
     private void Awake()
     {
         if (Instance)
@@ -24,14 +24,14 @@ public class BattleManager : MonoBehaviour
 
     private readonly Dictionary<string, ReactiveProperty<BTUnit>> units = new Dictionary<string, ReactiveProperty<BTUnit>>();
     public Dictionary<string, ReactiveProperty<BTUnit>> Units => units;
-    public BTUnit Player => units[_playerID].Value;
-    public BTUnit Enemy => units[_enemyID].Value;
+    public BTUnit Player => units[playerID].Value;
+    public BTUnit Enemy => units[enemyID].Value;
 
-    public string _playerID;
+    public string playerID;
     
-    public string _enemyID;
+    public string enemyID;
     
-    public ReactiveProperty<BattleState> State;
+    public ReactiveProperty<BattleState> state;
 
     public bool rolled = false;
 
@@ -51,13 +51,13 @@ public class BattleManager : MonoBehaviour
 
     public void Init(BTUnit player, BTUnit enemy)
     {
-        State = new ReactiveProperty<BattleState>(BattleState.Init);
+        state = new ReactiveProperty<BattleState>(BattleState.Init);
 
         units[player.ID].Value = player;
         units[enemy.ID].Value = enemy;
 
-        _playerID = player.ID;
-        _enemyID = enemy.ID;
+        playerID = player.ID;
+        enemyID = enemy.ID;
     }
     
     IEnumerator StartBattle()
@@ -67,13 +67,13 @@ public class BattleManager : MonoBehaviour
 
     IEnumerator PlayerTurn()
     {
-        State.Value = BattleState.Player;
+        state.Value = BattleState.Player;
         
         print("Player turn start. ");
         
         yield return new WaitForSeconds(1);
         
-        ClearBlock(_playerID);
+        ClearBlock(playerID);
 
         yield return new WaitUntil(() => rolled);
         
@@ -104,13 +104,13 @@ public class BattleManager : MonoBehaviour
 
     IEnumerator EnemyTurn()
     {
-        State.Value = BattleState.Enemy;
+        state.Value = BattleState.Enemy;
 
         print("Enemy turn start. ");
         
         yield return new WaitForSeconds(1);
         
-        ClearBlock(_enemyID);
+        ClearBlock(enemyID);
         
         var sides = Player.Roll();
 
@@ -226,7 +226,7 @@ public class BattleManager : MonoBehaviour
 
             Units[action.Target].Value = state;
             
-            yield return _buffManager.AddBuff(action);
+            yield return buffManager.AddBuff(action);
         }
     }
 
@@ -244,7 +244,7 @@ public class BattleManager : MonoBehaviour
 
             Units[action.Target].Value = state;
             
-            yield return _buffManager.RemoveBuff(action);
+            yield return buffManager.RemoveBuff(action);
         }
     }
     

@@ -12,12 +12,12 @@ public class UI_Side : MonoBehaviour
     
     [SerializeField] private GameObject selectableFrame; // This will be activate when it's actually selected
 
-    private DiceSideEffect _target;
+    private RTSideData _target;
     
-    public void Init(DiceSideEffect content)
+    public void Init(RTSideData content)
     {
         _target = content;
-        if (icon) icon.sprite = _target.Icon;
+        if (icon) icon.sprite = _target.Side.Icon;
     }
 
     public void Reset()

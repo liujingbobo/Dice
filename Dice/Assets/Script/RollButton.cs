@@ -12,7 +12,7 @@ public class RollButton : MonoBehaviour
     private void Start()
     {
         btn.interactable = false;
-        BattleManager.Instance.State.Subscribe(_ =>
+        BattleManager.Instance.state.Subscribe(_ =>
         {
             if (_ == BattleState.Player)
             {

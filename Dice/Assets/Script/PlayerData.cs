@@ -9,7 +9,7 @@ public class PlayerData
 
 public class RTDiceData
 {
-    public List<RTSideData> Dices;
+    public List<RTSideData> Sides;
 }
 
 

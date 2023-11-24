@@ -14,11 +14,10 @@ public struct BTUnit
 
     public bool IsDead => HP <= 0;
 
-    public List<DiceSideEffect> Roll()
+    public List<RTSideData> Roll()
     {
-        return null;
-        // var dices = Dices.Select(_ => _.RandomlyGetOne()).ToList();
-        // return dices;
+        var dices = Dices.Select(_ => _.Sides.RandomlyGetOne()).ToList();
+        return dices;
     }
 
     public void AddBuff(BuffAction act)

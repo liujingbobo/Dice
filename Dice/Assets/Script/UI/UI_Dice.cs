@@ -11,18 +11,19 @@ public class UI_Dice : MonoBehaviour
 {
     public RTDiceData Target;
 
-    public Button refreshButton;
+    public Button rerollButton;
 
     public GameObject resultSide;
 
     [SerializeField] private CacheLayoutPattern cache;
 
     [SerializeField] private int randomDisplayTime = 5;
-    [SerializeField] private float randomDisplayGap = 5;
+    [SerializeField] private float randomDisplayGap = 0.5f;
     public void Init(RTDiceData data)
     {
         Target = data;
-        foreach (var p in cache.Cache.Use(data.Dices))
+        
+        foreach (var p in cache.Cache.Use(data.Sides))
         {
             if (p.Key.TryGetComponent<UI_Side>(out var side))
             {
@@ -33,7 +34,7 @@ public class UI_Dice : MonoBehaviour
 
     public void SetRefreshButton(bool active)
     {
-        if(refreshButton) refreshButton.gameObject.SetActive(active);    
+        if(rerollButton) rerollButton.gameObject.SetActive(active);    
     }
 
     public IEnumerator MockRoll(int result)

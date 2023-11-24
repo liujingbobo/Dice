@@ -24,12 +24,10 @@ public class BattleManager : MonoBehaviour
 
     private readonly Dictionary<string, ReactiveProperty<BTUnit>> units = new Dictionary<string, ReactiveProperty<BTUnit>>();
     public Dictionary<string, ReactiveProperty<BTUnit>> Units => units;
-    public BTUnit Player => units[playerID].Value;
-    public BTUnit Enemy => units[enemyID].Value;
 
-    public string playerID;
+    public List<ReactiveProperty<BTUnit>> players = new List<ReactiveProperty<BTUnit>>();
     
-    public string enemyID;
+    public List<ReactiveProperty<BTUnit>> enemies = new List<ReactiveProperty<BTUnit>>();
     
     public ReactiveProperty<BattleState> state;
 
@@ -49,15 +47,23 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(StartBattle());
     }
 
-    public void Init(BTUnit player, BTUnit enemy)
+    public void Init(List<BTUnit> player, List<BTUnit> enemy)
     {
         state = new ReactiveProperty<BattleState>(BattleState.Init);
 
-        units[player.ID].Value = player;
-        units[enemy.ID].Value = enemy;
-
-        playerID = player.ID;
-        enemyID = enemy.ID;
+        player.ForEach(_ =>
+        {
+            var re = new ReactiveProperty<BTUnit>(_);
+            units[_.ID] = re;
+            players.Add(re);
+        });
+        
+        enemy.ForEach(_ =>
+        {
+            var re = new ReactiveProperty<BTUnit>(_);
+            units[_.ID] = re;
+            enemies.Add(re);
+        });
     }
     
     IEnumerator StartBattle()
@@ -70,10 +76,16 @@ public class BattleManager : MonoBehaviour
         state.Value = BattleState.Player;
         
         print("Player turn start. ");
-        
-        yield return new WaitForSeconds(1);
-        
-        ClearBlock(playerID);
+
+        foreach (var reUnit in players)
+        {
+            if (!reUnit.Value.IsDead)
+            {
+                yield return B.DO<BeforeTurnStart>(_ => _.BeforeTurnStart(reUnit.Value.ID));
+            }
+        }
+
+        yield return CheckGameEnd();
 
         yield return new WaitUntil(() => rolled);
         
@@ -83,7 +95,10 @@ public class BattleManager : MonoBehaviour
 
         foreach (var side in sides)
         {
-            yield return side.TakeAction(new ActionInfo());
+            yield return side.Side.TakeAction(new ActionInfo()
+            {
+                
+            });
             
             yield return new WaitForSeconds(1);
             
@@ -95,6 +110,11 @@ public class BattleManager : MonoBehaviour
         }
         
         yield return EnemyTurn();
+    }
+
+    public IEnumerator FinishRound()
+    {
+        yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(info));
     }
     
     public void Roll()

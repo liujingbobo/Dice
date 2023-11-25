@@ -14,9 +14,9 @@ public struct BTUnit
 
     public bool IsDead => HP <= 0;
 
-    public List<RTSideData> Roll()
+    public List<(int index, RTSideData side)> Roll()
     {
-        var dices = Dices.Select(_ => _.Sides.RandomlyGetOne()).ToList();
+        var dices = Dices.Select(_ => _.Sides.RandomlyGetOneWithIndex()).ToList();
         return dices;
     }
 
@@ -124,6 +124,13 @@ public enum SideType
 {
     Attack,
     Skill
+}
+
+public enum TargetType
+{
+    Self = 1,
+    Opponent = 2,
+    Both = 3
 }
 
 public class ActionInfo

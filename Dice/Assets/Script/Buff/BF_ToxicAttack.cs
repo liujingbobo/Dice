@@ -30,19 +30,21 @@ public class BF_ToxicAttack : Effect, AfterDealDamage, BeforeTurnEnd
             yield return BattleManager.Instance.GainBuff(buffAction);
         }
     }
-
-    public IEnumerator BeforeTurnEnd(string ID)
+    public IEnumerator BeforeTurnEnd(bool isPlayer, List<string> units)
     {
-        if (ID == Source && BattleManager.GetUnit(ID).HasBuff(BuffType))
+        foreach (var unit in units)
         {
-            var info = new BuffAction()
+            if (unit == Source && BattleManager.GetUnit(unit).HasBuff(BuffType))
             {
-                BuffType = BuffType,
-                Stacks = 1,
-                ByStack = true,
-            };
+                var info = new BuffAction()
+                {
+                    BuffType = BuffType,
+                    Stacks = 1,
+                    ByStack = true,
+                };
             
-            yield return BattleManager.Instance.LoseBuff(info);
+                yield return BattleManager.Instance.LoseBuff(info);
+            }
         }
     }
 }

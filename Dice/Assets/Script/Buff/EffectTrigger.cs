@@ -7,7 +7,7 @@ public interface EffectTrigger
 }
 public interface BeforeTurnStart : EffectTrigger
 {
-    public IEnumerator BeforeTurnStart(string btUnit);
+    public IEnumerator BeforeTurnStart(bool isPlayer, List<string> units);
 }
 
 public interface AfterDealDamage : EffectTrigger
@@ -22,5 +22,5 @@ public interface BeforeDealDamage : EffectTrigger
 
 public interface BeforeTurnEnd : EffectTrigger
 {
-    public IEnumerator BeforeTurnEnd(string ID);
+    public IEnumerator BeforeTurnEnd(bool isPlayer, List<string> units);
 }

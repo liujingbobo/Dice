@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UniRx;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -25,9 +26,9 @@ public class BattleManager : MonoBehaviour
     private readonly Dictionary<string, ReactiveProperty<BTUnit>> units = new Dictionary<string, ReactiveProperty<BTUnit>>();
     public Dictionary<string, ReactiveProperty<BTUnit>> Units => units;
 
-    public List<ReactiveProperty<BTUnit>> players = new List<ReactiveProperty<BTUnit>>();
+    public ReactiveProperty<BTUnit> playerRP = new ReactiveProperty<BTUnit>();
     
-    public List<ReactiveProperty<BTUnit>> enemies = new List<ReactiveProperty<BTUnit>>();
+    public ReactiveProperty<BTUnit> enemyRP = new ReactiveProperty<BTUnit>();
     
     public ReactiveProperty<BattleState> state;
 
@@ -41,29 +42,19 @@ public class BattleManager : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
-
     private void Start()
     {
         StartCoroutine(StartBattle());
     }
-
-    public void Init(List<BTUnit> player, List<BTUnit> enemy)
+    public void Init(BTUnit player, BTUnit enemy)
     {
         state = new ReactiveProperty<BattleState>(BattleState.Init);
 
-        player.ForEach(_ =>
-        {
-            var re = new ReactiveProperty<BTUnit>(_);
-            units[_.ID] = re;
-            players.Add(re);
-        });
-        
-        enemy.ForEach(_ =>
-        {
-            var re = new ReactiveProperty<BTUnit>(_);
-            units[_.ID] = re;
-            enemies.Add(re);
-        });
+        playerRP = new ReactiveProperty<BTUnit>(player);
+        units[playerRP.Value.ID] = playerRP;
+
+        enemyRP = new ReactiveProperty<BTUnit>(enemy);
+        units[enemyRP.Value.ID] = enemyRP;
     }
     
     IEnumerator StartBattle()
@@ -77,28 +68,29 @@ public class BattleManager : MonoBehaviour
         
         print("Player turn start. ");
 
-        foreach (var reUnit in players)
+        yield return B.DO<BeforeTurnStart>(_ => _.BeforeTurnStart(true, new List<string>(){playerRP.Value.ID}));
+
+        if (CheckGameEnd())
         {
-            if (!reUnit.Value.IsDead)
-            {
-                yield return B.DO<BeforeTurnStart>(_ => _.BeforeTurnStart(reUnit.Value.ID));
-            }
+            yield return EndGame();
+            yield break;
         }
+        
+        var sides = playerRP.Value.Roll();
 
-        yield return CheckGameEnd();
-
+        // Do animation
+        
         yield return new WaitUntil(() => rolled);
         
         rolled = false;
         
-        var sides = Player.Roll();
 
         foreach (var side in sides)
         {
-            yield return side.Side.TakeAction(new ActionInfo()
-            {
-                
-            });
+            // yield return side.Side.TakeAction(new ActionInfo()
+            // {
+            //     
+            // });
             
             yield return new WaitForSeconds(1);
             
@@ -112,10 +104,20 @@ public class BattleManager : MonoBehaviour
         yield return EnemyTurn();
     }
 
-    public IEnumerator FinishRound()
-    {
-        yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(info));
-    }
+    // public int Roll(int index)
+    // {
+    //     
+    // }
+    //
+    // public IEnumerator Cast()
+    // {
+    //     
+    // }
+
+    // public IEnumerator FinishRound()
+    // {
+    //     yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(info));
+    // }
     
     public void Roll()
     {
@@ -129,22 +131,31 @@ public class BattleManager : MonoBehaviour
         print("Enemy turn start. ");
         
         yield return new WaitForSeconds(1);
-        
-        ClearBlock(enemyID);
-        
-        var sides = Player.Roll();
 
+        if (CheckGameEnd())
+        {
+            yield return StartCoroutine(EndGame());
+            yield break;
+        }
+
+        var sides = enemyRP.Value.Roll();
+
+        var source = enemyRP.Value.ID;
+            
         foreach (var side in sides)
         {
-            yield return side.TakeAction(new ActionInfo());
+            // yield return side.Side.TakeAction(new ActionInfo()
+            // {
+            //     Source = source,
+            //     Target = playerRP.Value.ID,
+            //     Level = side.Level
+            // });
+        }
             
-            yield return new WaitForSeconds(1);
-
-            if (CheckGameEnd())
-            {
-                yield return StartCoroutine(EndGame());
-                yield break;
-            }
+        if (CheckGameEnd())
+        {
+            yield return StartCoroutine(EndGame());
+            yield break;
         }
 
         StartCoroutine(PlayerTurn());
@@ -154,7 +165,7 @@ public class BattleManager : MonoBehaviour
     {
         print("Game End!!!");
 
-        if (Enemy.IsDead)
+        if (enemyRP.Value.IsDead)
         {
             print("Win!!");
         }
@@ -270,7 +281,7 @@ public class BattleManager : MonoBehaviour
     
     private bool CheckGameEnd()
     {
-        return Player.IsDead || Enemy.IsDead;
+        return playerRP.Value.IsDead || enemyRP.Value.IsDead;
     }
 
     private void ClearBlock(string id)

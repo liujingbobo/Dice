@@ -17,23 +17,26 @@ public class BF_Toxic : Effect, BeforeTurnStart
         owner = buffAction.Target;
         yield break;
     }
-    
-    public IEnumerator BeforeTurnStart(string btUnit)
-    {
-        if (btUnit == owner && B.HasBuff(owner, BuffType.Toxic, out int stacks))
-        {
-            var state = B.GetUnit(owner).Buffs[BuffType];
-            
-            var info = new DamageInfo()
-            {
-                SourceType = SourceType.Buff,
-                Source = source,
-                Target = owner,
-                Value = stacks * damageMultiplier,
-                BuffType = BuffType.Toxic
-            };
 
-            yield return BattleManager.Instance.DealDamage(info);
+    public IEnumerator BeforeTurnStart(bool isPlayer, List<string> units)
+    {
+        foreach (var unit in units)
+        {
+            if (unit == owner && B.HasBuff(owner, BuffType.Toxic, out int stacks))
+            {
+                var state = B.GetUnit(owner).Buffs[BuffType];
+            
+                var info = new DamageInfo()
+                {
+                    SourceType = SourceType.Buff,
+                    Source = source,
+                    Target = owner,
+                    Value = stacks * damageMultiplier,
+                    BuffType = BuffType.Toxic
+                };
+
+                yield return BattleManager.Instance.DealDamage(info);
+            }
         }
     }
 }

@@ -414,6 +414,15 @@ public static partial class Extensions
         return o;
     }
 
+    public static (int index, T target) RandomlyGetOneWithIndex<T>(this List<T> list, bool removeIt = false)
+    {
+        if (list.Count <= 0) return (-1, default(T));
+        int i = M.Rng(0, list.Count);
+        T o = list[i];
+        if (removeIt) list.RemoveAt(i);
+        return (i, o);
+    }
+
     public static T RandomlyGetOne<T>(this List<T> list, Predicate<T> checkRemove)
     {
         if (list.Count <= 0) return default(T);

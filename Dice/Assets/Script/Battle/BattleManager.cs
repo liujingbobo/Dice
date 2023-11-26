@@ -32,8 +32,6 @@ public class BattleManager : MonoBehaviour
     
     public ReactiveProperty<BattleState> state;
 
-    public bool rolled = false;
-
     public static BTUnit GetUnit(string id)
     {
         return Instance.units[id].Value;
@@ -80,11 +78,6 @@ public class BattleManager : MonoBehaviour
 
         // Do animation
         
-        yield return new WaitUntil(() => rolled);
-        
-        rolled = false;
-        
-
         foreach (var side in sides)
         {
             // yield return side.Side.TakeAction(new ActionInfo()
@@ -102,26 +95,6 @@ public class BattleManager : MonoBehaviour
         }
         
         yield return EnemyTurn();
-    }
-
-    // public int Roll(int index)
-    // {
-    //     
-    // }
-    //
-    // public IEnumerator Cast()
-    // {
-    //     
-    // }
-
-    // public IEnumerator FinishRound()
-    // {
-    //     yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(info));
-    // }
-    
-    public void Roll()
-    {
-        rolled = true;
     }
 
     IEnumerator EnemyTurn()
@@ -278,12 +251,10 @@ public class BattleManager : MonoBehaviour
             yield return buffManager.RemoveBuff(action);
         }
     }
-    
     private bool CheckGameEnd()
     {
         return playerRP.Value.IsDead || enemyRP.Value.IsDead;
     }
-
     private void ClearBlock(string id)
     {
         var state = units[id].Value;
@@ -292,6 +263,11 @@ public class BattleManager : MonoBehaviour
 
         units[id].Value = state;
     }
+
+    // unrolled,
+    // rolled
+    
+    // CanReroll => rolled & reroll time > 0
 }
 
 public enum BattleState

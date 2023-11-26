@@ -9,19 +9,26 @@ using Random = UnityEngine.Random;
 
 public class UI_Dice : MonoBehaviour
 {
-    public RTDiceData Target;
+    private RTDiceData target;
 
-    public Button rerollButton;
+    private int index;
 
-    public GameObject resultSide;
+    private bool rolled;
+
+    [SerializeField] private Button rerollButton;
+
+    [SerializeField] private GameObject resultSide;
 
     [SerializeField] private CacheLayoutPattern cache;
 
     [SerializeField] private int randomDisplayTime = 5;
+    
     [SerializeField] private float randomDisplayGap = 0.5f;
-    public void Init(RTDiceData data)
+
+    public void Init(RTDiceData data, int targetIndex)
     {
-        Target = data;
+        target = data;
+        index = targetIndex;
         
         foreach (var p in cache.Cache.Use(data.Sides))
         {
@@ -30,13 +37,15 @@ public class UI_Dice : MonoBehaviour
                 side.Init(p.Value);
             }
         }
+        
+        // Disable Reroll
     }
-
+    
     public void SetRefreshButton(bool active)
     {
         if(rerollButton) rerollButton.gameObject.SetActive(active);    
     }
-
+    
     public IEnumerator MockRoll(int result)
     {
         resultSide.SetActive(false);
@@ -67,5 +76,7 @@ public class UI_Dice : MonoBehaviour
         {
             side.SetSelected(true);
         }
+        
+        // Refresh Reroll
     }
 }

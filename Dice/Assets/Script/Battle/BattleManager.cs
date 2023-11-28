@@ -12,7 +12,10 @@ public class BattleManager : MonoBehaviour
     public static BattleManager Instance;
     private BattleEvents Events => BattleEvents.Instance;
 
-    public BuffManager buffManager;
+    [SerializeField] private BuffManager buffManager;
+
+    [SerializeField] private DiceManager diceManager;
+    
     private void Awake()
     {
         if (Instance)
@@ -31,6 +34,12 @@ public class BattleManager : MonoBehaviour
     public ReactiveProperty<BTUnit> enemyRP = new ReactiveProperty<BTUnit>();
     
     public ReactiveProperty<BattleState> state;
+
+    public ReactiveProperty<int> RerollChance;
+
+    public List<ReactiveProperty<bool>> Used;
+
+    public List<int> rolledResult = new List<int>();
 
     public static BTUnit GetUnit(string id)
     {
@@ -62,7 +71,7 @@ public class BattleManager : MonoBehaviour
 
     IEnumerator PlayerTurn()
     {
-        state.Value = BattleState.Player;
+        state.Value = BattleState.Init;
         
         print("Player turn start. ");
 
@@ -76,25 +85,9 @@ public class BattleManager : MonoBehaviour
         
         var sides = playerRP.Value.Roll();
 
-        // Do animation
-        
-        foreach (var side in sides)
-        {
-            // yield return side.Side.TakeAction(new ActionInfo()
-            // {
-            //     
-            // });
-            
-            yield return new WaitForSeconds(1);
-            
-            if (CheckGameEnd())
-            {
-                yield return EndGame();
-                yield break;
-            }
-        }
-        
-        yield return EnemyTurn();
+        rolledResult = sides.Select(_ => _.index).ToList();
+
+        state.Value = BattleState.Waiting;
     }
 
     IEnumerator EnemyTurn()
@@ -251,6 +244,7 @@ public class BattleManager : MonoBehaviour
             yield return buffManager.RemoveBuff(action);
         }
     }
+    
     private bool CheckGameEnd()
     {
         return playerRP.Value.IsDead || enemyRP.Value.IsDead;
@@ -263,17 +257,67 @@ public class BattleManager : MonoBehaviour
 
         units[id].Value = state;
     }
-
-    // unrolled,
-    // rolled
+    public void EndPlayerTurn()
+    {
+        
+    }
+    private IEnumerator EndPlayerTurnAction()
+    {
+        yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(true, new List<string>() { playerRP.Value.ID }));
+        StartCoroutine(CheckGameEnd() ? EndGame() : EnemyTurn());
+    }
     
-    // CanReroll => rolled & reroll time > 0
+    public void Cast(int diceIndex)
+    {
+        StartCoroutine(CastAction(diceIndex));
+    }
+    
+    private IEnumerator CastAction(int DiceIndex)
+    {
+        state.Value = BattleState.Casting;
+        Used[DiceIndex].Value = true;
+        var side = playerRP.Value.Dices[DiceIndex].Sides[rolledResult[DiceIndex]];
+        yield return side.Side.TakeAction(new ActionInfo()
+        {
+            Source = playerRP.Value.ID,
+            Target = enemyRP.Value.ID,
+            Level = side.Level
+        });
+
+        if (CheckGameEnd())
+        {
+            StartCoroutine(EndGame());
+            yield break;
+        }
+        else
+        {
+            state.Value = BattleState.Waiting;
+        }
+
+    }
+
+    public void Reroll(int diceIndex)
+    {
+        StartCoroutine(RerollAction(diceIndex));
+    }
+    
+    private IEnumerator RerollAction(int diceIndex)
+    {
+        state.Value = BattleState.Rolling;
+        RerollChance.Value--;
+        var result = playerRP.Value.Dices[diceIndex].Roll();
+        rolledResult[diceIndex] = result.sideIndex;
+        yield return diceManager.Roll(new List<(int dice, int result)>(){(diceIndex,result.sideIndex)});
+        state.Value = BattleState.Waiting;
+    }
 }
 
 public enum BattleState
 {
-    Init,
-    Player,
-    Enemy
+    Init = 10,
+    Waiting = 20,
+    Casting = 30,
+    Rolling = 40,
+    Enemy = 100
 }
 

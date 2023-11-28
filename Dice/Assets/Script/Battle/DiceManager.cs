@@ -26,20 +26,23 @@ public class DiceManager : MonoBehaviour
             }
         }
     }
-    public IEnumerator StartTurn(List<int> results, int refreshTime)
+    
+    public IEnumerator Roll(List<(int dice, int result)> infos)
     {
         var pairs = cache.Cache.UsingByIndex().ToList();
-        foreach (var pair in pairs)
+        for (int i = 0; i < infos.Count; i++)
         {
-            if (pair.Key.TryGetComponent<UI_Dice>(out var dice))
+            var info = infos[i];
+            
+            if (pairs[info.dice].Key.TryGetComponent<UI_Dice>(out var dice))
             {
-                if (pair.Value == pairs.Count - 1)
+                if (i == infos.Count - 1)
                 {
-                    yield return dice.MockRoll(results[pair.Value]);
+                    yield return dice.MockRoll(info.result);
                 }
                 else
                 {
-                    StartCoroutine(dice.MockRoll(results[pair.Value]));
+                    StartCoroutine(dice.MockRoll(info.result));
                     yield return rollGap;
                 }
             }

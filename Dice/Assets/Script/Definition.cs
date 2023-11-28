@@ -16,7 +16,7 @@ public struct BTUnit
 
     public List<(int index, RTSideData side)> Roll()
     {
-        var dices = Dices.Select(_ => _.Sides.RandomlyGetOneWithIndex()).ToList();
+        var dices = Dices.Select(_ => _.Roll()).ToList();
         return dices;
     }
 

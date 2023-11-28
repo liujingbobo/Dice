@@ -10,6 +10,11 @@ public class PlayerData
 public class RTDiceData
 {
     public List<RTSideData> Sides;
+
+    public (int sideIndex, RTSideData side) Roll()
+    {
+        return Sides.RandomlyGetOneWithIndex();
+    }
 }
 
 

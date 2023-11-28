@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using UniRx;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
@@ -37,7 +38,39 @@ public class UI_Dice : MonoBehaviour
                 side.Init(p.Value);
             }
         }
-        
+
+        BattleManager.Instance.RerollChance.Subscribe(_ =>
+        {
+            if (_ > 0)
+            {
+                if (BattleManager.Instance.Used[targetIndex].Value)
+                {
+                    rerollButton.gameObject.SetActive(true);
+                }
+                else
+                {
+                    rerollButton.gameObject.SetActive(false);
+                }
+            }
+            else
+            {
+                rerollButton.gameObject.SetActive(false);
+            }
+        }).AddTo(this);
+
+        BattleManager.Instance.Used[targetIndex].Subscribe(_ =>
+        {
+            if (_)
+            {
+                rerollButton.gameObject.SetActive(false);
+            }
+            else
+            {
+                rerollButton.gameObject.SetActive(BattleManager.Instance.RerollChance.Value > 0);
+            }
+        }).AddTo(this);
+
+
         // Disable Reroll
     }
     
@@ -45,7 +78,7 @@ public class UI_Dice : MonoBehaviour
     {
         if(rerollButton) rerollButton.gameObject.SetActive(active);    
     }
-    
+
     public IEnumerator MockRoll(int result)
     {
         resultSide.SetActive(false);

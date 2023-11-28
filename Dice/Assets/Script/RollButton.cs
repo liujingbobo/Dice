@@ -14,13 +14,13 @@ public class RollButton : MonoBehaviour
         btn.interactable = false;
         BattleManager.Instance.state.Subscribe(_ =>
         {
-            if (_ == BattleState.Player)
+            if (_ == BattleState.Waiting)
             {
                 btn.onClick.RemoveAllListeners();
                 btn.interactable = true;
                 btn.onClick.AddListener(() =>
                 {
-                    BattleManager.Instance.Roll();
+                    BattleManager.Instance.EndPlayerTurn();
                     btn.interactable = false;
                     btn.onClick.RemoveAllListeners();
                 });

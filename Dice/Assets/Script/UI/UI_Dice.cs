@@ -14,7 +14,7 @@ public class UI_Dice : MonoBehaviour
 
     private int index;
 
-    private bool rolled;
+    [SerializeField] private Button castButton;
 
     [SerializeField] private Button rerollButton;
 
@@ -25,6 +25,12 @@ public class UI_Dice : MonoBehaviour
     [SerializeField] private int randomDisplayTime = 5;
     
     [SerializeField] private float randomDisplayGap = 0.5f;
+
+    public void Awake()
+    {
+        castButton.onClick.AddListener(Cast);
+        rerollButton.onClick.AddListener(() => BattleManager.Instance.Reroll(index));
+    }
 
     public void Init(RTDiceData data, int targetIndex)
     {
@@ -70,7 +76,6 @@ public class UI_Dice : MonoBehaviour
             }
         }).AddTo(this);
 
-
         // Disable Reroll
     }
     
@@ -79,9 +84,13 @@ public class UI_Dice : MonoBehaviour
         if(rerollButton) rerollButton.gameObject.SetActive(active);    
     }
 
+    public void Cast()
+    {
+        BattleManager.Instance.Cast(index);
+    }
+
     public IEnumerator MockRoll(int result)
     {
-        resultSide.SetActive(false);
         var allSide = cache.Cache.UsingByIndex().ToList();
         int left = randomDisplayTime;
         while (left > 0)

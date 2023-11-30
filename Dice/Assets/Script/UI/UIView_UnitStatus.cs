@@ -8,25 +8,22 @@ using UnityEngine.UI;
 
 public class UIView_UnitStatus : MonoBehaviour
 {
-    public string target;
-    
     public TMP_Text HP;
     public TMP_Text BR;
 
-    public float popUpGap = 0.2f;
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        if (BattleManager.Instance.Units.TryGetValue(target, out var unit))
-        {
-            unit.Subscribe(UpdateInfo).AddTo(this);
-        }
-    }
+    public Slider HPSlider;
 
-    void UpdateInfo(BTUnit btUnit)
+    public void Init(string ID)
     {
-        HP.text = btUnit.HP.ToString();
-        BR.text = btUnit.BR.ToString();
+        var unit = BattleManager.Instance.Units[ID].Value;
+        
+        HPSlider.maxValue = unit.MaxHP;
+        HPSlider.value = unit.MaxHP;
+
+        BattleManager.Instance.Units[ID].Subscribe(_ =>
+        {
+            HPSlider.value = _.HP;
+            HP.text = _.HP.ToString();
+        }).AddTo(this);
     }
 }

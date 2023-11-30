@@ -1,8 +1,10 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using UniRx;
 using UnityEngine;
 
+[Serializable]
 public struct BTUnit
 {
     public string ID;

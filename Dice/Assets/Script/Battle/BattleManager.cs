@@ -15,6 +15,9 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private BuffManager buffManager;
 
     [SerializeField] private DiceManager diceManager;
+
+    [SerializeField] private GameObject unitPrefab;
+    [SerializeField] private Transform unitContainer;
     
     private void Awake()
     {
@@ -47,12 +50,9 @@ public class BattleManager : MonoBehaviour
     }
     public void Restart()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("GameMenu");
     }
-    private void Start()
-    {
-        StartCoroutine(StartBattle());
-    }
+    
     public void Init(BTUnit player, BTUnit enemy)
     {
         state = new ReactiveProperty<BattleState>(BattleState.Init);
@@ -62,6 +62,23 @@ public class BattleManager : MonoBehaviour
 
         enemyRP = new ReactiveProperty<BTUnit>(enemy);
         units[enemyRP.Value.ID] = enemyRP;
+        
+        var playerUI = Instantiate(unitPrefab, unitContainer);
+        if (playerUI.TryGetComponent<UIView_UnitStatus>(out var pui))
+        {
+            pui.Init(player.ID);
+        }
+        
+        var enemyUI= Instantiate(unitPrefab, unitContainer);
+        if (enemyUI.TryGetComponent<UIView_UnitStatus>(out var eui))
+        {
+            eui.Init(enemy.ID);
+        }
+        
+        diceManager.Init(player.Dices);
+        buffManager.Init(new List<string>(){player.ID, enemy.ID});
+
+        StartCoroutine(StartBattle());
     }
     
     IEnumerator StartBattle()
@@ -95,12 +112,12 @@ public class BattleManager : MonoBehaviour
         state.Value = BattleState.Enemy;
 
         print("Enemy turn start. ");
-        
-        yield return new WaitForSeconds(1);
+
+        yield return B.DO<BeforeTurnStart>(_ => _.BeforeTurnStart(false, new List<string>() { enemyRP.Value.ID }));
 
         if (CheckGameEnd())
         {
-            yield return StartCoroutine(EndGame());
+            StartCoroutine(EndGame());
             yield break;
         }
 
@@ -110,21 +127,23 @@ public class BattleManager : MonoBehaviour
             
         foreach (var side in sides)
         {
-            // yield return side.Side.TakeAction(new ActionInfo()
-            // {
-            //     Source = source,
-            //     Target = playerRP.Value.ID,
-            //     Level = side.Level
-            // });
+            yield return side.side.Side.TakeAction(new ActionInfo()
+            {
+                Source = source,
+                Target = playerRP.Value.ID,
+                Level = side.side.Level
+            });
         }
             
         if (CheckGameEnd())
         {
-            yield return StartCoroutine(EndGame());
+            StartCoroutine(EndGame());
             yield break;
         }
 
-        StartCoroutine(PlayerTurn());
+        yield return B.DO<BeforeTurnEnd>(_ => _.BeforeTurnEnd(false, new List<string>() { enemyRP.Value.ID }));
+        
+            StartCoroutine(CheckGameEnd()? EndGame() : PlayerTurn());
     }
 
     IEnumerator EndGame()
@@ -139,6 +158,8 @@ public class BattleManager : MonoBehaviour
         {
             print("Lose!!");
         }
+        
+        Restart();
         yield break;
     }
 
@@ -259,7 +280,7 @@ public class BattleManager : MonoBehaviour
     }
     public void EndPlayerTurn()
     {
-        
+        StartCoroutine(EndPlayerTurnAction());
     }
     private IEnumerator EndPlayerTurnAction()
     {
@@ -269,6 +290,8 @@ public class BattleManager : MonoBehaviour
     
     public void Cast(int diceIndex)
     {
+        if (state.Value != BattleState.Waiting) return;
+        
         StartCoroutine(CastAction(diceIndex));
     }
     

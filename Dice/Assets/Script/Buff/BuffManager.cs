@@ -1,11 +1,14 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
-public class BuffManager : MonoBehaviour
+public class BuffManager : SerializedMonoBehaviour
 {
-    public BuffManager Instance;
+    [HideInInspector] public BuffManager Instance;
+    
+    public Dictionary<BuffType, Effect> presetBuff;
 
     private void Awake()
     {
@@ -16,7 +19,7 @@ public class BuffManager : MonoBehaviour
         Instance = this;
     }
 
-    void Init(List<string> units)
+    public void Init(List<string> units)
     {
         unitBuffDic = new Dictionary<string, Dictionary<BuffType, Effect>>();
 
@@ -27,9 +30,6 @@ public class BuffManager : MonoBehaviour
     }
 
     private Dictionary<string, Dictionary<BuffType, Effect>> unitBuffDic;
-    
-
-    private Dictionary<BuffType, Effect> presetBuff;
     
     public IEnumerator AddBuff(BuffAction action)
     {

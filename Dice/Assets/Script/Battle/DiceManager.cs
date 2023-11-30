@@ -12,8 +12,6 @@ public class DiceManager : MonoBehaviour
 
     [SerializeField] private float rollGap;
 
-    [SerializeField] private ReactiveProperty<int> refreshTime;
-
     public void Init(List<RTDiceData> dices)
     {
         var triplets = cache.Cache.UseByIndex(dices);
@@ -22,7 +20,7 @@ public class DiceManager : MonoBehaviour
         {
             if (triplet.Key.TryGetComponent<UI_Dice>(out var dice))
             {
-                // dice.Init(triplet.Value1);
+                dice.Init(triplet.Value1, triplet.Value2);
             }
         }
     }

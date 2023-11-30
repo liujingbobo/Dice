@@ -11,6 +11,8 @@ public class RTDiceData
 {
     public List<RTSideData> Sides;
 
+    public int testValue;
+    
     public (int sideIndex, RTSideData side) Roll()
     {
         return Sides.RandomlyGetOneWithIndex();

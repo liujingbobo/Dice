@@ -8,8 +8,6 @@ public class DiceManager : MonoBehaviour
 {
     public CacheLayoutPattern cache;
     
-    public List<RTDiceData> Dices;
-
     [SerializeField] private float rollGap;
 
     public void Init(List<RTDiceData> dices)
@@ -20,7 +18,7 @@ public class DiceManager : MonoBehaviour
         {
             if (triplet.Key.TryGetComponent<UI_Dice>(out var dice))
             {
-                dice.Init(triplet.Value1, triplet.Value2);
+                dice.Init(triplet.Value1);
             }
         }
     }
@@ -43,6 +41,18 @@ public class DiceManager : MonoBehaviour
                     StartCoroutine(dice.MockRoll(info.result));
                     yield return rollGap;
                 }
+            }
+        }
+    }
+
+    public void RefreshAll(List<RTDiceData> datas)
+    {
+        var pairs = cache.Cache.UsingByIndex().PairWith(datas);
+        foreach (var pair in pairs)
+        {
+            if (pair.Item1.Key.TryGetComponent<UI_Dice>(out var dice))
+            {
+                dice.Refresh(pair.Item2);
             }
         }
     }

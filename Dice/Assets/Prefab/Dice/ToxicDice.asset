@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6c7e1d9103615c74a991530acc35479b, type: 3}
-  m_Name: BlockDice
+  m_Name: ToxicDice
   m_EditorClassIdentifier: 
   Sides:
-  - {fileID: 11400000, guid: 8b492b78e5cecc14c958fda8631bfecd, type: 2}
-  - {fileID: 11400000, guid: 9b4395f103f82d648b57933679548c19, type: 2}
-  - {fileID: 11400000, guid: 9b4395f103f82d648b57933679548c19, type: 2}
+  - {fileID: 11400000, guid: 1181d16651437054094fbac2a64121c4, type: 2}
+  - {fileID: 11400000, guid: 1181d16651437054094fbac2a64121c4, type: 2}
+  - {fileID: 11400000, guid: ebbb4c9ca95bc2c48b510719c563df70, type: 2}

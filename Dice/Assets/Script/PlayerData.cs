@@ -7,11 +7,17 @@ public class PlayerData
     public List<RTDiceData> Dices;
 }
 
-public class RTDiceData
+public struct RTDiceData
 {
     public List<RTSideData> Sides;
 
-    public int testValue;
+    public bool Used;
+
+    public bool Rerolled;
+
+    public int Index;
+
+    public bool Rerollable;
     
     public (int sideIndex, RTSideData side) Roll()
     {
@@ -20,8 +26,7 @@ public class RTDiceData
 }
 
 
-public class RTSideData
+public struct RTSideData
 {
     public DiceSideEffect Side;
-    public int Level;
 }

@@ -608,11 +608,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9ef275a91a574e4396b7a218486e8bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player:
-    ID: 
-    MaxHP: 0
-    HP: 0
+  playerBase:
+    ID: player
+    MaxHP: 10
+    HP: 10
     BR: 0
+  enemyBase:
+    ID: enemy
+    MaxHP: 10
+    HP: 10
+    BR: 0
+  playerDices:
+  - {fileID: 11400000, guid: 52c813428d688e044b5c42f5eb2b486d, type: 2}
+  - {fileID: 11400000, guid: 1a77ba257a3aa5d45af38e51a74db5a2, type: 2}
+  enemyDices:
+  - {fileID: 11400000, guid: 52c813428d688e044b5c42f5eb2b486d, type: 2}
+  bm: {fileID: 887678018}
 --- !u!4 &365129702
 Transform:
   m_ObjectHideFlags: 0

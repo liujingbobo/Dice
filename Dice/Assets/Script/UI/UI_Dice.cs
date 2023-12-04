@@ -12,7 +12,7 @@ public class UI_Dice : MonoBehaviour
 {
     private RTDiceData target;
 
-    private int index;
+    private int Index => target.Index;
 
     [SerializeField] private Button castButton;
 
@@ -29,64 +29,36 @@ public class UI_Dice : MonoBehaviour
     public void Awake()
     {
         castButton.onClick.AddListener(Cast);
-        rerollButton.onClick.AddListener(() => BattleManager.Instance.Reroll(index));
+        rerollButton.onClick.AddListener(() => BattleManager.Instance.Reroll(Index));
     }
 
-    public void Init(RTDiceData data, int targetIndex)
+    public void Init(RTDiceData data)
     {
         target = data;
-        index = targetIndex;
         
-        foreach (var p in cache.Cache.Use(data.Sides))
+        var sides = cache.Cache.Use(data.Sides).ToList();
+        
+        foreach (var p in sides)
         {
             if (p.Key.TryGetComponent<UI_Side>(out var side))
             {
                 side.Init(p.Value);
             }
         }
-
-        BattleManager.Instance.RerollChance.Subscribe(_ =>
-        {
-            if (_ > 0)
-            {
-                if (BattleManager.Instance.Used[targetIndex].Value)
-                {
-                    rerollButton.gameObject.SetActive(true);
-                }
-                else
-                {
-                    rerollButton.gameObject.SetActive(false);
-                }
-            }
-            else
-            {
-                rerollButton.gameObject.SetActive(false);
-            }
-        }).AddTo(this);
-
-        BattleManager.Instance.Used[targetIndex].Subscribe(_ =>
-        {
-            if (_)
-            {
-                rerollButton.gameObject.SetActive(false);
-            }
-            else
-            {
-                rerollButton.gameObject.SetActive(BattleManager.Instance.RerollChance.Value > 0);
-            }
-        }).AddTo(this);
-
-        // Disable Reroll
     }
-    
-    public void SetRefreshButton(bool active)
+
+    public void Refresh(RTDiceData data)
     {
-        if(rerollButton) rerollButton.gameObject.SetActive(active);    
+        target = data;
+        rerollButton.gameObject.SetActive(data.Rerollable);
     }
 
     public void Cast()
     {
-        BattleManager.Instance.Cast(index);
+        if (target.Used)
+        {
+            BattleManager.Instance.Cast(Index);
+        }
     }
 
     public IEnumerator MockRoll(int result)

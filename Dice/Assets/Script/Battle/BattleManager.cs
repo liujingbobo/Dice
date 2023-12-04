@@ -40,7 +40,7 @@ public class BattleManager : MonoBehaviour
 
     public ReactiveProperty<int> RerollChance;
 
-    public List<ReactiveProperty<bool>> Used;
+    public List<ReactiveProperty<RTDiceData>> DiceData;
 
     public List<int> rolledResult = new List<int>();
 
@@ -48,6 +48,12 @@ public class BattleManager : MonoBehaviour
     {
         return Instance.units[id].Value;
     }
+
+    public static RTDiceData GetDiceData(int index)
+    {
+        return Instance.DiceData[index].Value;
+    }
+    
     public void Restart()
     {
         SceneManager.LoadScene("GameMenu");
@@ -131,7 +137,6 @@ public class BattleManager : MonoBehaviour
             {
                 Source = source,
                 Target = playerRP.Value.ID,
-                Level = side.side.Level
             });
         }
             
@@ -298,13 +303,15 @@ public class BattleManager : MonoBehaviour
     private IEnumerator CastAction(int DiceIndex)
     {
         state.Value = BattleState.Casting;
-        Used[DiceIndex].Value = true;
+        var diceData = DiceData[DiceIndex].Value;
+        diceData.Used = true;
+        DiceData[DiceIndex].Value = diceData;
+        diceManager.Init(DiceData.Select(_ => _.Value).ToList());
         var side = playerRP.Value.Dices[DiceIndex].Sides[rolledResult[DiceIndex]];
         yield return side.Side.TakeAction(new ActionInfo()
         {
             Source = playerRP.Value.ID,
             Target = enemyRP.Value.ID,
-            Level = side.Level
         });
 
         if (CheckGameEnd())

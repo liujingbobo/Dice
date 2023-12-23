@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec2465d52db0324db3ce6c036ebd3d9, type: 3}
+  m_Name: BeetleGuardian_action
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: -2175056139217314491, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: 6836795902630241865, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: -2185398907518775586, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: 3930012169035111734, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: -3853151681507774647, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: 2796390079611438308, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: -3820497885386065445, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: -2844325393129732489, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    - {fileID: -366683925757980163, guid: ac30dfda17e3f0d45a027a8e08266b47, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Sheet
+      Entry: 7
+      Data: 0|AnimSheet+Frame[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 0
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 1
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 2
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 3
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 4
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 5
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 6
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 7
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 8
+    - Name: duration
+      Entry: 4
+      Data: 0.06
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  LoopByDefault: 0

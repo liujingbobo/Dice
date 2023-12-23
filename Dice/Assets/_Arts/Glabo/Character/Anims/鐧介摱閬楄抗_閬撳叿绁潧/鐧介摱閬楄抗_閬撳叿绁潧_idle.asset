@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec2465d52db0324db3ce6c036ebd3d9, type: 3}
+  m_Name: "\u767D\u94F6\u9057\u8FF9_\u9053\u5177\u796D\u575B_idle"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: -517233781811980500, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 1719228925287557643, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 3272708814196358590, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 1873552893467740811, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 4311124502888552779, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 3768963181225942175, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: -3147189189258889645, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 4606930847387360345, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: -2830753155561504558, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: -1163459364023863564, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    - {fileID: 6141963809065800397, guid: 83b12d871ac818c4b85d2c6f3f2f6106, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Sheet
+      Entry: 7
+      Data: 0|AnimSheet+Frame[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 11
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 0
+    - Name: duration
+      Entry: 4
+      Data: 1.5
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 1
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 2
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 3
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 4
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 5
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 6
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 7
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 8
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 9
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 10
+    - Name: duration
+      Entry: 4
+      Data: 0.075
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  LoopByDefault: 0

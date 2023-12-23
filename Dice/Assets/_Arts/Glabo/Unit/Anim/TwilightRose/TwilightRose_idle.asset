@@ -1,0 +1,276 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec2465d52db0324db3ce6c036ebd3d9, type: 3}
+  m_Name: TwilightRose_idle
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 3883171332194869951, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 6051025608435893388, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -7598842121036150710, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -8212431960897211550, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 13205005049257772, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -1265984166549923461, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 4213387759014873349, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 7311680266512174910, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 2426046718848864325, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -5827616502046424801, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -2432513426112570936, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -2859406507311260113, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -5786461271353087450, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: 4270990587398968618, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    - {fileID: -2975367872613564759, guid: 9367d38ab7096d44db13c58ca5d989d7, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Sheet
+      Entry: 7
+      Data: 0|AnimSheet+Frame[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 15
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 0
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 1
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 2
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 3
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 4
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 5
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 6
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 7
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 8
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 9
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 10
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 11
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 12
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 13
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimSheet+Frame, Assembly-CSharp
+    - Name: sprite
+      Entry: 10
+      Data: 14
+    - Name: duration
+      Entry: 4
+      Data: 0.12
+    - Name: trigger
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  LoopByDefault: 0

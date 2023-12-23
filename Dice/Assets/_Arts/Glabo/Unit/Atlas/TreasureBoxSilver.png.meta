@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 32096d73465138a409dd0022667e2443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1290485808752291408
+    second: TreasureBoxSilver_0
+  - first:
+      213: 5280776615141183885
+    second: TreasureBoxSilver_1
+  - first:
+      213: 5804898567038833204
+    second: TreasureBoxSilver_2
+  - first:
+      213: 4112797048845512632
+    second: TreasureBoxSilver_3
+  - first:
+      213: -6213050629484254136
+    second: TreasureBoxSilver_4
+  - first:
+      213: -8433561915117632778
+    second: TreasureBoxSilver_5
+  - first:
+      213: 6689973701487865957
+    second: TreasureBoxSilver_6
+  - first:
+      213: -4555997930938769850
+    second: TreasureBoxSilver_7
+  - first:
+      213: -3427352301867873880
+    second: TreasureBoxSilver_8
+  - first:
+      213: 5000384897920296903
+    second: TreasureBoxSilver_9
+  - first:
+      213: 6255216758101053395
+    second: TreasureBoxSilver_10
+  - first:
+      213: -7311857157092320941
+    second: TreasureBoxSilver_11
+  - first:
+      213: -6603777272272918125
+    second: TreasureBoxSilver_12
+  - first:
+      213: 2850057946328211468
+    second: TreasureBoxSilver_13
+  - first:
+      213: 5206559877981612735
+    second: TreasureBoxSilver_14
+  - first:
+      213: -5719930742662568828
+    second: TreasureBoxSilver_15
+  - first:
+      213: -5726156993195134961
+    second: TreasureBoxSilver_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreasureBoxSilver_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eec5a710ab8e110800000000000000
+      internalID: 1290485808752291408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811eab4a56194940800000000000000
+      internalID: 5280776615141183885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4321685bd742f8050800000000000000
+      internalID: 5804898567038833204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf26b91027931930800000000000000
+      internalID: 4112797048845512632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce212ee5fc6c9a0800000000000000
+      internalID: -6213050629484254136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f286220f18f5fa80800000000000000
+      internalID: -8433561915117632778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560b3e1f2af87dc50800000000000000
+      internalID: 6689973701487865957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64edaf04508d5c0c0800000000000000
+      internalID: -4555997930938769850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a94c078d399f60d0800000000000000
+      internalID: -3427352301867873880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c764cc429fe46540800000000000000
+      internalID: 5000384897920296903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df0fabff7efec650800000000000000
+      internalID: 6255216758101053395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3595d1fc7a0178a90800000000000000
+      internalID: -7311857157092320941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 35
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399ef562f8baa54a0800000000000000
+      internalID: -6603777272272918125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002c281a907d8720800000000000000
+      internalID: 2850057946328211468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba25ec9f9a614840800000000000000
+      internalID: 5206559877981612735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e2c78b49be90b0800000000000000
+      internalID: -5719930742662568828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxSilver_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003c7c9d8a9880b0800000000000000
+      internalID: -5726156993195134961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TreasureBoxSilver_0: 1290485808752291408
+      TreasureBoxSilver_1: 5280776615141183885
+      TreasureBoxSilver_10: 6255216758101053395
+      TreasureBoxSilver_11: -7311857157092320941
+      TreasureBoxSilver_12: -6603777272272918125
+      TreasureBoxSilver_13: 2850057946328211468
+      TreasureBoxSilver_14: 5206559877981612735
+      TreasureBoxSilver_15: -5719930742662568828
+      TreasureBoxSilver_16: -5726156993195134961
+      TreasureBoxSilver_2: 5804898567038833204
+      TreasureBoxSilver_3: 4112797048845512632
+      TreasureBoxSilver_4: -6213050629484254136
+      TreasureBoxSilver_5: -8433561915117632778
+      TreasureBoxSilver_6: 6689973701487865957
+      TreasureBoxSilver_7: -4555997930938769850
+      TreasureBoxSilver_8: -3427352301867873880
+      TreasureBoxSilver_9: 5000384897920296903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 54a97776d747c07498882a0c312f4cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5879266927662589343
+    second: Nepenthe_0
+  - first:
+      213: 5510305328913719187
+    second: Nepenthe_1
+  - first:
+      213: 6547639604372409844
+    second: Nepenthe_2
+  - first:
+      213: -8710483021809634174
+    second: Nepenthe_3
+  - first:
+      213: 308286627198048428
+    second: Nepenthe_4
+  - first:
+      213: -417407921279437455
+    second: Nepenthe_5
+  - first:
+      213: 3127509355280931039
+    second: Nepenthe_6
+  - first:
+      213: 6360571093901871549
+    second: Nepenthe_7
+  - first:
+      213: -6824080304685964951
+    second: Nepenthe_8
+  - first:
+      213: -3851793397218971744
+    second: Nepenthe_9
+  - first:
+      213: 8522112519343052877
+    second: Nepenthe_10
+  - first:
+      213: 5391673999578852793
+    second: Nepenthe_11
+  - first:
+      213: 1291388826383112985
+    second: Nepenthe_12
+  - first:
+      213: 7690463710292186603
+    second: Nepenthe_13
+  - first:
+      213: -1522762805563851183
+    second: Nepenthe_14
+  - first:
+      213: 1515334349146992077
+    second: Nepenthe_15
+  - first:
+      213: -7963408460284696565
+    second: Nepenthe_16
+  - first:
+      213: 7907880423458427092
+    second: Nepenthe_17
+  - first:
+      213: -9192309129631569536
+    second: Nepenthe_18
+  - first:
+      213: -4366326177560417152
+    second: Nepenthe_19
+  - first:
+      213: 6313053158081413895
+    second: Nepenthe_20
+  - first:
+      213: 3412893173447410095
+    second: Nepenthe_21
+  - first:
+      213: 1184829948800561388
+    second: Nepenthe_22
+  - first:
+      213: -5170563144585992325
+    second: Nepenthe_23
+  - first:
+      213: -8335371662032504316
+    second: Nepenthe_24
+  - first:
+      213: 1579012529772918044
+    second: Nepenthe_25
+  - first:
+      213: 6145434581885700576
+    second: Nepenthe_26
+  - first:
+      213: 670897202287322595
+    second: Nepenthe_27
+  - first:
+      213: 4245626520234701290
+    second: Nepenthe_28
+  - first:
+      213: -6735922175572289425
+    second: Nepenthe_29
+  - first:
+      213: 3301749631897839929
+    second: Nepenthe_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nepenthe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e70bfe1a579150800000000000000
+      internalID: 5879266927662589343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f18d57089887c40800000000000000
+      internalID: 5510305328913719187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.48, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd85ef7783edda50800000000000000
+      internalID: 6547639604372409844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28437fe77d52e1780800000000000000
+      internalID: -8710483021809634174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca89427dd01474400800000000000000
+      internalID: 308286627198048428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17574b505b1153af0800000000000000
+      internalID: -417407921279437455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.52, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81b393035276b20800000000000000
+      internalID: 3127509355280931039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db983acc5b9454850800000000000000
+      internalID: 6360571093901871549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.52, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96124705e1ffb41a0800000000000000
+      internalID: -6824080304685964951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af619a105eab8ac0800000000000000
+      internalID: -3851793397218971744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d481a5b2f20a44670800000000000000
+      internalID: 8522112519343052877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6b91bfe213da40800000000000000
+      internalID: 5391673999578852793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b5977ab4febe110800000000000000
+      internalID: 1291388826383112985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 42
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59ff9aff30aba60800000000000000
+      internalID: 7690463710292186603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 42
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7039db4f0edae0800000000000000
+      internalID: -1522762805563851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 42
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdaadcdf8c870510800000000000000
+      internalID: 1515334349146992077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 42
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08e363823a4c7190800000000000000
+      internalID: -7963408460284696565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 42
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0518ee85f6ebd60800000000000000
+      internalID: 7907880423458427092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 42
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089eabeac8b5e6080800000000000000
+      internalID: -9192309129631569536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 42
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca50da971b763c0800000000000000
+      internalID: -4366326177560417152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703c99736687c9750800000000000000
+      internalID: 6313053158081413895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa140bb42480d5f20800000000000000
+      internalID: 3412893173447410095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce070899f8c517010800000000000000
+      internalID: 1184829948800561388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 92
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77a93ef6387e38b0800000000000000
+      internalID: -5170563144585992325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 92
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af1b5d2afc25c80800000000000000
+      internalID: -8335371662032504316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 92
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c157105a787c9e510800000000000000
+      internalID: 1579012529772918044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 92
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9c2bb3138f84550800000000000000
+      internalID: 6145434581885700576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a32f63718f4900800000000000000
+      internalID: 670897202287322595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 92
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1319b63de7bea30800000000000000
+      internalID: 4245626520234701290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 92
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68565248723582a0800000000000000
+      internalID: -6735922175572289425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nepenthe_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 92
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392c8afbcb22dd20800000000000000
+      internalID: 3301749631897839929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nepenthe_0: 5879266927662589343
+      Nepenthe_1: 5510305328913719187
+      Nepenthe_10: 8522112519343052877
+      Nepenthe_11: 5391673999578852793
+      Nepenthe_12: 1291388826383112985
+      Nepenthe_13: 7690463710292186603
+      Nepenthe_14: -1522762805563851183
+      Nepenthe_15: 1515334349146992077
+      Nepenthe_16: -7963408460284696565
+      Nepenthe_17: 7907880423458427092
+      Nepenthe_18: -9192309129631569536
+      Nepenthe_19: -4366326177560417152
+      Nepenthe_2: 6547639604372409844
+      Nepenthe_20: 6313053158081413895
+      Nepenthe_21: 3412893173447410095
+      Nepenthe_22: 1184829948800561388
+      Nepenthe_23: -5170563144585992325
+      Nepenthe_24: -8335371662032504316
+      Nepenthe_25: 1579012529772918044
+      Nepenthe_26: 6145434581885700576
+      Nepenthe_27: 670897202287322595
+      Nepenthe_28: 4245626520234701290
+      Nepenthe_29: -6735922175572289425
+      Nepenthe_3: -8710483021809634174
+      Nepenthe_30: 3301749631897839929
+      Nepenthe_4: 308286627198048428
+      Nepenthe_5: -417407921279437455
+      Nepenthe_6: 3127509355280931039
+      Nepenthe_7: 6360571093901871549
+      Nepenthe_8: -6824080304685964951
+      Nepenthe_9: -3851793397218971744
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

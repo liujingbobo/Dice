@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 4c1ae71d0d70edf45b340555aa9a4571
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -772444201847646512
+    second: FuryFruit_0
+  - first:
+      213: -5877518864468675131
+    second: FuryFruit_1
+  - first:
+      213: 1107143063444607333
+    second: FuryFruit_2
+  - first:
+      213: -5496062889316820897
+    second: FuryFruit_3
+  - first:
+      213: -449061753967372406
+    second: FuryFruit_4
+  - first:
+      213: 1620508064494568243
+    second: FuryFruit_5
+  - first:
+      213: -900788521087562142
+    second: FuryFruit_6
+  - first:
+      213: 3202133605218754719
+    second: FuryFruit_7
+  - first:
+      213: -7284594410065460366
+    second: FuryFruit_8
+  - first:
+      213: -3755450360152248371
+    second: FuryFruit_9
+  - first:
+      213: -4411501384557302141
+    second: FuryFruit_10
+  - first:
+      213: 2240154138041544147
+    second: FuryFruit_11
+  - first:
+      213: 2120313410986632717
+    second: FuryFruit_12
+  - first:
+      213: -6559547627907965275
+    second: FuryFruit_13
+  - first:
+      213: 6907195744689119795
+    second: FuryFruit_14
+  - first:
+      213: -5515996349505633718
+    second: FuryFruit_15
+  - first:
+      213: 7392668882892858235
+    second: FuryFruit_16
+  - first:
+      213: -5885551387467001925
+    second: FuryFruit_17
+  - first:
+      213: -6289243311822528794
+    second: FuryFruit_18
+  - first:
+      213: -7717608418551459577
+    second: FuryFruit_19
+  - first:
+      213: 681788330262931744
+    second: FuryFruit_20
+  - first:
+      213: 8579386417703684740
+    second: FuryFruit_21
+  - first:
+      213: 1651702089421052992
+    second: FuryFruit_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuryFruit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69f0c471ab745f0800000000000000
+      internalID: -772444201847646512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ffa2bbbbde6ea0800000000000000
+      internalID: -5877518864468675131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561572410cc5d5f00800000000000000
+      internalID: 1107143063444607333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58501bebef0ab3b0800000000000000
+      internalID: -5496062889316820897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a879f88c6bc94c9f0800000000000000
+      internalID: -449061753967372406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333cad3bf733d7610800000000000000
+      internalID: 1620508064494568243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e83d6dc91cf73f0800000000000000
+      internalID: -900788521087562142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a76e5c83407c20800000000000000
+      internalID: 3202133605218754719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.6296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273804fbafbe7ea90800000000000000
+      internalID: -7284594410065460366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.6296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf238f6bc5f1ebc0800000000000000
+      internalID: -3755450360152248371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e61572dd237c2c0800000000000000
+      internalID: -4411501384557302141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 32
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6618d150a61f10800000000000000
+      internalID: 2240154138041544147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48936167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ea5a30dddc6d10800000000000000
+      internalID: 2120313410986632717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.48333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1a47bf2ec7f4a0800000000000000
+      internalID: -6559547627907965275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332e8441fe94bdf50800000000000000
+      internalID: 6907195744689119795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 68
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a428d5d8b8e3373b0800000000000000
+      internalID: -5515996349505633718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a9e25e29089660800000000000000
+      internalID: 7392668882892858235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54838705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc8b23232525ea0800000000000000
+      internalID: -5885551387467001925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee11dc978e18b8a0800000000000000
+      internalID: -6289243311822528794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 139
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011da0780c85e490800000000000000
+      internalID: -7717608418551459577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 139
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0292455cfd2367900800000000000000
+      internalID: 681788330262931744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a0a0acd7a101770800000000000000
+      internalID: 8579386417703684740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuryFruit_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c56ba9c460ce610800000000000000
+      internalID: 1651702089421052992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FuryFruit_0: -772444201847646512
+      FuryFruit_1: -5877518864468675131
+      FuryFruit_10: -4411501384557302141
+      FuryFruit_11: 2240154138041544147
+      FuryFruit_12: 2120313410986632717
+      FuryFruit_13: -6559547627907965275
+      FuryFruit_14: 6907195744689119795
+      FuryFruit_15: -5515996349505633718
+      FuryFruit_16: 7392668882892858235
+      FuryFruit_17: -5885551387467001925
+      FuryFruit_18: -6289243311822528794
+      FuryFruit_19: -7717608418551459577
+      FuryFruit_2: 1107143063444607333
+      FuryFruit_20: 681788330262931744
+      FuryFruit_21: 8579386417703684740
+      FuryFruit_22: 1651702089421052992
+      FuryFruit_3: -5496062889316820897
+      FuryFruit_4: -449061753967372406
+      FuryFruit_5: 1620508064494568243
+      FuryFruit_6: -900788521087562142
+      FuryFruit_7: 3202133605218754719
+      FuryFruit_8: -7284594410065460366
+      FuryFruit_9: -3755450360152248371
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

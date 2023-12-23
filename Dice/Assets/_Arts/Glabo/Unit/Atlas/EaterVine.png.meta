@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: f91b68cdf9a80fc4db6911fadbe3f09e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 435472484536176630
+    second: EaterVine_0
+  - first:
+      213: 3800197799354648478
+    second: EaterVine_1
+  - first:
+      213: -3275612656571929113
+    second: EaterVine_2
+  - first:
+      213: 8310740264880703879
+    second: EaterVine_3
+  - first:
+      213: 6895089225514192566
+    second: EaterVine_4
+  - first:
+      213: 4049752679827384517
+    second: EaterVine_5
+  - first:
+      213: 4656187503353069231
+    second: EaterVine_6
+  - first:
+      213: 4873781306973309136
+    second: EaterVine_7
+  - first:
+      213: -7850633399391764974
+    second: EaterVine_8
+  - first:
+      213: -7415579910866156946
+    second: EaterVine_9
+  - first:
+      213: 2630897879493384444
+    second: EaterVine_10
+  - first:
+      213: -1907812001667455316
+    second: EaterVine_11
+  - first:
+      213: 4088203730902999046
+    second: EaterVine_12
+  - first:
+      213: 987170369694990724
+    second: EaterVine_13
+  - first:
+      213: -3360557522034758375
+    second: EaterVine_14
+  - first:
+      213: 7267097564580730842
+    second: EaterVine_15
+  - first:
+      213: 8887192481231620671
+    second: EaterVine_16
+  - first:
+      213: -4118251373254660789
+    second: EaterVine_17
+  - first:
+      213: 804370490562644576
+    second: EaterVine_18
+  - first:
+      213: -9199396449102146676
+    second: EaterVine_19
+  - first:
+      213: 5810055926935260849
+    second: EaterVine_20
+  - first:
+      213: 578500640143963405
+    second: EaterVine_21
+  - first:
+      213: -5964634163470965878
+    second: EaterVine_22
+  - first:
+      213: -365468616215146632
+    second: EaterVine_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EaterVine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff4c3edaeb1b0600800000000000000
+      internalID: 435472484536176630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9741c2a3c30db430800000000000000
+      internalID: 3800197799354648478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda14fc4afaa82d0800000000000000
+      internalID: -3275612656571929113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78900cc1d3ea55370800000000000000
+      internalID: 8310740264880703879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be856d6e1740bf50800000000000000
+      internalID: 6895089225514192566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82c451b9c933830800000000000000
+      internalID: 4049752679827384517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faef8f06dd91e9040800000000000000
+      internalID: 4656187503353069231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8451bb64623a340800000000000000
+      internalID: 4873781306973309136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ebf678482fc0390800000000000000
+      internalID: -7850633399391764974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 37
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62cc494c51961990800000000000000
+      internalID: -7415579910866156946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8188baea3d28420800000000000000
+      internalID: 2630897879493384444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6626ea7171685e0800000000000000
+      internalID: -1907812001667455316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60066ed02a73cb830800000000000000
+      internalID: 4088203730902999046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810672983223bd00800000000000000
+      internalID: 987170369694990724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91de9db1db6ec51d0800000000000000
+      internalID: -3360557522034758375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 78
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7d0f47bbae9d460800000000000000
+      internalID: 7267097564580730842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a455ea976a55b70800000000000000
+      internalID: 8887192481231620671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 78
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d2469023809d6c0800000000000000
+      internalID: -4118251373254660789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a0bcd03b2b92b00800000000000000
+      internalID: 804370490562644576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d6478bad255080800000000000000
+      internalID: -9199396449102146676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be0122251771a050800000000000000
+      internalID: 5810055926935260849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05fd16644f370800800000000000000
+      internalID: 578500640143963405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 118
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83672f84dc593da0800000000000000
+      internalID: -5964634163470965878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EaterVine_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 118
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f41f9da389deaf0800000000000000
+      internalID: -365468616215146632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EaterVine_0: 435472484536176630
+      EaterVine_1: 3800197799354648478
+      EaterVine_10: 2630897879493384444
+      EaterVine_11: -1907812001667455316
+      EaterVine_12: 4088203730902999046
+      EaterVine_13: 987170369694990724
+      EaterVine_14: -3360557522034758375
+      EaterVine_15: 7267097564580730842
+      EaterVine_16: 8887192481231620671
+      EaterVine_17: -4118251373254660789
+      EaterVine_18: 804370490562644576
+      EaterVine_19: -9199396449102146676
+      EaterVine_2: -3275612656571929113
+      EaterVine_20: 5810055926935260849
+      EaterVine_21: 578500640143963405
+      EaterVine_22: -5964634163470965878
+      EaterVine_23: -365468616215146632
+      EaterVine_3: 8310740264880703879
+      EaterVine_4: 6895089225514192566
+      EaterVine_5: 4049752679827384517
+      EaterVine_6: 4656187503353069231
+      EaterVine_7: 4873781306973309136
+      EaterVine_8: -7850633399391764974
+      EaterVine_9: -7415579910866156946
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

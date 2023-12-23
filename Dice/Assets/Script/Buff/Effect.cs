@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class Effect : ScriptableObject
 {
-    public Sprite Icon;
-    public BuffType BuffType;
-    public bool ByStack;
+    public Sprite icon;
+    public BuffType buffType;
+    public bool byStack;
+    public bool showOnUI;
     
     public virtual IEnumerator AddBuff(BuffAction action)
     {

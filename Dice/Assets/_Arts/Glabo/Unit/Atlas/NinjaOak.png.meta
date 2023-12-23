@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: c2e036c94579a284d97dbe78bafe8d4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3813264817105469482
+    second: NinjaOak_0
+  - first:
+      213: 8509828636533865068
+    second: NinjaOak_1
+  - first:
+      213: -3453116139829755351
+    second: NinjaOak_2
+  - first:
+      213: 3577991062307132261
+    second: NinjaOak_3
+  - first:
+      213: 3814235030259440129
+    second: NinjaOak_4
+  - first:
+      213: 7703928237852646794
+    second: NinjaOak_5
+  - first:
+      213: -7060910258925771808
+    second: NinjaOak_6
+  - first:
+      213: 2164345048936408049
+    second: NinjaOak_7
+  - first:
+      213: -7240350742612365349
+    second: NinjaOak_8
+  - first:
+      213: -4630340640664608591
+    second: NinjaOak_9
+  - first:
+      213: -4550221182229153723
+    second: NinjaOak_10
+  - first:
+      213: 7974697103582355381
+    second: NinjaOak_11
+  - first:
+      213: 8745243786570066784
+    second: NinjaOak_12
+  - first:
+      213: 7997656474111248601
+    second: NinjaOak_13
+  - first:
+      213: -5145248806846026597
+    second: NinjaOak_14
+  - first:
+      213: 7880706849307541866
+    second: NinjaOak_15
+  - first:
+      213: 1434604199962391980
+    second: NinjaOak_16
+  - first:
+      213: -5626898746820118337
+    second: NinjaOak_17
+  - first:
+      213: -6268820280582965411
+    second: NinjaOak_18
+  - first:
+      213: 110673587826730296
+    second: NinjaOak_19
+  - first:
+      213: -7601706722399450064
+    second: NinjaOak_20
+  - first:
+      213: -7172653053347220445
+    second: NinjaOak_21
+  - first:
+      213: 6464942026319972310
+    second: NinjaOak_22
+  - first:
+      213: -4321708257422768223
+    second: NinjaOak_23
+  - first:
+      213: 4249532496559604375
+    second: NinjaOak_24
+  - first:
+      213: -7266368151544648540
+    second: NinjaOak_25
+  - first:
+      213: -796510714387286637
+    second: NinjaOak_26
+  - first:
+      213: 1942328165492340651
+    second: NinjaOak_27
+  - first:
+      213: -6019501152744688204
+    second: NinjaOak_28
+  - first:
+      213: -3621845030305838259
+    second: NinjaOak_29
+  - first:
+      213: -4805030366410388919
+    second: NinjaOak_30
+  - first:
+      213: 1229195607667681448
+    second: NinjaOak_31
+  - first:
+      213: -7274150861865044687
+    second: NinjaOak_32
+  - first:
+      213: -1668611103417301096
+    second: NinjaOak_33
+  - first:
+      213: -8543819374313165170
+    second: NinjaOak_34
+  - first:
+      213: 6989378244743636252
+    second: NinjaOak_35
+  - first:
+      213: 5751265664937340717
+    second: NinjaOak_36
+  - first:
+      213: 269003001519604511
+    second: NinjaOak_37
+  - first:
+      213: -976537888503161695
+    second: NinjaOak_38
+  - first:
+      213: 2114071661831575650
+    second: NinjaOak_39
+  - first:
+      213: -3159639701426538948
+    second: NinjaOak_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NinjaOak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20011ac5207be430800000000000000
+      internalID: 3813264817105469482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a3c04de0cf81670800000000000000
+      internalID: 8509828636533865068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922874d8a211410d0800000000000000
+      internalID: -3453116139829755351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d6560ae397a130800000000000000
+      internalID: 3577991062307132261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a17742d82eee430800000000000000
+      internalID: 3814235030259440129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dde484ae9d9ea60800000000000000
+      internalID: 7703928237852646794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.375, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e361d1a78b920e90800000000000000
+      internalID: -7060910258925771808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3ea35da5c490e10800000000000000
+      internalID: 2164345048936408049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfaa515c5b158b90800000000000000
+      internalID: -7240350742612365349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a12c48b9bdbfb0800000000000000
+      internalID: -4630340640664608591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f5cf51fd5ad0c0800000000000000
+      internalID: -4550221182229153723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfdc5293c0dbae60800000000000000
+      internalID: 7974697103582355381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b63bcb3e85d5970800000000000000
+      internalID: 8745243786570066784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 42
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8010790326dfe60800000000000000
+      internalID: 7997656474111248601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 42
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.62222224, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca0fa88776898b0800000000000000
+      internalID: -5145248806846026597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61c6fb2025ed5d60800000000000000
+      internalID: 7880706849307541866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.45999998, y: 0.5227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ba044becb8e310800000000000000
+      internalID: 1434604199962391980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 42
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.5227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb832b0076d39e1b0800000000000000
+      internalID: -5626898746820118337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 42
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57761f1b2da009a0800000000000000
+      internalID: -6268820280582965411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 42
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4, y: 0.36956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8352e60ba01398100800000000000000
+      internalID: 110673587826730296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3829787, y: 0.3541667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c8ea4f200518690800000000000000
+      internalID: -7601706722399450064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.375, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243e12ec0e957c90800000000000000
+      internalID: -7172653053347220445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7cb4c258618b950800000000000000
+      internalID: 6464942026319972310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 89
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7817dbc353604c0800000000000000
+      internalID: -4321708257422768223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 89
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920ae66a4f59fa30800000000000000
+      internalID: 4249532496559604375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 89
+        width: 48
+        height: 46
+      alignment: 9
+      pivot: {x: 0.375, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac28ff3aaca82b90800000000000000
+      internalID: -7266368151544648540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 89
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.375, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953721b9b932f4f0800000000000000
+      internalID: -796510714387286637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 89
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba73865fc2984fa10800000000000000
+      internalID: 1942328165492340651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 89
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b53991289f667ca0800000000000000
+      internalID: -6019501152744688204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 89
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b4b11622f9cbdc0800000000000000
+      internalID: -3621845030305838259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac423075a115db0800000000000000
+      internalID: -4805030366410388919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 140
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8a08284eafe0110800000000000000
+      internalID: 1229195607667681448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 140
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135beebc4560d0b90800000000000000
+      internalID: -7274150861865044687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 140
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8970a88ca07e7d8e0800000000000000
+      internalID: -1668611103417301096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 140
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea6f0db814e6980800000000000000
+      internalID: -8543819374313165170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15a9c67b724ff060800000000000000
+      internalID: 6989378244743636252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 140
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fad7796a990df40800000000000000
+      internalID: 5751265664937340717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 140
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13071dfdc0bbb300800000000000000
+      internalID: 269003001519604511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 140
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1f0ed6f3a272f0800000000000000
+      internalID: -976537888503161695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 140
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268d031c9f0b65d10800000000000000
+      internalID: 2114071661831575650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaOak_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 140
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36ff3a9e64b624d0800000000000000
+      internalID: -3159639701426538948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NinjaOak_0: 3813264817105469482
+      NinjaOak_1: 8509828636533865068
+      NinjaOak_10: -4550221182229153723
+      NinjaOak_11: 7974697103582355381
+      NinjaOak_12: 8745243786570066784
+      NinjaOak_13: 7997656474111248601
+      NinjaOak_14: -5145248806846026597
+      NinjaOak_15: 7880706849307541866
+      NinjaOak_16: 1434604199962391980
+      NinjaOak_17: -5626898746820118337
+      NinjaOak_18: -6268820280582965411
+      NinjaOak_19: 110673587826730296
+      NinjaOak_2: -3453116139829755351
+      NinjaOak_20: -7601706722399450064
+      NinjaOak_21: -7172653053347220445
+      NinjaOak_22: 6464942026319972310
+      NinjaOak_23: -4321708257422768223
+      NinjaOak_24: 4249532496559604375
+      NinjaOak_25: -7266368151544648540
+      NinjaOak_26: -796510714387286637
+      NinjaOak_27: 1942328165492340651
+      NinjaOak_28: -6019501152744688204
+      NinjaOak_29: -3621845030305838259
+      NinjaOak_3: 3577991062307132261
+      NinjaOak_30: -4805030366410388919
+      NinjaOak_31: 1229195607667681448
+      NinjaOak_32: -7274150861865044687
+      NinjaOak_33: -1668611103417301096
+      NinjaOak_34: -8543819374313165170
+      NinjaOak_35: 6989378244743636252
+      NinjaOak_36: 5751265664937340717
+      NinjaOak_37: 269003001519604511
+      NinjaOak_38: -976537888503161695
+      NinjaOak_39: 2114071661831575650
+      NinjaOak_4: 3814235030259440129
+      NinjaOak_40: -3159639701426538948
+      NinjaOak_5: 7703928237852646794
+      NinjaOak_6: -7060910258925771808
+      NinjaOak_7: 2164345048936408049
+      NinjaOak_8: -7240350742612365349
+      NinjaOak_9: -4630340640664608591
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

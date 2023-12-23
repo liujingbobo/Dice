@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: 566f27f9c3144c04ab64b683b71cb743
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6882926768920182765
+    second: KingOfCrab_0
+  - first:
+      213: -7458834598174601036
+    second: KingOfCrab_1
+  - first:
+      213: -7521790489662673863
+    second: KingOfCrab_2
+  - first:
+      213: 6872384643058411352
+    second: KingOfCrab_3
+  - first:
+      213: -8423360598008106539
+    second: KingOfCrab_4
+  - first:
+      213: 5864980205834295720
+    second: KingOfCrab_5
+  - first:
+      213: -2437530829036758113
+    second: KingOfCrab_6
+  - first:
+      213: 8748523659937748583
+    second: KingOfCrab_7
+  - first:
+      213: 8946776177841527779
+    second: KingOfCrab_8
+  - first:
+      213: 3656442122263482273
+    second: KingOfCrab_9
+  - first:
+      213: -7508851103009175598
+    second: KingOfCrab_10
+  - first:
+      213: 1332021042987169317
+    second: KingOfCrab_11
+  - first:
+      213: 8912254605302824946
+    second: KingOfCrab_12
+  - first:
+      213: -1686005822206594287
+    second: KingOfCrab_13
+  - first:
+      213: 761838887394838506
+    second: KingOfCrab_14
+  - first:
+      213: -3558958093151879569
+    second: KingOfCrab_15
+  - first:
+      213: -2215774855666042763
+    second: KingOfCrab_16
+  - first:
+      213: -184363375222399844
+    second: KingOfCrab_17
+  - first:
+      213: -1444282112118258286
+    second: KingOfCrab_18
+  - first:
+      213: 7893307095138249933
+    second: KingOfCrab_19
+  - first:
+      213: -5745476549547707779
+    second: KingOfCrab_20
+  - first:
+      213: 511292200477046731
+    second: KingOfCrab_21
+  - first:
+      213: -2776309468171660789
+    second: KingOfCrab_22
+  - first:
+      213: 4246420750877412606
+    second: KingOfCrab_23
+  - first:
+      213: 275635569781585927
+    second: KingOfCrab_24
+  - first:
+      213: -8038377566910435110
+    second: KingOfCrab_25
+  - first:
+      213: 2056508927497668567
+    second: KingOfCrab_26
+  - first:
+      213: 1741367375921741719
+    second: KingOfCrab_27
+  - first:
+      213: -1153506280402899680
+    second: KingOfCrab_28
+  - first:
+      213: -4466601931357260999
+    second: KingOfCrab_29
+  - first:
+      213: 3181854505328612847
+    second: KingOfCrab_30
+  - first:
+      213: -7010447795996756977
+    second: KingOfCrab_31
+  - first:
+      213: -3272025623068772450
+    second: KingOfCrab_32
+  - first:
+      213: -1247624965136018272
+    second: KingOfCrab_33
+  - first:
+      213: 3154054232695316189
+    second: KingOfCrab_34
+  - first:
+      213: 4203022598675169324
+    second: KingOfCrab_35
+  - first:
+      213: -201107018559201382
+    second: KingOfCrab_36
+  - first:
+      213: -878477570603112078
+    second: KingOfCrab_37
+  - first:
+      213: 1888857535359891194
+    second: KingOfCrab_38
+  - first:
+      213: -2483346583886847886
+    second: KingOfCrab_39
+  - first:
+      213: -1479747290331665648
+    second: KingOfCrab_40
+  - first:
+      213: -4456138359837969488
+    second: KingOfCrab_41
+  - first:
+      213: -6037410876016017810
+    second: KingOfCrab_42
+  - first:
+      213: -6826018105209180871
+    second: KingOfCrab_43
+  - first:
+      213: 6383358989125386452
+    second: KingOfCrab_44
+  - first:
+      213: 6919544142814438628
+    second: KingOfCrab_45
+  - first:
+      213: 79293041947945196
+    second: KingOfCrab_46
+  - first:
+      213: -6015408300973630171
+    second: KingOfCrab_47
+  - first:
+      213: 7971667322546187247
+    second: KingOfCrab_48
+  - first:
+      213: -3161088592980496458
+    second: KingOfCrab_49
+  - first:
+      213: -6518900172764538310
+    second: KingOfCrab_50
+  - first:
+      213: 6949729555797029158
+    second: KingOfCrab_51
+  - first:
+      213: -5237394452701822065
+    second: KingOfCrab_52
+  - first:
+      213: -789208803850789750
+    second: KingOfCrab_53
+  - first:
+      213: 357164201401153360
+    second: KingOfCrab_54
+  - first:
+      213: -8927009700434000353
+    second: KingOfCrab_55
+  - first:
+      213: -7754806403927165956
+    second: KingOfCrab_56
+  - first:
+      213: -6034624855851312935
+    second: KingOfCrab_57
+  - first:
+      213: -8563116419675804376
+    second: KingOfCrab_58
+  - first:
+      213: 6290494295852614435
+    second: KingOfCrab_59
+  - first:
+      213: -3879261206029042424
+    second: KingOfCrab_60
+  - first:
+      213: 6033997999023172026
+    second: KingOfCrab_61
+  - first:
+      213: -5883405531947160518
+    second: KingOfCrab_62
+  - first:
+      213: -274257124307591904
+    second: KingOfCrab_63
+  - first:
+      213: 8391862853314142504
+    second: KingOfCrab_64
+  - first:
+      213: 5749993299702118216
+    second: KingOfCrab_65
+  - first:
+      213: -8934777549443407242
+    second: KingOfCrab_66
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingOfCrab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb384dd61158f50800000000000000
+      internalID: 6882926768920182765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d8699375ec7890800000000000000
+      internalID: -7458834598174601036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93caebcd66b3d9790800000000000000
+      internalID: -7521790489662673863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 93
+        height: 78
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.47435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857a851eb6d9f5f50800000000000000
+      internalID: 6872384643058411352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 92
+        height: 79
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.46835443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d174bc3a263a1b80800000000000000
+      internalID: -8423360598008106539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a953775c68946150800000000000000
+      internalID: 5864980205834295720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 93
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.47435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b533620a62c2ed0800000000000000
+      internalID: -2437530829036758113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 92
+        height: 79
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.46835443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76690b3caeff86970800000000000000
+      internalID: 8748523659937748583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_8
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebdb2d1885592c70800000000000000
+      internalID: 8946776177841527779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4a4fccba4eb230800000000000000
+      internalID: 3656442122263482273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d786d594b33bc790800000000000000
+      internalID: -7508851103009175598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526789cc41a4c7210800000000000000
+      internalID: 1332021042987169317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 81
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff9e82850beab70800000000000000
+      internalID: 8912254605302824946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 81
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113b22633aa1a98e0800000000000000
+      internalID: -1686005822206594287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78f338e68929a00800000000000000
+      internalID: 761838887394838506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 81
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42682925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e3e2f687a0c9ec0800000000000000
+      internalID: -3558958093151879569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 81
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41975307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57878c9228cff31e0800000000000000
+      internalID: -2215774855666042763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 81
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cd64eac72017df0800000000000000
+      internalID: -184363375222399844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 81
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958db73211e4fbe0800000000000000
+      internalID: -1444282112118258286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 81
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc29c48bf8aa8d60800000000000000
+      internalID: 7893307095138249933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_20
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 81
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41772154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d723fded487f340b0800000000000000
+      internalID: -5745476549547707779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 81
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7bcd12c89781700800000000000000
+      internalID: 511292200477046731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02131b8f319879d0800000000000000
+      internalID: -2776309468171660789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44155845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc45e6ac215eea30800000000000000
+      internalID: 4246420750877412606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 164
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7083b40271143d300800000000000000
+      internalID: 275635569781585927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 164
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b5d92132f17090800000000000000
+      internalID: -8038377566910435110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 164
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d70be449ff2a8c10800000000000000
+      internalID: 2056508927497668567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 164
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff449f6649a2810800000000000000
+      internalID: 1741367375921741719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 164
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41975307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2766462cedffe0800000000000000
+      internalID: -1153506280402899680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 164
+        width: 90
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933706065317302c0800000000000000
+      internalID: -4466601931357260999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 164
+        width: 90
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5961d70d7382c20800000000000000
+      internalID: 3181854505328612847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_31
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 164
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04713b5fd2e5be90800000000000000
+      internalID: -7010447795996756977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_32
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 164
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977201280e6792d0800000000000000
+      internalID: -3272025623068772450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_33
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 164
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4982454bb8faee0800000000000000
+      internalID: -1247624965136018272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_34
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 164
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1f1e1d9375cb20800000000000000
+      internalID: 3154054232695316189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2009f0f8c2245a30800000000000000
+      internalID: 4203022598675169324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 247
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41772154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fd0fc6b36853df0800000000000000
+      internalID: -201107018559201382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 247
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279ad0dcd450fc3f0800000000000000
+      internalID: -878477570603112078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 247
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44155845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6327abbe1963a10800000000000000
+      internalID: 1888857535359891194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 247
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270ae357071698dd0800000000000000
+      internalID: -2483346583886847886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 247
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b2f62fda1e67be0800000000000000
+      internalID: -1479747290331665648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 247
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3bdd775cd9822c0800000000000000
+      internalID: -4456138359837969488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 247
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3cfbbbcec63ca0800000000000000
+      internalID: -6037410876016017810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_43
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 247
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d2f98f2bc1541a0800000000000000
+      internalID: -6826018105209180871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_44
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 247
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08d9c1e2f369850800000000000000
+      internalID: 6383358989125386452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_45
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 247
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e6109cb8270060800000000000000
+      internalID: 6919544142814438628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_46
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 247
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a77ef994b91100800000000000000
+      internalID: 79293041947945196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42682925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd781750af48ca0800000000000000
+      internalID: -6015408300973630171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 330
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41975307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb64f3b13d01ae60800000000000000
+      internalID: 7971667322546187247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 330
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfabdf3cae8124d0800000000000000
+      internalID: -3161088592980496458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 330
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a132cd4d63885a0800000000000000
+      internalID: -6518900172764538310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 330
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b052b536627060800000000000000
+      internalID: 6949729555797029158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 330
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41772154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834b128e790157b0800000000000000
+      internalID: -5237394452701822065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 330
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cdcd836ca2c05f0800000000000000
+      internalID: -789208803850789750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 330
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577007e2f6e4f400800000000000000
+      internalID: 357164201401153360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 330
+        width: 90
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44155845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164a2b89f3ec1480800000000000000
+      internalID: -8927009700434000353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_56
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 330
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33fff89a4616490800000000000000
+      internalID: -7754806403927165956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 330
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85d3a9aa4b04ca0800000000000000
+      internalID: -6034624855851312935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_58
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 330
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da8e25cf2b92980800000000000000
+      internalID: -8563116419675804376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3238aedcb335c4750800000000000000
+      internalID: 6290494295852614435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 413
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7faf7c781a2ac0800000000000000
+      internalID: -3879261206029042424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 413
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9a13be5311db350800000000000000
+      internalID: 6033997999023172026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 413
+        width: 90
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca8be17d1f95ea0800000000000000
+      internalID: -5883405531947160518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 413
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d96883994a13cf0800000000000000
+      internalID: -274257124307591904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 413
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e5979dc2e57470800000000000000
+      internalID: 8391862853314142504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_65
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 413
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847fe99f0741ccf40800000000000000
+      internalID: 5749993299702118216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingOfCrab_66
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 413
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726a42482b410480800000000000000
+      internalID: -8934777549443407242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KingOfCrab_0: 6882926768920182765
+      KingOfCrab_1: -7458834598174601036
+      KingOfCrab_10: -7508851103009175598
+      KingOfCrab_11: 1332021042987169317
+      KingOfCrab_12: 8912254605302824946
+      KingOfCrab_13: -1686005822206594287
+      KingOfCrab_14: 761838887394838506
+      KingOfCrab_15: -3558958093151879569
+      KingOfCrab_16: -2215774855666042763
+      KingOfCrab_17: -184363375222399844
+      KingOfCrab_18: -1444282112118258286
+      KingOfCrab_19: 7893307095138249933
+      KingOfCrab_2: -7521790489662673863
+      KingOfCrab_20: -5745476549547707779
+      KingOfCrab_21: 511292200477046731
+      KingOfCrab_22: -2776309468171660789
+      KingOfCrab_23: 4246420750877412606
+      KingOfCrab_24: 275635569781585927
+      KingOfCrab_25: -8038377566910435110
+      KingOfCrab_26: 2056508927497668567
+      KingOfCrab_27: 1741367375921741719
+      KingOfCrab_28: -1153506280402899680
+      KingOfCrab_29: -4466601931357260999
+      KingOfCrab_3: 6872384643058411352
+      KingOfCrab_30: 3181854505328612847
+      KingOfCrab_31: -7010447795996756977
+      KingOfCrab_32: -3272025623068772450
+      KingOfCrab_33: -1247624965136018272
+      KingOfCrab_34: 3154054232695316189
+      KingOfCrab_35: 4203022598675169324
+      KingOfCrab_36: -201107018559201382
+      KingOfCrab_37: -878477570603112078
+      KingOfCrab_38: 1888857535359891194
+      KingOfCrab_39: -2483346583886847886
+      KingOfCrab_4: -8423360598008106539
+      KingOfCrab_40: -1479747290331665648
+      KingOfCrab_41: -4456138359837969488
+      KingOfCrab_42: -6037410876016017810
+      KingOfCrab_43: -6826018105209180871
+      KingOfCrab_44: 6383358989125386452
+      KingOfCrab_45: 6919544142814438628
+      KingOfCrab_46: 79293041947945196
+      KingOfCrab_47: -6015408300973630171
+      KingOfCrab_48: 7971667322546187247
+      KingOfCrab_49: -3161088592980496458
+      KingOfCrab_5: 5864980205834295720
+      KingOfCrab_50: -6518900172764538310
+      KingOfCrab_51: 6949729555797029158
+      KingOfCrab_52: -5237394452701822065
+      KingOfCrab_53: -789208803850789750
+      KingOfCrab_54: 357164201401153360
+      KingOfCrab_55: -8927009700434000353
+      KingOfCrab_56: -7754806403927165956
+      KingOfCrab_57: -6034624855851312935
+      KingOfCrab_58: -8563116419675804376
+      KingOfCrab_59: 6290494295852614435
+      KingOfCrab_6: -2437530829036758113
+      KingOfCrab_60: -3879261206029042424
+      KingOfCrab_61: 6033997999023172026
+      KingOfCrab_62: -5883405531947160518
+      KingOfCrab_63: -274257124307591904
+      KingOfCrab_64: 8391862853314142504
+      KingOfCrab_65: 5749993299702118216
+      KingOfCrab_66: -8934777549443407242
+      KingOfCrab_7: 8748523659937748583
+      KingOfCrab_8: 8946776177841527779
+      KingOfCrab_9: 3656442122263482273
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

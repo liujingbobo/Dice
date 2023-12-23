@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: e4012828f7bb2e94c9657a6fbd5dae13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3037297759362566981
+    second: SnowGirl _0
+  - first:
+      213: -8916332867661222616
+    second: SnowGirl _1
+  - first:
+      213: 3673095345532270907
+    second: SnowGirl _2
+  - first:
+      213: -3298644966986365481
+    second: SnowGirl _3
+  - first:
+      213: -1749231161434567564
+    second: SnowGirl _4
+  - first:
+      213: 7197067926872520387
+    second: SnowGirl _5
+  - first:
+      213: -6531349504770438010
+    second: SnowGirl _6
+  - first:
+      213: -1804083467839796418
+    second: SnowGirl _7
+  - first:
+      213: -8321376202704444434
+    second: SnowGirl _8
+  - first:
+      213: -516430498495433385
+    second: SnowGirl _9
+  - first:
+      213: -748759956370801648
+    second: SnowGirl _10
+  - first:
+      213: 6575993360162288847
+    second: SnowGirl _11
+  - first:
+      213: -3619225589187327900
+    second: SnowGirl _12
+  - first:
+      213: 6831103540445397401
+    second: SnowGirl _13
+  - first:
+      213: -3154722640396343454
+    second: SnowGirl _14
+  - first:
+      213: -9129832838443513287
+    second: SnowGirl _15
+  - first:
+      213: 5367918599655323547
+    second: SnowGirl _16
+  - first:
+      213: 5390913014447974605
+    second: SnowGirl _17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowGirl _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.36956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ba18b7c959d5d0800000000000000
+      internalID: -3037297759362566981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da9e36f72d24480800000000000000
+      internalID: -8916332867661222616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39779081c479f230800000000000000
+      internalID: 3673095345532270907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c5a621ebd832d0800000000000000
+      internalID: -3298644966986365481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c06a8c68b79b7e0800000000000000
+      internalID: -1749231161434567564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f795d52f11e360800000000000000
+      internalID: 7197067926872520387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 47
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0c30ea3cfb55a0800000000000000
+      internalID: -6531349504770438010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b014af4ab96f6e0800000000000000
+      internalID: -1804083467839796418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3a963ae68848c80800000000000000
+      internalID: -8321376202704444434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7557002a23545d8f0800000000000000
+      internalID: -516430498495433385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3b7a69cedb95f0800000000000000
+      internalID: -748759956370801648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4fcc5be1f924b50800000000000000
+      internalID: 6575993360162288847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 91
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4684c7a808de5cdc0800000000000000
+      internalID: -3619225589187327900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 91
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99149203a74fcce50800000000000000
+      internalID: 6831103540445397401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 91
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2672b46197c2834d0800000000000000
+      internalID: -3154722640396343454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 91
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac0e5c7615c4180800000000000000
+      internalID: -9129832838443513287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.37209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97faa3a68dae7a40800000000000000
+      internalID: 5367918599655323547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowGirl _17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a33903de50da40800000000000000
+      internalID: 5390913014447974605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SnowGirl _0: -3037297759362566981
+      SnowGirl _1: -8916332867661222616
+      SnowGirl _10: -748759956370801648
+      SnowGirl _11: 6575993360162288847
+      SnowGirl _12: -3619225589187327900
+      SnowGirl _13: 6831103540445397401
+      SnowGirl _14: -3154722640396343454
+      SnowGirl _15: -9129832838443513287
+      SnowGirl _16: 5367918599655323547
+      SnowGirl _17: 5390913014447974605
+      SnowGirl _2: 3673095345532270907
+      SnowGirl _3: -3298644966986365481
+      SnowGirl _4: -1749231161434567564
+      SnowGirl _5: 7197067926872520387
+      SnowGirl _6: -6531349504770438010
+      SnowGirl _7: -1804083467839796418
+      SnowGirl _8: -8321376202704444434
+      SnowGirl _9: -516430498495433385
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

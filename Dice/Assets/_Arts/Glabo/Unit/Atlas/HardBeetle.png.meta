@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 23f43da58a268b84f859a429c3a9fc50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6113311739946472797
+    second: HardBeetle_0
+  - first:
+      213: 2437627128181116329
+    second: HardBeetle_1
+  - first:
+      213: 6051327662172408775
+    second: HardBeetle_2
+  - first:
+      213: -994716686193854622
+    second: HardBeetle_3
+  - first:
+      213: 7245819226862105241
+    second: HardBeetle_4
+  - first:
+      213: 5804152986657702421
+    second: HardBeetle_5
+  - first:
+      213: 4491437511526729351
+    second: HardBeetle_6
+  - first:
+      213: -157263380419216217
+    second: HardBeetle_7
+  - first:
+      213: -4235364421057519015
+    second: HardBeetle_8
+  - first:
+      213: -6175203386812194406
+    second: HardBeetle_9
+  - first:
+      213: -4549759157247931655
+    second: HardBeetle_10
+  - first:
+      213: -4513518199314637968
+    second: HardBeetle_11
+  - first:
+      213: -7651776938420806145
+    second: HardBeetle_12
+  - first:
+      213: -732085095080135246
+    second: HardBeetle_13
+  - first:
+      213: -2259937191264996808
+    second: HardBeetle_14
+  - first:
+      213: -5133233170165876406
+    second: HardBeetle_15
+  - first:
+      213: 8236186425000255488
+    second: HardBeetle_16
+  - first:
+      213: -8365308484998158495
+    second: HardBeetle_17
+  - first:
+      213: 8133666923776513214
+    second: HardBeetle_18
+  - first:
+      213: 5913790274742549998
+    second: HardBeetle_19
+  - first:
+      213: -2506781954996914595
+    second: HardBeetle_20
+  - first:
+      213: -778363064339981427
+    second: HardBeetle_21
+  - first:
+      213: -7045224454865510337
+    second: HardBeetle_22
+  - first:
+      213: -4318448726798039620
+    second: HardBeetle_23
+  - first:
+      213: 2729295230297001533
+    second: HardBeetle_24
+  - first:
+      213: -5357030333350423378
+    second: HardBeetle_25
+  - first:
+      213: -5992712502420574128
+    second: HardBeetle_26
+  - first:
+      213: 7445827905316079610
+    second: HardBeetle_27
+  - first:
+      213: 3183343128389445635
+    second: HardBeetle_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HardBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551cb443a8d6d450800000000000000
+      internalID: 6113311739946472797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad471e35f034d120800000000000000
+      internalID: 2437627128181116329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb084b8272aaf350800000000000000
+      internalID: 6051327662172408775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f243b17e0232f0800000000000000
+      internalID: -994716686193854622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bfc362325e8460800000000000000
+      internalID: 7245819226862105241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51241cfb36e7c8050800000000000000
+      internalID: 5804152986657702421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864a6dbe9ac45e30800000000000000
+      internalID: 4491437511526729351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac7fe9e9c941ddf0800000000000000
+      internalID: -157263380419216217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e98cbf76f835c0800000000000000
+      internalID: -4235364421057519015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a912541cc354d4aa0800000000000000
+      internalID: -6175203386812194406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 39
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa08a2f6220cd0c0800000000000000
+      internalID: -4549759157247931655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b17928c13cc51c0800000000000000
+      internalID: -4513518199314637968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdd6e45a6d6fc590800000000000000
+      internalID: -7651776938420806145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5f36a1c7c17d5f0800000000000000
+      internalID: -732085095080135246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 82
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b4f3291713a0e0800000000000000
+      internalID: -2259937191264996808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 82
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b207f0a713c8b0800000000000000
+      internalID: -5133233170165876406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 82
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e8069aefcc4270800000000000000
+      internalID: 8236186425000255488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167af13114478eb80800000000000000
+      internalID: -8365308484998158495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.475, y: 0.4130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41b0129f690e070800000000000000
+      internalID: 8133666923776513214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 125
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed703a1ce0021250800000000000000
+      internalID: 5913790274742549998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55263156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56bc0be71f163dd0800000000000000
+      internalID: -2506781954996914595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 125
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1bbbbae2b235f0800000000000000
+      internalID: -778363064339981427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 125
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a8dc7fa55a3e90800000000000000
+      internalID: -7045224454865510337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 125
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5077a53c9c114c0800000000000000
+      internalID: -4318448726798039620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e45013d8760e520800000000000000
+      internalID: 2729295230297001533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 172
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4d7a96b4108a5b0800000000000000
+      internalID: -5357030333350423378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050fd24dabb95dca0800000000000000
+      internalID: -5992712502420574128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 172
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74e0bb705e45760800000000000000
+      internalID: 7445827905316079610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HardBeetle_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 172
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30865dd85b18d2c20800000000000000
+      internalID: 3183343128389445635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HardBeetle_0: 6113311739946472797
+      HardBeetle_1: 2437627128181116329
+      HardBeetle_10: -4549759157247931655
+      HardBeetle_11: -4513518199314637968
+      HardBeetle_12: -7651776938420806145
+      HardBeetle_13: -732085095080135246
+      HardBeetle_14: -2259937191264996808
+      HardBeetle_15: -5133233170165876406
+      HardBeetle_16: 8236186425000255488
+      HardBeetle_17: -8365308484998158495
+      HardBeetle_18: 8133666923776513214
+      HardBeetle_19: 5913790274742549998
+      HardBeetle_2: 6051327662172408775
+      HardBeetle_20: -2506781954996914595
+      HardBeetle_21: -778363064339981427
+      HardBeetle_22: -7045224454865510337
+      HardBeetle_23: -4318448726798039620
+      HardBeetle_24: 2729295230297001533
+      HardBeetle_25: -5357030333350423378
+      HardBeetle_26: -5992712502420574128
+      HardBeetle_27: 7445827905316079610
+      HardBeetle_28: 3183343128389445635
+      HardBeetle_3: -994716686193854622
+      HardBeetle_4: 7245819226862105241
+      HardBeetle_5: 5804152986657702421
+      HardBeetle_6: 4491437511526729351
+      HardBeetle_7: -157263380419216217
+      HardBeetle_8: -4235364421057519015
+      HardBeetle_9: -6175203386812194406
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

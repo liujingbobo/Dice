@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: a87e87dca4058474ba95815bd15c748b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GrownDryad_0
+  - first:
+      213: 21300002
+    second: GrownDryad_1
+  - first:
+      213: 21300004
+    second: GrownDryad_2
+  - first:
+      213: 21300006
+    second: GrownDryad_3
+  - first:
+      213: 21300008
+    second: GrownDryad_4
+  - first:
+      213: 21300010
+    second: GrownDryad_5
+  - first:
+      213: 21300012
+    second: GrownDryad_6
+  - first:
+      213: 21300014
+    second: GrownDryad_7
+  - first:
+      213: 21300016
+    second: GrownDryad_8
+  - first:
+      213: 21300018
+    second: GrownDryad_9
+  - first:
+      213: 21300020
+    second: GrownDryad_10
+  - first:
+      213: 21300022
+    second: GrownDryad_11
+  - first:
+      213: 21300024
+    second: GrownDryad_12
+  - first:
+      213: 21300026
+    second: GrownDryad_13
+  - first:
+      213: 21300028
+    second: GrownDryad_14
+  - first:
+      213: 21300030
+    second: GrownDryad_15
+  - first:
+      213: 21300032
+    second: GrownDryad_16
+  - first:
+      213: 21300034
+    second: GrownDryad_17
+  - first:
+      213: 21300036
+    second: GrownDryad_18
+  - first:
+      213: 21300038
+    second: GrownDryad_19
+  - first:
+      213: 21300040
+    second: GrownDryad_20
+  - first:
+      213: 21300042
+    second: GrownDryad_21
+  - first:
+      213: 21300044
+    second: GrownDryad_22
+  - first:
+      213: 21300046
+    second: GrownDryad_23
+  - first:
+      213: 21300048
+    second: GrownDryad_24
+  - first:
+      213: 21300050
+    second: GrownDryad_25
+  - first:
+      213: 21300052
+    second: GrownDryad_26
+  - first:
+      213: 21300054
+    second: GrownDryad_27
+  - first:
+      213: -8329102198465108802
+    second: GrownDryad_28
+  - first:
+      213: 2025120007444540516
+    second: GrownDryad_29
+  - first:
+      213: 7185677559900913618
+    second: GrownDryad_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrownDryad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 36
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 80
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 80
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41935483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41935483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ef821ea5196c80800000000000000
+      internalID: -8329102198465108802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca44fcaebaa1c10800000000000000
+      internalID: 2025120007444540516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrownDryad_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfb36c5ba7a8b360800000000000000
+      internalID: 7185677559900913618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrownDryad_0: 21300000
+      GrownDryad_1: 21300002
+      GrownDryad_10: 21300020
+      GrownDryad_11: 21300022
+      GrownDryad_12: 21300024
+      GrownDryad_13: 21300026
+      GrownDryad_14: 21300028
+      GrownDryad_15: 21300030
+      GrownDryad_16: 21300032
+      GrownDryad_17: 21300034
+      GrownDryad_18: 21300036
+      GrownDryad_19: 21300038
+      GrownDryad_2: 21300004
+      GrownDryad_20: 21300040
+      GrownDryad_21: 21300042
+      GrownDryad_22: 21300044
+      GrownDryad_23: 21300046
+      GrownDryad_24: 21300048
+      GrownDryad_25: 21300050
+      GrownDryad_26: 21300052
+      GrownDryad_27: 21300054
+      GrownDryad_28: -8329102198465108802
+      GrownDryad_29: 2025120007444540516
+      GrownDryad_3: 21300006
+      GrownDryad_30: 7185677559900913618
+      GrownDryad_4: 21300008
+      GrownDryad_5: 21300010
+      GrownDryad_6: 21300012
+      GrownDryad_7: 21300014
+      GrownDryad_8: 21300016
+      GrownDryad_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

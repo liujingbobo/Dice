@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 0612cb170e17cf8448e998a995548a8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8287520642189339975
+    second: MushroomTreeStump_0
+  - first:
+      213: 5652496142378004474
+    second: MushroomTreeStump_1
+  - first:
+      213: 5840533491356751094
+    second: MushroomTreeStump_2
+  - first:
+      213: 3894656807581958676
+    second: MushroomTreeStump_3
+  - first:
+      213: 1438626861403591591
+    second: MushroomTreeStump_4
+  - first:
+      213: -5815102223194334800
+    second: MushroomTreeStump_5
+  - first:
+      213: -1461964494768775066
+    second: MushroomTreeStump_6
+  - first:
+      213: 7819423798709151305
+    second: MushroomTreeStump_7
+  - first:
+      213: -5333196183643463838
+    second: MushroomTreeStump_8
+  - first:
+      213: 7177090202970495242
+    second: MushroomTreeStump_9
+  - first:
+      213: 7490184456724482630
+    second: MushroomTreeStump_10
+  - first:
+      213: -2310069085522239399
+    second: MushroomTreeStump_11
+  - first:
+      213: 5284118519916183898
+    second: MushroomTreeStump_12
+  - first:
+      213: 1624896535858025598
+    second: MushroomTreeStump_13
+  - first:
+      213: 1697330137264711527
+    second: MushroomTreeStump_14
+  - first:
+      213: -5260425327177614993
+    second: MushroomTreeStump_15
+  - first:
+      213: 3365861889822921966
+    second: MushroomTreeStump_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomTreeStump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2569592efccfc80800000000000000
+      internalID: -8287520642189339975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe4b41b43b17e40800000000000000
+      internalID: 5652496142378004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f45713144ebd0150800000000000000
+      internalID: 5840533491356751094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412caf15bb99c0630800000000000000
+      internalID: 3894656807581958676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3db4e128707f310800000000000000
+      internalID: 1438626861403591591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9dae5765b9c4fa0800000000000000
+      internalID: -5815102223194334800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e21fa90f06bbe0800000000000000
+      internalID: -1461964494768775066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 51
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466b4e048c248c60800000000000000
+      internalID: 7819423798709151305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 51
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5674d35eacf5b0800000000000000
+      internalID: -5333196183643463838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091ef483852a9360800000000000000
+      internalID: 7177090202970495242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 51
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a0735241b72f760800000000000000
+      internalID: 7490184456724482630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950e5dee76cf0ffd0800000000000000
+      internalID: -2310069085522239399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51caa22cc5f45940800000000000000
+      internalID: 5284118519916183898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7494905acacc8610800000000000000
+      internalID: 1624896535858025598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 102
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676a3a54c02e8710800000000000000
+      internalID: 1697330137264711527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 102
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f693c1e29073ff6b0800000000000000
+      internalID: -5260425327177614993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomTreeStump_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49be14e81f5be20800000000000000
+      internalID: 3365861889822921966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomTreeStump_0: -8287520642189339975
+      MushroomTreeStump_1: 5652496142378004474
+      MushroomTreeStump_10: 7490184456724482630
+      MushroomTreeStump_11: -2310069085522239399
+      MushroomTreeStump_12: 5284118519916183898
+      MushroomTreeStump_13: 1624896535858025598
+      MushroomTreeStump_14: 1697330137264711527
+      MushroomTreeStump_15: -5260425327177614993
+      MushroomTreeStump_16: 3365861889822921966
+      MushroomTreeStump_2: 5840533491356751094
+      MushroomTreeStump_3: 3894656807581958676
+      MushroomTreeStump_4: 1438626861403591591
+      MushroomTreeStump_5: -5815102223194334800
+      MushroomTreeStump_6: -1461964494768775066
+      MushroomTreeStump_7: 7819423798709151305
+      MushroomTreeStump_8: -5333196183643463838
+      MushroomTreeStump_9: 7177090202970495242
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

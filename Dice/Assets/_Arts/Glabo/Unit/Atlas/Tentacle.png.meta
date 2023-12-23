@@ -1,0 +1,2122 @@
+fileFormatVersion: 2
+guid: 4a3805a17e544f1439825c18109e39aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -230194567796169486
+    second: Tentacle_0
+  - first:
+      213: -3698530600527905844
+    second: Tentacle_1
+  - first:
+      213: -2424643373458531914
+    second: Tentacle_2
+  - first:
+      213: -7769048046361313418
+    second: Tentacle_3
+  - first:
+      213: -371363994066133863
+    second: Tentacle_4
+  - first:
+      213: -2476758094482753771
+    second: Tentacle_5
+  - first:
+      213: 6445722554285749527
+    second: Tentacle_6
+  - first:
+      213: 2807764058211048169
+    second: Tentacle_7
+  - first:
+      213: -6641966940408671036
+    second: Tentacle_8
+  - first:
+      213: -4499444728327955300
+    second: Tentacle_9
+  - first:
+      213: -792337915764695795
+    second: Tentacle_10
+  - first:
+      213: -775377126932401933
+    second: Tentacle_11
+  - first:
+      213: 4938286481205000417
+    second: Tentacle_12
+  - first:
+      213: -4020679942298502617
+    second: Tentacle_13
+  - first:
+      213: -6017321535553466151
+    second: Tentacle_14
+  - first:
+      213: 4592551069292734538
+    second: Tentacle_15
+  - first:
+      213: 1196106464794581451
+    second: Tentacle_16
+  - first:
+      213: -517768435184761277
+    second: Tentacle_17
+  - first:
+      213: -5781335473866715485
+    second: Tentacle_18
+  - first:
+      213: 829001173142502987
+    second: Tentacle_19
+  - first:
+      213: -969763574666063299
+    second: Tentacle_20
+  - first:
+      213: 6439082519067934916
+    second: Tentacle_21
+  - first:
+      213: 2645432718938008894
+    second: Tentacle_22
+  - first:
+      213: -5625584650672555421
+    second: Tentacle_23
+  - first:
+      213: -1617888818465000063
+    second: Tentacle_24
+  - first:
+      213: 1198261237655756562
+    second: Tentacle_25
+  - first:
+      213: -8751494877119901387
+    second: Tentacle_26
+  - first:
+      213: -3331266768763546743
+    second: Tentacle_27
+  - first:
+      213: 2876451917037622528
+    second: Tentacle_28
+  - first:
+      213: -5966862459877935950
+    second: Tentacle_29
+  - first:
+      213: 3564962580687354140
+    second: Tentacle_30
+  - first:
+      213: -1092794550417769736
+    second: Tentacle_31
+  - first:
+      213: -5465232490825567805
+    second: Tentacle_32
+  - first:
+      213: 6116336387135244427
+    second: Tentacle_33
+  - first:
+      213: -6684180243920467567
+    second: Tentacle_34
+  - first:
+      213: -8525337187858210689
+    second: Tentacle_35
+  - first:
+      213: -6418648519333584490
+    second: Tentacle_36
+  - first:
+      213: -5350705890405983190
+    second: Tentacle_37
+  - first:
+      213: 6930791776221515909
+    second: Tentacle_38
+  - first:
+      213: -3903738029978068940
+    second: Tentacle_39
+  - first:
+      213: -115567979191015649
+    second: Tentacle_40
+  - first:
+      213: 4192448079751897836
+    second: Tentacle_41
+  - first:
+      213: 7874867764271491848
+    second: Tentacle_42
+  - first:
+      213: -2570399115200530265
+    second: Tentacle_43
+  - first:
+      213: 2499754875509697083
+    second: Tentacle_44
+  - first:
+      213: 792228336741692815
+    second: Tentacle_45
+  - first:
+      213: -5548782442545742989
+    second: Tentacle_46
+  - first:
+      213: -5766852465645457898
+    second: Tentacle_47
+  - first:
+      213: -7442120499443128939
+    second: Tentacle_48
+  - first:
+      213: -7306273852173569940
+    second: Tentacle_49
+  - first:
+      213: -2068113318375569983
+    second: Tentacle_50
+  - first:
+      213: -859706569375481207
+    second: Tentacle_51
+  - first:
+      213: -1961903643310377718
+    second: Tentacle_52
+  - first:
+      213: 1686230597187125325
+    second: Tentacle_53
+  - first:
+      213: -4529610694693873253
+    second: Tentacle_54
+  - first:
+      213: 1927529046622488462
+    second: Tentacle_55
+  - first:
+      213: 994591334337482590
+    second: Tentacle_56
+  - first:
+      213: 2242174486610248866
+    second: Tentacle_57
+  - first:
+      213: -1295161734613427757
+    second: Tentacle_58
+  - first:
+      213: -9116744122920519111
+    second: Tentacle_59
+  - first:
+      213: 3140192474634643339
+    second: Tentacle_60
+  - first:
+      213: -1199330968415861006
+    second: Tentacle_61
+  - first:
+      213: 2940574520431005976
+    second: Tentacle_62
+  - first:
+      213: 1282561672185837285
+    second: Tentacle_63
+  - first:
+      213: -7257685884164525435
+    second: Tentacle_64
+  - first:
+      213: 6981437531034995289
+    second: Tentacle_65
+  - first:
+      213: -188721806432806467
+    second: Tentacle_66
+  - first:
+      213: 8292852664243345499
+    second: Tentacle_67
+  - first:
+      213: 6436929338187837939
+    second: Tentacle_68
+  - first:
+      213: 1778756164749043842
+    second: Tentacle_69
+  - first:
+      213: 7762658646837443618
+    second: Tentacle_70
+  - first:
+      213: -5436200841229644188
+    second: Tentacle_71
+  - first:
+      213: -6458042538342850344
+    second: Tentacle_72
+  - first:
+      213: 3699122336074414750
+    second: Tentacle_73
+  - first:
+      213: -1142568323703313122
+    second: Tentacle_74
+  - first:
+      213: 9053636610557499548
+    second: Tentacle_75
+  - first:
+      213: -7112785172058482588
+    second: Tentacle_76
+  - first:
+      213: 1330574121944743807
+    second: Tentacle_77
+  - first:
+      213: 4371757526470469715
+    second: Tentacle_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tentacle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4e84d924f2eccf0800000000000000
+      internalID: -230194567796169486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3f94b30e2cacc0800000000000000
+      internalID: -3698530600527905844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9dff9b2bfe95ed0800000000000000
+      internalID: -2424643373458531914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff0b9c6fbce2490800000000000000
+      internalID: -7769048046361313418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c515b3a66a8daf0800000000000000
+      internalID: -371363994066133863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51738cfa2a9c0add0800000000000000
+      internalID: -2476758094482753771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715fce0238ec37950800000000000000
+      internalID: 6445722554285749527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea57c6e88e27f620800000000000000
+      internalID: 2807764058211048169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c49d03224ef2d3a0800000000000000
+      internalID: -6641966940408671036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c1281dbd2ce81c0800000000000000
+      internalID: -4499444728327955300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d95c41ddc0105f0800000000000000
+      internalID: -792337915764695795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f03b367c9e4d35f0800000000000000
+      internalID: -775377126932401933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87657f361588440800000000000000
+      internalID: 4938286481205000417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a72cb15eca338c0800000000000000
+      internalID: -4020679942298502617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0170ec1fd2e7ca0800000000000000
+      internalID: -6017321535553466151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a80a7dd40cbf30800000000000000
+      internalID: 4592551069292734538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc911a31e7c699010800000000000000
+      internalID: 1196106464794581451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34607e8f95480d8f0800000000000000
+      internalID: -517768435184761277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae4fc0740294cfa0800000000000000
+      internalID: -5781335473866715485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7a8bbc24318b00800000000000000
+      internalID: 829001173142502987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329ae7ba25ba82f0800000000000000
+      internalID: -969763574666063299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c8747f673c5950800000000000000
+      internalID: 6439082519067934916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dee71ba0776b420800000000000000
+      internalID: 2645432718938008894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab5cad098ede1b0800000000000000
+      internalID: -5625584650672555421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185315901ba1c89e0800000000000000
+      internalID: -1617888818465000063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f579a3f3411a010800000000000000
+      internalID: 1198261237655756562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311e93d6c17c8680800000000000000
+      internalID: -8751494877119901387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98319cb0686f4c1d0800000000000000
+      internalID: -3331266768763546743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005d48847c53be720800000000000000
+      internalID: 2876451917037622528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bc5fd432713da0800000000000000
+      internalID: -5966862459877935950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19fd63449a497130800000000000000
+      internalID: 3564962580687354140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fabdd1752d95d0f0800000000000000
+      internalID: -1092794550417769736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 57
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c13b6171089724b0800000000000000
+      internalID: -5465232490825567805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.26785716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880ef1d98791e450800000000000000
+      internalID: 6116336387135244427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199cf628b750d33a0800000000000000
+      internalID: -6684180243920467567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a84f2ffaefa980800000000000000
+      internalID: -8525337187858210689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e80bdd216ce6a0800000000000000
+      internalID: -6418648519333584490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 57
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd2c887597eb5b0800000000000000
+      internalID: -5350705890405983190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 57
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d1e9466e1f2060800000000000000
+      internalID: 6930791776221515909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 57
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43859f2d1f223d9c0800000000000000
+      internalID: -3903738029978068940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e8e4098b656ef0800000000000000
+      internalID: -115567979191015649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 57
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce261e4e0519e2a30800000000000000
+      internalID: 4192448079751897836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba39e3286294d60800000000000000
+      internalID: 7874867764271491848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87e7f8f9b145cd0800000000000000
+      internalID: -2570399115200530265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6e44a0d9e0b220800000000000000
+      internalID: 2499754875509697083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_45
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85bc70997f8efa00800000000000000
+      internalID: 792228336741692815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_46
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bf22864c3cef2b0800000000000000
+      internalID: -5548782442545742989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eed119c3608ffa0800000000000000
+      internalID: -5766852465645457898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5952a07f5d648b890800000000000000
+      internalID: -7442120499443128939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 57
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60387944a6ea9a90800000000000000
+      internalID: -7306273852173569940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 57
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c548fee4e59c43e0800000000000000
+      internalID: -2068113318375569983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 57
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9820e491e65b114f0800000000000000
+      internalID: -859706569375481207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 57
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b0f0f70be5c4e0800000000000000
+      internalID: -1961903643310377718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40cbba4bc1b66710800000000000000
+      internalID: 1686230597187125325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9916f372179321c0800000000000000
+      internalID: -4529610694693873253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e874e269475ffba10800000000000000
+      internalID: 1927529046622488462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0edb8c8f7dcd00800000000000000
+      internalID: 994591334337482590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a409d6e0ddcd1f10800000000000000
+      internalID: 2242174486610248866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 114
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d910b1b349a60ee0800000000000000
+      internalID: -1295161734613427757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3135d581da7180800000000000000
+      internalID: -9116744122920519111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e3f01b64349b20800000000000000
+      internalID: 3140192474634643339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6827ba6de1b5fe0800000000000000
+      internalID: -1199330968415861006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811dadd42f40fc820800000000000000
+      internalID: 2940574520431005976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6fa29ab039cc110800000000000000
+      internalID: 1282561672185837285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b1072425874b90800000000000000
+      internalID: -7257685884164525435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95acbeaf17c03e060800000000000000
+      internalID: 6981437531034995289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d3365486816df0800000000000000
+      internalID: -188721806432806467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5850ea8f81261370800000000000000
+      internalID: 8292852664243345499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f9f6f021945950800000000000000
+      internalID: 6436929338187837939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_69
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28827edbe496fa810800000000000000
+      internalID: 1778756164749043842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 114
+        width: 18
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3c5539e08abb60800000000000000
+      internalID: 7762658646837443618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_71
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec3da132cbe84b0800000000000000
+      internalID: -5436200841229644188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_72
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d066bd078c6066a0800000000000000
+      internalID: -6458042538342850344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_73
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9abd667a2ce55330800000000000000
+      internalID: 3699122336074414750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 114
+        width: 20
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dec06c928c420f0800000000000000
+      internalID: -1142568323703313122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_75
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9850c1778af4ad70800000000000000
+      internalID: 9053636610557499548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468d9c7329f4a4d90800000000000000
+      internalID: -7112785172058482588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff7dd3d16277210800000000000000
+      internalID: 1330574121944743807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle_78
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 114
+        width: 19
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a969ce4a9bac30800000000000000
+      internalID: 4371757526470469715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tentacle_0: -230194567796169486
+      Tentacle_1: -3698530600527905844
+      Tentacle_10: -792337915764695795
+      Tentacle_11: -775377126932401933
+      Tentacle_12: 4938286481205000417
+      Tentacle_13: -4020679942298502617
+      Tentacle_14: -6017321535553466151
+      Tentacle_15: 4592551069292734538
+      Tentacle_16: 1196106464794581451
+      Tentacle_17: -517768435184761277
+      Tentacle_18: -5781335473866715485
+      Tentacle_19: 829001173142502987
+      Tentacle_2: -2424643373458531914
+      Tentacle_20: -969763574666063299
+      Tentacle_21: 6439082519067934916
+      Tentacle_22: 2645432718938008894
+      Tentacle_23: -5625584650672555421
+      Tentacle_24: -1617888818465000063
+      Tentacle_25: 1198261237655756562
+      Tentacle_26: -8751494877119901387
+      Tentacle_27: -3331266768763546743
+      Tentacle_28: 2876451917037622528
+      Tentacle_29: -5966862459877935950
+      Tentacle_3: -7769048046361313418
+      Tentacle_30: 3564962580687354140
+      Tentacle_31: -1092794550417769736
+      Tentacle_32: -5465232490825567805
+      Tentacle_33: 6116336387135244427
+      Tentacle_34: -6684180243920467567
+      Tentacle_35: -8525337187858210689
+      Tentacle_36: -6418648519333584490
+      Tentacle_37: -5350705890405983190
+      Tentacle_38: 6930791776221515909
+      Tentacle_39: -3903738029978068940
+      Tentacle_4: -371363994066133863
+      Tentacle_40: -115567979191015649
+      Tentacle_41: 4192448079751897836
+      Tentacle_42: 7874867764271491848
+      Tentacle_43: -2570399115200530265
+      Tentacle_44: 2499754875509697083
+      Tentacle_45: 792228336741692815
+      Tentacle_46: -5548782442545742989
+      Tentacle_47: -5766852465645457898
+      Tentacle_48: -7442120499443128939
+      Tentacle_49: -7306273852173569940
+      Tentacle_5: -2476758094482753771
+      Tentacle_50: -2068113318375569983
+      Tentacle_51: -859706569375481207
+      Tentacle_52: -1961903643310377718
+      Tentacle_53: 1686230597187125325
+      Tentacle_54: -4529610694693873253
+      Tentacle_55: 1927529046622488462
+      Tentacle_56: 994591334337482590
+      Tentacle_57: 2242174486610248866
+      Tentacle_58: -1295161734613427757
+      Tentacle_59: -9116744122920519111
+      Tentacle_6: 6445722554285749527
+      Tentacle_60: 3140192474634643339
+      Tentacle_61: -1199330968415861006
+      Tentacle_62: 2940574520431005976
+      Tentacle_63: 1282561672185837285
+      Tentacle_64: -7257685884164525435
+      Tentacle_65: 6981437531034995289
+      Tentacle_66: -188721806432806467
+      Tentacle_67: 8292852664243345499
+      Tentacle_68: 6436929338187837939
+      Tentacle_69: 1778756164749043842
+      Tentacle_7: 2807764058211048169
+      Tentacle_70: 7762658646837443618
+      Tentacle_71: -5436200841229644188
+      Tentacle_72: -6458042538342850344
+      Tentacle_73: 3699122336074414750
+      Tentacle_74: -1142568323703313122
+      Tentacle_75: 9053636610557499548
+      Tentacle_76: -7112785172058482588
+      Tentacle_77: 1330574121944743807
+      Tentacle_78: 4371757526470469715
+      Tentacle_8: -6641966940408671036
+      Tentacle_9: -4499444728327955300
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

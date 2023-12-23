@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 33f6b86eb668b7745a52ce71dc51b839
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LittleGlabo_0
+  - first:
+      213: 21300002
+    second: LittleGlabo_1
+  - first:
+      213: 21300004
+    second: LittleGlabo_2
+  - first:
+      213: 21300006
+    second: LittleGlabo_3
+  - first:
+      213: 21300008
+    second: LittleGlabo_4
+  - first:
+      213: 21300010
+    second: LittleGlabo_5
+  - first:
+      213: 21300012
+    second: LittleGlabo_6
+  - first:
+      213: 21300014
+    second: LittleGlabo_7
+  - first:
+      213: 21300016
+    second: LittleGlabo_8
+  - first:
+      213: 21300018
+    second: LittleGlabo_9
+  - first:
+      213: 21300020
+    second: LittleGlabo_10
+  - first:
+      213: 21300022
+    second: LittleGlabo_11
+  - first:
+      213: 21300024
+    second: LittleGlabo_12
+  - first:
+      213: 21300026
+    second: LittleGlabo_13
+  - first:
+      213: 21300028
+    second: LittleGlabo_14
+  - first:
+      213: 21300030
+    second: LittleGlabo_15
+  - first:
+      213: 21300032
+    second: LittleGlabo_16
+  - first:
+      213: 21300034
+    second: LittleGlabo_17
+  - first:
+      213: 21300036
+    second: LittleGlabo_18
+  - first:
+      213: 21300038
+    second: LittleGlabo_19
+  - first:
+      213: 21300040
+    second: LittleGlabo_20
+  - first:
+      213: 21300042
+    second: LittleGlabo_21
+  - first:
+      213: 21300044
+    second: LittleGlabo_22
+  - first:
+      213: 21300046
+    second: LittleGlabo_23
+  - first:
+      213: 21300048
+    second: LittleGlabo_24
+  - first:
+      213: 21300050
+    second: LittleGlabo_25
+  - first:
+      213: 21300052
+    second: LittleGlabo_26
+  - first:
+      213: -1240345659377552217
+    second: LittleGlabo_27
+  - first:
+      213: -6511582803873455867
+    second: LittleGlabo_28
+  - first:
+      213: 8665229047089817055
+    second: LittleGlabo_29
+  - first:
+      213: -9207205494667250775
+    second: LittleGlabo_30
+  - first:
+      213: -7628662853016955389
+    second: LittleGlabo_31
+  - first:
+      213: 1998104737841695329
+    second: LittleGlabo_32
+  - first:
+      213: -2149415810308322435
+    second: LittleGlabo_33
+  - first:
+      213: -5749428345250085901
+    second: LittleGlabo_34
+  - first:
+      213: -4878244556266216783
+    second: LittleGlabo_35
+  - first:
+      213: -255597733879840765
+    second: LittleGlabo_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleGlabo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 23
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 23
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47a16c13869cee0800000000000000
+      internalID: -1240345659377552217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a49190f532a5a0800000000000000
+      internalID: -6511582803873455867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56f2178e3114870800000000000000
+      internalID: 8665229047089817055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3755c626f693080800000000000000
+      internalID: -9207205494667250775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 59
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d4b6bd8b812690800000000000000
+      internalID: -7628662853016955389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a44133ca1babb10800000000000000
+      internalID: 1998104737841695329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 82
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.40909094, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc6f765bdbb22e0800000000000000
+      internalID: -2149415810308322435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 82
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f38ecbb16de530b0800000000000000
+      internalID: -5749428345250085901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2e4401c6efc4cb0800000000000000
+      internalID: -4878244556266216783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleGlabo_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30082ba173fe37cf0800000000000000
+      internalID: -255597733879840765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LittleGlabo_0: 21300000
+      LittleGlabo_1: 21300002
+      LittleGlabo_10: 21300020
+      LittleGlabo_11: 21300022
+      LittleGlabo_12: 21300024
+      LittleGlabo_13: 21300026
+      LittleGlabo_14: 21300028
+      LittleGlabo_15: 21300030
+      LittleGlabo_16: 21300032
+      LittleGlabo_17: 21300034
+      LittleGlabo_18: 21300036
+      LittleGlabo_19: 21300038
+      LittleGlabo_2: 21300004
+      LittleGlabo_20: 21300040
+      LittleGlabo_21: 21300042
+      LittleGlabo_22: 21300044
+      LittleGlabo_23: 21300046
+      LittleGlabo_24: 21300048
+      LittleGlabo_25: 21300050
+      LittleGlabo_26: 21300052
+      LittleGlabo_27: -1240345659377552217
+      LittleGlabo_28: -6511582803873455867
+      LittleGlabo_29: 8665229047089817055
+      LittleGlabo_3: 21300006
+      LittleGlabo_30: -9207205494667250775
+      LittleGlabo_31: -7628662853016955389
+      LittleGlabo_32: 1998104737841695329
+      LittleGlabo_33: -2149415810308322435
+      LittleGlabo_34: -5749428345250085901
+      LittleGlabo_35: -4878244556266216783
+      LittleGlabo_36: -255597733879840765
+      LittleGlabo_4: 21300008
+      LittleGlabo_5: 21300010
+      LittleGlabo_6: 21300012
+      LittleGlabo_7: 21300014
+      LittleGlabo_8: 21300016
+      LittleGlabo_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: b2663a4b6a4292b4f9c16d199dd46d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7745035949516370473
+    second: BouncingBomb_0
+  - first:
+      213: -8524348124289928836
+    second: BouncingBomb_1
+  - first:
+      213: -4851220180479816223
+    second: BouncingBomb_2
+  - first:
+      213: 1385296131569565510
+    second: BouncingBomb_3
+  - first:
+      213: -5218851054459135303
+    second: BouncingBomb_4
+  - first:
+      213: 3904307765828424859
+    second: BouncingBomb_5
+  - first:
+      213: 145344841575471063
+    second: BouncingBomb_6
+  - first:
+      213: -1531322481659531299
+    second: BouncingBomb_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BouncingBomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922bd8f3925eb7b60800000000000000
+      internalID: 7745035949516370473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c717eed7b8e63b980800000000000000
+      internalID: -8524348124289928836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed4b4fd2f00dacb0800000000000000
+      internalID: -4851220180479816223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3de6fd7f893310800000000000000
+      internalID: 1385296131569565510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5a4bdd9ae297b0800000000000000
+      internalID: -5218851054459135303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: -0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9490042a33ee2630800000000000000
+      internalID: 3904307765828424859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: -0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79a040d5e540200800000000000000
+      internalID: 145344841575471063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingBomb_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 81
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2d14f056afbae0800000000000000
+      internalID: -1531322481659531299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BouncingBomb_0: 7745035949516370473
+      BouncingBomb_1: -8524348124289928836
+      BouncingBomb_2: -4851220180479816223
+      BouncingBomb_3: 1385296131569565510
+      BouncingBomb_4: -5218851054459135303
+      BouncingBomb_5: 3904307765828424859
+      BouncingBomb_6: 145344841575471063
+      BouncingBomb_7: -1531322481659531299
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

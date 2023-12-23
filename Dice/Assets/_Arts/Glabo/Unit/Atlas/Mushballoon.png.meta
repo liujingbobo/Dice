@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: bd6799b9b20358a4780bc2438c9bcf82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 688728111102845154
+    second: Mushballoon_0
+  - first:
+      213: -7486256958254518603
+    second: Mushballoon_1
+  - first:
+      213: -1582560945095706036
+    second: Mushballoon_2
+  - first:
+      213: 1729283365115810940
+    second: Mushballoon_3
+  - first:
+      213: 2088729644311982951
+    second: Mushballoon_4
+  - first:
+      213: -6981512377412071959
+    second: Mushballoon_5
+  - first:
+      213: 3006592861441719059
+    second: Mushballoon_6
+  - first:
+      213: 6954610240507536349
+    second: Mushballoon_7
+  - first:
+      213: 8406476692432374084
+    second: Mushballoon_8
+  - first:
+      213: -6955278277125100403
+    second: Mushballoon_9
+  - first:
+      213: 2810065251068162226
+    second: Mushballoon_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushballoon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06c19619ade8900800000000000000
+      internalID: 688728111102845154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be61f9d5f87b1890800000000000000
+      internalID: -7486256958254518603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af928843d990ae0800000000000000
+      internalID: -1582560945095706036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7458b5fe06aff710800000000000000
+      internalID: 1729283365115810940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7633b018b88acfc10800000000000000
+      internalID: 2088729644311982951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed4c5d7b7fac1f90800000000000000
+      internalID: -6981512377412071959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7572274099b920800000000000000
+      internalID: 3006592861441719059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3eeb8aa2db38060800000000000000
+      internalID: 6954610240507536349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494809230ec9a470800000000000000
+      internalID: 8406476692432374084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 46
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca7f1f143e97f90800000000000000
+      internalID: -6955278277125100403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushballoon_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 46
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0369d157b5ff620800000000000000
+      internalID: 2810065251068162226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mushballoon_0: 688728111102845154
+      Mushballoon_1: -7486256958254518603
+      Mushballoon_10: 2810065251068162226
+      Mushballoon_2: -1582560945095706036
+      Mushballoon_3: 1729283365115810940
+      Mushballoon_4: 2088729644311982951
+      Mushballoon_5: -6981512377412071959
+      Mushballoon_6: 3006592861441719059
+      Mushballoon_7: 6954610240507536349
+      Mushballoon_8: 8406476692432374084
+      Mushballoon_9: -6955278277125100403
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

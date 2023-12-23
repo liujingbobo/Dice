@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 67321c0d89220124c80387ae4718a7dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -783845813295036632
+    second: UnseenDiva_0
+  - first:
+      213: -8620693386284190781
+    second: UnseenDiva_1
+  - first:
+      213: 7615318938590889359
+    second: UnseenDiva_2
+  - first:
+      213: 6609443119279219787
+    second: UnseenDiva_3
+  - first:
+      213: -6870475181857221457
+    second: UnseenDiva_4
+  - first:
+      213: -3725429531055959782
+    second: UnseenDiva_5
+  - first:
+      213: 842958061739995212
+    second: UnseenDiva_6
+  - first:
+      213: -7097280349619256252
+    second: UnseenDiva_7
+  - first:
+      213: 4925575128549464440
+    second: UnseenDiva_8
+  - first:
+      213: -6516584212347796479
+    second: UnseenDiva_9
+  - first:
+      213: -930130633638750985
+    second: UnseenDiva_10
+  - first:
+      213: -2886012234163296232
+    second: UnseenDiva_11
+  - first:
+      213: 5290491382835521984
+    second: UnseenDiva_12
+  - first:
+      213: -8194956156735766046
+    second: UnseenDiva_13
+  - first:
+      213: 6718621643794123628
+    second: UnseenDiva_14
+  - first:
+      213: -8503387484415855501
+    second: UnseenDiva_15
+  - first:
+      213: 7963625550589642485
+    second: UnseenDiva_16
+  - first:
+      213: 7030312963576948422
+    second: UnseenDiva_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnseenDiva_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274fd3c2683f15f0800000000000000
+      internalID: -783845813295036632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b8f02a052d5880800000000000000
+      internalID: -8620693386284190781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c30a1a3c0fa960800000000000000
+      internalID: 7615318938590889359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44a9c7af7579bb50800000000000000
+      internalID: 6609443119279219787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45343393b27a0a0800000000000000
+      internalID: -6870475181857221457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11d8a5649d9c4cc0800000000000000
+      internalID: -3725429531055959782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.24489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40709614e9c2bb00800000000000000
+      internalID: 842958061739995212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.2244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44485910025618d90800000000000000
+      internalID: -7097280349619256252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 29
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87990bb8b782b5440800000000000000
+      internalID: 4925575128549464440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104471a6f217095a0800000000000000
+      internalID: -6516584212347796479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 51
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d043ed138713f0800000000000000
+      internalID: -930130633638750985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 51
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818e34de923d2f7d0800000000000000
+      internalID: -2886012234163296232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 29
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c92d29e1e99b6940800000000000000
+      internalID: 5290491382835521984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 51
+        width: 29
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e14ddf4bcaa54e80800000000000000
+      internalID: -8194956156735766046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 51
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b899ac9c65d3d50800000000000000
+      internalID: 6718621643794123628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f3e3c226edf980800000000000000
+      internalID: -8503387484415855501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnseenDiva_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ce13ce3b748e60800000000000000
+      internalID: 7963625550589642485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UnseenDiva_0: -783845813295036632
+      UnseenDiva_1: -8620693386284190781
+      UnseenDiva_10: -930130633638750985
+      UnseenDiva_11: -2886012234163296232
+      UnseenDiva_12: 5290491382835521984
+      UnseenDiva_13: -8194956156735766046
+      UnseenDiva_14: 6718621643794123628
+      UnseenDiva_15: -8503387484415855501
+      UnseenDiva_16: 7963625550589642485
+      UnseenDiva_2: 7615318938590889359
+      UnseenDiva_3: 6609443119279219787
+      UnseenDiva_4: -6870475181857221457
+      UnseenDiva_5: -3725429531055959782
+      UnseenDiva_6: 842958061739995212
+      UnseenDiva_7: -7097280349619256252
+      UnseenDiva_8: 4925575128549464440
+      UnseenDiva_9: -6516584212347796479
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

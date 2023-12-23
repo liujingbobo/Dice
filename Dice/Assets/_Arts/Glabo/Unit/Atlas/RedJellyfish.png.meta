@@ -1,0 +1,1647 @@
+fileFormatVersion: 2
+guid: e36aa8375179fa640a84c209282588a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115774644364478261
+    second: RedJellyfish_0
+  - first:
+      213: -3694483287956502046
+    second: RedJellyfish_1
+  - first:
+      213: -3273732996048389052
+    second: RedJellyfish_2
+  - first:
+      213: 7212652358192077133
+    second: RedJellyfish_3
+  - first:
+      213: -5427593195584786859
+    second: RedJellyfish_4
+  - first:
+      213: -5786275398139970420
+    second: RedJellyfish_5
+  - first:
+      213: -1330885998136054449
+    second: RedJellyfish_6
+  - first:
+      213: -3305219610681425812
+    second: RedJellyfish_7
+  - first:
+      213: -5891801206055933225
+    second: RedJellyfish_8
+  - first:
+      213: -3768828586242668606
+    second: RedJellyfish_9
+  - first:
+      213: -1354693395429733204
+    second: RedJellyfish_10
+  - first:
+      213: -7096540881788092698
+    second: RedJellyfish_11
+  - first:
+      213: -7860121182880167457
+    second: RedJellyfish_12
+  - first:
+      213: -2563529255966575998
+    second: RedJellyfish_13
+  - first:
+      213: -3296434474406855405
+    second: RedJellyfish_14
+  - first:
+      213: 1680423783027431446
+    second: RedJellyfish_15
+  - first:
+      213: 5882816277838573001
+    second: RedJellyfish_16
+  - first:
+      213: -2320752884244076768
+    second: RedJellyfish_17
+  - first:
+      213: -8778704687788312559
+    second: RedJellyfish_18
+  - first:
+      213: -4368794893717697664
+    second: RedJellyfish_19
+  - first:
+      213: 2041073194039366923
+    second: RedJellyfish_20
+  - first:
+      213: 7356216690766853784
+    second: RedJellyfish_21
+  - first:
+      213: -489340936733244478
+    second: RedJellyfish_22
+  - first:
+      213: 5890880064563205658
+    second: RedJellyfish_23
+  - first:
+      213: -1865271766307921856
+    second: RedJellyfish_24
+  - first:
+      213: 3786809334394877471
+    second: RedJellyfish_25
+  - first:
+      213: 3657175117232161870
+    second: RedJellyfish_26
+  - first:
+      213: 554654386134734850
+    second: RedJellyfish_27
+  - first:
+      213: -8231760935113938808
+    second: RedJellyfish_28
+  - first:
+      213: 5963496014884289778
+    second: RedJellyfish_29
+  - first:
+      213: -5216835264642670334
+    second: RedJellyfish_30
+  - first:
+      213: 6865761886976362440
+    second: RedJellyfish_31
+  - first:
+      213: 4387229918710593154
+    second: RedJellyfish_32
+  - first:
+      213: 4066358089958092274
+    second: RedJellyfish_33
+  - first:
+      213: -5236577020706568834
+    second: RedJellyfish_34
+  - first:
+      213: 4202769551960279432
+    second: RedJellyfish_35
+  - first:
+      213: -397794018499781079
+    second: RedJellyfish_36
+  - first:
+      213: 3592282229202283105
+    second: RedJellyfish_37
+  - first:
+      213: -6996532184091599472
+    second: RedJellyfish_38
+  - first:
+      213: 7130211101541580383
+    second: RedJellyfish_39
+  - first:
+      213: -3493536325557955658
+    second: RedJellyfish_40
+  - first:
+      213: -9157258024504596540
+    second: RedJellyfish_41
+  - first:
+      213: -3927821745084298852
+    second: RedJellyfish_42
+  - first:
+      213: -8960057163684186633
+    second: RedJellyfish_43
+  - first:
+      213: 4391191372063829231
+    second: RedJellyfish_44
+  - first:
+      213: -3462818306854301445
+    second: RedJellyfish_45
+  - first:
+      213: -3014374747066214753
+    second: RedJellyfish_46
+  - first:
+      213: 6030012116470871927
+    second: RedJellyfish_47
+  - first:
+      213: 6331580709458656533
+    second: RedJellyfish_48
+  - first:
+      213: 6237121920921279003
+    second: RedJellyfish_49
+  - first:
+      213: 5596754344010299189
+    second: RedJellyfish_50
+  - first:
+      213: 3483517571780599225
+    second: RedJellyfish_51
+  - first:
+      213: 6536682234070528894
+    second: RedJellyfish_52
+  - first:
+      213: 669212067946148673
+    second: RedJellyfish_53
+  - first:
+      213: -1043503954178984274
+    second: RedJellyfish_54
+  - first:
+      213: 6767017627267261640
+    second: RedJellyfish_55
+  - first:
+      213: -3403573855720331261
+    second: RedJellyfish_56
+  - first:
+      213: -5243822962454636064
+    second: RedJellyfish_57
+  - first:
+      213: -1077267597902564262
+    second: RedJellyfish_58
+  - first:
+      213: -4664973421707791868
+    second: RedJellyfish_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedJellyfish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53787723a0601a070800000000000000
+      internalID: 8115774644364478261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26829267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e94cb8160f8abcc0800000000000000
+      internalID: -3694483287956502046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c7f016f2d5192d0800000000000000
+      internalID: -3273732996048389052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491c620b1d781460800000000000000
+      internalID: 7212652358192077133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e67d7ceb05da4b0800000000000000
+      internalID: -5427593195584786859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf841be2503bfa0800000000000000
+      internalID: -5786275398139970420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d2f8c6c3eb78de0800000000000000
+      internalID: -1330885998136054449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60cda0a6408122d0800000000000000
+      internalID: -3305219610681425812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da61d9e40e1c3ea0800000000000000
+      internalID: -5891801206055933225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70ba17e5e62bbc0800000000000000
+      internalID: -3768828586242668606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc7d9c889233de0800000000000000
+      internalID: -1354693395429733204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eebbf6caa5048d90800000000000000
+      internalID: -7096540881788092698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd987eacd6d3be290800000000000000
+      internalID: -7860121182880167457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2827ace49b38c6cd0800000000000000
+      internalID: -2563529255966575998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 44
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db0af8f46b042d0800000000000000
+      internalID: -3296434474406855405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 44
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618d7730780125710800000000000000
+      internalID: 1680423783027431446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 44
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd24777c36f3a150800000000000000
+      internalID: 5882816277838573001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272b233c870bcfd0800000000000000
+      internalID: -2320752884244076768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 44
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26829267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11832581996cb2680800000000000000
+      internalID: -8778704687788312559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 44
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b8a67e03cee53c0800000000000000
+      internalID: -4368794893717697664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 44
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d9438149535c10800000000000000
+      internalID: 2041073194039366923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 44
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89635f7fa18861660800000000000000
+      internalID: 7356216690766853784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 44
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c345fbb2038539f0800000000000000
+      internalID: -489340936733244478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1658be153c90c150800000000000000
+      internalID: 5890880064563205658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 89
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040a6af06393d16e0800000000000000
+      internalID: -1865271766307921856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 89
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f167db8b6037d8430800000000000000
+      internalID: 3786809334394877471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4445008465e0c230800000000000000
+      internalID: 3657175117232161870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 89
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085caab93782b700800000000000000
+      internalID: 554654386134734850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 89
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47727275, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a8921b09e2cd80800000000000000
+      internalID: -8231760935113938808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 89
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcb2a2970892c250800000000000000
+      internalID: 5963496014884289778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 89
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012e3f77f31a97b0800000000000000
+      internalID: -5216835264642670334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 89
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c744a15f06184f50800000000000000
+      internalID: 6865761886976362440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 89
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f5b4dd5292ec30800000000000000
+      internalID: 4387229918710593154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 89
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26829267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdec79632b9e6830800000000000000
+      internalID: 4066358089958092274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 89
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75cfc9b1f0f357b0800000000000000
+      internalID: -5236577020706568834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 89
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898b69e3ac335a30800000000000000
+      internalID: 4202769551960279432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e9b81a270ca7af0800000000000000
+      internalID: -397794018499781079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aec8c97a95ad130800000000000000
+      internalID: 3592282229202283105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 134
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dd1ab3c0357ee90800000000000000
+      internalID: -6996532184091599472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ebee8283993f260800000000000000
+      internalID: 7130211101541580383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 134
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d131b837748fc0800000000000000
+      internalID: -3493536325557955658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 134
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7eecc0852eae080800000000000000
+      internalID: -9157258024504596540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 134
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99023feee29d79c0800000000000000
+      internalID: -3927821745084298852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 134
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5f8676b7b77a380800000000000000
+      internalID: -8960057163684186633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 134
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecef909945a0fc30800000000000000
+      internalID: 4391191372063829231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_45
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 134
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0da32c81991ffc0800000000000000
+      internalID: -3462818306854301445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 134
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d53d632aca26d0800000000000000
+      internalID: -3014374747066214753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7773c815218eea350800000000000000
+      internalID: 6030012116470871927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 179
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbffdeb1b4ed750800000000000000
+      internalID: 6331580709458656533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 179
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a90556755be8650800000000000000
+      internalID: 6237121920921279003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 179
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bbd94c6aabad40800000000000000
+      internalID: 5596754344010299189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd50da66c0f75030800000000000000
+      internalID: 3483517571780599225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 179
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73716bebd5f6ba50800000000000000
+      internalID: 6536682234070528894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 179
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b55584d4894900800000000000000
+      internalID: 669212067946148673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 179
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea63271beaab481f0800000000000000
+      internalID: -1043503954178984274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 179
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c46216cda649ed50800000000000000
+      internalID: 6767017627267261640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 179
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308abf27c9314c0d0800000000000000
+      internalID: -3403573855720331261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_57
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 179
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9dad17cc23a37b0800000000000000
+      internalID: -5243822962454636064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 179
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54bafac3d6cc01f0800000000000000
+      internalID: -1077267597902564262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedJellyfish_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f778936fa24fb0800000000000000
+      internalID: -4664973421707791868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedJellyfish_0: 8115774644364478261
+      RedJellyfish_1: -3694483287956502046
+      RedJellyfish_10: -1354693395429733204
+      RedJellyfish_11: -7096540881788092698
+      RedJellyfish_12: -7860121182880167457
+      RedJellyfish_13: -2563529255966575998
+      RedJellyfish_14: -3296434474406855405
+      RedJellyfish_15: 1680423783027431446
+      RedJellyfish_16: 5882816277838573001
+      RedJellyfish_17: -2320752884244076768
+      RedJellyfish_18: -8778704687788312559
+      RedJellyfish_19: -4368794893717697664
+      RedJellyfish_2: -3273732996048389052
+      RedJellyfish_20: 2041073194039366923
+      RedJellyfish_21: 7356216690766853784
+      RedJellyfish_22: -489340936733244478
+      RedJellyfish_23: 5890880064563205658
+      RedJellyfish_24: -1865271766307921856
+      RedJellyfish_25: 3786809334394877471
+      RedJellyfish_26: 3657175117232161870
+      RedJellyfish_27: 554654386134734850
+      RedJellyfish_28: -8231760935113938808
+      RedJellyfish_29: 5963496014884289778
+      RedJellyfish_3: 7212652358192077133
+      RedJellyfish_30: -5216835264642670334
+      RedJellyfish_31: 6865761886976362440
+      RedJellyfish_32: 4387229918710593154
+      RedJellyfish_33: 4066358089958092274
+      RedJellyfish_34: -5236577020706568834
+      RedJellyfish_35: 4202769551960279432
+      RedJellyfish_36: -397794018499781079
+      RedJellyfish_37: 3592282229202283105
+      RedJellyfish_38: -6996532184091599472
+      RedJellyfish_39: 7130211101541580383
+      RedJellyfish_4: -5427593195584786859
+      RedJellyfish_40: -3493536325557955658
+      RedJellyfish_41: -9157258024504596540
+      RedJellyfish_42: -3927821745084298852
+      RedJellyfish_43: -8960057163684186633
+      RedJellyfish_44: 4391191372063829231
+      RedJellyfish_45: -3462818306854301445
+      RedJellyfish_46: -3014374747066214753
+      RedJellyfish_47: 6030012116470871927
+      RedJellyfish_48: 6331580709458656533
+      RedJellyfish_49: 6237121920921279003
+      RedJellyfish_5: -5786275398139970420
+      RedJellyfish_50: 5596754344010299189
+      RedJellyfish_51: 3483517571780599225
+      RedJellyfish_52: 6536682234070528894
+      RedJellyfish_53: 669212067946148673
+      RedJellyfish_54: -1043503954178984274
+      RedJellyfish_55: 6767017627267261640
+      RedJellyfish_56: -3403573855720331261
+      RedJellyfish_57: -5243822962454636064
+      RedJellyfish_58: -1077267597902564262
+      RedJellyfish_59: -4664973421707791868
+      RedJellyfish_6: -1330885998136054449
+      RedJellyfish_7: -3305219610681425812
+      RedJellyfish_8: -5891801206055933225
+      RedJellyfish_9: -3768828586242668606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: d79675f9380bac7419b89ca979b13744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3982433943305035342
+    second: DetonatorGear_0
+  - first:
+      213: -1059798287789381418
+    second: DetonatorGear_1
+  - first:
+      213: -3104032299630805748
+    second: DetonatorGear_2
+  - first:
+      213: -1343449588975467545
+    second: DetonatorGear_3
+  - first:
+      213: 1848306070178510096
+    second: DetonatorGear_4
+  - first:
+      213: 7541352881786977149
+    second: DetonatorGear_5
+  - first:
+      213: 79885058022191200
+    second: DetonatorGear_6
+  - first:
+      213: 3126254641249755746
+    second: DetonatorGear_7
+  - first:
+      213: 7896583718804318110
+    second: DetonatorGear_8
+  - first:
+      213: 731176042552086912
+    second: DetonatorGear_9
+  - first:
+      213: 1131196969618631791
+    second: DetonatorGear_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DetonatorGear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e97245292744730800000000000000
+      internalID: 3982433943305035342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82fb28217da41f0800000000000000
+      internalID: -1059798287789381418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dba21c1134ce4d0800000000000000
+      internalID: -3104032299630805748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3097b77bb1b5de0800000000000000
+      internalID: -1343449588975467545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015303df39086a910800000000000000
+      internalID: 1848306070178510096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.575, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf7cc7d7448a860800000000000000
+      internalID: 7541352881786977149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060364a790fcb1100800000000000000
+      internalID: 79885058022191200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ab195800b26b20800000000000000
+      internalID: 3126254641249755746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e67aed0d469d60800000000000000
+      internalID: 7896583718804318110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d79c9cb8a52a00800000000000000
+      internalID: 731176042552086912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetonatorGear_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ced1986a1d2bf00800000000000000
+      internalID: 1131196969618631791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DetonatorGear_0: 3982433943305035342
+      DetonatorGear_1: -1059798287789381418
+      DetonatorGear_10: 1131196969618631791
+      DetonatorGear_2: -3104032299630805748
+      DetonatorGear_3: -1343449588975467545
+      DetonatorGear_4: 1848306070178510096
+      DetonatorGear_5: 7541352881786977149
+      DetonatorGear_6: 79885058022191200
+      DetonatorGear_7: 3126254641249755746
+      DetonatorGear_8: 7896583718804318110
+      DetonatorGear_9: 731176042552086912
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

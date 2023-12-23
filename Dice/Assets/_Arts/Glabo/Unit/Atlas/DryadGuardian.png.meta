@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: 32d7682570a67594ead988a5da5651bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3398436794457710324
+    second: DryadGuardian_0
+  - first:
+      213: -7016418211775530634
+    second: DryadGuardian_1
+  - first:
+      213: 8957851497418270120
+    second: DryadGuardian_2
+  - first:
+      213: 2028900912687237640
+    second: DryadGuardian_3
+  - first:
+      213: 3861152767475235825
+    second: DryadGuardian_4
+  - first:
+      213: 2800764378916087584
+    second: DryadGuardian_5
+  - first:
+      213: 7692602618583413484
+    second: DryadGuardian_6
+  - first:
+      213: -250629989253663166
+    second: DryadGuardian_7
+  - first:
+      213: 7474272604650239712
+    second: DryadGuardian_8
+  - first:
+      213: 6908317211784272572
+    second: DryadGuardian_9
+  - first:
+      213: -879125644787684112
+    second: DryadGuardian_10
+  - first:
+      213: 8442317909027841275
+    second: DryadGuardian_11
+  - first:
+      213: -5754642544084055103
+    second: DryadGuardian_12
+  - first:
+      213: 1597079102027079982
+    second: DryadGuardian_13
+  - first:
+      213: 5412367857869721025
+    second: DryadGuardian_14
+  - first:
+      213: 7843521657393613393
+    second: DryadGuardian_15
+  - first:
+      213: 2902843915439137994
+    second: DryadGuardian_16
+  - first:
+      213: -1340327614493272574
+    second: DryadGuardian_17
+  - first:
+      213: 7635790725942100456
+    second: DryadGuardian_18
+  - first:
+      213: -4002066669319083121
+    second: DryadGuardian_19
+  - first:
+      213: -5794812965015638753
+    second: DryadGuardian_20
+  - first:
+      213: -2604890715318300062
+    second: DryadGuardian_21
+  - first:
+      213: 6873475029393603057
+    second: DryadGuardian_22
+  - first:
+      213: 4443797876504047544
+    second: DryadGuardian_23
+  - first:
+      213: 7506353642614205685
+    second: DryadGuardian_24
+  - first:
+      213: 3716708163766262825
+    second: DryadGuardian_25
+  - first:
+      213: 1233209963844291257
+    second: DryadGuardian_26
+  - first:
+      213: -2826597160823279160
+    second: DryadGuardian_27
+  - first:
+      213: 3712341598652197378
+    second: DryadGuardian_28
+  - first:
+      213: 279642707701250615
+    second: DryadGuardian_29
+  - first:
+      213: 216935736651449683
+    second: DryadGuardian_30
+  - first:
+      213: 8960156585760873514
+    second: DryadGuardian_31
+  - first:
+      213: 2305521565989805930
+    second: DryadGuardian_32
+  - first:
+      213: -1506532309772793535
+    second: DryadGuardian_33
+  - first:
+      213: 4348420862694913893
+    second: DryadGuardian_34
+  - first:
+      213: 3251476194500298146
+    second: DryadGuardian_35
+  - first:
+      213: -2198855109641743809
+    second: DryadGuardian_36
+  - first:
+      213: 2493259297281536009
+    second: DryadGuardian_37
+  - first:
+      213: -1156689202067024093
+    second: DryadGuardian_38
+  - first:
+      213: -2282506449900352337
+    second: DryadGuardian_39
+  - first:
+      213: -1823439141216898763
+    second: DryadGuardian_40
+  - first:
+      213: 8438670166248841081
+    second: DryadGuardian_41
+  - first:
+      213: -5570404448093951892
+    second: DryadGuardian_42
+  - first:
+      213: -6449946216247705289
+    second: DryadGuardian_43
+  - first:
+      213: 5398547893445844513
+    second: DryadGuardian_44
+  - first:
+      213: -8548848419772161724
+    second: DryadGuardian_45
+  - first:
+      213: -7075521864909736621
+    second: DryadGuardian_46
+  - first:
+      213: -3126481318027875191
+    second: DryadGuardian_47
+  - first:
+      213: -5645036398434539138
+    second: DryadGuardian_48
+  - first:
+      213: 7939668060896455955
+    second: DryadGuardian_49
+  - first:
+      213: -2055442050081776298
+    second: DryadGuardian_50
+  - first:
+      213: -3548200399560521696
+    second: DryadGuardian_51
+  - first:
+      213: -6184090812249421467
+    second: DryadGuardian_52
+  - first:
+      213: -711571497896893120
+    second: DryadGuardian_53
+  - first:
+      213: 936528519724089919
+    second: DryadGuardian_54
+  - first:
+      213: -3433120377677201963
+    second: DryadGuardian_55
+  - first:
+      213: -525720102387210782
+    second: DryadGuardian_56
+  - first:
+      213: -6701759110171797079
+    second: DryadGuardian_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DryadGuardian_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed445424ca92f20800000000000000
+      internalID: 3398436794457710324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679b98b9fcca0ae90800000000000000
+      internalID: -7016418211775530634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a52156e97ea05c70800000000000000
+      internalID: 8957851497418270120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a403961aa182c10800000000000000
+      internalID: 2028900912687237640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb0e81cf1959530800000000000000
+      internalID: 3861152767475235825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276cd01d505ed620800000000000000
+      internalID: 2800764378916087584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce277ee035d91ca60800000000000000
+      internalID: 7692602618583413484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b9784a55958cf0800000000000000
+      internalID: -250629989253663166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67c926553f9b760800000000000000
+      internalID: 7474272604650239712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5e1cf6e54fdf50800000000000000
+      internalID: 6908317211784272572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6e7542e7bcc3f0800000000000000
+      internalID: -879125644787684112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e580b863292570800000000000000
+      internalID: 8442317909027841275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb058678176320b0800000000000000
+      internalID: -5754642544084055103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21268a4bf6f92610800000000000000
+      internalID: 1597079102027079982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd011a04e79c1b40800000000000000
+      internalID: 5412367857869721025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a87010469c9dc60800000000000000
+      internalID: 7843521657393613393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_16
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 58
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac467224929f84820800000000000000
+      internalID: 2902843915439137994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 59
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.46913582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065b7fc223366de0800000000000000
+      internalID: -1340327614493272574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 79
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e140078537c7f960800000000000000
+      internalID: 7635790725942100456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 79
+        width: 62
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4677419, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b2ecf619dc578c0800000000000000
+      internalID: -4002066669319083121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 79
+        width: 64
+        height: 82
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d2a608f40b49fa0800000000000000
+      internalID: -5794812965015638753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 79
+        width: 65
+        height: 81
+      alignment: 9
+      pivot: {x: 0.44615385, y: 0.46913582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625dba12b199dbd0800000000000000
+      internalID: -2604890715318300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 79
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.43939394, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f58b3f1d736f50800000000000000
+      internalID: 6873475029393603057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 79
+        width: 66
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43939394, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa8aadf9a8bad30800000000000000
+      internalID: 4443797876504047544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 79
+        width: 64
+        height: 75
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcaa7a1edceb2860800000000000000
+      internalID: 7506353642614205685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 79
+        width: 62
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4677419, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c151b0266649330800000000000000
+      internalID: 3716708163766262825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 79
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba4964aded3d1110800000000000000
+      internalID: 1233209963844291257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_27
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 79
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13002bbd8e5c8d0800000000000000
+      internalID: -2826597160823279160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 79
+        width: 60
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.47435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae190e303e48330800000000000000
+      internalID: 3712341598652197378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_29
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 79
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.48051947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73abf80af8d71e300800000000000000
+      internalID: 279642707701250615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 79
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355823237e5b20300800000000000000
+      internalID: 216935736651449683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 79
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c572a11fed85c70800000000000000
+      internalID: 8960156585760873514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_32
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 79
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f13da26abdeff10800000000000000
+      internalID: 2305521565989805930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_33
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 79
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1490851a8d8b71be0800000000000000
+      internalID: -1506532309772793535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 79
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f3d65cb1b85c30800000000000000
+      internalID: 4348420862694913893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a544d03f509f1d20800000000000000
+      internalID: 3251476194500298146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3250458de81c71e0800000000000000
+      internalID: -2198855109641743809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f76bfe16d99220800000000000000
+      internalID: 2493259297281536009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d3439c4d92ffe0800000000000000
+      internalID: -1156689202067024093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc6202a78e250e0800000000000000
+      internalID: -2282506449900352337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531393613c7d1b6e0800000000000000
+      internalID: -1823439141216898763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd2f36ecd2c1570800000000000000
+      internalID: 8438670166248841081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68aa10faa2f1b2b0800000000000000
+      internalID: -5570404448093951892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_43
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314e20f6103d76a0800000000000000
+      internalID: -6449946216247705289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_44
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 162
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed5c3d4be7bea40800000000000000
+      internalID: 5398547893445844513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_45
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44122dce7a36c5980800000000000000
+      internalID: -8548848419772161724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_46
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355bb810a52becd90800000000000000
+      internalID: -7075521864909736621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cad0a5ec18c94d0800000000000000
+      internalID: -3126481318027875191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79a827ed4dc8a1b0800000000000000
+      internalID: -5645036398434539138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_49
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d6f34090e5f2e60800000000000000
+      internalID: 7939668060896455955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_50
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d997c785a9973e0800000000000000
+      internalID: -2055442050081776298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_51
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 162
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028cb48298242cec0800000000000000
+      internalID: -3548200399560521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569cd15cb22bd2aa0800000000000000
+      internalID: -6184090812249421467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 236
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04520932e7dff16f0800000000000000
+      internalID: -711571497896893120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 236
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324d2c0ab73ffc00800000000000000
+      internalID: 936528519724089919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 236
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3569b43b1b50d0800000000000000
+      internalID: -3433120377677201963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 236
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5aded2a5444b8f0800000000000000
+      internalID: -525720102387210782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryadGuardian_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 236
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d8f3c8919ef2a0800000000000000
+      internalID: -6701759110171797079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DryadGuardian_0: 3398436794457710324
+      DryadGuardian_1: -7016418211775530634
+      DryadGuardian_10: -879125644787684112
+      DryadGuardian_11: 8442317909027841275
+      DryadGuardian_12: -5754642544084055103
+      DryadGuardian_13: 1597079102027079982
+      DryadGuardian_14: 5412367857869721025
+      DryadGuardian_15: 7843521657393613393
+      DryadGuardian_16: 2902843915439137994
+      DryadGuardian_17: -1340327614493272574
+      DryadGuardian_18: 7635790725942100456
+      DryadGuardian_19: -4002066669319083121
+      DryadGuardian_2: 8957851497418270120
+      DryadGuardian_20: -5794812965015638753
+      DryadGuardian_21: -2604890715318300062
+      DryadGuardian_22: 6873475029393603057
+      DryadGuardian_23: 4443797876504047544
+      DryadGuardian_24: 7506353642614205685
+      DryadGuardian_25: 3716708163766262825
+      DryadGuardian_26: 1233209963844291257
+      DryadGuardian_27: -2826597160823279160
+      DryadGuardian_28: 3712341598652197378
+      DryadGuardian_29: 279642707701250615
+      DryadGuardian_3: 2028900912687237640
+      DryadGuardian_30: 216935736651449683
+      DryadGuardian_31: 8960156585760873514
+      DryadGuardian_32: 2305521565989805930
+      DryadGuardian_33: -1506532309772793535
+      DryadGuardian_34: 4348420862694913893
+      DryadGuardian_35: 3251476194500298146
+      DryadGuardian_36: -2198855109641743809
+      DryadGuardian_37: 2493259297281536009
+      DryadGuardian_38: -1156689202067024093
+      DryadGuardian_39: -2282506449900352337
+      DryadGuardian_4: 3861152767475235825
+      DryadGuardian_40: -1823439141216898763
+      DryadGuardian_41: 8438670166248841081
+      DryadGuardian_42: -5570404448093951892
+      DryadGuardian_43: -6449946216247705289
+      DryadGuardian_44: 5398547893445844513
+      DryadGuardian_45: -8548848419772161724
+      DryadGuardian_46: -7075521864909736621
+      DryadGuardian_47: -3126481318027875191
+      DryadGuardian_48: -5645036398434539138
+      DryadGuardian_49: 7939668060896455955
+      DryadGuardian_5: 2800764378916087584
+      DryadGuardian_50: -2055442050081776298
+      DryadGuardian_51: -3548200399560521696
+      DryadGuardian_52: -6184090812249421467
+      DryadGuardian_53: -711571497896893120
+      DryadGuardian_54: 936528519724089919
+      DryadGuardian_55: -3433120377677201963
+      DryadGuardian_56: -525720102387210782
+      DryadGuardian_57: -6701759110171797079
+      DryadGuardian_6: 7692602618583413484
+      DryadGuardian_7: -250629989253663166
+      DryadGuardian_8: 7474272604650239712
+      DryadGuardian_9: 6908317211784272572
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

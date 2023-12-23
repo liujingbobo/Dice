@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 1847e4c0ebb01984985babc539563b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9136427531948443048
+    second: DarkNest_0
+  - first:
+      213: 3827035352197149162
+    second: DarkNest_1
+  - first:
+      213: -2937911669608752281
+    second: DarkNest_2
+  - first:
+      213: -2952794173401462109
+    second: DarkNest_3
+  - first:
+      213: -1860026060613809071
+    second: DarkNest_4
+  - first:
+      213: 3691076043728609869
+    second: DarkNest_5
+  - first:
+      213: 8654425176994371739
+    second: DarkNest_6
+  - first:
+      213: 4414119251866160318
+    second: DarkNest_7
+  - first:
+      213: 5006745206944736390
+    second: DarkNest_8
+  - first:
+      213: 4761980166875351002
+    second: DarkNest_9
+  - first:
+      213: -6781627623145452767
+    second: DarkNest_10
+  - first:
+      213: -2664136569880575557
+    second: DarkNest_11
+  - first:
+      213: 4703084719787308646
+    second: DarkNest_12
+  - first:
+      213: -5199082387409201854
+    second: DarkNest_13
+  - first:
+      213: -6753734473435612855
+    second: DarkNest_14
+  - first:
+      213: -3638125342788107098
+    second: DarkNest_15
+  - first:
+      213: -3333143875845613885
+    second: DarkNest_16
+  - first:
+      213: -7588470232152783303
+    second: DarkNest_17
+  - first:
+      213: 7466313730967666031
+    second: DarkNest_18
+  - first:
+      213: -3282236247760023487
+    second: DarkNest_19
+  - first:
+      213: 5312253979717695383
+    second: DarkNest_20
+  - first:
+      213: 5136464927728087098
+    second: DarkNest_21
+  - first:
+      213: 3714920448747934733
+    second: DarkNest_22
+  - first:
+      213: -212868690898655218
+    second: DarkNest_23
+  - first:
+      213: -6577456236967427591
+    second: DarkNest_24
+  - first:
+      213: -5475967965448040017
+    second: DarkNest_25
+  - first:
+      213: -7744424650285912322
+    second: DarkNest_26
+  - first:
+      213: -7678439207778690522
+    second: DarkNest_27
+  - first:
+      213: -235315772159403943
+    second: DarkNest_28
+  - first:
+      213: -4316466315503145014
+    second: DarkNest_29
+  - first:
+      213: -1488736968635606063
+    second: DarkNest_30
+  - first:
+      213: -5528705816751580366
+    second: DarkNest_31
+  - first:
+      213: 2177898305363859547
+    second: DarkNest_32
+  - first:
+      213: -3461366776748538732
+    second: DarkNest_33
+  - first:
+      213: -9032851928716502227
+    second: DarkNest_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkNest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c2e5fe6c1bce70800000000000000
+      internalID: 9136427531948443048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1b296506c5c1530800000000000000
+      internalID: 3827035352197149162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bde77f6e07a37d0800000000000000
+      internalID: -2937911669608752281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa009708519507d0800000000000000
+      internalID: -2952794173401462109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0528172cdf26e0800000000000000
+      internalID: -1860026060613809071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e5690b16593330800000000000000
+      internalID: 3691076043728609869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9852f968d1ba1870800000000000000
+      internalID: 8654425176994371739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc02b3921a124d30800000000000000
+      internalID: 4414119251866160318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684a4d42d388b7540800000000000000
+      internalID: 5006745206944736390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78f025bb3f51240800000000000000
+      internalID: 4761980166875351002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b407b7b91d2e1a0800000000000000
+      internalID: -6781627623145452767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb10427a7e5170bd0800000000000000
+      internalID: -2664136569880575557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667d7772a6b44140800000000000000
+      internalID: 4703084719787308646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 78
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451c745d1629d7b0800000000000000
+      internalID: -5199082387409201854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497f8b774ae542a0800000000000000
+      internalID: -6753734473435612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c4ceb648c28dc0800000000000000
+      internalID: -3638125342788107098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c614fefd4b4eb1d0800000000000000
+      internalID: -3333143875845613885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93648ef778650b690800000000000000
+      internalID: -7588470232152783303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df2f3b7ccad9760800000000000000
+      internalID: 7466313730967666031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1405a5fc5872372d0800000000000000
+      internalID: -3282236247760023487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7977ab959dae8b940800000000000000
+      internalID: 5312253979717695383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a303c7a33a3684740800000000000000
+      internalID: 5136464927728087098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049474377c0e8330800000000000000
+      internalID: 3714920448747934733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08ee2fad0dbb0df0800000000000000
+      internalID: -212868690898655218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 117
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f101edb66e28b4a0800000000000000
+      internalID: -6577456236967427591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11d0af5247104b0800000000000000
+      internalID: -5475967965448040017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeede1ffc6468490800000000000000
+      internalID: -7744424650285912322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5beef834b07590800000000000000
+      internalID: -7678439207778690522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958546e4d8dfbbcf0800000000000000
+      internalID: -235315772159403943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfee7371c4d814c0800000000000000
+      internalID: -4316466315503145014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db9b7c5d91f65be0800000000000000
+      internalID: -1488736968635606063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 156
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd2ec1a571643b0800000000000000
+      internalID: -5528705816751580366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 156
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58532048f2793e10800000000000000
+      internalID: 2177898305363859547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 156
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49480927141c6ffc0800000000000000
+      internalID: -3461366776748538732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkNest_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b9628670dd4a280800000000000000
+      internalID: -9032851928716502227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DarkNest_0: 9136427531948443048
+      DarkNest_1: 3827035352197149162
+      DarkNest_10: -6781627623145452767
+      DarkNest_11: -2664136569880575557
+      DarkNest_12: 4703084719787308646
+      DarkNest_13: -5199082387409201854
+      DarkNest_14: -6753734473435612855
+      DarkNest_15: -3638125342788107098
+      DarkNest_16: -3333143875845613885
+      DarkNest_17: -7588470232152783303
+      DarkNest_18: 7466313730967666031
+      DarkNest_19: -3282236247760023487
+      DarkNest_2: -2937911669608752281
+      DarkNest_20: 5312253979717695383
+      DarkNest_21: 5136464927728087098
+      DarkNest_22: 3714920448747934733
+      DarkNest_23: -212868690898655218
+      DarkNest_24: -6577456236967427591
+      DarkNest_25: -5475967965448040017
+      DarkNest_26: -7744424650285912322
+      DarkNest_27: -7678439207778690522
+      DarkNest_28: -235315772159403943
+      DarkNest_29: -4316466315503145014
+      DarkNest_3: -2952794173401462109
+      DarkNest_30: -1488736968635606063
+      DarkNest_31: -5528705816751580366
+      DarkNest_32: 2177898305363859547
+      DarkNest_33: -3461366776748538732
+      DarkNest_34: -9032851928716502227
+      DarkNest_4: -1860026060613809071
+      DarkNest_5: 3691076043728609869
+      DarkNest_6: 8654425176994371739
+      DarkNest_7: 4414119251866160318
+      DarkNest_8: 5006745206944736390
+      DarkNest_9: 4761980166875351002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: c29313733fdeaad40b5946efb148dfb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7464987138042251089
+    second: IndigoCrab_0
+  - first:
+      213: 4983032334849109075
+    second: IndigoCrab_1
+  - first:
+      213: 5178534109382311416
+    second: IndigoCrab_2
+  - first:
+      213: -3668487067444391590
+    second: IndigoCrab_3
+  - first:
+      213: -4970109367034729092
+    second: IndigoCrab_4
+  - first:
+      213: 8184943875472113184
+    second: IndigoCrab_5
+  - first:
+      213: -7011366184335377662
+    second: IndigoCrab_6
+  - first:
+      213: 670009244641198759
+    second: IndigoCrab_7
+  - first:
+      213: 937504658146734534
+    second: IndigoCrab_8
+  - first:
+      213: 6093686647436238583
+    second: IndigoCrab_9
+  - first:
+      213: -6497167828297578907
+    second: IndigoCrab_10
+  - first:
+      213: -176654996294598438
+    second: IndigoCrab_11
+  - first:
+      213: -2550890468147751903
+    second: IndigoCrab_12
+  - first:
+      213: -123067816299905251
+    second: IndigoCrab_13
+  - first:
+      213: -19038737014110347
+    second: IndigoCrab_14
+  - first:
+      213: -1304311212930053812
+    second: IndigoCrab_15
+  - first:
+      213: -920980399147098230
+    second: IndigoCrab_16
+  - first:
+      213: 2045995236793158980
+    second: IndigoCrab_17
+  - first:
+      213: -7666318708342858079
+    second: IndigoCrab_18
+  - first:
+      213: -3529421170655836340
+    second: IndigoCrab_19
+  - first:
+      213: -8435323395142474186
+    second: IndigoCrab_20
+  - first:
+      213: -7968774954026592302
+    second: IndigoCrab_21
+  - first:
+      213: -4535545085361946565
+    second: IndigoCrab_22
+  - first:
+      213: 2228690077489114597
+    second: IndigoCrab_23
+  - first:
+      213: -5984494993729259289
+    second: IndigoCrab_24
+  - first:
+      213: 8475992862772484554
+    second: IndigoCrab_25
+  - first:
+      213: 5197147588918263959
+    second: IndigoCrab_26
+  - first:
+      213: 3549860798302081402
+    second: IndigoCrab_27
+  - first:
+      213: -3864758343980959886
+    second: IndigoCrab_28
+  - first:
+      213: 9074438662310916739
+    second: IndigoCrab_29
+  - first:
+      213: -6774274938956080915
+    second: IndigoCrab_30
+  - first:
+      213: -3342490829244666555
+    second: IndigoCrab_31
+  - first:
+      213: -2153864175869044356
+    second: IndigoCrab_32
+  - first:
+      213: -2706741321263324780
+    second: IndigoCrab_33
+  - first:
+      213: 6239352719005445776
+    second: IndigoCrab_34
+  - first:
+      213: -1753363494828715961
+    second: IndigoCrab_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IndigoCrab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574ed73046f89760800000000000000
+      internalID: 7464987138042251089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c67fed189472540800000000000000
+      internalID: 4983032334849109075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf9fed559ddd740800000000000000
+      internalID: 5178534109382311416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dcd9d27ae61dc0800000000000000
+      internalID: -3668487067444391590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 45
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dad0b0ddf960bb0800000000000000
+      internalID: -4970109367034729092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e360cc613c69170800000000000000
+      internalID: 8184943875472113184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 35
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf0886a9f92be90800000000000000
+      internalID: -7011366184335377662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2011fabd95c4900800000000000000
+      internalID: 670009244641198759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 35
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13c1cf48fa20d00800000000000000
+      internalID: 937504658146734534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 35
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe5af858bf119450800000000000000
+      internalID: 6093686647436238583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660a3c984c65d5a0800000000000000
+      internalID: -6497167828297578907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 71
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0001287356c8df0800000000000000
+      internalID: -176654996294598438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1249f1962aa699cd0800000000000000
+      internalID: -2550890468147751903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f392e1976ca4ef0800000000000000
+      internalID: -123067816299905251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 71
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774d4b9e5c5cbff0800000000000000
+      internalID: -19038737014110347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ceb4ccd726ede0800000000000000
+      internalID: -1304311212930053812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5dbfd4350833f0800000000000000
+      internalID: -920980399147098230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 110
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d8235e3d5d46c10800000000000000
+      internalID: 2045995236793158980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 110
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeda4ea0c3cb9590800000000000000
+      internalID: -7666318708342858079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 110
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c05c152af40fc0800000000000000
+      internalID: -3529421170655836340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 110
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636adfa7016bfea80800000000000000
+      internalID: -8435323395142474186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d717325669396190800000000000000
+      internalID: -7968774954026592302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308b3476c18e01c0800000000000000
+      internalID: -4535545085361946565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 147
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2d2f31d5edee10800000000000000
+      internalID: 2228690077489114597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 147
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8f9aaa28dc2fca0800000000000000
+      internalID: -5984494993729259289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 147
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9dc48d996c0a570800000000000000
+      internalID: 8475992862772484554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 147
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79040ca423aff1840800000000000000
+      internalID: 5197147588918263959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 147
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7151ec8693a34130800000000000000
+      internalID: 3549860798302081402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b94433ce9d5ac0800000000000000
+      internalID: -3864758343980959886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382fc1b82e1eeed70800000000000000
+      internalID: 9074438662310916739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 183
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de811bca5d0fcf1a0800000000000000
+      internalID: -6774274938956080915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54deed1dc461d91d0800000000000000
+      internalID: -3342490829244666555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 183
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79d2e691ffeb12e0800000000000000
+      internalID: -2153864175869044356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4916a37fb19bf6ad0800000000000000
+      internalID: -2706741321263324780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 219
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eefac8d32a69650800000000000000
+      internalID: 6239352719005445776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndigoCrab_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 219
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d890f03dcaa7e0800000000000000
+      internalID: -1753363494828715961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IndigoCrab_0: 7464987138042251089
+      IndigoCrab_1: 4983032334849109075
+      IndigoCrab_10: -6497167828297578907
+      IndigoCrab_11: -176654996294598438
+      IndigoCrab_12: -2550890468147751903
+      IndigoCrab_13: -123067816299905251
+      IndigoCrab_14: -19038737014110347
+      IndigoCrab_15: -1304311212930053812
+      IndigoCrab_16: -920980399147098230
+      IndigoCrab_17: 2045995236793158980
+      IndigoCrab_18: -7666318708342858079
+      IndigoCrab_19: -3529421170655836340
+      IndigoCrab_2: 5178534109382311416
+      IndigoCrab_20: -8435323395142474186
+      IndigoCrab_21: -7968774954026592302
+      IndigoCrab_22: -4535545085361946565
+      IndigoCrab_23: 2228690077489114597
+      IndigoCrab_24: -5984494993729259289
+      IndigoCrab_25: 8475992862772484554
+      IndigoCrab_26: 5197147588918263959
+      IndigoCrab_27: 3549860798302081402
+      IndigoCrab_28: -3864758343980959886
+      IndigoCrab_29: 9074438662310916739
+      IndigoCrab_3: -3668487067444391590
+      IndigoCrab_30: -6774274938956080915
+      IndigoCrab_31: -3342490829244666555
+      IndigoCrab_32: -2153864175869044356
+      IndigoCrab_33: -2706741321263324780
+      IndigoCrab_34: 6239352719005445776
+      IndigoCrab_35: -1753363494828715961
+      IndigoCrab_4: -4970109367034729092
+      IndigoCrab_5: 8184943875472113184
+      IndigoCrab_6: -7011366184335377662
+      IndigoCrab_7: 670009244641198759
+      IndigoCrab_8: 937504658146734534
+      IndigoCrab_9: 6093686647436238583
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

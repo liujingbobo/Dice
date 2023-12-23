@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 153a7a96e25be3243888c5f2c3ab140f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8891020247154825829
+    second: PartyMushroom_0
+  - first:
+      213: 7031147226087811662
+    second: PartyMushroom_1
+  - first:
+      213: 9145808502793728652
+    second: PartyMushroom_2
+  - first:
+      213: -3354060740377921849
+    second: PartyMushroom_3
+  - first:
+      213: -3419308365230404956
+    second: PartyMushroom_4
+  - first:
+      213: 260302480593121739
+    second: PartyMushroom_5
+  - first:
+      213: 606945791971392669
+    second: PartyMushroom_6
+  - first:
+      213: -1591476506333290874
+    second: PartyMushroom_7
+  - first:
+      213: -4852529005364953851
+    second: PartyMushroom_8
+  - first:
+      213: -1742014115838977982
+    second: PartyMushroom_9
+  - first:
+      213: 1773479172693842116
+    second: PartyMushroom_10
+  - first:
+      213: -3276061998576143206
+    second: PartyMushroom_11
+  - first:
+      213: -6874386298113245290
+    second: PartyMushroom_12
+  - first:
+      213: 7991964529648708646
+    second: PartyMushroom_13
+  - first:
+      213: 2471059480949048497
+    second: PartyMushroom_14
+  - first:
+      213: 4243166692673496887
+    second: PartyMushroom_15
+  - first:
+      213: 8986564822831025043
+    second: PartyMushroom_16
+  - first:
+      213: 222791357579047427
+    second: PartyMushroom_17
+  - first:
+      213: 2379460351504564515
+    second: PartyMushroom_18
+  - first:
+      213: -3907049401943748253
+    second: PartyMushroom_19
+  - first:
+      213: 1022499564787464854
+    second: PartyMushroom_20
+  - first:
+      213: -3094007265272811754
+    second: PartyMushroom_21
+  - first:
+      213: -194280760336408047
+    second: PartyMushroom_22
+  - first:
+      213: 4986886733369538029
+    second: PartyMushroom_23
+  - first:
+      213: -432387500819121479
+    second: PartyMushroom_24
+  - first:
+      213: 2851368022320712848
+    second: PartyMushroom_25
+  - first:
+      213: -8290464939086492545
+    second: PartyMushroom_26
+  - first:
+      213: -8460648231049319162
+    second: PartyMushroom_27
+  - first:
+      213: 1145970350542878408
+    second: PartyMushroom_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PartyMushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95e78d1130cc9480800000000000000
+      internalID: -8891020247154825829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aef664627a39160800000000000000
+      internalID: 7031147226087811662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8274c070607cee70800000000000000
+      internalID: 9145808502793728652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b0b6f68bf371d0800000000000000
+      internalID: -3354060740377921849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.29787233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8be8782d2c80d0800000000000000
+      internalID: -3419308365230404956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 53
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.28571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f7e91ab7cc9300800000000000000
+      internalID: 260302480593121739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 49
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57142854, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c7f586bfd4c6800800000000000000
+      internalID: 606945791971392669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68edf9bac80f9e9e0800000000000000
+      internalID: -1591476506333290874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d31f4549a58acb0800000000000000
+      internalID: -4852529005364953851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24893b7246f13d7e0800000000000000
+      internalID: -1742014115838977982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c858f849e9ac9810800000000000000
+      internalID: 1773479172693842116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9476b838f61982d0800000000000000
+      internalID: -3276061998576143206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 53
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb52c75164990a0800000000000000
+      internalID: -6874386298113245290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cab3f756929ee60800000000000000
+      internalID: 7991964529648708646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 53
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b444d47187fa4220800000000000000
+      internalID: 2471059480949048497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 53
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a29f20a1c2ea30800000000000000
+      internalID: 4243166692673496887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 53
+        width: 52
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b4ddfe711b6bc70800000000000000
+      internalID: 8986564822831025043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 53
+        width: 54
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b68f2f83871300800000000000000
+      internalID: 222791357579047427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 53
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214e80359a850120800000000000000
+      internalID: 2379460351504564515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 53
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619d35f44f57c9c0800000000000000
+      internalID: -3907049401943748253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 53
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af52ecfe5a03e00800000000000000
+      internalID: 1022499564787464854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25490198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fafe4f8c0ef05d0800000000000000
+      internalID: -3094007265272811754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 102
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a4758da6cd4df0800000000000000
+      internalID: -194280760336408047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 102
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57995ff0bf43540800000000000000
+      internalID: 4986886733369538029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba7b50ebd9dff9f0800000000000000
+      internalID: -432387500819121479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 102
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c855eeb18129720800000000000000
+      internalID: 2851368022320712848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 102
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4bea001a52fc80800000000000000
+      internalID: -8290464939086492545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 102
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60da4c2a24db59a80800000000000000
+      internalID: -8460648231049319162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyMushroom_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 102
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6fc3356fd47ef00800000000000000
+      internalID: 1145970350542878408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PartyMushroom_0: -8891020247154825829
+      PartyMushroom_1: 7031147226087811662
+      PartyMushroom_10: 1773479172693842116
+      PartyMushroom_11: -3276061998576143206
+      PartyMushroom_12: -6874386298113245290
+      PartyMushroom_13: 7991964529648708646
+      PartyMushroom_14: 2471059480949048497
+      PartyMushroom_15: 4243166692673496887
+      PartyMushroom_16: 8986564822831025043
+      PartyMushroom_17: 222791357579047427
+      PartyMushroom_18: 2379460351504564515
+      PartyMushroom_19: -3907049401943748253
+      PartyMushroom_2: 9145808502793728652
+      PartyMushroom_20: 1022499564787464854
+      PartyMushroom_21: -3094007265272811754
+      PartyMushroom_22: -194280760336408047
+      PartyMushroom_23: 4986886733369538029
+      PartyMushroom_24: -432387500819121479
+      PartyMushroom_25: 2851368022320712848
+      PartyMushroom_26: -8290464939086492545
+      PartyMushroom_27: -8460648231049319162
+      PartyMushroom_28: 1145970350542878408
+      PartyMushroom_3: -3354060740377921849
+      PartyMushroom_4: -3419308365230404956
+      PartyMushroom_5: 260302480593121739
+      PartyMushroom_6: 606945791971392669
+      PartyMushroom_7: -1591476506333290874
+      PartyMushroom_8: -4852529005364953851
+      PartyMushroom_9: -1742014115838977982
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

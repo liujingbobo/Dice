@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: dd5cf0cda5152334396eba22e741399a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4098492070252337952
+    second: PhantomMorpho_0
+  - first:
+      213: 4209649159620815008
+    second: PhantomMorpho_1
+  - first:
+      213: -2776809746664371743
+    second: PhantomMorpho_2
+  - first:
+      213: -8069827142484365604
+    second: PhantomMorpho_3
+  - first:
+      213: 990926461251615266
+    second: PhantomMorpho_4
+  - first:
+      213: -5961270267142388506
+    second: PhantomMorpho_5
+  - first:
+      213: 8111572948756142713
+    second: PhantomMorpho_6
+  - first:
+      213: 6429965684077694149
+    second: PhantomMorpho_7
+  - first:
+      213: 9113099551515581679
+    second: PhantomMorpho_8
+  - first:
+      213: -2178972140756156668
+    second: PhantomMorpho_9
+  - first:
+      213: -8429087619132386754
+    second: PhantomMorpho_10
+  - first:
+      213: 8684876824404551939
+    second: PhantomMorpho_11
+  - first:
+      213: -2430552072081488172
+    second: PhantomMorpho_12
+  - first:
+      213: 2985121563884885691
+    second: PhantomMorpho_13
+  - first:
+      213: 2123866656396337524
+    second: PhantomMorpho_14
+  - first:
+      213: -6070774051500396298
+    second: PhantomMorpho_15
+  - first:
+      213: -3103391141250200130
+    second: PhantomMorpho_16
+  - first:
+      213: 643581012946414474
+    second: PhantomMorpho_17
+  - first:
+      213: 7639033299616343171
+    second: PhantomMorpho_18
+  - first:
+      213: 7553563250206063844
+    second: PhantomMorpho_19
+  - first:
+      213: 4898741272990309637
+    second: PhantomMorpho_20
+  - first:
+      213: -8224712018765187356
+    second: PhantomMorpho_21
+  - first:
+      213: -7283672456676583020
+    second: PhantomMorpho_22
+  - first:
+      213: -2873291071629172749
+    second: PhantomMorpho_23
+  - first:
+      213: -907904323645935896
+    second: PhantomMorpho_24
+  - first:
+      213: -6322451964224892190
+    second: PhantomMorpho_25
+  - first:
+      213: -1737062326610353374
+    second: PhantomMorpho_26
+  - first:
+      213: 6601162070035861129
+    second: PhantomMorpho_27
+  - first:
+      213: 8070461013235361795
+    second: PhantomMorpho_28
+  - first:
+      213: -4284596747242390589
+    second: PhantomMorpho_29
+  - first:
+      213: 7638245986448188605
+    second: PhantomMorpho_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PhantomMorpho_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4aad54d2b3f17c0800000000000000
+      internalID: -4098492070252337952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a868346b9dab6a30800000000000000
+      internalID: 4209649159620815008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e94a316f3ac679d0800000000000000
+      internalID: -2776809746664371743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee96d38f6320090800000000000000
+      internalID: -8069827142484365604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aff69cd5a70cd00800000000000000
+      internalID: 990926461251615266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 18
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e441e4b640554da0800000000000000
+      internalID: -5961270267142388506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 12
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a1744be98129070800000000000000
+      internalID: 8111572948756142713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 45
+        width: 4
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0765e8b3db3950800000000000000
+      internalID: 6429965684077694149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9bd242cb387e70800000000000000
+      internalID: 9113099551515581679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 45
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fb1c6f16cb2c1e0800000000000000
+      internalID: -2178972140756156668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: -0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3298f8387dd50b80800000000000000
+      internalID: -8429087619132386754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 4
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309e7a41571e68870800000000000000
+      internalID: 8684876824404551939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 45
+        width: 6
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64e7f94c1f44ed0800000000000000
+      internalID: -2430552072081488172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 8
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb697ba1f384d6920800000000000000
+      internalID: 2985121563884885691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 45
+        width: 10
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ecc4a87d797d10800000000000000
+      internalID: 2123866656396337524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 12
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f8ac1a2740cba0800000000000000
+      internalID: -6070774051500396298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 12
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd00b2133a8ee4d0800000000000000
+      internalID: -3103391141250200130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 12
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6bdc75857ee800800000000000000
+      internalID: 643581012946414474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 45
+        width: 10
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384230b005c430a60800000000000000
+      internalID: 7639033299616343171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 45
+        width: 8
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3afc61c5a3d860800000000000000
+      internalID: 7553563250206063844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 45
+        width: 6
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd12fab33dbf340800000000000000
+      internalID: 4898741272990309637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 45
+        width: 4
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67d9dcef3fbdd80800000000000000
+      internalID: -8224712018765187356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: -0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499de7fbd723bea90800000000000000
+      internalID: -7283672456676583020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffdd336ef40028d0800000000000000
+      internalID: -2873291071629172749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 4
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: -0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeea03f3d97663f0800000000000000
+      internalID: -907904323645935896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 45
+        width: 4
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e297e2bf632248a0800000000000000
+      internalID: -6322451964224892190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 16
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2232dad6407b4e7e0800000000000000
+      internalID: -1737062326610353374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 45
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0541ade90c9b50800000000000000
+      internalID: 6601162070035861129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308688b4889000070800000000000000
+      internalID: 8070461013235361795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbb2da85fd0a84c0800000000000000
+      internalID: -4284596747242390589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhantomMorpho_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42c496140800a60800000000000000
+      internalID: 7638245986448188605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PhantomMorpho_0: -4098492070252337952
+      PhantomMorpho_1: 4209649159620815008
+      PhantomMorpho_10: -8429087619132386754
+      PhantomMorpho_11: 8684876824404551939
+      PhantomMorpho_12: -2430552072081488172
+      PhantomMorpho_13: 2985121563884885691
+      PhantomMorpho_14: 2123866656396337524
+      PhantomMorpho_15: -6070774051500396298
+      PhantomMorpho_16: -3103391141250200130
+      PhantomMorpho_17: 643581012946414474
+      PhantomMorpho_18: 7639033299616343171
+      PhantomMorpho_19: 7553563250206063844
+      PhantomMorpho_2: -2776809746664371743
+      PhantomMorpho_20: 4898741272990309637
+      PhantomMorpho_21: -8224712018765187356
+      PhantomMorpho_22: -7283672456676583020
+      PhantomMorpho_23: -2873291071629172749
+      PhantomMorpho_24: -907904323645935896
+      PhantomMorpho_25: -6322451964224892190
+      PhantomMorpho_26: -1737062326610353374
+      PhantomMorpho_27: 6601162070035861129
+      PhantomMorpho_28: 8070461013235361795
+      PhantomMorpho_29: -4284596747242390589
+      PhantomMorpho_3: -8069827142484365604
+      PhantomMorpho_30: 7638245986448188605
+      PhantomMorpho_4: 990926461251615266
+      PhantomMorpho_5: -5961270267142388506
+      PhantomMorpho_6: 8111572948756142713
+      PhantomMorpho_7: 6429965684077694149
+      PhantomMorpho_8: 9113099551515581679
+      PhantomMorpho_9: -2178972140756156668
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

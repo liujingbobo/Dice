@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 9367d38ab7096d44db13c58ca5d989d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8434933068030372207
+    second: TwilightRose_0
+  - first:
+      213: 3883171332194869951
+    second: TwilightRose_1
+  - first:
+      213: 6051025608435893388
+    second: TwilightRose_2
+  - first:
+      213: -7598842121036150710
+    second: TwilightRose_3
+  - first:
+      213: -8212431960897211550
+    second: TwilightRose_4
+  - first:
+      213: 13205005049257772
+    second: TwilightRose_5
+  - first:
+      213: -1265984166549923461
+    second: TwilightRose_6
+  - first:
+      213: 4213387759014873349
+    second: TwilightRose_7
+  - first:
+      213: 7311680266512174910
+    second: TwilightRose_8
+  - first:
+      213: 2426046718848864325
+    second: TwilightRose_9
+  - first:
+      213: -5827616502046424801
+    second: TwilightRose_10
+  - first:
+      213: -2432513426112570936
+    second: TwilightRose_11
+  - first:
+      213: -2859406507311260113
+    second: TwilightRose_12
+  - first:
+      213: -5786461271353087450
+    second: TwilightRose_13
+  - first:
+      213: 4270990587398968618
+    second: TwilightRose_14
+  - first:
+      213: -2975367872613564759
+    second: TwilightRose_15
+  - first:
+      213: 5002321658598682602
+    second: TwilightRose_16
+  - first:
+      213: -1727403284450103667
+    second: TwilightRose_17
+  - first:
+      213: 5382511632889944673
+    second: TwilightRose_18
+  - first:
+      213: 4755633567686396839
+    second: TwilightRose_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TwilightRose_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969ad7901911fa80800000000000000
+      internalID: -8434933068030372207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a471b0cbc3e530800000000000000
+      internalID: 3883171332194869951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840d9d2bbf89f350800000000000000
+      internalID: 6051025608435893388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 51
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484d5fe95d7b8690800000000000000
+      internalID: -7598842121036150710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26338a494a4970e80800000000000000
+      internalID: -8212431960897211550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd733d1e9ee2000800000000000000
+      internalID: 13205005049257772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 51
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d585ab125e6ee0800000000000000
+      internalID: -1265984166549923461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5098f05e7d5f87a30800000000000000
+      internalID: 4213387759014873349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 51
+        width: 51
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f01b4a67e487560800000000000000
+      internalID: 7311680266512174910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5401d7513ac0ba120800000000000000
+      internalID: 2426046718848864325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11815cdaa5202fa0800000000000000
+      internalID: -5827616502046424801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9113d4de9fd3ed0800000000000000
+      internalID: -2432513426112570936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e954f6ee85158d0800000000000000
+      internalID: -2859406507311260113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 102
+        width: 51
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aa176b12c52bfa0800000000000000
+      internalID: -5786461271353087450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 102
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d3f08f4b954b30800000000000000
+      internalID: 4270990587398968618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae32cc1fae55b6d0800000000000000
+      internalID: -2975367872613564759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 153
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef64098b01db6540800000000000000
+      internalID: 5002321658598682602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e228e6dd70708e0800000000000000
+      internalID: -1727403284450103667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 153
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a10d5ffc582ba40800000000000000
+      internalID: 5382511632889944673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwilightRose_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 153
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab0fdb88876ff140800000000000000
+      internalID: 4755633567686396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TwilightRose_0: -8434933068030372207
+      TwilightRose_1: 3883171332194869951
+      TwilightRose_10: -5827616502046424801
+      TwilightRose_11: -2432513426112570936
+      TwilightRose_12: -2859406507311260113
+      TwilightRose_13: -5786461271353087450
+      TwilightRose_14: 4270990587398968618
+      TwilightRose_15: -2975367872613564759
+      TwilightRose_16: 5002321658598682602
+      TwilightRose_17: -1727403284450103667
+      TwilightRose_18: 5382511632889944673
+      TwilightRose_19: 4755633567686396839
+      TwilightRose_2: 6051025608435893388
+      TwilightRose_3: -7598842121036150710
+      TwilightRose_4: -8212431960897211550
+      TwilightRose_5: 13205005049257772
+      TwilightRose_6: -1265984166549923461
+      TwilightRose_7: 4213387759014873349
+      TwilightRose_8: 7311680266512174910
+      TwilightRose_9: 2426046718848864325
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

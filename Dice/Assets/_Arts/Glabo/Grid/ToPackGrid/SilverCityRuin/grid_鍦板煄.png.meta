@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 443222d20937a1642874516eda6b154b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "grid_\u4E16\u754C\u4E4B\u6811_0"
+  - first:
+      213: 21300002
+    second: "grid_\u4E16\u754C\u4E4B\u6811_1"
+  - first:
+      213: 21300004
+    second: "grid_\u4E16\u754C\u4E4B\u6811_2"
+  - first:
+      213: 21300006
+    second: "grid_\u4E16\u754C\u4E4B\u6811_3"
+  - first:
+      213: 21300008
+    second: "grid_\u4E16\u754C\u4E4B\u6811_4"
+  - first:
+      213: 21300010
+    second: "grid_\u4E16\u754C\u4E4B\u6811_5"
+  - first:
+      213: 21300012
+    second: "grid_\u4E16\u754C\u4E4B\u6811_6"
+  - first:
+      213: 21300014
+    second: "grid_\u4E16\u754C\u4E4B\u6811_7"
+  - first:
+      213: 21300016
+    second: "grid_\u4E16\u754C\u4E4B\u6811_8"
+  - first:
+      213: 21300018
+    second: "grid_\u4E16\u754C\u4E4B\u6811_9"
+  - first:
+      213: 21300020
+    second: "grid_\u4E16\u754C\u4E4B\u6811_10"
+  - first:
+      213: 21300022
+    second: "grid_\u4E16\u754C\u4E4B\u6811_11"
+  - first:
+      213: 21300024
+    second: "grid_\u4E16\u754C\u4E4B\u6811_12"
+  - first:
+      213: 21300026
+    second: "grid_\u4E16\u754C\u4E4B\u6811_13"
+  - first:
+      213: 21300028
+    second: "grid_\u4E16\u754C\u4E4B\u6811_14"
+  - first:
+      213: 21300030
+    second: "grid_\u4E16\u754C\u4E4B\u6811_15"
+  - first:
+      213: 21300032
+    second: "grid_\u5730\u57CE_0"
+  - first:
+      213: 21300034
+    second: "grid_\u5730\u57CE_1"
+  - first:
+      213: 21300036
+    second: "grid_\u5730\u57CE_2"
+  - first:
+      213: 21300038
+    second: "grid_\u5730\u57CE_3"
+  - first:
+      213: 21300040
+    second: "grid_\u5730\u57CE_4"
+  - first:
+      213: 21300042
+    second: "grid_\u5730\u57CE_5"
+  - first:
+      213: 21300044
+    second: "grid_\u5730\u57CE_6"
+  - first:
+      213: 21300046
+    second: "grid_\u5730\u57CE_7"
+  - first:
+      213: 21300048
+    second: "grid_\u5730\u57CE_8"
+  - first:
+      213: 21300050
+    second: "grid_\u5730\u57CE_9"
+  - first:
+      213: 21300052
+    second: "grid_\u5730\u57CE_10"
+  - first:
+      213: 21300054
+    second: "grid_\u5730\u57CE_11"
+  - first:
+      213: 21300056
+    second: "grid_\u5730\u57CE_12"
+  - first:
+      213: 21300058
+    second: "grid_\u5730\u57CE_13"
+  - first:
+      213: 21300060
+    second: "grid_\u5730\u57CE_14"
+  - first:
+      213: 21300062
+    second: "grid_\u5730\u57CE_15"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741e4dedbd6d1a648989ae91416321bf
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_1"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bee29adb6c6b5748ba74c518b4fa413
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_2"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d132c254ccab48a7bc9417c482f29
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_3"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee7ae82e5717246970de419c7fc82f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491746b40c2c2c489c4005aba62731d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_5"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba0d596ebbf704ea5f046430660672
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_6"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b7c89be40ca64aada5197b1253104
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_7"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1277986cd45772240a28d7321e1bc3f6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5506283a513d7de4d903369e83126321
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_9"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a144132a7d72da4a96be355d59c645b
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_10"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a2e3271a280247848e24cc514f006
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_11"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbb7a5b3d4e6344b01983ebafb71f8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2968712f5895a7d46824fd2e203b4fd2
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_13"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7bb87fe29bfba43ad808a7c034564d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_14"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a35de8e2b5e21a448c7cf8529aacb34
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grid_\u5730\u57CE_15"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 47, z: 0, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4c80137b10154c889af3fe0f29d89
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35df89354f73b444dad66ae608a55d81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "grid_\u5730\u57CE_0": 21300032
+      "grid_\u5730\u57CE_1": 21300034
+      "grid_\u5730\u57CE_10": 21300052
+      "grid_\u5730\u57CE_11": 21300054
+      "grid_\u5730\u57CE_12": 21300056
+      "grid_\u5730\u57CE_13": 21300058
+      "grid_\u5730\u57CE_14": 21300060
+      "grid_\u5730\u57CE_15": 21300062
+      "grid_\u5730\u57CE_2": 21300036
+      "grid_\u5730\u57CE_3": 21300038
+      "grid_\u5730\u57CE_4": 21300040
+      "grid_\u5730\u57CE_5": 21300042
+      "grid_\u5730\u57CE_6": 21300044
+      "grid_\u5730\u57CE_7": 21300046
+      "grid_\u5730\u57CE_8": 21300048
+      "grid_\u5730\u57CE_9": 21300050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,18 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-[CreateAssetMenu(fileName = "Buff", menuName = "Buff/Effect", order = 0)]
+[CreateAssetMenu(fileName = "Buff", menuName = "Buff/Toxic", order = 0)]
 public class BF_Toxic : Effect, BeforeTurnStart
 {
-    public int damageMultiplier = 1;
+    [SerializeField] private int damageMultiplier = 1;
 
-    public string source;
-    public string owner;
+    private string _source;
+    private string _owner;
     
     public override IEnumerator AddBuff(BuffAction buffAction)
     {
-        source = buffAction.Source;
-        owner = buffAction.Target;
+        _source = buffAction.Source;
+        _owner = buffAction.Target;
         yield break;
     }
 
@@ -22,20 +22,20 @@ public class BF_Toxic : Effect, BeforeTurnStart
     {
         foreach (var unit in units)
         {
-            if (unit == owner && B.HasBuff(owner, BuffType.Toxic, out int stacks))
+            if (unit == _owner && B.HasBuff(_owner, BuffType.Toxic, out int stacks))
             {
-                var state = B.GetUnit(owner).Buffs[BuffType];
-            
-                var info = new DamageInfo()
-                {
-                    SourceType = SourceType.Buff,
-                    Source = source,
-                    Target = owner,
-                    Value = stacks * damageMultiplier,
-                    BuffType = BuffType.Toxic
-                };
+                var info = new DamageInfo(_source, _owner, stacks * damageMultiplier, false,this);
 
                 yield return BattleManager.Instance.DealDamage(info);
+
+                yield return BattleManager.Instance.LoseBuff(new BuffAction()
+                {
+                    BuffType = buffType,
+                    Target = _owner,
+                    Source = _source,
+                    Stacks = 1,
+                    ByStack = true
+                });
             }
         }
     }

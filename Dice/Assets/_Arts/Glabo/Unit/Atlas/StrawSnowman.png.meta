@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 295f0c8efae3c264a80b6209d7331893
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2707059825948013496
+    second: StrawSnowman_0
+  - first:
+      213: -6616763385799066473
+    second: StrawSnowman_1
+  - first:
+      213: -2834152091048617411
+    second: StrawSnowman_2
+  - first:
+      213: -7583316634249931484
+    second: StrawSnowman_3
+  - first:
+      213: 6296089745665414281
+    second: StrawSnowman_4
+  - first:
+      213: -3672842607841097907
+    second: StrawSnowman_5
+  - first:
+      213: -4649200258158173163
+    second: StrawSnowman_6
+  - first:
+      213: -7941870294794347336
+    second: StrawSnowman_7
+  - first:
+      213: -7474078646030349809
+    second: StrawSnowman_8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StrawSnowman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.43333337, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c43a05e679e6ad0800000000000000
+      internalID: -2707059825948013496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb2aaf1c88c24a0800000000000000
+      internalID: -6616763385799066473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3add9d60b11ba8d0800000000000000
+      internalID: -2834152091048617411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d83403b5a2c690800000000000000
+      internalID: -7583316634249931484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984dd5cf344306750800000000000000
+      internalID: 6296089745665414281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4746b39b11770dc0800000000000000
+      internalID: -3672842607841097907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e3da6ff8ba7fb0800000000000000
+      internalID: -4649200258158173163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5e827b0fc8c190800000000000000
+      internalID: -7941870294794347336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrawSnowman_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a4700221db64890800000000000000
+      internalID: -7474078646030349809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StrawSnowman_0: -2707059825948013496
+      StrawSnowman_1: -6616763385799066473
+      StrawSnowman_2: -2834152091048617411
+      StrawSnowman_3: -7583316634249931484
+      StrawSnowman_4: 6296089745665414281
+      StrawSnowman_5: -3672842607841097907
+      StrawSnowman_6: -4649200258158173163
+      StrawSnowman_7: -7941870294794347336
+      StrawSnowman_8: -7474078646030349809
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

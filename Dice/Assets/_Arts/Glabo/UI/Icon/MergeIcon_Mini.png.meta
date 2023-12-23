@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: a88dbf278ab43914eb7c2117fc603db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7310795892492029206
+    second: MiniIcon_Chaos
+  - first:
+      213: -1954837858487429957
+    second: MiniIcon_Order
+  - first:
+      213: -8345506630404082008
+    second: MiniIcon_Nature
+  - first:
+      213: -7882677427646529938
+    second: MiniIcon_Tech
+  - first:
+      213: -187742342825476996
+    second: MiniIcon_Shadow
+  - first:
+      213: -3418876979376706963
+    second: MiniIcon_Holy
+  - first:
+      213: 3310268916108051233
+    second: MiniIcon_Arcana
+  - first:
+      213: -3812936909590814625
+    second: MiniIcon_Attack
+  - first:
+      213: 996552032510946508
+    second: MiniIcon_Boost
+  - first:
+      213: -6290777248130715065
+    second: MiniIcon_Motion
+  - first:
+      213: -8879913394433013022
+    second: MiniIcon_Spell
+  - first:
+      213: -7655603560580172788
+    second: MiniIcon_Spirit
+  - first:
+      213: -1341604070698431966
+    second: MiniIcon_Any
+  - first:
+      213: -4141101388990552523
+    second: Icon_Basic
+  - first:
+      213: -6836872971731953703
+    second: Icon_Advance
+  - first:
+      213: -2245649662653849351
+    second: Icon_Plus
+  - first:
+      213: 8386564040467803659
+    second: MiniIcon_Chaos
+  - first:
+      213: -5365857767870724018
+    second: MiniIcon_Order
+  - first:
+      213: 1147558289698326000
+    second: MiniIcon_Nature
+  - first:
+      213: -2417030595695138084
+    second: MiniIcon_Tech
+  - first:
+      213: -3296662142671270383
+    second: MiniIcon_Shadow
+  - first:
+      213: -3673328830831995292
+    second: MiniIcon_Holy
+  - first:
+      213: 1830970724308487036
+    second: MiniIcon_Arcana
+  - first:
+      213: -5589706981562645057
+    second: MiniIcon_Attack
+  - first:
+      213: 8331888637772673607
+    second: MiniIcon_Boost
+  - first:
+      213: 4390769432055605223
+    second: MiniIcon_Motion
+  - first:
+      213: -563884848600003498
+    second: MiniIcon_Spell
+  - first:
+      213: -9219747193096458285
+    second: MiniIcon_Spirit
+  - first:
+      213: -7465675323505376352
+    second: MiniIcon_Any
+  - first:
+      213: -1516899022534966910
+    second: MergeIcon_Mini_0
+  - first:
+      213: 2097500542766919373
+    second: MergeIcon_Mini_1
+  - first:
+      213: -4309835791393968194
+    second: MergeIcon_Mini_2
+  - first:
+      213: -2701331916989826081
+    second: MergeIcon_Mini_3
+  - first:
+      213: -3690688601141197796
+    second: MergeIcon_Mini_4
+  - first:
+      213: 7812022295774197014
+    second: MergeIcon_Mini_5
+  - first:
+      213: 5778307807120192053
+    second: MergeIcon_Mini_6
+  - first:
+      213: -6918056857170176245
+    second: MergeIcon_Mini_7
+  - first:
+      213: 5172968864649442657
+    second: MergeIcon_Mini_8
+  - first:
+      213: -3161260359361069618
+    second: MergeIcon_Mini_9
+  - first:
+      213: -6651575946859016871
+    second: MergeIcon_Level
+  - first:
+      213: -1695918038253257624
+    second: MergeIcon_Mini_11
+  - first:
+      213: 836373004224328374
+    second: MergeIcon_Mini_12
+  - first:
+      213: -8767280725568192325
+    second: MergeIcon_Lightweight
+  - first:
+      213: -3523771678552240197
+    second: MergeIcon_Star
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MergeIcon_Mini_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818aa93064e2fae0800000000000000
+      internalID: -1516899022534966910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceafcf61a1db1d10800000000000000
+      internalID: 2097500542766919373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa2b5ae236034c0800000000000000
+      internalID: -4309835791393968194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb756b0fe0f28ad0800000000000000
+      internalID: -2701331916989826081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144568754a08ccc0800000000000000
+      internalID: -3690688601141197796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6157d0d53e0e96c60800000000000000
+      internalID: 7812022295774197014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f346f55ca03050800000000000000
+      internalID: 5778307807120192053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079a6c11ff1eff90800000000000000
+      internalID: -6918056857170176245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f59b56c31ac740800000000000000
+      internalID: 5172968864649442657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd72c5c372f024d0800000000000000
+      internalID: -3161260359361069618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Level
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8feafaead0b3a0800000000000000
+      internalID: -6651575946859016871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cbcb19783e678e0800000000000000
+      internalID: -1695918038253257624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Mini_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27488e0d46b9b00800000000000000
+      internalID: 836373004224328374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Lightweight
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0016291ac545680800000000000000
+      internalID: -8767280725568192325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MergeIcon_Star
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfcf4ef35c091fc0800000000000000
+      internalID: -3523771678552240197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MergeIcon_Level: -6651575946859016871
+      MergeIcon_Lightweight: -8767280725568192325
+      MergeIcon_Mini_0: -1516899022534966910
+      MergeIcon_Mini_1: 2097500542766919373
+      MergeIcon_Mini_11: -1695918038253257624
+      MergeIcon_Mini_12: 836373004224328374
+      MergeIcon_Mini_2: -4309835791393968194
+      MergeIcon_Mini_3: -2701331916989826081
+      MergeIcon_Mini_4: -3690688601141197796
+      MergeIcon_Mini_5: 7812022295774197014
+      MergeIcon_Mini_6: 5778307807120192053
+      MergeIcon_Mini_7: -6918056857170176245
+      MergeIcon_Mini_8: 5172968864649442657
+      MergeIcon_Mini_9: -3161260359361069618
+      MergeIcon_Star: -3523771678552240197
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

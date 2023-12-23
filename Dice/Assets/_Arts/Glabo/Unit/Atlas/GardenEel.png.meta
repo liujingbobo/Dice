@@ -1,0 +1,1647 @@
+fileFormatVersion: 2
+guid: 1883174f3c37f6b4b802b94d3ac6a7d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7872400786886854067
+    second: GardenEel_0
+  - first:
+      213: 2599428269046545083
+    second: GardenEel_1
+  - first:
+      213: 7060351925008761273
+    second: GardenEel_2
+  - first:
+      213: 839762846210198034
+    second: GardenEel_3
+  - first:
+      213: -1712870874943204028
+    second: GardenEel_4
+  - first:
+      213: 690490902027862616
+    second: GardenEel_5
+  - first:
+      213: -4438651493928287737
+    second: GardenEel_6
+  - first:
+      213: 3050681308372608921
+    second: GardenEel_7
+  - first:
+      213: -6463553192687715573
+    second: GardenEel_8
+  - first:
+      213: -5236224169392380793
+    second: GardenEel_9
+  - first:
+      213: 1186684288169424123
+    second: GardenEel_10
+  - first:
+      213: 6630755096992362198
+    second: GardenEel_11
+  - first:
+      213: 1597529498291994401
+    second: GardenEel_12
+  - first:
+      213: -5509718807133741906
+    second: GardenEel_13
+  - first:
+      213: -4363113540079759129
+    second: GardenEel_14
+  - first:
+      213: -793033298954082594
+    second: GardenEel_15
+  - first:
+      213: -5285392081752715306
+    second: GardenEel_16
+  - first:
+      213: -8235733978496920329
+    second: GardenEel_17
+  - first:
+      213: 758809567327487778
+    second: GardenEel_18
+  - first:
+      213: 2953845433423010455
+    second: GardenEel_19
+  - first:
+      213: -3439157321431072256
+    second: GardenEel_20
+  - first:
+      213: -8451875435620590755
+    second: GardenEel_21
+  - first:
+      213: 284489891875659590
+    second: GardenEel_22
+  - first:
+      213: 751834852560373334
+    second: GardenEel_23
+  - first:
+      213: 598093023205864500
+    second: GardenEel_24
+  - first:
+      213: 7700071967705582112
+    second: GardenEel_25
+  - first:
+      213: -3241337989376004334
+    second: GardenEel_26
+  - first:
+      213: 5483184042046859339
+    second: GardenEel_27
+  - first:
+      213: 333685257895679736
+    second: GardenEel_28
+  - first:
+      213: -1776178835355458954
+    second: GardenEel_29
+  - first:
+      213: -2557038901868267288
+    second: GardenEel_30
+  - first:
+      213: 225889821969245748
+    second: GardenEel_31
+  - first:
+      213: 434347516882125843
+    second: GardenEel_32
+  - first:
+      213: -1605210966271644768
+    second: GardenEel_33
+  - first:
+      213: 6803367510400589361
+    second: GardenEel_34
+  - first:
+      213: -1230064466826682300
+    second: GardenEel_35
+  - first:
+      213: -2185584022445066884
+    second: GardenEel_36
+  - first:
+      213: -2646632400702025648
+    second: GardenEel_37
+  - first:
+      213: 2579091432757198745
+    second: GardenEel_38
+  - first:
+      213: -8077048432442644083
+    second: GardenEel_39
+  - first:
+      213: -1539411093217490482
+    second: GardenEel_40
+  - first:
+      213: 8578275628894004293
+    second: GardenEel_41
+  - first:
+      213: -4518262371444907906
+    second: GardenEel_42
+  - first:
+      213: -941597784904659903
+    second: GardenEel_43
+  - first:
+      213: 7101388293156124341
+    second: GardenEel_44
+  - first:
+      213: 2769188316087656267
+    second: GardenEel_45
+  - first:
+      213: -3248409632008810404
+    second: GardenEel_46
+  - first:
+      213: -3624018204833031047
+    second: GardenEel_47
+  - first:
+      213: -9001049591779252673
+    second: GardenEel_48
+  - first:
+      213: 8292313157420748230
+    second: GardenEel_49
+  - first:
+      213: -5759116041475998418
+    second: GardenEel_50
+  - first:
+      213: 1335321697589097668
+    second: GardenEel_51
+  - first:
+      213: 7139842453564579588
+    second: GardenEel_52
+  - first:
+      213: -1424834639767122122
+    second: GardenEel_53
+  - first:
+      213: -137718191427589656
+    second: GardenEel_54
+  - first:
+      213: 3707985694428971600
+    second: GardenEel_55
+  - first:
+      213: -4241186456292416071
+    second: GardenEel_56
+  - first:
+      213: 3656635635691667588
+    second: GardenEel_57
+  - first:
+      213: -4472920082567723658
+    second: GardenEel_58
+  - first:
+      213: -5237861293425148761
+    second: GardenEel_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GardenEel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b585ef4ec2604d60800000000000000
+      internalID: 7872400786886854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7714286, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbab0a30d36031420800000000000000
+      internalID: 2599428269046545083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0.24489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1846f1ba86bf160800000000000000
+      internalID: 7060351925008761273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0eeffbdf67ab00800000000000000
+      internalID: 839762846210198034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d5e0b309aa38e0800000000000000
+      internalID: -1712870874943204028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852820821dd159900800000000000000
+      internalID: 690490902027862616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702c5a6bbfdb662c0800000000000000
+      internalID: -4438651493928287737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 25
+        height: 50
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997297c9c72365a20800000000000000
+      internalID: 3050681308372608921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bb10bdd98dc46a0800000000000000
+      internalID: -6463553192687715573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35999998, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7846d035cd13557b0800000000000000
+      internalID: -5236224169392380793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf430e0a213f77010800000000000000
+      internalID: 1186684288169424123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 25
+        height: 50
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de27d421ac250c50800000000000000
+      internalID: 6630755096992362198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff6e75d909b2610800000000000000
+      internalID: 1597529498291994401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac1188cfeb8983b0800000000000000
+      internalID: -5509718807133741906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e059d02a5b1373c0800000000000000
+      internalID: -4363113540079759129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed629c09a649ef4f0800000000000000
+      internalID: -793033298954082594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0.24489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8774a7e386a6b0800000000000000
+      internalID: -5285392081752715306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7714286, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f49313d49bc4bd80800000000000000
+      internalID: -8235733978496920329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22709b8f745d78a00800000000000000
+      internalID: 758809567327487778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 52
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a969485ca2ef820800000000000000
+      internalID: 2953845433423010455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 52
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002ca6933a8a540d0800000000000000
+      internalID: -3439157321431072256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 52
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b1cfd3218e4ba80800000000000000
+      internalID: -8451875435620590755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 52
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f1073ac06b2f300800000000000000
+      internalID: 284489891875659590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 52
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568e94a0dd0f6a00800000000000000
+      internalID: 751834852560373334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 52
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43433de8f6adc4800800000000000000
+      internalID: 598093023205864500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 52
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac80c68a62cda60800000000000000
+      internalID: 7700071967705582112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 52
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fa342a5447403d0800000000000000
+      internalID: -3241337989376004334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 52
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b482b48c5de281c40800000000000000
+      internalID: 5483184042046859339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f618af59fc71a400800000000000000
+      internalID: 333685257895679736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 52
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672221582ceb957e0800000000000000
+      internalID: -1776178835355458954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 52
+        width: 18
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87941aaa2938cd0800000000000000
+      internalID: -2557038901868267288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 17
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4366ad4a895822300800000000000000
+      internalID: 225889821969245748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 52
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31405dce3cc170600800000000000000
+      internalID: 434347516882125843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 52
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab21d5812529b9e0800000000000000
+      internalID: -1605210966271644768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 52
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e5cd574ba6a6e50800000000000000
+      internalID: 6803367510400589361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 52
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4666667, y: 1.7142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44027f372eeedeee0800000000000000
+      internalID: -1230064466826682300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 52
+        width: 15
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4666667, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75746b49ee3ba1e0800000000000000
+      internalID: -2185584022445066884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 52
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050dd11aad5454bd0800000000000000
+      internalID: -2646632400702025648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 52
+        width: 15
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4666667, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ffeb45ef5cac320800000000000000
+      internalID: 2579091432757198745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_39
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 52
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4666667, y: 1.7142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8961a6ae3f88ef80800000000000000
+      internalID: -8077048432442644083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 52
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c97154c9e2aae0800000000000000
+      internalID: -1539411093217490482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_41
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 52
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5442e9d1c382c0770800000000000000
+      internalID: 8578275628894004293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_42
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 52
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70230cdf48eb41c0800000000000000
+      internalID: -4518262371444907906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c867dadc5cee2f0800000000000000
+      internalID: -941597784904659903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b630b127033d8260800000000000000
+      internalID: 7101388293156124341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4666667, y: 1.7142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f11980a122e6620800000000000000
+      internalID: 2769188316087656267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 15
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4666667, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50582786a45be2d0800000000000000
+      internalID: -3248409632008810404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4666667, y: 1.7142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd061c4a6e4bdc0800000000000000
+      internalID: -3624018204833031047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a25cf519d51380800000000000000
+      internalID: -9001049591779252673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8c52d1e6341370800000000000000
+      internalID: 8292313157420748230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db19f29728310b0800000000000000
+      internalID: -5759116041475998418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 17
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47ba55204088210800000000000000
+      internalID: 1335321697589097668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 104
+        width: 18
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f58fc02e0d51360800000000000000
+      internalID: 7139842453564579588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0.24489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f4209b178f93ce0800000000000000
+      internalID: -1424834639767122122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 104
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e969d8d80ab61ef0800000000000000
+      internalID: -137718191427589656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524ba4e759657330800000000000000
+      internalID: 3707985694428971600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 104
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52e7683674425c0800000000000000
+      internalID: -4241186456292416071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480cf6aacbafeb230800000000000000
+      internalID: 3656635635691667588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 104
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67507d922eefce1c0800000000000000
+      internalID: -4472920082567723658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenEel_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac30aea7e06f47b0800000000000000
+      internalID: -5237861293425148761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GardenEel_0: 7872400786886854067
+      GardenEel_1: 2599428269046545083
+      GardenEel_10: 1186684288169424123
+      GardenEel_11: 6630755096992362198
+      GardenEel_12: 1597529498291994401
+      GardenEel_13: -5509718807133741906
+      GardenEel_14: -4363113540079759129
+      GardenEel_15: -793033298954082594
+      GardenEel_16: -5285392081752715306
+      GardenEel_17: -8235733978496920329
+      GardenEel_18: 758809567327487778
+      GardenEel_19: 2953845433423010455
+      GardenEel_2: 7060351925008761273
+      GardenEel_20: -3439157321431072256
+      GardenEel_21: -8451875435620590755
+      GardenEel_22: 284489891875659590
+      GardenEel_23: 751834852560373334
+      GardenEel_24: 598093023205864500
+      GardenEel_25: 7700071967705582112
+      GardenEel_26: -3241337989376004334
+      GardenEel_27: 5483184042046859339
+      GardenEel_28: 333685257895679736
+      GardenEel_29: -1776178835355458954
+      GardenEel_3: 839762846210198034
+      GardenEel_30: -2557038901868267288
+      GardenEel_31: 225889821969245748
+      GardenEel_32: 434347516882125843
+      GardenEel_33: -1605210966271644768
+      GardenEel_34: 6803367510400589361
+      GardenEel_35: -1230064466826682300
+      GardenEel_36: -2185584022445066884
+      GardenEel_37: -2646632400702025648
+      GardenEel_38: 2579091432757198745
+      GardenEel_39: -8077048432442644083
+      GardenEel_4: -1712870874943204028
+      GardenEel_40: -1539411093217490482
+      GardenEel_41: 8578275628894004293
+      GardenEel_42: -4518262371444907906
+      GardenEel_43: -941597784904659903
+      GardenEel_44: 7101388293156124341
+      GardenEel_45: 2769188316087656267
+      GardenEel_46: -3248409632008810404
+      GardenEel_47: -3624018204833031047
+      GardenEel_48: -9001049591779252673
+      GardenEel_49: 8292313157420748230
+      GardenEel_5: 690490902027862616
+      GardenEel_50: -5759116041475998418
+      GardenEel_51: 1335321697589097668
+      GardenEel_52: 7139842453564579588
+      GardenEel_53: -1424834639767122122
+      GardenEel_54: -137718191427589656
+      GardenEel_55: 3707985694428971600
+      GardenEel_56: -4241186456292416071
+      GardenEel_57: 3656635635691667588
+      GardenEel_58: -4472920082567723658
+      GardenEel_59: -5237861293425148761
+      GardenEel_6: -4438651493928287737
+      GardenEel_7: 3050681308372608921
+      GardenEel_8: -6463553192687715573
+      GardenEel_9: -5236224169392380793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

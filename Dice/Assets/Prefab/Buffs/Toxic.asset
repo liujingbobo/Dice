@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a3859ee5e2a138409733300ef2b486e, type: 3}
+  m_Script: {fileID: 11500000, guid: ad9809a6edb461d49aceb6f3d38a5557, type: 3}
   m_Name: Toxic
   m_EditorClassIdentifier: 
-  Icon: {fileID: 0}
-  BuffType: 1
-  ByStack: 1
-  Source: 
+  icon: {fileID: 21300000, guid: 53d17b5a59b9740d3b5fcee17dc50514, type: 3}
+  buffType: 1
+  byStack: 1
+  showOnUI: 1
+  damageMultiplier: 1

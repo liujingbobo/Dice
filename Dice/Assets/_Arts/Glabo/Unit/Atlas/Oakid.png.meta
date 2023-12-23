@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: b1874636bc1f5c441b76520ba0a6e015
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2676372773907629104
+    second: Oakid_0
+  - first:
+      213: -8143520886322120997
+    second: Oakid_1
+  - first:
+      213: -2873182192925034399
+    second: Oakid_2
+  - first:
+      213: 3418135643073898349
+    second: Oakid_3
+  - first:
+      213: 9008344917016461073
+    second: Oakid_4
+  - first:
+      213: -9091186154120326301
+    second: Oakid_5
+  - first:
+      213: 7352085572793674344
+    second: Oakid_6
+  - first:
+      213: -8482526581453852943
+    second: Oakid_7
+  - first:
+      213: 1531144582635975250
+    second: Oakid_8
+  - first:
+      213: -2021144855743844840
+    second: Oakid_9
+  - first:
+      213: -6487745918607710037
+    second: Oakid_10
+  - first:
+      213: -7284369790045298131
+    second: Oakid_11
+  - first:
+      213: 1965847891854400553
+    second: Oakid_12
+  - first:
+      213: -2719653616245842372
+    second: Oakid_13
+  - first:
+      213: -7281902478453138615
+    second: Oakid_14
+  - first:
+      213: -2229099989633333881
+    second: Oakid_15
+  - first:
+      213: -7179093020953781768
+    second: Oakid_16
+  - first:
+      213: -2260342646013476013
+    second: Oakid_17
+  - first:
+      213: 9163060296298899485
+    second: Oakid_18
+  - first:
+      213: 4446312829255012925
+    second: Oakid_19
+  - first:
+      213: 8931386845068601908
+    second: Oakid_20
+  - first:
+      213: -289629982631671452
+    second: Oakid_21
+  - first:
+      213: -5187740220335634147
+    second: Oakid_22
+  - first:
+      213: 2581305446815708035
+    second: Oakid_23
+  - first:
+      213: -5717112227630620924
+    second: Oakid_24
+  - first:
+      213: 2673081701672487715
+    second: Oakid_25
+  - first:
+      213: 5495406473369535376
+    second: Oakid_26
+  - first:
+      213: -3305309021477664211
+    second: Oakid_27
+  - first:
+      213: -1459052581513369917
+    second: Oakid_28
+  - first:
+      213: 4679068295581521679
+    second: Oakid_29
+  - first:
+      213: -5311636778221957062
+    second: Oakid_30
+  - first:
+      213: 2041052272796425897
+    second: Oakid_31
+  - first:
+      213: 1985252915530939970
+    second: Oakid_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oakid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348a4b9bd2642520800000000000000
+      internalID: 2676372773907629104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6bbcd66e66cfe80800000000000000
+      internalID: -8143520886322120997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b9bfa4086028d0800000000000000
+      internalID: -2873182192925034399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67658fd148af6f20800000000000000
+      internalID: 3418135643073898349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f36f849f1140d70800000000000000
+      internalID: 9008344917016461073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36355b82c5e95d180800000000000000
+      internalID: -9091186154120326301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a24ac10ead70660800000000000000
+      internalID: 7352085572793674344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe62aa3403084a80800000000000000
+      internalID: -8482526581453852943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f7c3b2e7bf3510800000000000000
+      internalID: 1531144582635975250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ea7c1567373f3e0800000000000000
+      internalID: -2021144855743844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a568e575e6f5a0800000000000000
+      internalID: -6487745918607710037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2263cb2548b8ea90800000000000000
+      internalID: -7284369790045298131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c9e6cfd38184b10800000000000000
+      internalID: 1965847891854400553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e5f830279d14ad0800000000000000
+      internalID: -2719653616245842372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b93cae64c71fa90800000000000000
+      internalID: -7281902478453138615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850415ae55a011e0800000000000000
+      internalID: -2229099989633333881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f950941fecbe5c90800000000000000
+      internalID: -7179093020953781768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35343b9d656a1a0e0800000000000000
+      internalID: -2260342646013476013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a160aacab92f70800000000000000
+      internalID: 9163060296298899485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32d10ce5f974bd30800000000000000
+      internalID: 4446312829255012925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 60
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a29ebd309a2fb70800000000000000
+      internalID: 8931386845068601908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469cfe8b0170bfbf0800000000000000
+      internalID: -289629982631671452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1943e361c17108b0800000000000000
+      internalID: -5187740220335634147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 60
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833b36a0a3a2d320800000000000000
+      internalID: 2581305446815708035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fd80338bcb8a0b0800000000000000
+      internalID: -5717112227630620924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 60
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b09c325a1b81520800000000000000
+      internalID: 2673081701672487715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 60
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c295521b934c40800000000000000
+      internalID: 5495406473369535376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0eed05fe2122d0800000000000000
+      internalID: -3305309021477664211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c66742586760cbe0800000000000000
+      internalID: -1459052581513369917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07dde5f2d36fe040800000000000000
+      internalID: 4679068295581521679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 96
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a301e221e764946b0800000000000000
+      internalID: -5311636778221957062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 96
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aed8086a36435c10800000000000000
+      internalID: 2041052272796425897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oakid_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb78322090d8b10800000000000000
+      internalID: 1985252915530939970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Oakid_0: 2676372773907629104
+      Oakid_1: -8143520886322120997
+      Oakid_10: -6487745918607710037
+      Oakid_11: -7284369790045298131
+      Oakid_12: 1965847891854400553
+      Oakid_13: -2719653616245842372
+      Oakid_14: -7281902478453138615
+      Oakid_15: -2229099989633333881
+      Oakid_16: -7179093020953781768
+      Oakid_17: -2260342646013476013
+      Oakid_18: 9163060296298899485
+      Oakid_19: 4446312829255012925
+      Oakid_2: -2873182192925034399
+      Oakid_20: 8931386845068601908
+      Oakid_21: -289629982631671452
+      Oakid_22: -5187740220335634147
+      Oakid_23: 2581305446815708035
+      Oakid_24: -5717112227630620924
+      Oakid_25: 2673081701672487715
+      Oakid_26: 5495406473369535376
+      Oakid_27: -3305309021477664211
+      Oakid_28: -1459052581513369917
+      Oakid_29: 4679068295581521679
+      Oakid_3: 3418135643073898349
+      Oakid_30: -5311636778221957062
+      Oakid_31: 2041052272796425897
+      Oakid_32: 1985252915530939970
+      Oakid_4: 9008344917016461073
+      Oakid_5: -9091186154120326301
+      Oakid_6: 7352085572793674344
+      Oakid_7: -8482526581453852943
+      Oakid_8: 1531144582635975250
+      Oakid_9: -2021144855743844840
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

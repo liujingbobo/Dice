@@ -1,0 +1,3097 @@
+fileFormatVersion: 2
+guid: 72d66f76607de054e84684fba0176d7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5813343645247068239
+    second: SilverHolyEgg_0
+  - first:
+      213: 1968568444362404196
+    second: SilverHolyEgg_1
+  - first:
+      213: -5085657661464757758
+    second: SilverHolyEgg_2
+  - first:
+      213: -7558736861038496934
+    second: SilverHolyEgg_3
+  - first:
+      213: -4221323749473936936
+    second: SilverHolyEgg_4
+  - first:
+      213: 7035637096825371597
+    second: SilverHolyEgg_5
+  - first:
+      213: 1156574362646250461
+    second: SilverHolyEgg_6
+  - first:
+      213: -8219837977711869451
+    second: SilverHolyEgg_7
+  - first:
+      213: -6353764173093165041
+    second: SilverHolyEgg_8
+  - first:
+      213: 4012249164223388325
+    second: SilverHolyEgg_9
+  - first:
+      213: 3976970831747879068
+    second: SilverHolyEgg_10
+  - first:
+      213: -2557391967978990839
+    second: SilverHolyEgg_11
+  - first:
+      213: -6872330159069875758
+    second: SilverHolyEgg_12
+  - first:
+      213: -3742626722430295584
+    second: SilverHolyEgg_13
+  - first:
+      213: 9131740813535156745
+    second: SilverHolyEgg_14
+  - first:
+      213: -1073494624632891839
+    second: SilverHolyEgg_15
+  - first:
+      213: 2815109147797824293
+    second: SilverHolyEgg_16
+  - first:
+      213: -3957014481197842148
+    second: SilverHolyEgg_17
+  - first:
+      213: -8447448818351689018
+    second: SilverHolyEgg_18
+  - first:
+      213: 3425753852483571468
+    second: SilverHolyEgg_19
+  - first:
+      213: -7896066915623073997
+    second: SilverHolyEgg_20
+  - first:
+      213: -4467873720487400723
+    second: SilverHolyEgg_21
+  - first:
+      213: -9218062944175462982
+    second: SilverHolyEgg_22
+  - first:
+      213: 5033899040420428308
+    second: SilverHolyEgg_23
+  - first:
+      213: 2300001767398008065
+    second: SilverHolyEgg_24
+  - first:
+      213: 8506603247025362530
+    second: SilverHolyEgg_25
+  - first:
+      213: 1325977357510858615
+    second: SilverHolyEgg_26
+  - first:
+      213: 2594344251457572900
+    second: SilverHolyEgg_27
+  - first:
+      213: 8758908222934507009
+    second: SilverHolyEgg_28
+  - first:
+      213: 7761812567490596549
+    second: SilverHolyEgg_29
+  - first:
+      213: -626708153196063529
+    second: SilverHolyEgg_30
+  - first:
+      213: 8572118822800949729
+    second: SilverHolyEgg_31
+  - first:
+      213: 4162246678713656209
+    second: SilverHolyEgg_32
+  - first:
+      213: 679209906007010881
+    second: SilverHolyEgg_33
+  - first:
+      213: -7608784195062404076
+    second: SilverHolyEgg_34
+  - first:
+      213: -3724685898838974023
+    second: SilverHolyEgg_35
+  - first:
+      213: -3863990952467478
+    second: SilverHolyEgg_36
+  - first:
+      213: -2403053453139072332
+    second: SilverHolyEgg_37
+  - first:
+      213: -5444250427447174539
+    second: SilverHolyEgg_38
+  - first:
+      213: 7610496494595469812
+    second: SilverHolyEgg_39
+  - first:
+      213: -4139534313015540643
+    second: SilverHolyEgg_40
+  - first:
+      213: -5162717248180079837
+    second: SilverHolyEgg_41
+  - first:
+      213: 9172980795367580508
+    second: SilverHolyEgg_42
+  - first:
+      213: -4728105730960835418
+    second: SilverHolyEgg_43
+  - first:
+      213: -3959271239395358445
+    second: SilverHolyEgg_44
+  - first:
+      213: -8375308000761488790
+    second: SilverHolyEgg_45
+  - first:
+      213: 3680114026255450123
+    second: SilverHolyEgg_46
+  - first:
+      213: -9206414533398839548
+    second: SilverHolyEgg_47
+  - first:
+      213: 6166871385114025226
+    second: SilverHolyEgg_48
+  - first:
+      213: 2065361188320923667
+    second: SilverHolyEgg_49
+  - first:
+      213: -2841523922019233150
+    second: SilverHolyEgg_50
+  - first:
+      213: 7440968409980251038
+    second: SilverHolyEgg_51
+  - first:
+      213: -571810407915331744
+    second: SilverHolyEgg_52
+  - first:
+      213: 4510327380090219872
+    second: SilverHolyEgg_53
+  - first:
+      213: -7923009284575912921
+    second: SilverHolyEgg_54
+  - first:
+      213: -570547896058277428
+    second: SilverHolyEgg_55
+  - first:
+      213: 7398447942147362132
+    second: SilverHolyEgg_56
+  - first:
+      213: -8880420225786873886
+    second: SilverHolyEgg_57
+  - first:
+      213: 189234618999691593
+    second: SilverHolyEgg_58
+  - first:
+      213: -3416302150574691925
+    second: SilverHolyEgg_59
+  - first:
+      213: 4234300195856549806
+    second: SilverHolyEgg_60
+  - first:
+      213: 3419573767723101859
+    second: SilverHolyEgg_61
+  - first:
+      213: -5270542060477636782
+    second: SilverHolyEgg_62
+  - first:
+      213: -5106435879585879153
+    second: SilverHolyEgg_63
+  - first:
+      213: -4503241969774625294
+    second: SilverHolyEgg_64
+  - first:
+      213: 4325927732184244150
+    second: SilverHolyEgg_65
+  - first:
+      213: -6291026916251383137
+    second: SilverHolyEgg_66
+  - first:
+      213: -2305046326749018759
+    second: SilverHolyEgg_67
+  - first:
+      213: -1121127369558827235
+    second: SilverHolyEgg_68
+  - first:
+      213: -2810999147249576181
+    second: SilverHolyEgg_69
+  - first:
+      213: -2516057455474801282
+    second: SilverHolyEgg_70
+  - first:
+      213: 2603784059504725024
+    second: SilverHolyEgg_71
+  - first:
+      213: -5892709072195555053
+    second: SilverHolyEgg_72
+  - first:
+      213: -1063064964613508100
+    second: SilverHolyEgg_73
+  - first:
+      213: 6949962062263103258
+    second: SilverHolyEgg_74
+  - first:
+      213: 5045154025632607331
+    second: SilverHolyEgg_75
+  - first:
+      213: 4843051134317747588
+    second: SilverHolyEgg_76
+  - first:
+      213: 5735078468918710425
+    second: SilverHolyEgg_77
+  - first:
+      213: 8290101188742885183
+    second: SilverHolyEgg_78
+  - first:
+      213: 1293984826126225003
+    second: SilverHolyEgg_79
+  - first:
+      213: 2271686170580865860
+    second: SilverHolyEgg_80
+  - first:
+      213: -3792355992806269301
+    second: SilverHolyEgg_81
+  - first:
+      213: 1068854008837381860
+    second: SilverHolyEgg_82
+  - first:
+      213: 2460872436733670810
+    second: SilverHolyEgg_83
+  - first:
+      213: 1991056803632437177
+    second: SilverHolyEgg_84
+  - first:
+      213: 3003683097941918254
+    second: SilverHolyEgg_85
+  - first:
+      213: -5758099449040785121
+    second: SilverHolyEgg_86
+  - first:
+      213: 2761027110750971730
+    second: SilverHolyEgg_87
+  - first:
+      213: 3877030986015544976
+    second: SilverHolyEgg_88
+  - first:
+      213: 8781615892119131065
+    second: SilverHolyEgg_89
+  - first:
+      213: 5557960417658863470
+    second: SilverHolyEgg_90
+  - first:
+      213: 8241868192403194930
+    second: SilverHolyEgg_91
+  - first:
+      213: -783310519729487609
+    second: SilverHolyEgg_92
+  - first:
+      213: -285502411249593438
+    second: SilverHolyEgg_93
+  - first:
+      213: -5762024083210694654
+    second: SilverHolyEgg_94
+  - first:
+      213: 816287527920026374
+    second: SilverHolyEgg_95
+  - first:
+      213: 8097677426432512898
+    second: SilverHolyEgg_96
+  - first:
+      213: -3136246099916862959
+    second: SilverHolyEgg_97
+  - first:
+      213: 5367582677462514447
+    second: SilverHolyEgg_98
+  - first:
+      213: 3781333281605792592
+    second: SilverHolyEgg_99
+  - first:
+      213: -5564282739224578763
+    second: SilverHolyEgg_100
+  - first:
+      213: -7630479185633227682
+    second: SilverHolyEgg_101
+  - first:
+      213: 2318401232839561889
+    second: SilverHolyEgg_102
+  - first:
+      213: 2601462564527774103
+    second: SilverHolyEgg_103
+  - first:
+      213: 5687987810321743057
+    second: SilverHolyEgg_104
+  - first:
+      213: 1769639866815106951
+    second: SilverHolyEgg_105
+  - first:
+      213: 5839311800452078941
+    second: SilverHolyEgg_106
+  - first:
+      213: -5977519283777640601
+    second: SilverHolyEgg_107
+  - first:
+      213: 8629976492650278995
+    second: SilverHolyEgg_108
+  - first:
+      213: 6496702600582589572
+    second: SilverHolyEgg_109
+  - first:
+      213: -9114540020355416091
+    second: SilverHolyEgg_110
+  - first:
+      213: -3013875512732302773
+    second: SilverHolyEgg_111
+  - first:
+      213: -8854449410849509700
+    second: SilverHolyEgg_112
+  - first:
+      213: 1963365925939597023
+    second: SilverHolyEgg_113
+  - first:
+      213: 7963472209101526299
+    second: SilverHolyEgg_114
+  - first:
+      213: 2665452735429824482
+    second: SilverHolyEgg_115
+  - first:
+      213: -4884771321725809958
+    second: SilverHolyEgg_116
+  - first:
+      213: 2785409509495099346
+    second: SilverHolyEgg_117
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SilverHolyEgg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5520834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d934be352da050800000000000000
+      internalID: 5813343645247068239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b34af192c15b10800000000000000
+      internalID: 1968568444362404196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a36274d4d1c69b0800000000000000
+      internalID: -5085657661464757758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53362f6fd8f91790800000000000000
+      internalID: -7558736861038496934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99fa65a68da65c0800000000000000
+      internalID: -4221323749473936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb36d4c9aa93a160800000000000000
+      internalID: 7035637096825371597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd38ad9414afc0010800000000000000
+      internalID: 1156574362646250461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1083be8e44ded80800000000000000
+      internalID: -8219837977711869451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ad24f525e2d7a0800000000000000
+      internalID: -6353764173093165041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa94e76b5f5ea730800000000000000
+      internalID: 4012249164223388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901c6c86e9013730800000000000000
+      internalID: 3976970831747879068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_11
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903dc250e81528cd0800000000000000
+      internalID: -2557391967978990839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1bf69a12490a0a0800000000000000
+      internalID: -6872330159069875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e168a243d48f0cc0800000000000000
+      internalID: -3742626722430295584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a13bb43e57abe70800000000000000
+      internalID: 9131740813535156745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461776935e2a11f0800000000000000
+      internalID: -1073494624632891839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5232176dad6411720800000000000000
+      internalID: 2815109147797824293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1140256b4cd519c0800000000000000
+      internalID: -3957014481197842148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2bad36e02a4ca80800000000000000
+      internalID: -8447448818351689018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f85397af8ba8f20800000000000000
+      internalID: 3425753852483571468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3378293b9f88b6290800000000000000
+      internalID: -7896066915623073997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaab05e58ceef1c0800000000000000
+      internalID: -4467873720487400723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ea37779cd21080800000000000000
+      internalID: -9218062944175462982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_23
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a707ba1800cd540800000000000000
+      internalID: 5033899040420428308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1056788eb6f3bef10800000000000000
+      internalID: 2300001767398008065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_25
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266912055968d0670800000000000000
+      internalID: 8506603247025362530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_26
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77755ae9161d66210800000000000000
+      internalID: 1325977357510858615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_27
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 97
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420943de956f00420800000000000000
+      internalID: 2594344251457572900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e52404f94ed8970800000000000000
+      internalID: 8758908222934507009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8072086f77bb60800000000000000
+      internalID: 7761812567490596549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d458ee414c7d47f0800000000000000
+      internalID: -626708153196063529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18d7df6a846f670800000000000000
+      internalID: 8572118822800949729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193e6404d4543c930800000000000000
+      internalID: 4162246678713656209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e69779fc90d6900800000000000000
+      internalID: 679209906007010881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce2b0761b286690800000000000000
+      internalID: -7608784195062404076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_35
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ebc3c8e14f4cc0800000000000000
+      internalID: -3724685898838974023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 166
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ecdf78b542fff0800000000000000
+      internalID: -3863990952467478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_37
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baae55cd93a6aed0800000000000000
+      internalID: -2403053453139072332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_38
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a1eb3c4132274b0800000000000000
+      internalID: -5444250427447174539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f7bc5d3aed9960800000000000000
+      internalID: 7610496494595469812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_40
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540b29797b6d86c0800000000000000
+      internalID: -4139534313015540643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_41
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 166
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b17a14085a58b0800000000000000
+      internalID: -5162717248180079837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536d5fce69fc4f70800000000000000
+      internalID: 9172980795367580508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac379563e4626eb0800000000000000
+      internalID: -4728105730960835418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194b6ee8c7dd09c0800000000000000
+      internalID: -3959271239395358445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6adf126fbde4cb80800000000000000
+      internalID: -8375308000761488790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0083e37534621330800000000000000
+      internalID: 3680114026255450123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fb4c172ce3c3080800000000000000
+      internalID: -9206414533398839548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 237
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d1e3de9d0259550800000000000000
+      internalID: 6166871385114025226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 237
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.23943661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3105fbade03a9ac10800000000000000
+      internalID: 2065361188320923667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d4474c01e098d0800000000000000
+      internalID: -2841523922019233150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_51
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48529413, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ba6cd4851a34760800000000000000
+      internalID: 7440968409980251038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_52
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fd55da6758018f0800000000000000
+      internalID: -571810407915331744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_53
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06deefefad6e79e30800000000000000
+      internalID: 4510327380090219872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_54
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c1bb89801db0290800000000000000
+      internalID: -7923009284575912921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_55
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 237
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48529413, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1991026b10518f0800000000000000
+      internalID: -570547896058277428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc9e864319ca660800000000000000
+      internalID: 7398447942147362132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 309
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e777c9ead862c480800000000000000
+      internalID: -8880420225786873886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949dea422eb40a200800000000000000
+      internalID: 189234618999691593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9a79d5b4bd690d0800000000000000
+      internalID: -3416302150574691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea78566089143ca30800000000000000
+      internalID: 4234300195856549806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae216c5934c47f20800000000000000
+      internalID: 3419573767723101859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_62
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9977abe54bd6b0800000000000000
+      internalID: -5270542060477636782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_63
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b69f06f9b4229b0800000000000000
+      internalID: -5106435879585879153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_64
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf3f5a9454181c0800000000000000
+      internalID: -4503241969774625294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf5ad84a58c80c30800000000000000
+      internalID: 4325927732184244150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_66
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4a68d958c1b8a0800000000000000
+      internalID: -6291026916251383137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_67
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754e471494d200e0800000000000000
+      internalID: -2305046326749018759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_68
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5a7de894f070f0800000000000000
+      internalID: -1121127369558827235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_69
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 309
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07534c3b235df8d0800000000000000
+      internalID: -2810999147249576181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7583fb231b251dd0800000000000000
+      internalID: -2516057455474801282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c8a928ecf722420800000000000000
+      internalID: 2603784059504725024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ff0bd154e83ea0800000000000000
+      internalID: -5892709072195555053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf37c0b0c0c3f31f0800000000000000
+      internalID: -1063064964613508100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 380
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f22a35ca9337060800000000000000
+      internalID: 6949962062263103258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_75
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3382353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca6fe1bdcf30640800000000000000
+      internalID: 5045154025632607331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_76
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3382353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ddf0ad859f53340800000000000000
+      internalID: 4843051134317747588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_77
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 380
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99014e25b77179f40800000000000000
+      internalID: 5735078468918710425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_78
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f201bbb1b5c0370800000000000000
+      internalID: 8290101188742885183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_79
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ecff1f75825f110800000000000000
+      internalID: 1293984826126225003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_80
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d3a64986a68f10800000000000000
+      internalID: 2271686170580865860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_81
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e55fa3158de5bc0800000000000000
+      internalID: -3792355992806269301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_82
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee1189de0555de00800000000000000
+      internalID: 1068854008837381860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_83
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 380
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a957f056176c62220800000000000000
+      internalID: 2460872436733670810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7d2242d97a1ab10800000000000000
+      internalID: 1991056803632437177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e224ca60dd93fa920800000000000000
+      internalID: 3003683097941918254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113d8e0f0f1710b0800000000000000
+      internalID: -5758099449040785121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e8875783215620800000000000000
+      internalID: 2761027110750971730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09693a0f32bfdc530800000000000000
+      internalID: 3877030986015544976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39fab70219ed970800000000000000
+      internalID: 8781615892119131065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_90
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ffc327d87d12d40800000000000000
+      internalID: 5557960417658863470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 451
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23488c5247ff06270800000000000000
+      internalID: 8241868192403194930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_92
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 451
+        width: 96
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70182b28b3f1125f0800000000000000
+      internalID: -783310519729487609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_93
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 451
+        width: 106
+        height: 68
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a353f2d111b90cf0800000000000000
+      internalID: -285502411249593438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 451
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2001bf4ff9d2900b0800000000000000
+      internalID: -5762024083210694654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_95
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 451
+        width: 72
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60341488e29045b00800000000000000
+      internalID: 816287527920026374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_96
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 451
+        width: 76
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283953c47bab06070800000000000000
+      internalID: 8097677426432512898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2638889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4046e9c0d974d0800000000000000
+      internalID: -3136246099916862959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 523
+        width: 84
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b71b8a10c7d7a40800000000000000
+      internalID: 5367582677462514447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_99
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 523
+        width: 88
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b973d59ef97430800000000000000
+      internalID: 3781333281605792592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 523
+        width: 92
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357eaa5452b7c2b0800000000000000
+      internalID: -5564282739224578763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_101
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 523
+        width: 96
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc152db971b1690800000000000000
+      internalID: -7630479185633227682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_102
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 523
+        width: 98
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2da3a43ad9c2020800000000000000
+      internalID: 2318401232839561889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_103
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 523
+        width: 100
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79997275b604a1420800000000000000
+      internalID: 2601462564527774103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_104
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 523
+        width: 100
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcbaf8f6cacfee40800000000000000
+      internalID: 5687987810321743057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_105
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 523
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f42e935160f8810800000000000000
+      internalID: 1769639866815106951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_106
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 523
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d51bef427690150800000000000000
+      internalID: 5839311800452078941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e264b1e59b0da0800000000000000
+      internalID: -5977519283777640601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350346085e5d3c770800000000000000
+      internalID: 8629976492650278995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_109
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ce41f189ce82a50800000000000000
+      internalID: 6496702600582589572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_110
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37894738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef32a37426a28180800000000000000
+      internalID: -9114540020355416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_111
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4421053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c75a70309c26d0800000000000000
+      internalID: -3013875512732302773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_112
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 619
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5520834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee5a87c2dae1580800000000000000
+      internalID: -8854449410849509700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_113
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54736847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde4cb348e64f3b10800000000000000
+      internalID: 1963365925939597023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_114
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54736847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15113a28cfe38e60800000000000000
+      internalID: 7963472209101526299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_115
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 619
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54736847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef43e404279df420800000000000000
+      internalID: 2665452735429824482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_116
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 619
+        width: 98
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40816325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada848f0d5ec53cb0800000000000000
+      internalID: -4884771321725809958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverHolyEgg_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df437fe033c7a620800000000000000
+      internalID: 2785409509495099346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SilverHolyEgg_0: 5813343645247068239
+      SilverHolyEgg_1: 1968568444362404196
+      SilverHolyEgg_10: 3976970831747879068
+      SilverHolyEgg_100: -5564282739224578763
+      SilverHolyEgg_101: -7630479185633227682
+      SilverHolyEgg_102: 2318401232839561889
+      SilverHolyEgg_103: 2601462564527774103
+      SilverHolyEgg_104: 5687987810321743057
+      SilverHolyEgg_105: 1769639866815106951
+      SilverHolyEgg_106: 5839311800452078941
+      SilverHolyEgg_107: -5977519283777640601
+      SilverHolyEgg_108: 8629976492650278995
+      SilverHolyEgg_109: 6496702600582589572
+      SilverHolyEgg_11: -2557391967978990839
+      SilverHolyEgg_110: -9114540020355416091
+      SilverHolyEgg_111: -3013875512732302773
+      SilverHolyEgg_112: -8854449410849509700
+      SilverHolyEgg_113: 1963365925939597023
+      SilverHolyEgg_114: 7963472209101526299
+      SilverHolyEgg_115: 2665452735429824482
+      SilverHolyEgg_116: -4884771321725809958
+      SilverHolyEgg_117: 2785409509495099346
+      SilverHolyEgg_12: -6872330159069875758
+      SilverHolyEgg_13: -3742626722430295584
+      SilverHolyEgg_14: 9131740813535156745
+      SilverHolyEgg_15: -1073494624632891839
+      SilverHolyEgg_16: 2815109147797824293
+      SilverHolyEgg_17: -3957014481197842148
+      SilverHolyEgg_18: -8447448818351689018
+      SilverHolyEgg_19: 3425753852483571468
+      SilverHolyEgg_2: -5085657661464757758
+      SilverHolyEgg_20: -7896066915623073997
+      SilverHolyEgg_21: -4467873720487400723
+      SilverHolyEgg_22: -9218062944175462982
+      SilverHolyEgg_23: 5033899040420428308
+      SilverHolyEgg_24: 2300001767398008065
+      SilverHolyEgg_25: 8506603247025362530
+      SilverHolyEgg_26: 1325977357510858615
+      SilverHolyEgg_27: 2594344251457572900
+      SilverHolyEgg_28: 8758908222934507009
+      SilverHolyEgg_29: 7761812567490596549
+      SilverHolyEgg_3: -7558736861038496934
+      SilverHolyEgg_30: -626708153196063529
+      SilverHolyEgg_31: 8572118822800949729
+      SilverHolyEgg_32: 4162246678713656209
+      SilverHolyEgg_33: 679209906007010881
+      SilverHolyEgg_34: -7608784195062404076
+      SilverHolyEgg_35: -3724685898838974023
+      SilverHolyEgg_36: -3863990952467478
+      SilverHolyEgg_37: -2403053453139072332
+      SilverHolyEgg_38: -5444250427447174539
+      SilverHolyEgg_39: 7610496494595469812
+      SilverHolyEgg_4: -4221323749473936936
+      SilverHolyEgg_40: -4139534313015540643
+      SilverHolyEgg_41: -5162717248180079837
+      SilverHolyEgg_42: 9172980795367580508
+      SilverHolyEgg_43: -4728105730960835418
+      SilverHolyEgg_44: -3959271239395358445
+      SilverHolyEgg_45: -8375308000761488790
+      SilverHolyEgg_46: 3680114026255450123
+      SilverHolyEgg_47: -9206414533398839548
+      SilverHolyEgg_48: 6166871385114025226
+      SilverHolyEgg_49: 2065361188320923667
+      SilverHolyEgg_5: 7035637096825371597
+      SilverHolyEgg_50: -2841523922019233150
+      SilverHolyEgg_51: 7440968409980251038
+      SilverHolyEgg_52: -571810407915331744
+      SilverHolyEgg_53: 4510327380090219872
+      SilverHolyEgg_54: -7923009284575912921
+      SilverHolyEgg_55: -570547896058277428
+      SilverHolyEgg_56: 7398447942147362132
+      SilverHolyEgg_57: -8880420225786873886
+      SilverHolyEgg_58: 189234618999691593
+      SilverHolyEgg_59: -3416302150574691925
+      SilverHolyEgg_6: 1156574362646250461
+      SilverHolyEgg_60: 4234300195856549806
+      SilverHolyEgg_61: 3419573767723101859
+      SilverHolyEgg_62: -5270542060477636782
+      SilverHolyEgg_63: -5106435879585879153
+      SilverHolyEgg_64: -4503241969774625294
+      SilverHolyEgg_65: 4325927732184244150
+      SilverHolyEgg_66: -6291026916251383137
+      SilverHolyEgg_67: -2305046326749018759
+      SilverHolyEgg_68: -1121127369558827235
+      SilverHolyEgg_69: -2810999147249576181
+      SilverHolyEgg_7: -8219837977711869451
+      SilverHolyEgg_70: -2516057455474801282
+      SilverHolyEgg_71: 2603784059504725024
+      SilverHolyEgg_72: -5892709072195555053
+      SilverHolyEgg_73: -1063064964613508100
+      SilverHolyEgg_74: 6949962062263103258
+      SilverHolyEgg_75: 5045154025632607331
+      SilverHolyEgg_76: 4843051134317747588
+      SilverHolyEgg_77: 5735078468918710425
+      SilverHolyEgg_78: 8290101188742885183
+      SilverHolyEgg_79: 1293984826126225003
+      SilverHolyEgg_8: -6353764173093165041
+      SilverHolyEgg_80: 2271686170580865860
+      SilverHolyEgg_81: -3792355992806269301
+      SilverHolyEgg_82: 1068854008837381860
+      SilverHolyEgg_83: 2460872436733670810
+      SilverHolyEgg_84: 1991056803632437177
+      SilverHolyEgg_85: 3003683097941918254
+      SilverHolyEgg_86: -5758099449040785121
+      SilverHolyEgg_87: 2761027110750971730
+      SilverHolyEgg_88: 3877030986015544976
+      SilverHolyEgg_89: 8781615892119131065
+      SilverHolyEgg_9: 4012249164223388325
+      SilverHolyEgg_90: 5557960417658863470
+      SilverHolyEgg_91: 8241868192403194930
+      SilverHolyEgg_92: -783310519729487609
+      SilverHolyEgg_93: -285502411249593438
+      SilverHolyEgg_94: -5762024083210694654
+      SilverHolyEgg_95: 816287527920026374
+      SilverHolyEgg_96: 8097677426432512898
+      SilverHolyEgg_97: -3136246099916862959
+      SilverHolyEgg_98: 5367582677462514447
+      SilverHolyEgg_99: 3781333281605792592
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

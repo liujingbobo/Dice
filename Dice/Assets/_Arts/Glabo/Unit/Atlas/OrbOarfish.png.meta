@@ -1,0 +1,2447 @@
+fileFormatVersion: 2
+guid: a978fbdd82c0c404d80b0baaac65e2be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4393604425779364816
+    second: OrbOarfish_0
+  - first:
+      213: -7160916019194101024
+    second: OrbOarfish_1
+  - first:
+      213: 2195151101184870399
+    second: OrbOarfish_2
+  - first:
+      213: 324508592816687358
+    second: OrbOarfish_3
+  - first:
+      213: -2684078138208229787
+    second: OrbOarfish_4
+  - first:
+      213: -8954190257611331679
+    second: OrbOarfish_5
+  - first:
+      213: -8474546365126488879
+    second: OrbOarfish_6
+  - first:
+      213: 7216847638042825241
+    second: OrbOarfish_7
+  - first:
+      213: 6584271863702822534
+    second: OrbOarfish_8
+  - first:
+      213: 193439705108192542
+    second: OrbOarfish_9
+  - first:
+      213: 254237539425011020
+    second: OrbOarfish_10
+  - first:
+      213: -4791932050258141911
+    second: OrbOarfish_11
+  - first:
+      213: -6470313767082122820
+    second: OrbOarfish_12
+  - first:
+      213: -6753116274454685938
+    second: OrbOarfish_13
+  - first:
+      213: 9189356086651480054
+    second: OrbOarfish_14
+  - first:
+      213: 6759902246413025597
+    second: OrbOarfish_15
+  - first:
+      213: -7462334859299105943
+    second: OrbOarfish_16
+  - first:
+      213: -7771702733411597628
+    second: OrbOarfish_17
+  - first:
+      213: -2785916005112327626
+    second: OrbOarfish_18
+  - first:
+      213: -7161138510730500041
+    second: OrbOarfish_19
+  - first:
+      213: -510888993089203602
+    second: OrbOarfish_20
+  - first:
+      213: 8154817848558475450
+    second: OrbOarfish_21
+  - first:
+      213: 7109822436491324571
+    second: OrbOarfish_22
+  - first:
+      213: 4028804539569648871
+    second: OrbOarfish_23
+  - first:
+      213: 6717740502773474624
+    second: OrbOarfish_24
+  - first:
+      213: -4665423526116322658
+    second: OrbOarfish_25
+  - first:
+      213: -6261798163121953802
+    second: OrbOarfish_26
+  - first:
+      213: -2399613128041311164
+    second: OrbOarfish_27
+  - first:
+      213: 7828978093125468298
+    second: OrbOarfish_28
+  - first:
+      213: 5581731374767749515
+    second: OrbOarfish_29
+  - first:
+      213: 4319870590774338843
+    second: OrbOarfish_30
+  - first:
+      213: -7043568910089440096
+    second: OrbOarfish_31
+  - first:
+      213: -3928091481117117371
+    second: OrbOarfish_32
+  - first:
+      213: -839838849938183810
+    second: OrbOarfish_33
+  - first:
+      213: 5635883105204009626
+    second: OrbOarfish_34
+  - first:
+      213: -5733802031492831766
+    second: OrbOarfish_35
+  - first:
+      213: 799581299509652446
+    second: OrbOarfish_36
+  - first:
+      213: -3741021886285558757
+    second: OrbOarfish_37
+  - first:
+      213: 3759672574462971737
+    second: OrbOarfish_38
+  - first:
+      213: -7917875380077427471
+    second: OrbOarfish_39
+  - first:
+      213: -4658760229883412211
+    second: OrbOarfish_40
+  - first:
+      213: -3785080494205734167
+    second: OrbOarfish_41
+  - first:
+      213: 7958353715049966389
+    second: OrbOarfish_42
+  - first:
+      213: 5171727800501065156
+    second: OrbOarfish_43
+  - first:
+      213: 7342308763869774383
+    second: OrbOarfish_44
+  - first:
+      213: 997587300650554577
+    second: OrbOarfish_45
+  - first:
+      213: 4879595119332692782
+    second: OrbOarfish_46
+  - first:
+      213: 7437185076713868947
+    second: OrbOarfish_47
+  - first:
+      213: 1869369052923743832
+    second: OrbOarfish_48
+  - first:
+      213: -8543007282382845897
+    second: OrbOarfish_49
+  - first:
+      213: -7160296745783294706
+    second: OrbOarfish_50
+  - first:
+      213: 7460597911571510102
+    second: OrbOarfish_51
+  - first:
+      213: -8019638038135165099
+    second: OrbOarfish_52
+  - first:
+      213: -6407546510678484953
+    second: OrbOarfish_53
+  - first:
+      213: -5935706567768730741
+    second: OrbOarfish_54
+  - first:
+      213: 2461256116083646490
+    second: OrbOarfish_55
+  - first:
+      213: 3189062948329512753
+    second: OrbOarfish_56
+  - first:
+      213: 1270923397016556683
+    second: OrbOarfish_57
+  - first:
+      213: 1426108026783187876
+    second: OrbOarfish_58
+  - first:
+      213: -1452840172260070572
+    second: OrbOarfish_59
+  - first:
+      213: 5453336789963186334
+    second: OrbOarfish_60
+  - first:
+      213: 4391647498349877917
+    second: OrbOarfish_61
+  - first:
+      213: -5957538120976727671
+    second: OrbOarfish_62
+  - first:
+      213: 7266696886636704012
+    second: OrbOarfish_63
+  - first:
+      213: -9114026098677085993
+    second: OrbOarfish_64
+  - first:
+      213: -6568549740292271921
+    second: OrbOarfish_65
+  - first:
+      213: -7176858466469362634
+    second: OrbOarfish_66
+  - first:
+      213: 2373580892020596521
+    second: OrbOarfish_67
+  - first:
+      213: -6438629909151978794
+    second: OrbOarfish_68
+  - first:
+      213: 1435015328486103908
+    second: OrbOarfish_69
+  - first:
+      213: -5830103303124770494
+    second: OrbOarfish_70
+  - first:
+      213: -338473519128400509
+    second: OrbOarfish_71
+  - first:
+      213: 730549867289617824
+    second: OrbOarfish_72
+  - first:
+      213: -3913444013111236130
+    second: OrbOarfish_73
+  - first:
+      213: 2826116062074486275
+    second: OrbOarfish_74
+  - first:
+      213: -364268789369414948
+    second: OrbOarfish_75
+  - first:
+      213: 2680596247267067039
+    second: OrbOarfish_76
+  - first:
+      213: -3847079437600542551
+    second: OrbOarfish_77
+  - first:
+      213: 482089551268463933
+    second: OrbOarfish_78
+  - first:
+      213: -6235622187980936782
+    second: OrbOarfish_79
+  - first:
+      213: -4027614196689109500
+    second: OrbOarfish_80
+  - first:
+      213: -6801361838500837012
+    second: OrbOarfish_81
+  - first:
+      213: 1473779033274087646
+    second: OrbOarfish_82
+  - first:
+      213: 8757980024828184889
+    second: OrbOarfish_83
+  - first:
+      213: -2431226513925817213
+    second: OrbOarfish_84
+  - first:
+      213: 141620503749898662
+    second: OrbOarfish_85
+  - first:
+      213: 6714344471362864703
+    second: OrbOarfish_86
+  - first:
+      213: -8732612649109321464
+    second: OrbOarfish_87
+  - first:
+      213: -8901498256214050525
+    second: OrbOarfish_88
+  - first:
+      213: -6196688046368090853
+    second: OrbOarfish_89
+  - first:
+      213: -6633670252597060081
+    second: OrbOarfish_90
+  - first:
+      213: -6417325068423212079
+    second: OrbOarfish_91
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrbOarfish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c92a62f739fc30800000000000000
+      internalID: 4393604425779364816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2088912d05f9c90800000000000000
+      internalID: -7160916019194101024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff78e6ecb4eb67e10800000000000000
+      internalID: 2195151101184870399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8866988d2e08400800000000000000
+      internalID: 324508592816687358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e4b6772d30cad0800000000000000
+      internalID: -2684078138208229787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 102
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a720dbe6635cb380800000000000000
+      internalID: -8954190257611331679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcce022bfc546a80800000000000000
+      internalID: -8474546365126488879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d8a7b0b4672460800000000000000
+      internalID: 7216847638042825241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1b940068006b50800000000000000
+      internalID: 6584271863702822534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 102
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1e6c036c3fa200800000000000000
+      internalID: 193439705108192542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_10
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 0
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454ff1f1bb378300800000000000000
+      internalID: 254237539425011020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ddd846033af7db0800000000000000
+      internalID: -4791932050258141911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_12
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb120c7f8e3d436a0800000000000000
+      internalID: -6470313767082122820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_13
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4351852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071836278c1842a0800000000000000
+      internalID: -6753116274454685938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_14
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 102
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76f6b6ca6278f70800000000000000
+      internalID: 9189356086651480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_15
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 0
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3140d1174fffcd50800000000000000
+      internalID: 6759902246413025597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_16
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963567c8bf5707890800000000000000
+      internalID: -7462334859299105943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_17
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c11b4a8d552490800000000000000
+      internalID: -7771702733411597628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 0
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632543d57207659d0800000000000000
+      internalID: -2785916005112327626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 102
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e98047768e9c90800000000000000
+      internalID: -7161138510730500041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d247ea25f8e8f0800000000000000
+      internalID: -510888993089203602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 115
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d75f80abbb2170800000000000000
+      internalID: 8154817848558475450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 115
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cea2726d92ba260800000000000000
+      internalID: 7109822436491324571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 115
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b78a126039e730800000000000000
+      internalID: 4028804539569648871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 115
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045211925653a3d50800000000000000
+      internalID: 6717740502773474624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 115
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92161f7506114fb0800000000000000
+      internalID: -4665423526116322658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 115
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32cef3fbf9919a0800000000000000
+      internalID: -6261798163121953802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 115
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444dbb0e29cd2bed0800000000000000
+      internalID: -2399613128041311164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_28
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 115
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a800f03981e16ac60800000000000000
+      internalID: 7828978093125468298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_29
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 115
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893fa0bc1b467d40800000000000000
+      internalID: 5581731374767749515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_30
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 115
+        width: 102
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e2c62a6343fb30800000000000000
+      internalID: 4319870590774338843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_31
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 115
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4322b0567304e90800000000000000
+      internalID: -7043568910089440096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_32
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 115
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b6ce1c9d9c79c0800000000000000
+      internalID: -3928091481117117371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_33
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 115
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79acd0040b4854f0800000000000000
+      internalID: -839838849938183810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_34
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 115
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a7f41f2dda63e40800000000000000
+      internalID: 5635883105204009626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_35
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 115
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e47c6e617d60b0800000000000000
+      internalID: -5733802031492831766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_36
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 115
+        width: 103
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.41346157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb615e94fea81b00800000000000000
+      internalID: 799581299509652446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_37
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 115
+        width: 103
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4854369, y: 0.42990652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cccfa4a68351cc0800000000000000
+      internalID: -3741021886285558757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_38
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 115
+        width: 102
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc4a0794a0d2430800000000000000
+      internalID: 3759672574462971737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_39
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 115
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48ca2ea4e0e1290800000000000000
+      internalID: -7917875380077427471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01051c0142c85fb0800000000000000
+      internalID: -4658760229883412211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 230
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27b904851b87bc0800000000000000
+      internalID: -3785080494205734167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 230
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba676e980c17e60800000000000000
+      internalID: 7958353715049966389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 230
+        width: 102
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d0e7980ba5c740800000000000000
+      internalID: 5171727800501065156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 230
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2202b56bee15e560800000000000000
+      internalID: 7342308763869774383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_45
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 230
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d497bf4d5428dd00800000000000000
+      internalID: 997587300650554577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 230
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e231e8768edc7b340800000000000000
+      internalID: 4879595119332692782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 230
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ecd526c60363760800000000000000
+      internalID: 7437185076713868947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 230
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ec0a1df3551f910800000000000000
+      internalID: 1869369052923743832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_49
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 230
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738cef3b324217980800000000000000
+      internalID: -8543007282382845897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_50
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 230
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05833deb0481ac90800000000000000
+      internalID: -7160296745783294706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_51
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 230
+        width: 102
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bd3bc54e598760800000000000000
+      internalID: 7460597911571510102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_52
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 230
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f2eb5b1b584b090800000000000000
+      internalID: -8019638038135165099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_53
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 230
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728173da562d317a0800000000000000
+      internalID: -6407546510678484953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_54
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 230
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b831139435220ada0800000000000000
+      internalID: -5935706567768730741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_55
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 230
+        width: 102
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106c64b563282220800000000000000
+      internalID: 2461256116083646490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_56
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 230
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5a89ead3d14c20800000000000000
+      internalID: 3189062948329512753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_57
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 230
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8497ef881a33a110800000000000000
+      internalID: 1270923397016556683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_58
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 230
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3cebbc1bd8ac310800000000000000
+      internalID: 1426108026783187876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_59
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 230
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4351852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b65019f8976dbe0800000000000000
+      internalID: -1452840172260070572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 102
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90235edae42eab40800000000000000
+      internalID: 5453336789963186334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 344
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a90edb12442fc30800000000000000
+      internalID: 4391647498349877917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 344
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9818553b4a2925da0800000000000000
+      internalID: -5957538120976727671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 344
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01fa6a515e78d460800000000000000
+      internalID: 7266696886636704012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 344
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d886ba2d89748180800000000000000
+      internalID: -9114026098677085993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_65
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 344
+        width: 102
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0156810d2d7d4a0800000000000000
+      internalID: -6568549740292271921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_66
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 344
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c6d6df3da66c90800000000000000
+      internalID: -7176858466469362634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_67
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 344
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fda8ade37a0f020800000000000000
+      internalID: 2373580892020596521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_68
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 344
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da6ac0063465a6a0800000000000000
+      internalID: -6438629909151978794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 344
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b97a596d23ae310800000000000000
+      internalID: 1435015328486103908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_70
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 344
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241aa6d5fef471fa0800000000000000
+      internalID: -5830103303124770494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_71
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 344
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38da97ea0208d4bf0800000000000000
+      internalID: -338473519128400509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_72
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 344
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41052634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a182db3f632a00800000000000000
+      internalID: 730549867289617824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_73
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 344
+        width: 102
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed920268767a0b9c0800000000000000
+      internalID: -3913444013111236130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_74
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 344
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4226804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eb9f5c591683720800000000000000
+      internalID: 2826116062074486275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_75
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 344
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdadfde477bd1faf0800000000000000
+      internalID: -364268789369414948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_76
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 344
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944990a514633520800000000000000
+      internalID: 2680596247267067039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_77
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 344
+        width: 102
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03c1b52ad6c9ac0800000000000000
+      internalID: -3847079437600542551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_78
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 344
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c84584e9b0b600800000000000000
+      internalID: 482089551268463933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_79
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 344
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b92ad368ae9679a0800000000000000
+      internalID: -6235622187980936782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e76023a3a0b18c0800000000000000
+      internalID: -4027614196689109500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 459
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4351852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69824b6175bc91a0800000000000000
+      internalID: -6801361838500837012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 459
+        width: 102
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed878bbe83ae37410800000000000000
+      internalID: 1473779033274087646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 459
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c9d94e689a8970800000000000000
+      internalID: 8757980024828184889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_84
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 459
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb0f4ed5c824ed0800000000000000
+      internalID: -2431226513925817213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_85
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 459
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1bcea091327f100800000000000000
+      internalID: 141620503749898662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_86
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 459
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46363634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36013bf8b42e2d50800000000000000
+      internalID: 6714344471362864703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_87
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 459
+        width: 102
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80981c020178fc680800000000000000
+      internalID: -8732612649109321464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_88
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 459
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3293a958f76877480800000000000000
+      internalID: -8901498256214050525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_89
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 459
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151254ad01f00aa0800000000000000
+      internalID: -6196688046368090853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_90
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 459
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e50ec4d0870f3a0800000000000000
+      internalID: -6633670252597060081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbOarfish_91
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 459
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3dc68c9d411f6a0800000000000000
+      internalID: -6417325068423212079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OrbOarfish_0: 4393604425779364816
+      OrbOarfish_1: -7160916019194101024
+      OrbOarfish_10: 254237539425011020
+      OrbOarfish_11: -4791932050258141911
+      OrbOarfish_12: -6470313767082122820
+      OrbOarfish_13: -6753116274454685938
+      OrbOarfish_14: 9189356086651480054
+      OrbOarfish_15: 6759902246413025597
+      OrbOarfish_16: -7462334859299105943
+      OrbOarfish_17: -7771702733411597628
+      OrbOarfish_18: -2785916005112327626
+      OrbOarfish_19: -7161138510730500041
+      OrbOarfish_2: 2195151101184870399
+      OrbOarfish_20: -510888993089203602
+      OrbOarfish_21: 8154817848558475450
+      OrbOarfish_22: 7109822436491324571
+      OrbOarfish_23: 4028804539569648871
+      OrbOarfish_24: 6717740502773474624
+      OrbOarfish_25: -4665423526116322658
+      OrbOarfish_26: -6261798163121953802
+      OrbOarfish_27: -2399613128041311164
+      OrbOarfish_28: 7828978093125468298
+      OrbOarfish_29: 5581731374767749515
+      OrbOarfish_3: 324508592816687358
+      OrbOarfish_30: 4319870590774338843
+      OrbOarfish_31: -7043568910089440096
+      OrbOarfish_32: -3928091481117117371
+      OrbOarfish_33: -839838849938183810
+      OrbOarfish_34: 5635883105204009626
+      OrbOarfish_35: -5733802031492831766
+      OrbOarfish_36: 799581299509652446
+      OrbOarfish_37: -3741021886285558757
+      OrbOarfish_38: 3759672574462971737
+      OrbOarfish_39: -7917875380077427471
+      OrbOarfish_4: -2684078138208229787
+      OrbOarfish_40: -4658760229883412211
+      OrbOarfish_41: -3785080494205734167
+      OrbOarfish_42: 7958353715049966389
+      OrbOarfish_43: 5171727800501065156
+      OrbOarfish_44: 7342308763869774383
+      OrbOarfish_45: 997587300650554577
+      OrbOarfish_46: 4879595119332692782
+      OrbOarfish_47: 7437185076713868947
+      OrbOarfish_48: 1869369052923743832
+      OrbOarfish_49: -8543007282382845897
+      OrbOarfish_5: -8954190257611331679
+      OrbOarfish_50: -7160296745783294706
+      OrbOarfish_51: 7460597911571510102
+      OrbOarfish_52: -8019638038135165099
+      OrbOarfish_53: -6407546510678484953
+      OrbOarfish_54: -5935706567768730741
+      OrbOarfish_55: 2461256116083646490
+      OrbOarfish_56: 3189062948329512753
+      OrbOarfish_57: 1270923397016556683
+      OrbOarfish_58: 1426108026783187876
+      OrbOarfish_59: -1452840172260070572
+      OrbOarfish_6: -8474546365126488879
+      OrbOarfish_60: 5453336789963186334
+      OrbOarfish_61: 4391647498349877917
+      OrbOarfish_62: -5957538120976727671
+      OrbOarfish_63: 7266696886636704012
+      OrbOarfish_64: -9114026098677085993
+      OrbOarfish_65: -6568549740292271921
+      OrbOarfish_66: -7176858466469362634
+      OrbOarfish_67: 2373580892020596521
+      OrbOarfish_68: -6438629909151978794
+      OrbOarfish_69: 1435015328486103908
+      OrbOarfish_7: 7216847638042825241
+      OrbOarfish_70: -5830103303124770494
+      OrbOarfish_71: -338473519128400509
+      OrbOarfish_72: 730549867289617824
+      OrbOarfish_73: -3913444013111236130
+      OrbOarfish_74: 2826116062074486275
+      OrbOarfish_75: -364268789369414948
+      OrbOarfish_76: 2680596247267067039
+      OrbOarfish_77: -3847079437600542551
+      OrbOarfish_78: 482089551268463933
+      OrbOarfish_79: -6235622187980936782
+      OrbOarfish_8: 6584271863702822534
+      OrbOarfish_80: -4027614196689109500
+      OrbOarfish_81: -6801361838500837012
+      OrbOarfish_82: 1473779033274087646
+      OrbOarfish_83: 8757980024828184889
+      OrbOarfish_84: -2431226513925817213
+      OrbOarfish_85: 141620503749898662
+      OrbOarfish_86: 6714344471362864703
+      OrbOarfish_87: -8732612649109321464
+      OrbOarfish_88: -8901498256214050525
+      OrbOarfish_89: -6196688046368090853
+      OrbOarfish_9: 193439705108192542
+      OrbOarfish_90: -6633670252597060081
+      OrbOarfish_91: -6417325068423212079
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

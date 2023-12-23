@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 59fc0cc2b8622364fbf4bf82487554c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6160145267648947856
+    second: CurvyVine_0
+  - first:
+      213: 5000490138465273220
+    second: CurvyVine_1
+  - first:
+      213: 2500146583465903818
+    second: CurvyVine_2
+  - first:
+      213: 5155362650751238057
+    second: CurvyVine_3
+  - first:
+      213: -6247849868377520334
+    second: CurvyVine_4
+  - first:
+      213: -4086281123029257403
+    second: CurvyVine_5
+  - first:
+      213: -3528442684450659914
+    second: CurvyVine_6
+  - first:
+      213: 9114776611212967300
+    second: CurvyVine_7
+  - first:
+      213: 779196360731756125
+    second: CurvyVine_8
+  - first:
+      213: 2772317676771131030
+    second: CurvyVine_9
+  - first:
+      213: 7874880603340065612
+    second: CurvyVine_10
+  - first:
+      213: 1835228358628275841
+    second: CurvyVine_11
+  - first:
+      213: -9212246380126540582
+    second: CurvyVine_12
+  - first:
+      213: -6254035236144562181
+    second: CurvyVine_13
+  - first:
+      213: 4226908523204827533
+    second: CurvyVine_14
+  - first:
+      213: 4686929070590224451
+    second: CurvyVine_15
+  - first:
+      213: -2357910642865669652
+    second: CurvyVine_16
+  - first:
+      213: 189484302561401880
+    second: CurvyVine_17
+  - first:
+      213: -6883316961079245164
+    second: CurvyVine_18
+  - first:
+      213: 6384949368946421597
+    second: CurvyVine_19
+  - first:
+      213: -804239553609887665
+    second: CurvyVine_20
+  - first:
+      213: 2688550535268708612
+    second: CurvyVine_21
+  - first:
+      213: -4206049913424075622
+    second: CurvyVine_22
+  - first:
+      213: -8240867768769025251
+    second: CurvyVine_23
+  - first:
+      213: 1247752110118752634
+    second: CurvyVine_24
+  - first:
+      213: 4144027841578690168
+    second: CurvyVine_25
+  - first:
+      213: -4529169319734181956
+    second: CurvyVine_26
+  - first:
+      213: -4082874045634815933
+    second: CurvyVine_27
+  - first:
+      213: -2710539081412551107
+    second: CurvyVine_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CurvyVine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e40bab7b3d7550800000000000000
+      internalID: 6160145267648947856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850116894f456540800000000000000
+      internalID: 5000490138465273220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac644e1421e42b220800000000000000
+      internalID: 2500146583465903818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff75e34078b8740800000000000000
+      internalID: 5155362650751238057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370361b5ad2b49a0800000000000000
+      internalID: -6247849868377520334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f479f7fc9a47c0800000000000000
+      internalID: -4086281123029257403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12efea214780fc0800000000000000
+      internalID: -3528442684450659914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d336629013e7e70800000000000000
+      internalID: 9114776611212967300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5681b336f240da00800000000000000
+      internalID: 779196360731756125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eba781d30497620800000000000000
+      internalID: 2772317676771131030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bc2b29f22394d60800000000000000
+      internalID: 7874880603340065612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f2cdf77a087910800000000000000
+      internalID: 1835228358628275841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 70
+        width: 41
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adced21d9b6872080800000000000000
+      internalID: -9212246380126540582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffb3d886143539a0800000000000000
+      internalID: -6254035236144562181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d1bf18eef8aa30800000000000000
+      internalID: 4226908523204827533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486bf348215b0140800000000000000
+      internalID: 4686929070590224451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f0e753c4074fd0800000000000000
+      internalID: -2357910642865669652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 106
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c5fa028fe21a200800000000000000
+      internalID: 189484302561401880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496437a71bb8970a0800000000000000
+      internalID: -6883316961079245164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 106
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fe7e44f95eb9850800000000000000
+      internalID: 6384949368946421597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 106
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.61764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4093c41364c6d4f0800000000000000
+      internalID: -804239553609887665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b06f9776af4520800000000000000
+      internalID: 2688550535268708612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.61764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94abca63eb11a5c0800000000000000
+      internalID: -4206049913424075622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 152
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6e812d6e82ad80800000000000000
+      internalID: -8240867768769025251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715f5beee7e05110800000000000000
+      internalID: 1247752110118752634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 152
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87660acad5b828930800000000000000
+      internalID: 4144027841578690168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf75a110882521c0800000000000000
+      internalID: -4529169319734181956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 188
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348564fffa7b657c0800000000000000
+      internalID: -4082874045634815933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurvyVine_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 188
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5796011b326ad0800000000000000
+      internalID: -2710539081412551107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CurvyVine_0: 6160145267648947856
+      CurvyVine_1: 5000490138465273220
+      CurvyVine_10: 7874880603340065612
+      CurvyVine_11: 1835228358628275841
+      CurvyVine_12: -9212246380126540582
+      CurvyVine_13: -6254035236144562181
+      CurvyVine_14: 4226908523204827533
+      CurvyVine_15: 4686929070590224451
+      CurvyVine_16: -2357910642865669652
+      CurvyVine_17: 189484302561401880
+      CurvyVine_18: -6883316961079245164
+      CurvyVine_19: 6384949368946421597
+      CurvyVine_2: 2500146583465903818
+      CurvyVine_20: -804239553609887665
+      CurvyVine_21: 2688550535268708612
+      CurvyVine_22: -4206049913424075622
+      CurvyVine_23: -8240867768769025251
+      CurvyVine_24: 1247752110118752634
+      CurvyVine_25: 4144027841578690168
+      CurvyVine_26: -4529169319734181956
+      CurvyVine_27: -4082874045634815933
+      CurvyVine_28: -2710539081412551107
+      CurvyVine_3: 5155362650751238057
+      CurvyVine_4: -6247849868377520334
+      CurvyVine_5: -4086281123029257403
+      CurvyVine_6: -3528442684450659914
+      CurvyVine_7: 9114776611212967300
+      CurvyVine_8: 779196360731756125
+      CurvyVine_9: 2772317676771131030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

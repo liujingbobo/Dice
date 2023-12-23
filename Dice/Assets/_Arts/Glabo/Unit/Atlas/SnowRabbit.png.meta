@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: a9f1384adf2e7204caab10a764d5a0b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7295014726134706994
+    second: IceWisp_0
+  - first:
+      213: -4200608715797823033
+    second: IceWisp_1
+  - first:
+      213: 90435294456442803
+    second: IceWisp_2
+  - first:
+      213: -4922486431149687872
+    second: IceWisp_3
+  - first:
+      213: -1325767233140664147
+    second: IceWisp_4
+  - first:
+      213: 7595249725825142473
+    second: IceWisp_5
+  - first:
+      213: 6803841302033044661
+    second: IceWisp_6
+  - first:
+      213: -495661408464791523
+    second: IceWisp_7
+  - first:
+      213: 8688623553306976246
+    second: IceWisp_8
+  - first:
+      213: 1810567841490331422
+    second: IceWisp_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceWisp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b0862e391d3560800000000000000
+      internalID: 7295014726134706994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c10676f0a074b5c0800000000000000
+      internalID: -4200608715797823033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfeb31db6a414100800000000000000
+      internalID: 90435294456442803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb74abdba0dfabb0800000000000000
+      internalID: -4922486431149687872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da85cc5c9bde99de0800000000000000
+      internalID: -1325767233140664147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec030626fb76960800000000000000
+      internalID: 7595249725825142473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 29
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49fcbad991c6e50800000000000000
+      internalID: 6803841302033044661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.11538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18169b339e0f19f0800000000000000
+      internalID: -495661408464791523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceWisp_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff54f16611349870800000000000000
+      internalID: 8688623553306976246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IceWisp_0: 7295014726134706994
+      IceWisp_1: -4200608715797823033
+      IceWisp_2: 90435294456442803
+      IceWisp_3: -4922486431149687872
+      IceWisp_4: -1325767233140664147
+      IceWisp_5: 7595249725825142473
+      IceWisp_6: 6803841302033044661
+      IceWisp_7: -495661408464791523
+      IceWisp_8: 8688623553306976246
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

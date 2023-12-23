@@ -11,50 +11,78 @@ public class FakeStart : MonoBehaviour
 
     public List<PresetDice> playerDices;
     public List<PresetDice> enemyDices;
+    
+    public int enemyCount;
 
     public BattleManager bm;
+
+    [SerializeField] private string unitBaseName;
+    private int _currentUnitCount;
+    
     public void Start()
     {
+        _currentUnitCount = 0;
+        
+        var playerRTDices = new List<RTDiceData>();
+        
+        for (int i = 0; i < playerDices.Count; i++)
+        {
+            playerRTDices.Add(new RTDiceData()
+            {
+                Sides = playerDices[i].Sides.Select(side => new RTSideData()
+                {
+                    Side = Instantiate(side),
+                }).ToList(),
+                Index = i
+            });
+        }
+        
         var player = new BTUnit()
         {
-            ID = playerBase.ID,
-            HP = playerBase.HP,
-            MaxHP = playerBase.MaxHP,
-            BR = 0,
-            Buffs = new Dictionary<BuffType, int>(),
-            Dices = playerDices.Select(_ =>
-            {
-                var data = new RTDiceData()
-                {
-                    Sides = _.Sides.Select(side => new RTSideData()
-                    {
-                        Side = side,
-                    }).ToList()
-                };
-                return data;
-            }).ToList()
+            id = unitBaseName + _currentUnitCount,
+            hp = playerBase.hp,
+            maxHp = playerBase.maxHp,
+            br = 0,
+            buffs = new Dictionary<BuffType, int>(),
+            Dices = playerRTDices
         };
-        
-        var enemy = new BTUnit()
+
+        _currentUnitCount++;
+
+        var enemies = new List<BTUnit>();
+
+        for (int e = 0; e < enemyCount; e++)
         {
-            ID = enemyBase.ID,
-            HP = enemyBase.HP,
-            MaxHP = enemyBase.MaxHP,
-            BR = 0,
-            Buffs = new Dictionary<BuffType, int>(),
-            Dices = enemyDices.Select(_ =>
+            var enemyRTDices = new List<RTDiceData>();
+            
+            for (int i = 0; i < enemyDices.Count; i++)
             {
-                var data = new RTDiceData()
+                enemyRTDices.Add(new RTDiceData()
                 {
-                    Sides = _.Sides.Select(side => new RTSideData()
+                    Sides = enemyDices[i].Sides.Select(side => new RTSideData()
                     {
-                        Side = side,
-                    }).ToList()
-                };
-                return data;
-            }).ToList()
-        };
+                        Side = Instantiate(side),
+                    }).ToList(),
+                    Index = i
+                });
+            }
         
-        bm.Init(player, enemy);
+            var enemy = new BTUnit()
+            {
+                id = unitBaseName + _currentUnitCount,
+                hp = enemyBase.hp,
+                maxHp = enemyBase.maxHp,
+                br = 0,
+                buffs = new Dictionary<BuffType, int>(),
+                Dices = enemyRTDices
+            };
+            
+            enemies.Add(enemy);
+
+            _currentUnitCount++;
+        }
+
+        
+        bm.Init(player, enemies);
     }
 }

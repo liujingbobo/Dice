@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 2051a07ca87d9c24aa7f97fffa5ae3b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3394148020400006611
+    second: "LargeMap_Tile_\u6D77\u5E95_03_0"
+  - first:
+      213: -670318047899974931
+    second: "LargeMap_Tile_\u6D77\u5E95_03_1"
+  - first:
+      213: -656138345834854049
+    second: "LargeMap_Tile_\u6D77\u5E95_03_2"
+  - first:
+      213: 7957365759299356626
+    second: "LargeMap_Tile_\u6D77\u5E95_03_3"
+  - first:
+      213: -1562945133407704447
+    second: "LargeMap_Tile_\u6D77\u5E95_03_4"
+  - first:
+      213: -7560340003699812954
+    second: "LargeMap_Tile_\u6D77\u5E95_03_5"
+  - first:
+      213: 5112646822945593524
+    second: "LargeMap_Tile_\u6D77\u5E95_03_6"
+  - first:
+      213: 5044646771068657025
+    second: "LargeMap_Tile_\u6D77\u5E95_03_7"
+  - first:
+      213: -3089810099592692468
+    second: "LargeMap_Tile_\u6D77\u5E95_03_8"
+  - first:
+      213: 6070212305235134622
+    second: "LargeMap_Tile_\u6D77\u5E95_03_9"
+  - first:
+      213: 3961154979675320994
+    second: "LargeMap_Tile_\u6D77\u5E95_03_10"
+  - first:
+      213: -7564641485038619126
+    second: "LargeMap_Tile_\u6D77\u5E95_03_11"
+  - first:
+      213: 3351479587735724087
+    second: "LargeMap_Tile_\u6D77\u5E95_03_12"
+  - first:
+      213: 2159740046713142863
+    second: "LargeMap_Tile_\u6D77\u5E95_03_13"
+  - first:
+      213: -1689526264729554941
+    second: "LargeMap_Tile_\u6D77\u5E95_03_14"
+  - first:
+      213: -4330135009688485414
+    second: "LargeMap_Tile_\u6D77\u5E95_03_15"
+  - first:
+      213: -2500193168067109794
+    second: "LargeMap_Tile_\u6D77\u5E95_03_16"
+  - first:
+      213: 3327064275758038615
+    second: "LargeMap_Tile_\u6D77\u5E95_03_17"
+  - first:
+      213: 3096833415934599863
+    second: "LargeMap_Tile_\u6D77\u5E95_03_18"
+  - first:
+      213: -1706970096140210590
+    second: "LargeMap_Tile_\u6D77\u5E95_03_19"
+  - first:
+      213: -6669295806942089013
+    second: "LargeMap_Tile_\u6D77\u5E95_03_20"
+  - first:
+      213: 4762737609751249118
+    second: "LargeMap_Tile_\u6D77\u5E95_03_21"
+  - first:
+      213: 1980710179383192493
+    second: "LargeMap_Tile_\u6D77\u5E95_03_22"
+  - first:
+      213: 2139599034183798943
+    second: "LargeMap_Tile_\u6D77\u5E95_03_23"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a56f0cb5095e0d0800000000000000
+      internalID: -3394148020400006611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_1"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28364794d82b6f0800000000000000
+      internalID: -670318047899974931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_2"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59400d96ade4e6f0800000000000000
+      internalID: -656138345834854049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_3"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d705e68ffd3e6e60800000000000000
+      internalID: 7957365759299356626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aeec79ead4f4ae0800000000000000
+      internalID: -1562945133407704447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_5"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a51c42b2d6441790800000000000000
+      internalID: -7560340003699812954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_6"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b893bf8235c3f640800000000000000
+      internalID: 5112646822945593524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_7"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5ed6b28f220640800000000000000
+      internalID: 5044646771068657025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfc5eb51ace15d0800000000000000
+      internalID: -3089810099592692468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_9"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ceb42ee9bd3450800000000000000
+      internalID: 6070212305235134622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_10"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a231d78779d8f630800000000000000
+      internalID: 3961154979675320994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_11"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f61706aef40790800000000000000
+      internalID: -7564641485038619126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e5fa9de8d28e20800000000000000
+      internalID: 3351479587735724087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_13"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb5833120f8fd10800000000000000
+      internalID: 2159740046713142863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_14"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003a1050d89d88e0800000000000000
+      internalID: -1689526264729554941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_15"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad10906962548e3c0800000000000000
+      internalID: -4330135009688485414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c508b6f878d4dd0800000000000000
+      internalID: -2500193168067109794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_17"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e337dc45b1c2e20800000000000000
+      internalID: 3327064275758038615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2675585992afa20800000000000000
+      internalID: 3096833415934599863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Tile_\u6D77\u5E95_03_19"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2951ddbf9f48e0800000000000000
+      internalID: -1706970096140210590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "LargeMap_Tile_\u6D77\u5E95_03_0": -3394148020400006611
+      "LargeMap_Tile_\u6D77\u5E95_03_1": -670318047899974931
+      "LargeMap_Tile_\u6D77\u5E95_03_10": 3961154979675320994
+      "LargeMap_Tile_\u6D77\u5E95_03_11": -7564641485038619126
+      "LargeMap_Tile_\u6D77\u5E95_03_12": 3351479587735724087
+      "LargeMap_Tile_\u6D77\u5E95_03_13": 2159740046713142863
+      "LargeMap_Tile_\u6D77\u5E95_03_14": -1689526264729554941
+      "LargeMap_Tile_\u6D77\u5E95_03_15": -4330135009688485414
+      "LargeMap_Tile_\u6D77\u5E95_03_16": -2500193168067109794
+      "LargeMap_Tile_\u6D77\u5E95_03_17": 3327064275758038615
+      "LargeMap_Tile_\u6D77\u5E95_03_18": 3096833415934599863
+      "LargeMap_Tile_\u6D77\u5E95_03_19": -1706970096140210590
+      "LargeMap_Tile_\u6D77\u5E95_03_2": -656138345834854049
+      "LargeMap_Tile_\u6D77\u5E95_03_3": 7957365759299356626
+      "LargeMap_Tile_\u6D77\u5E95_03_4": -1562945133407704447
+      "LargeMap_Tile_\u6D77\u5E95_03_5": -7560340003699812954
+      "LargeMap_Tile_\u6D77\u5E95_03_6": 5112646822945593524
+      "LargeMap_Tile_\u6D77\u5E95_03_7": 5044646771068657025
+      "LargeMap_Tile_\u6D77\u5E95_03_8": -3089810099592692468
+      "LargeMap_Tile_\u6D77\u5E95_03_9": 6070212305235134622
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

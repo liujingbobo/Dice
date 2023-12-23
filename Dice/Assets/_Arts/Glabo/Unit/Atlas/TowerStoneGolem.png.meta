@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: c80eb237100ab87449cf18c013e38168
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1080419247291981668
+    second: TowerStoneGolem_0
+  - first:
+      213: -5298480337465889480
+    second: TowerStoneGolem_1
+  - first:
+      213: 8289356411530419730
+    second: TowerStoneGolem_2
+  - first:
+      213: -220666055156365155
+    second: TowerStoneGolem_3
+  - first:
+      213: 8641388332838915337
+    second: TowerStoneGolem_4
+  - first:
+      213: 723858596333954714
+    second: TowerStoneGolem_5
+  - first:
+      213: 8513137456208689942
+    second: TowerStoneGolem_6
+  - first:
+      213: -1716406185295484493
+    second: TowerStoneGolem_7
+  - first:
+      213: 7890495916780772132
+    second: TowerStoneGolem_8
+  - first:
+      213: -6962405452584186797
+    second: TowerStoneGolem_9
+  - first:
+      213: -4571727205336904232
+    second: TowerStoneGolem_10
+  - first:
+      213: 2498783492787741721
+    second: TowerStoneGolem_11
+  - first:
+      213: 4078025283289683395
+    second: TowerStoneGolem_12
+  - first:
+      213: -7512303629517649112
+    second: TowerStoneGolem_13
+  - first:
+      213: -3384844418321531586
+    second: TowerStoneGolem_14
+  - first:
+      213: 6306591088178575067
+    second: TowerStoneGolem_15
+  - first:
+      213: 3714158598475756634
+    second: TowerStoneGolem_16
+  - first:
+      213: 5754527610382138656
+    second: TowerStoneGolem_17
+  - first:
+      213: 5143722058539106014
+    second: TowerStoneGolem_18
+  - first:
+      213: -3296804991946671061
+    second: TowerStoneGolem_19
+  - first:
+      213: 643375321571321130
+    second: TowerStoneGolem_20
+  - first:
+      213: -6664834239210060463
+    second: TowerStoneGolem_21
+  - first:
+      213: -2767762743139246322
+    second: TowerStoneGolem_22
+  - first:
+      213: 6842954849610833948
+    second: TowerStoneGolem_23
+  - first:
+      213: -8609095344009217713
+    second: TowerStoneGolem_24
+  - first:
+      213: -7825416168514441571
+    second: TowerStoneGolem_25
+  - first:
+      213: 7822284750188696969
+    second: TowerStoneGolem_26
+  - first:
+      213: 7294311475444310205
+    second: TowerStoneGolem_27
+  - first:
+      213: -7808269896822054470
+    second: TowerStoneGolem_28
+  - first:
+      213: -7673264101952505115
+    second: TowerStoneGolem_29
+  - first:
+      213: -4626423473175093275
+    second: TowerStoneGolem_30
+  - first:
+      213: -3460982194961644569
+    second: TowerStoneGolem_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TowerStoneGolem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f5553c49b6efe00800000000000000
+      internalID: 1080419247291981668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d24f3a4340876b0800000000000000
+      internalID: -5298480337465889480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e90e5ccb5b90370800000000000000
+      internalID: 8289356411530419730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980b68546900fcf0800000000000000
+      internalID: -220666055156365155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d811997e06ce770800000000000000
+      internalID: 8641388332838915337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962916ee89ab0a00800000000000000
+      internalID: 723858596333954714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3461796db42670800000000000000
+      internalID: 8513137456208689942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ed2b1ba91e28e0800000000000000
+      internalID: -1716406185295484493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b536d0b3ca08d60800000000000000
+      internalID: 7890495916780772132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c0a781121906f90800000000000000
+      internalID: -6962405452584186797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd87eb2456fd80c0800000000000000
+      internalID: -4571727205336904232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914293af8567da220800000000000000
+      internalID: 2498783492787741721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c51b8b836e089830800000000000000
+      internalID: 4078025283289683395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b09bd96afeeb790800000000000000
+      internalID: -7512303629517649112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3bf96fed9601d0800000000000000
+      internalID: -3384844418321531586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 38
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd637825e23858750800000000000000
+      internalID: 6306591088178575067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543c9d11975b8330800000000000000
+      internalID: 3714158598475756634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 76
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d31037f503cdf40800000000000000
+      internalID: 5754527610382138656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede709aa5fb226740800000000000000
+      internalID: 5143722058539106014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 76
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cb849b3556f32d0800000000000000
+      internalID: -3296804991946671061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 76
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25e28b327abde800800000000000000
+      internalID: 643375321571321130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 76
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155060d3290c183a0800000000000000
+      internalID: -6664834239210060463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fdf98037ee699d0800000000000000
+      internalID: -2767762743139246322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 76
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1027112e2f07fe50800000000000000
+      internalID: 6842954849610833948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f497cd6c569568880800000000000000
+      internalID: -8609095344009217713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2910a479866390800000000000000
+      internalID: -7825416168514441571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d3fa39865e8c60800000000000000
+      internalID: 7822284750188696969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e9e6d3a99a3560800000000000000
+      internalID: 7294311475444310205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1ab8916e373a390800000000000000
+      internalID: -7808269896822054470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea3d5734f6138590800000000000000
+      internalID: -7673264101952505115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef9edcec54abcfb0800000000000000
+      internalID: -4626423473175093275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TowerStoneGolem_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 118
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30c5fd70f18ffc0800000000000000
+      internalID: -3460982194961644569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TowerStoneGolem_0: 1080419247291981668
+      TowerStoneGolem_1: -5298480337465889480
+      TowerStoneGolem_10: -4571727205336904232
+      TowerStoneGolem_11: 2498783492787741721
+      TowerStoneGolem_12: 4078025283289683395
+      TowerStoneGolem_13: -7512303629517649112
+      TowerStoneGolem_14: -3384844418321531586
+      TowerStoneGolem_15: 6306591088178575067
+      TowerStoneGolem_16: 3714158598475756634
+      TowerStoneGolem_17: 5754527610382138656
+      TowerStoneGolem_18: 5143722058539106014
+      TowerStoneGolem_19: -3296804991946671061
+      TowerStoneGolem_2: 8289356411530419730
+      TowerStoneGolem_20: 643375321571321130
+      TowerStoneGolem_21: -6664834239210060463
+      TowerStoneGolem_22: -2767762743139246322
+      TowerStoneGolem_23: 6842954849610833948
+      TowerStoneGolem_24: -8609095344009217713
+      TowerStoneGolem_25: -7825416168514441571
+      TowerStoneGolem_26: 7822284750188696969
+      TowerStoneGolem_27: 7294311475444310205
+      TowerStoneGolem_28: -7808269896822054470
+      TowerStoneGolem_29: -7673264101952505115
+      TowerStoneGolem_3: -220666055156365155
+      TowerStoneGolem_30: -4626423473175093275
+      TowerStoneGolem_31: -3460982194961644569
+      TowerStoneGolem_4: 8641388332838915337
+      TowerStoneGolem_5: 723858596333954714
+      TowerStoneGolem_6: 8513137456208689942
+      TowerStoneGolem_7: -1716406185295484493
+      TowerStoneGolem_8: 7890495916780772132
+      TowerStoneGolem_9: -6962405452584186797
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

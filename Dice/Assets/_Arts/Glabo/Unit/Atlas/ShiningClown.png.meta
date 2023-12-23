@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 157313bf7e463bc48abc4f98def1e2bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3002401730521292717
+    second: ShiningClown_0
+  - first:
+      213: 3716275871707962767
+    second: ShiningClown_1
+  - first:
+      213: 628455177441384969
+    second: ShiningClown_2
+  - first:
+      213: -5231404569787850116
+    second: ShiningClown_3
+  - first:
+      213: 9019739912926359682
+    second: ShiningClown_4
+  - first:
+      213: 5578026867508784711
+    second: ShiningClown_5
+  - first:
+      213: 3147942373681894726
+    second: ShiningClown_6
+  - first:
+      213: -8147679407978523928
+    second: ShiningClown_7
+  - first:
+      213: -2686146765093512525
+    second: ShiningClown_8
+  - first:
+      213: 1837627081161796625
+    second: ShiningClown_9
+  - first:
+      213: -4692295799514585970
+    second: ShiningClown_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShiningClown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a24398835556d0800000000000000
+      internalID: -3002401730521292717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1284373dd29330800000000000000
+      internalID: 3716275871707962767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6744186, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a16a877a8b8b800800000000000000
+      internalID: 628455177441384969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72a07dc2415667b0800000000000000
+      internalID: -5231404569787850116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280736489ad8c2d70800000000000000
+      internalID: 9019739912926359682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.13513514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2271e1e1296d40800000000000000
+      internalID: 5578026867508784711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64595bc09ecbfab20800000000000000
+      internalID: 3147942373681894726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.2888889, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2dca72fb0adee80800000000000000
+      internalID: -8147679407978523928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba590cbfb3e8bad0800000000000000
+      internalID: -2686146765093512525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 41
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.2195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c694a1810908910800000000000000
+      internalID: 1837627081161796625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiningClown_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 41
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8420e8c4dd91eeb0800000000000000
+      internalID: -4692295799514585970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShiningClown_0: -3002401730521292717
+      ShiningClown_1: 3716275871707962767
+      ShiningClown_10: -4692295799514585970
+      ShiningClown_2: 628455177441384969
+      ShiningClown_3: -5231404569787850116
+      ShiningClown_4: 9019739912926359682
+      ShiningClown_5: 5578026867508784711
+      ShiningClown_6: 3147942373681894726
+      ShiningClown_7: -8147679407978523928
+      ShiningClown_8: -2686146765093512525
+      ShiningClown_9: 1837627081161796625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: a4067684083041e45813838b9f2b231d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4782759518597969179
+    second: TriElement_0
+  - first:
+      213: -1795370948337134054
+    second: TriElement_1
+  - first:
+      213: 2024366806309154457
+    second: TriElement_2
+  - first:
+      213: -9009597682922443522
+    second: TriElement_3
+  - first:
+      213: 2513235493711719903
+    second: TriElement_4
+  - first:
+      213: -7887989750978031277
+    second: TriElement_5
+  - first:
+      213: -7101906773843678329
+    second: TriElement_6
+  - first:
+      213: 2783103461714886383
+    second: TriElement_7
+  - first:
+      213: -1093140509449745687
+    second: TriElement_8
+  - first:
+      213: 1161141845265864040
+    second: TriElement_9
+  - first:
+      213: -8025736075323564860
+    second: TriElement_10
+  - first:
+      213: 9096679577093602273
+    second: TriElement_11
+  - first:
+      213: -2687657048211738004
+    second: TriElement_12
+  - first:
+      213: 3774789317647671004
+    second: TriElement_13
+  - first:
+      213: -2683668394988691806
+    second: TriElement_14
+  - first:
+      213: -2086850486792451028
+    second: TriElement_15
+  - first:
+      213: 7429160473153319270
+    second: TriElement_16
+  - first:
+      213: 6376522599162980562
+    second: TriElement_17
+  - first:
+      213: -643718920427306971
+    second: TriElement_18
+  - first:
+      213: 1652642405190411627
+    second: TriElement_19
+  - first:
+      213: 675730273138044998
+    second: TriElement_20
+  - first:
+      213: 3076479551583810442
+    second: TriElement_21
+  - first:
+      213: -5664426793733033656
+    second: TriElement_22
+  - first:
+      213: 1168209457864185777
+    second: TriElement_23
+  - first:
+      213: -6617063823728380008
+    second: TriElement_24
+  - first:
+      213: -6399323966105062484
+    second: TriElement_25
+  - first:
+      213: 736717675630292354
+    second: TriElement_26
+  - first:
+      213: -8765182048068041665
+    second: TriElement_27
+  - first:
+      213: 3864098161383834966
+    second: TriElement_28
+  - first:
+      213: -682096880822698296
+    second: TriElement_29
+  - first:
+      213: -2727206132163135056
+    second: TriElement_30
+  - first:
+      213: 7627362380289301058
+    second: TriElement_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TriElement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1576282176cf5240800000000000000
+      internalID: 4782759518597969179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161f4082af8517e0800000000000000
+      internalID: -1795370948337134054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e262182eef71c10800000000000000
+      internalID: 2024366806309154457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca93c64aa77f280800000000000000
+      internalID: -9009597682922443522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2797ad5ec0e220800000000000000
+      internalID: 2513235493711719903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35158052d1b388290800000000000000
+      internalID: -7887989750978031277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6b1daa65f07d90800000000000000
+      internalID: -7101906773843678329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feefca85ad19f9620800000000000000
+      internalID: 2783103461714886383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea88a49f7264d0f0800000000000000
+      internalID: -1093140509449745687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d9e43b543d1010800000000000000
+      internalID: 1161141845265864040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1d49cf8bde9090800000000000000
+      internalID: -8025736075323564860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf63c01e5ed3e70800000000000000
+      internalID: 9096679577093602273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 38
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b34b872683bad0800000000000000
+      internalID: -2687657048211738004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde145c72eeb26430800000000000000
+      internalID: 3774789317647671004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae91cd30d1b1cad0800000000000000
+      internalID: -2683668394988691806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c8263f9840a03e0800000000000000
+      internalID: -2086850486792451028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 38
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613da5c61ea91760800000000000000
+      internalID: 7429160473153319270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82c590585fd7850800000000000000
+      internalID: 6376522599162980562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5208bbc6d0d0117f0800000000000000
+      internalID: -643718920427306971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 76
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652f1ee28d5fe610800000000000000
+      internalID: 1652642405190411627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 76
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640fe5e6a1da06900800000000000000
+      internalID: 675730273138044998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f7ee2ad9d1ba20800000000000000
+      internalID: 3076479551583810442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841765fa7d9e361b0800000000000000
+      internalID: -5664426793733033656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71f3fff40563010800000000000000
+      internalID: 1168209457864185777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f492d2877b24a0800000000000000
+      internalID: -6617063823728380008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 76
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f9a502c80137a0800000000000000
+      internalID: -6399323966105062484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 76
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28de1bb92d8593a00800000000000000
+      internalID: 736717675630292354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3406410e51db5680800000000000000
+      internalID: -8765182048068041665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 119
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655068e0ec800a530800000000000000
+      internalID: 3864098161383834966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 119
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce39243084b886f0800000000000000
+      internalID: -682096880822698296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9362fd874072ad0800000000000000
+      internalID: -2727206132163135056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TriElement_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 119
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a52526ca5d9d960800000000000000
+      internalID: 7627362380289301058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TriElement_0: 4782759518597969179
+      TriElement_1: -1795370948337134054
+      TriElement_10: -8025736075323564860
+      TriElement_11: 9096679577093602273
+      TriElement_12: -2687657048211738004
+      TriElement_13: 3774789317647671004
+      TriElement_14: -2683668394988691806
+      TriElement_15: -2086850486792451028
+      TriElement_16: 7429160473153319270
+      TriElement_17: 6376522599162980562
+      TriElement_18: -643718920427306971
+      TriElement_19: 1652642405190411627
+      TriElement_2: 2024366806309154457
+      TriElement_20: 675730273138044998
+      TriElement_21: 3076479551583810442
+      TriElement_22: -5664426793733033656
+      TriElement_23: 1168209457864185777
+      TriElement_24: -6617063823728380008
+      TriElement_25: -6399323966105062484
+      TriElement_26: 736717675630292354
+      TriElement_27: -8765182048068041665
+      TriElement_28: 3864098161383834966
+      TriElement_29: -682096880822698296
+      TriElement_3: -9009597682922443522
+      TriElement_30: -2727206132163135056
+      TriElement_31: 7627362380289301058
+      TriElement_4: 2513235493711719903
+      TriElement_5: -7887989750978031277
+      TriElement_6: -7101906773843678329
+      TriElement_7: 2783103461714886383
+      TriElement_8: -1093140509449745687
+      TriElement_9: 1161141845265864040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

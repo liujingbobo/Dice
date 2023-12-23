@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 61a8f4626c9cdc24c89a387aedecb76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8291163558223259382
+    second: ElementOfMaze_0
+  - first:
+      213: -8272756137148139207
+    second: ElementOfMaze_1
+  - first:
+      213: 3144247647501682937
+    second: ElementOfMaze_2
+  - first:
+      213: -6868081845721716469
+    second: ElementOfMaze_3
+  - first:
+      213: -2768907954050864349
+    second: ElementOfMaze_4
+  - first:
+      213: 3159714487211550409
+    second: ElementOfMaze_5
+  - first:
+      213: -7554066196482252147
+    second: ElementOfMaze_6
+  - first:
+      213: -9145692598848356439
+    second: ElementOfMaze_7
+  - first:
+      213: -5407986761799377659
+    second: ElementOfMaze_8
+  - first:
+      213: -582320357635371035
+    second: ElementOfMaze_9
+  - first:
+      213: 8796398527211633655
+    second: ElementOfMaze_10
+  - first:
+      213: 1640003492455167124
+    second: ElementOfMaze_11
+  - first:
+      213: 1427636175544610607
+    second: ElementOfMaze_12
+  - first:
+      213: 3603897095281759710
+    second: ElementOfMaze_13
+  - first:
+      213: 6280364668244199616
+    second: ElementOfMaze_14
+  - first:
+      213: -3168089074146519778
+    second: ElementOfMaze_15
+  - first:
+      213: -7846923000272169384
+    second: ElementOfMaze_16
+  - first:
+      213: 6826861828472337387
+    second: ElementOfMaze_17
+  - first:
+      213: -5117160092176321640
+    second: ElementOfMaze_18
+  - first:
+      213: -2960352689663698183
+    second: ElementOfMaze_19
+  - first:
+      213: 6154438293557920747
+    second: ElementOfMaze_20
+  - first:
+      213: -970424805996551077
+    second: ElementOfMaze_21
+  - first:
+      213: -3517683799283967144
+    second: ElementOfMaze_22
+  - first:
+      213: 2750340068534563221
+    second: ElementOfMaze_23
+  - first:
+      213: 7377731895779162415
+    second: ElementOfMaze_24
+  - first:
+      213: 4911598892119155991
+    second: ElementOfMaze_25
+  - first:
+      213: 2340454188125145
+    second: ElementOfMaze_26
+  - first:
+      213: -4003441898702121646
+    second: ElementOfMaze_27
+  - first:
+      213: 8402413794027633173
+    second: ElementOfMaze_28
+  - first:
+      213: -8723324548582273209
+    second: ElementOfMaze_29
+  - first:
+      213: 2247616244139485480
+    second: ElementOfMaze_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementOfMaze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0950791caedfec80800000000000000
+      internalID: -8291163558223259382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9393adbcf14413d80800000000000000
+      internalID: -8272756137148139207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80233939c92ab20800000000000000
+      internalID: 3144247647501682937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09a27133fbafa0a0800000000000000
+      internalID: -6868081845721716469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b6b07d2ecd299d0800000000000000
+      internalID: -2768907954050864349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c666e1d59f89db20800000000000000
+      internalID: 3159714487211550409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a3e441d09a2790800000000000000
+      internalID: -7554066196482252147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af79bc8909f31180800000000000000
+      internalID: -9145692598848356439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ddee061b8f2f4b0800000000000000
+      internalID: -5407986761799377659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4aa158be2be7f0800000000000000
+      internalID: -582320357635371035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbf73dead5131a70800000000000000
+      internalID: 8796398527211633655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 38
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494b03ebc7672c610800000000000000
+      internalID: 1640003492455167124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f65d7a98bffc310800000000000000
+      internalID: 1427636175544610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d45b505d930230800000000000000
+      internalID: 3603897095281759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 38
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80c961466582750800000000000000
+      internalID: 6280364668244199616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 38
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1553b6b5cfa804d0800000000000000
+      internalID: -3168089074146519778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8565fe42b112a1390800000000000000
+      internalID: -7846923000272169384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be374c8a9a2edbe50800000000000000
+      internalID: 6826861828472337387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893760f02023cf8b0800000000000000
+      internalID: -5117160092176321640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa19b2d9e6bae6d0800000000000000
+      internalID: -2960352689663698183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 76
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3c4973505f86550800000000000000
+      internalID: 6154438293557920747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54295dc7cb5882f0800000000000000
+      internalID: -970424805996551077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b5887d83dae2fc0800000000000000
+      internalID: -3517683799283967144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591b68c68bb2b2620800000000000000
+      internalID: 2750340068534563221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 127
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297cfff118f26660800000000000000
+      internalID: 7377731895779162415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e6fb6b21892440800000000000000
+      internalID: 4911598892119155991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 127
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db0f7471a0580000800000000000000
+      internalID: 2340454188125145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 127
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d1f4edcae078c0800000000000000
+      internalID: -4003441898702121646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51afbd8e3de5b9470800000000000000
+      internalID: 8402413794027633173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0f4d8a8680f680800000000000000
+      internalID: -8723324548582273209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementOfMaze_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e45fc013213f10800000000000000
+      internalID: 2247616244139485480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElementOfMaze_0: -8291163558223259382
+      ElementOfMaze_1: -8272756137148139207
+      ElementOfMaze_10: 8796398527211633655
+      ElementOfMaze_11: 1640003492455167124
+      ElementOfMaze_12: 1427636175544610607
+      ElementOfMaze_13: 3603897095281759710
+      ElementOfMaze_14: 6280364668244199616
+      ElementOfMaze_15: -3168089074146519778
+      ElementOfMaze_16: -7846923000272169384
+      ElementOfMaze_17: 6826861828472337387
+      ElementOfMaze_18: -5117160092176321640
+      ElementOfMaze_19: -2960352689663698183
+      ElementOfMaze_2: 3144247647501682937
+      ElementOfMaze_20: 6154438293557920747
+      ElementOfMaze_21: -970424805996551077
+      ElementOfMaze_22: -3517683799283967144
+      ElementOfMaze_23: 2750340068534563221
+      ElementOfMaze_24: 7377731895779162415
+      ElementOfMaze_25: 4911598892119155991
+      ElementOfMaze_26: 2340454188125145
+      ElementOfMaze_27: -4003441898702121646
+      ElementOfMaze_28: 8402413794027633173
+      ElementOfMaze_29: -8723324548582273209
+      ElementOfMaze_3: -6868081845721716469
+      ElementOfMaze_30: 2247616244139485480
+      ElementOfMaze_4: -2768907954050864349
+      ElementOfMaze_5: 3159714487211550409
+      ElementOfMaze_6: -7554066196482252147
+      ElementOfMaze_7: -9145692598848356439
+      ElementOfMaze_8: -5407986761799377659
+      ElementOfMaze_9: -582320357635371035
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

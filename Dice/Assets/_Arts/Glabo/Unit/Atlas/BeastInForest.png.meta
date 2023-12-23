@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: d09a706fa4d0afb42bdfe17ac3f2726c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1222460271138973378
+    second: BeastInForest_0
+  - first:
+      213: 7563797841944552073
+    second: BeastInForest_1
+  - first:
+      213: 8088234613975917442
+    second: BeastInForest_2
+  - first:
+      213: 6655896556226636550
+    second: BeastInForest_3
+  - first:
+      213: 783917731008309416
+    second: BeastInForest_4
+  - first:
+      213: -4441366730508583229
+    second: BeastInForest_5
+  - first:
+      213: -6436807490717194467
+    second: BeastInForest_6
+  - first:
+      213: -136659441601361080
+    second: BeastInForest_7
+  - first:
+      213: 7028380866673710119
+    second: BeastInForest_8
+  - first:
+      213: -8421330677946028609
+    second: BeastInForest_9
+  - first:
+      213: -6602390515685172481
+    second: BeastInForest_10
+  - first:
+      213: 5365994211305715605
+    second: BeastInForest_11
+  - first:
+      213: -3453900807065612141
+    second: BeastInForest_12
+  - first:
+      213: -3243159958992107672
+    second: BeastInForest_13
+  - first:
+      213: -52867293936069763
+    second: BeastInForest_14
+  - first:
+      213: -615497058054448606
+    second: BeastInForest_15
+  - first:
+      213: 1717307930798098845
+    second: BeastInForest_16
+  - first:
+      213: -1596084089872798250
+    second: BeastInForest_17
+  - first:
+      213: 6360359220566703456
+    second: BeastInForest_18
+  - first:
+      213: 7077740838884138741
+    second: BeastInForest_19
+  - first:
+      213: 8038992438995709489
+    second: BeastInForest_20
+  - first:
+      213: 5069206169561768432
+    second: BeastInForest_21
+  - first:
+      213: -7885493551033389222
+    second: BeastInForest_22
+  - first:
+      213: -2893707867509504982
+    second: BeastInForest_23
+  - first:
+      213: 9169992525065149294
+    second: BeastInForest_24
+  - first:
+      213: -5284168500788769194
+    second: BeastInForest_25
+  - first:
+      213: -2658122422445213013
+    second: BeastInForest_26
+  - first:
+      213: 4686761941669196724
+    second: BeastInForest_27
+  - first:
+      213: -8219089216515879161
+    second: BeastInForest_28
+  - first:
+      213: -390671410995476987
+    second: BeastInForest_29
+  - first:
+      213: -7590484029635091630
+    second: BeastInForest_30
+  - first:
+      213: -2798576958292551934
+    second: BeastInForest_31
+  - first:
+      213: 2226799967358879188
+    second: BeastInForest_32
+  - first:
+      213: 4191855880634076435
+    second: BeastInForest_33
+  - first:
+      213: 2830670151409014181
+    second: BeastInForest_34
+  - first:
+      213: 3373816771245747770
+    second: BeastInForest_35
+  - first:
+      213: -7125506604082287299
+    second: BeastInForest_36
+  - first:
+      213: 6571977677793965598
+    second: BeastInForest_37
+  - first:
+      213: -5043464603308214299
+    second: BeastInForest_38
+  - first:
+      213: -5767826721360646633
+    second: BeastInForest_39
+  - first:
+      213: -7292908654958960403
+    second: BeastInForest_40
+  - first:
+      213: 524961183009126146
+    second: BeastInForest_41
+  - first:
+      213: -1188936092675379911
+    second: BeastInForest_42
+  - first:
+      213: 5690082104516246169
+    second: BeastInForest_43
+  - first:
+      213: -8617420776032179154
+    second: BeastInForest_44
+  - first:
+      213: -3214858024953560732
+    second: BeastInForest_45
+  - first:
+      213: -4896142449967498739
+    second: BeastInForest_46
+  - first:
+      213: -5366450767056598693
+    second: BeastInForest_47
+  - first:
+      213: 8818098457977505744
+    second: BeastInForest_48
+  - first:
+      213: -8858247699262223732
+    second: BeastInForest_49
+  - first:
+      213: -6880255265914484123
+    second: BeastInForest_50
+  - first:
+      213: 6373806739199403710
+    second: BeastInForest_51
+  - first:
+      213: -3538146792097733450
+    second: BeastInForest_52
+  - first:
+      213: 3858055566781896030
+    second: BeastInForest_53
+  - first:
+      213: 5364708440787476197
+    second: BeastInForest_54
+  - first:
+      213: 15883766741937992
+    second: BeastInForest_55
+  - first:
+      213: 3236290142913557460
+    second: BeastInForest_56
+  - first:
+      213: -6210588134728612065
+    second: BeastInForest_57
+  - first:
+      213: 4445775618487974921
+    second: BeastInForest_58
+  - first:
+      213: -2879757517651326172
+    second: BeastInForest_59
+  - first:
+      213: -4289634605587116385
+    second: BeastInForest_60
+  - first:
+      213: -4358536062236699330
+    second: BeastInForest_61
+  - first:
+      213: 6048600503931655399
+    second: BeastInForest_62
+  - first:
+      213: 3232457827011560888
+    second: BeastInForest_63
+  - first:
+      213: -7322911978212322408
+    second: BeastInForest_64
+  - first:
+      213: 2875511447373792369
+    second: BeastInForest_65
+  - first:
+      213: 5416679104131221136
+    second: BeastInForest_66
+  - first:
+      213: -5344235020210266148
+    second: BeastInForest_67
+  - first:
+      213: -3196756699888441655
+    second: BeastInForest_68
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeastInForest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39dbba3cd2f80fe0800000000000000
+      internalID: -1222460271138973378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a8f1001208f860800000000000000
+      internalID: 7563797841944552073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283ad02378e2f3070800000000000000
+      internalID: 8088234613975917442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b62a747ae7e5c50800000000000000
+      internalID: 6655896556226636550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a861e1e50901ea00800000000000000
+      internalID: 783917731008309416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce3cce6d781d52c0800000000000000
+      internalID: -4441366730508583229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d176a3cd0bddba6a0800000000000000
+      internalID: -6436807490717194467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc52046fc7a1ef0800000000000000
+      internalID: -136659441601361080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241d380923d98160800000000000000
+      internalID: 7028380866673710119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd6de4dd5c612b80800000000000000
+      internalID: -8421330677946028609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5d249ec89f54a0800000000000000
+      internalID: -6602390515685172481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597fdaf0e47d77a40800000000000000
+      internalID: 5365994211305715605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905b69f3874110d0800000000000000
+      internalID: -3453900807065612141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674186433bfdf2d0800000000000000
+      internalID: -3243159958992107672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7354bce97d244ff0800000000000000
+      internalID: -52867293936069763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22add5ecfa05577f0800000000000000
+      internalID: -615497058054448606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d998e21e67a15d710800000000000000
+      internalID: 1717307930798098845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddaa770af199d9e0800000000000000
+      internalID: -1596084089872798250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 95
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d32c13309844850800000000000000
+      internalID: 6360359220566703456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed6f12bcf293260800000000000000
+      internalID: 7077740838884138741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 191
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ee366e70d309f60800000000000000
+      internalID: 8038992438995709489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 191
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a2f54720795640800000000000000
+      internalID: 5069206169561768432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 191
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f650cf469119290800000000000000
+      internalID: -7885493551033389222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 191
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c759a60c77d7d0800000000000000
+      internalID: -2893707867509504982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 191
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bde79ed9b524f70800000000000000
+      internalID: 9169992525065149294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 191
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4d29cebcdaa6b0800000000000000
+      internalID: -5284168500788769194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 191
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaf6a87db37c1bd0800000000000000
+      internalID: -2658122422445213013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 191
+        width: 109
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b333088729ba0140800000000000000
+      internalID: 4686761941669196724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_28
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 191
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fc35877edefed80800000000000000
+      internalID: -8219089216515879161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506c6bbeb6e049af0800000000000000
+      internalID: -390671410995476987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 293
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253235cbdfe29a690800000000000000
+      internalID: -7590484029635091630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 293
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207116c75157929d0800000000000000
+      internalID: -2798576958292551934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 293
+        width: 109
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.48514852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50740b5ce27ee10800000000000000
+      internalID: 2226799967358879188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 293
+        width: 109
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d83dac6b67c2a30800000000000000
+      internalID: 4191855880634076435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 293
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51903518f884720800000000000000
+      internalID: 2830670151409014181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 293
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eab5b6a7432de20800000000000000
+      internalID: 3373816771245747770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_36
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 293
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da9f20f7d1d1d90800000000000000
+      internalID: -7125506604082287299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_37
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 293
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b4bcc0ea543b50800000000000000
+      internalID: 6571977677793965598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_38
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 293
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.51376146, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7be8a2aa3020ab0800000000000000
+      internalID: -5043464603308214299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4862385, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eea4bf72094ffa0800000000000000
+      internalID: -5767826721360646633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0acc1c7326aca90800000000000000
+      internalID: -7292908654958960403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207b0222a69094700800000000000000
+      internalID: 524961183009126146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d61774cec008fe0800000000000000
+      internalID: -1188936092675379911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a7f76d68b37fe40800000000000000
+      internalID: 5690082104516246169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 395
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce7841675c86880800000000000000
+      internalID: -8617420776032179154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 395
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461445bc8a78263d0800000000000000
+      internalID: -3214858024953560732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_46
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af9f3f1686d0cb0800000000000000
+      internalID: -4896142449967498739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5908f4c5798685b0800000000000000
+      internalID: -5366450767056598693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_48
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 395
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74b26c3dd206a70800000000000000
+      internalID: 8818098457977505744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8acd0986ae211580800000000000000
+      internalID: -8858247699262223732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 490
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a082fe94c6480a0800000000000000
+      internalID: -6880255265914484123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 490
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a8fc957f447850800000000000000
+      internalID: 6373806739199403710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 490
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a3dd0d3af5eec0800000000000000
+      internalID: -3538146792097733450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 490
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55d0cdd8119a8530800000000000000
+      internalID: 3858055566781896030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee5da847e5437a40800000000000000
+      internalID: 5364708440787476197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 490
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2952a33e683000800000000000000
+      internalID: 15883766741937992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_56
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 490
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5212766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f5760dbc99ec20800000000000000
+      internalID: 3236290142913557460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_57
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 490
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ce3f1ffe8fc9a0800000000000000
+      internalID: -6210588134728612065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_58
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 490
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c711bce5192bd30800000000000000
+      internalID: 4445775618487974921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc1299bcb0908d0800000000000000
+      internalID: -2879757517651326172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 587
+        width: 109
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec1cdbd082874c0800000000000000
+      internalID: -4289634605587116385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 587
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d6ad3b8e5383c0800000000000000
+      internalID: -4358536062236699330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 587
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e458198c12f0f350800000000000000
+      internalID: 6048600503931655399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_63
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 587
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b58472744ffbdc20800000000000000
+      internalID: 3232457827011560888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 587
+        width: 109
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939331ba5acf5a90800000000000000
+      internalID: -7322911978212322408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_65
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 587
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174c8402d6ed7e720800000000000000
+      internalID: 2875511447373792369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_66
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 587
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096c50842f8eb2b40800000000000000
+      internalID: 5416679104131221136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 587
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf1a28609675d5b0800000000000000
+      internalID: -5344235020210266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeastInForest_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 109
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49541283, y: 0.4803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6acc5f7b6d2a3d0800000000000000
+      internalID: -3196756699888441655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeastInForest_0: -1222460271138973378
+      BeastInForest_1: 7563797841944552073
+      BeastInForest_10: -6602390515685172481
+      BeastInForest_11: 5365994211305715605
+      BeastInForest_12: -3453900807065612141
+      BeastInForest_13: -3243159958992107672
+      BeastInForest_14: -52867293936069763
+      BeastInForest_15: -615497058054448606
+      BeastInForest_16: 1717307930798098845
+      BeastInForest_17: -1596084089872798250
+      BeastInForest_18: 6360359220566703456
+      BeastInForest_19: 7077740838884138741
+      BeastInForest_2: 8088234613975917442
+      BeastInForest_20: 8038992438995709489
+      BeastInForest_21: 5069206169561768432
+      BeastInForest_22: -7885493551033389222
+      BeastInForest_23: -2893707867509504982
+      BeastInForest_24: 9169992525065149294
+      BeastInForest_25: -5284168500788769194
+      BeastInForest_26: -2658122422445213013
+      BeastInForest_27: 4686761941669196724
+      BeastInForest_28: -8219089216515879161
+      BeastInForest_29: -390671410995476987
+      BeastInForest_3: 6655896556226636550
+      BeastInForest_30: -7590484029635091630
+      BeastInForest_31: -2798576958292551934
+      BeastInForest_32: 2226799967358879188
+      BeastInForest_33: 4191855880634076435
+      BeastInForest_34: 2830670151409014181
+      BeastInForest_35: 3373816771245747770
+      BeastInForest_36: -7125506604082287299
+      BeastInForest_37: 6571977677793965598
+      BeastInForest_38: -5043464603308214299
+      BeastInForest_39: -5767826721360646633
+      BeastInForest_4: 783917731008309416
+      BeastInForest_40: -7292908654958960403
+      BeastInForest_41: 524961183009126146
+      BeastInForest_42: -1188936092675379911
+      BeastInForest_43: 5690082104516246169
+      BeastInForest_44: -8617420776032179154
+      BeastInForest_45: -3214858024953560732
+      BeastInForest_46: -4896142449967498739
+      BeastInForest_47: -5366450767056598693
+      BeastInForest_48: 8818098457977505744
+      BeastInForest_49: -8858247699262223732
+      BeastInForest_5: -4441366730508583229
+      BeastInForest_50: -6880255265914484123
+      BeastInForest_51: 6373806739199403710
+      BeastInForest_52: -3538146792097733450
+      BeastInForest_53: 3858055566781896030
+      BeastInForest_54: 5364708440787476197
+      BeastInForest_55: 15883766741937992
+      BeastInForest_56: 3236290142913557460
+      BeastInForest_57: -6210588134728612065
+      BeastInForest_58: 4445775618487974921
+      BeastInForest_59: -2879757517651326172
+      BeastInForest_6: -6436807490717194467
+      BeastInForest_60: -4289634605587116385
+      BeastInForest_61: -4358536062236699330
+      BeastInForest_62: 6048600503931655399
+      BeastInForest_63: 3232457827011560888
+      BeastInForest_64: -7322911978212322408
+      BeastInForest_65: 2875511447373792369
+      BeastInForest_66: 5416679104131221136
+      BeastInForest_67: -5344235020210266148
+      BeastInForest_68: -3196756699888441655
+      BeastInForest_7: -136659441601361080
+      BeastInForest_8: 7028380866673710119
+      BeastInForest_9: -8421330677946028609
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

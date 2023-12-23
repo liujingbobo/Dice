@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 2ebb258a43196e042bbae93443f85274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StoneGiant_0
+  - first:
+      213: 21300002
+    second: StoneGiant_1
+  - first:
+      213: 21300004
+    second: StoneGiant_2
+  - first:
+      213: 21300006
+    second: StoneGiant_3
+  - first:
+      213: 21300008
+    second: StoneGiant_4
+  - first:
+      213: 21300010
+    second: StoneGiant_5
+  - first:
+      213: 21300012
+    second: StoneGiant_6
+  - first:
+      213: 21300014
+    second: StoneGiant_7
+  - first:
+      213: 21300016
+    second: StoneGiant_8
+  - first:
+      213: 21300018
+    second: StoneGiant_9
+  - first:
+      213: 21300020
+    second: StoneGiant_10
+  - first:
+      213: 21300022
+    second: StoneGiant_11
+  - first:
+      213: 21300024
+    second: StoneGiant_12
+  - first:
+      213: 21300026
+    second: StoneGiant_13
+  - first:
+      213: 21300028
+    second: StoneGiant_14
+  - first:
+      213: 21300030
+    second: StoneGiant_15
+  - first:
+      213: 21300032
+    second: StoneGiant_16
+  - first:
+      213: 21300034
+    second: StoneGiant_17
+  - first:
+      213: 21300036
+    second: StoneGiant_18
+  - first:
+      213: 21300038
+    second: StoneGiant_19
+  - first:
+      213: 21300040
+    second: StoneGiant_20
+  - first:
+      213: 21300042
+    second: StoneGiant_21
+  - first:
+      213: 21300044
+    second: StoneGiant_22
+  - first:
+      213: 21300046
+    second: StoneGiant_23
+  - first:
+      213: 21300048
+    second: StoneGiant_24
+  - first:
+      213: 21300050
+    second: StoneGiant_25
+  - first:
+      213: 21300052
+    second: StoneGiant_26
+  - first:
+      213: 21300054
+    second: StoneGiant_27
+  - first:
+      213: 21300056
+    second: StoneGiant_28
+  - first:
+      213: 21300058
+    second: StoneGiant_29
+  - first:
+      213: 21300060
+    second: StoneGiant_30
+  - first:
+      213: 21300062
+    second: StoneGiant_31
+  - first:
+      213: 21300064
+    second: StoneGiant_32
+  - first:
+      213: 21300066
+    second: StoneGiant_33
+  - first:
+      213: 21300068
+    second: StoneGiant_34
+  - first:
+      213: 21300070
+    second: StoneGiant_35
+  - first:
+      213: 21300072
+    second: StoneGiant_36
+  - first:
+      213: 21300074
+    second: StoneGiant_37
+  - first:
+      213: 21300076
+    second: StoneGiant_38
+  - first:
+      213: 7655882447237245569
+    second: StoneGiant_39
+  - first:
+      213: 4767241759512130811
+    second: StoneGiant_40
+  - first:
+      213: -8836614678862890327
+    second: StoneGiant_41
+  - first:
+      213: 9163987802114489132
+    second: StoneGiant_42
+  - first:
+      213: 5023657025333884562
+    second: StoneGiant_43
+  - first:
+      213: 4558319598680997482
+    second: StoneGiant_44
+  - first:
+      213: -4757757486896802760
+    second: StoneGiant_45
+  - first:
+      213: 5242086538396476751
+    second: StoneGiant_46
+  - first:
+      213: 6446000553734569358
+    second: StoneGiant_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneGiant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 82
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 82
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49397588, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 83
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49397588, y: 0.39726028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 77
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 77
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 77
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36619717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 77
+        width: 92
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 77
+        width: 98
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 77
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 77
+        width: 96
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 77
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 77
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 106
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 160
+        width: 115
+        height: 73
+      alignment: 9
+      pivot: {x: 0.51304346, y: 0.5753425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 107
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 80
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 160
+        width: 80
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53424656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_28
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 160
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 160
+        width: 78
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_30
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 160
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 160
+        width: 78
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 160
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_33
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 160
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 82
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.36144578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 247
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 247
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 247
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 247
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.42666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a69bde5882f3a60800000000000000
+      internalID: 7655882447237245569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_40
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 247
+        width: 84
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4f0225f15a82240800000000000000
+      internalID: 4767241759512130811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 247
+        width: 86
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaff5994c90e5580800000000000000
+      internalID: -8836614678862890327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_42
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 247
+        width: 84
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bfb076a560d2f70800000000000000
+      internalID: 9163987802114489132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_43
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 247
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.42666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fb64b27d97b540800000000000000
+      internalID: 5023657025333884562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 247
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef4142687624f30800000000000000
+      internalID: 4558319598680997482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_45
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 247
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349f0af5cc09fdb0800000000000000
+      internalID: -4757757486896802760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45aaf2dee1afb840800000000000000
+      internalID: 5242086538396476751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGiant_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 335
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df15be95bc47950800000000000000
+      internalID: 6446000553734569358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StoneGiant_0: 21300000
+      StoneGiant_1: 21300002
+      StoneGiant_10: 21300020
+      StoneGiant_11: 21300022
+      StoneGiant_12: 21300024
+      StoneGiant_13: 21300026
+      StoneGiant_14: 21300028
+      StoneGiant_15: 21300030
+      StoneGiant_16: 21300032
+      StoneGiant_17: 21300034
+      StoneGiant_18: 21300036
+      StoneGiant_19: 21300038
+      StoneGiant_2: 21300004
+      StoneGiant_20: 21300040
+      StoneGiant_21: 21300042
+      StoneGiant_22: 21300044
+      StoneGiant_23: 21300046
+      StoneGiant_24: 21300048
+      StoneGiant_25: 21300050
+      StoneGiant_26: 21300052
+      StoneGiant_27: 21300054
+      StoneGiant_28: 21300056
+      StoneGiant_29: 21300058
+      StoneGiant_3: 21300006
+      StoneGiant_30: 21300060
+      StoneGiant_31: 21300062
+      StoneGiant_32: 21300064
+      StoneGiant_33: 21300066
+      StoneGiant_34: 21300068
+      StoneGiant_35: 21300070
+      StoneGiant_36: 21300072
+      StoneGiant_37: 21300074
+      StoneGiant_38: 21300076
+      StoneGiant_39: 7655882447237245569
+      StoneGiant_4: 21300008
+      StoneGiant_40: 4767241759512130811
+      StoneGiant_41: -8836614678862890327
+      StoneGiant_42: 9163987802114489132
+      StoneGiant_43: 5023657025333884562
+      StoneGiant_44: 4558319598680997482
+      StoneGiant_45: -4757757486896802760
+      StoneGiant_46: 5242086538396476751
+      StoneGiant_47: 6446000553734569358
+      StoneGiant_5: 21300010
+      StoneGiant_6: 21300012
+      StoneGiant_7: 21300014
+      StoneGiant_8: 21300016
+      StoneGiant_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

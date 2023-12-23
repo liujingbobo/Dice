@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 7b5ce0439e85b944382598554381a003
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7195657506793358359
+    second: Vineman_0
+  - first:
+      213: -1350147893733439718
+    second: Vineman_1
+  - first:
+      213: 162847142508789828
+    second: Vineman_2
+  - first:
+      213: -2124394680244956631
+    second: Vineman_3
+  - first:
+      213: -7910951578954991463
+    second: Vineman_4
+  - first:
+      213: -5345623399766819149
+    second: Vineman_5
+  - first:
+      213: 5149147633106918493
+    second: Vineman_6
+  - first:
+      213: 3483434642542014640
+    second: Vineman_7
+  - first:
+      213: 3341785261715290272
+    second: Vineman_8
+  - first:
+      213: -416304382373607367
+    second: Vineman_9
+  - first:
+      213: 501859671711173005
+    second: Vineman_10
+  - first:
+      213: -8814822881409428241
+    second: Vineman_11
+  - first:
+      213: -4753131117130844269
+    second: Vineman_12
+  - first:
+      213: 1238211519645065985
+    second: Vineman_13
+  - first:
+      213: -3133756911688923012
+    second: Vineman_14
+  - first:
+      213: -6541633061270012660
+    second: Vineman_15
+  - first:
+      213: 2988614640976764573
+    second: Vineman_16
+  - first:
+      213: 5012523967859744019
+    second: Vineman_17
+  - first:
+      213: -39277038031375663
+    second: Vineman_18
+  - first:
+      213: 4931292934854920831
+    second: Vineman_19
+  - first:
+      213: 1406143484283211221
+    second: Vineman_20
+  - first:
+      213: -6249814635759095008
+    second: Vineman_21
+  - first:
+      213: -1542922321775761781
+    second: Vineman_22
+  - first:
+      213: 8772328427877180331
+    second: Vineman_23
+  - first:
+      213: 4293544124872138132
+    second: Vineman_24
+  - first:
+      213: -5687513383452757469
+    second: Vineman_25
+  - first:
+      213: -5919593494280514867
+    second: Vineman_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vineman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb753e2f93e32c90800000000000000
+      internalID: -7195657506793358359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c6cfd4af434de0800000000000000
+      internalID: -1350147893733439718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408ce10d9c824200800000000000000
+      internalID: 162847142508789828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92215493b42a482e0800000000000000
+      internalID: -2124394680244956631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9987215f377a63290800000000000000
+      internalID: -7910951578954991463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef1e917d780d5b0800000000000000
+      internalID: -5345623399766819149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c916fad72757740800000000000000
+      internalID: 5149147633106918493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b103f955a75030800000000000000
+      internalID: 3483434642542014640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fc207df7606e20800000000000000
+      internalID: 3341785261715290272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 44
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ce22be5df83af0800000000000000
+      internalID: -416304382373607367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 38
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89407366b6f6f600800000000000000
+      internalID: 501859671711173005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 88
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe41b93da457ba580800000000000000
+      internalID: -8814822881409428241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 88
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3977f80ae6c790eb0800000000000000
+      internalID: -4753131117130844269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 88
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ad3911d20f2110800000000000000
+      internalID: 1238211519645065985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 88
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784b5231b8a284d0800000000000000
+      internalID: -3133756911688923012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 88
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dbc0cc3637735a0800000000000000
+      internalID: -6541633061270012660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34693876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e93fd7e21b97920800000000000000
+      internalID: 2988614640976764573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 138
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5964cdff009540800000000000000
+      internalID: 5012523967859744019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 138
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27f44fdb5747ff0800000000000000
+      internalID: -39277038031375663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 138
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acb611cc87f6440800000000000000
+      internalID: 4931292934854920831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 138
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd4ee38c00a38310800000000000000
+      internalID: 1406143484283211221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 138
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ba83a3b23449a0800000000000000
+      internalID: -6249814635759095008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e886b250769ae0800000000000000
+      internalID: -1542922321775761781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 188
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba32ea43a329db970800000000000000
+      internalID: 8772328427877180331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d187622abb59b30800000000000000
+      internalID: 4293544124872138132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 188
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b40426b4e111b0800000000000000
+      internalID: -5687513383452757469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vineman_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4634146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc252be841169dda0800000000000000
+      internalID: -5919593494280514867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vineman_0: -7195657506793358359
+      Vineman_1: -1350147893733439718
+      Vineman_10: 501859671711173005
+      Vineman_11: -8814822881409428241
+      Vineman_12: -4753131117130844269
+      Vineman_13: 1238211519645065985
+      Vineman_14: -3133756911688923012
+      Vineman_15: -6541633061270012660
+      Vineman_16: 2988614640976764573
+      Vineman_17: 5012523967859744019
+      Vineman_18: -39277038031375663
+      Vineman_19: 4931292934854920831
+      Vineman_2: 162847142508789828
+      Vineman_20: 1406143484283211221
+      Vineman_21: -6249814635759095008
+      Vineman_22: -1542922321775761781
+      Vineman_23: 8772328427877180331
+      Vineman_24: 4293544124872138132
+      Vineman_25: -5687513383452757469
+      Vineman_26: -5919593494280514867
+      Vineman_3: -2124394680244956631
+      Vineman_4: -7910951578954991463
+      Vineman_5: -5345623399766819149
+      Vineman_6: 5149147633106918493
+      Vineman_7: 3483434642542014640
+      Vineman_8: 3341785261715290272
+      Vineman_9: -416304382373607367
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

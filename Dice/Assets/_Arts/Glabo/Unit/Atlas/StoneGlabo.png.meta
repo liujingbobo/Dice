@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: ad1868d1b0410f24f9b5875238ff3078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StoneGlabo_0
+  - first:
+      213: 21300002
+    second: StoneGlabo_1
+  - first:
+      213: 21300004
+    second: StoneGlabo_2
+  - first:
+      213: 21300006
+    second: StoneGlabo_3
+  - first:
+      213: 21300008
+    second: StoneGlabo_4
+  - first:
+      213: 21300010
+    second: StoneGlabo_5
+  - first:
+      213: 21300012
+    second: StoneGlabo_6
+  - first:
+      213: 21300014
+    second: StoneGlabo_7
+  - first:
+      213: 21300016
+    second: StoneGlabo_8
+  - first:
+      213: 21300018
+    second: StoneGlabo_9
+  - first:
+      213: 21300020
+    second: StoneGlabo_10
+  - first:
+      213: -208428071110025137
+    second: StoneGlabo_11
+  - first:
+      213: 5672896765881892816
+    second: StoneGlabo_12
+  - first:
+      213: 4735835945524876885
+    second: StoneGlabo_13
+  - first:
+      213: -2427523255880398019
+    second: StoneGlabo_14
+  - first:
+      213: 5221448232343416131
+    second: StoneGlabo_15
+  - first:
+      213: -6688802048588063754
+    second: StoneGlabo_16
+  - first:
+      213: -6270679225404002031
+    second: StoneGlabo_17
+  - first:
+      213: 6281926458883735219
+    second: StoneGlabo_18
+  - first:
+      213: 4264139011496483614
+    second: StoneGlabo_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneGlabo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 37
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40644c06c38b1df0800000000000000
+      internalID: -208428071110025137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3ad16d8d2abe40800000000000000
+      internalID: 5672896765881892816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556598f63b119b140800000000000000
+      internalID: 4735835945524876885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 74
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bcf39d574bf4ed0800000000000000
+      internalID: -2427523255880398019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 74
+        width: 55
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.37500003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dabedb08f467840800000000000000
+      internalID: 5221448232343416131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 74
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbd001c9f99c23a0800000000000000
+      internalID: -6688802048588063754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117f5dc7721af8a0800000000000000
+      internalID: -6270679225404002031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be74eec4d2ed2750800000000000000
+      internalID: 6281926458883735219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneGlabo_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b122da6d34d2b30800000000000000
+      internalID: 4264139011496483614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StoneGlabo_0: 21300000
+      StoneGlabo_1: 21300002
+      StoneGlabo_10: 21300020
+      StoneGlabo_11: -208428071110025137
+      StoneGlabo_12: 5672896765881892816
+      StoneGlabo_13: 4735835945524876885
+      StoneGlabo_14: -2427523255880398019
+      StoneGlabo_15: 5221448232343416131
+      StoneGlabo_16: -6688802048588063754
+      StoneGlabo_17: -6270679225404002031
+      StoneGlabo_18: 6281926458883735219
+      StoneGlabo_19: 4264139011496483614
+      StoneGlabo_2: 21300004
+      StoneGlabo_3: 21300006
+      StoneGlabo_4: 21300008
+      StoneGlabo_5: 21300010
+      StoneGlabo_6: 21300012
+      StoneGlabo_7: 21300014
+      StoneGlabo_8: 21300016
+      StoneGlabo_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

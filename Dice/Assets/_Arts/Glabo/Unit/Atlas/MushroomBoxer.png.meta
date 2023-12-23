@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 1d3a5f3f4cd52164a8ba28f5a344b829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5175710799946008584
+    second: MushroomBoxer_0
+  - first:
+      213: 6236524930860114031
+    second: MushroomBoxer_1
+  - first:
+      213: -507612823784988326
+    second: MushroomBoxer_2
+  - first:
+      213: 5687875488013485487
+    second: MushroomBoxer_3
+  - first:
+      213: 782498194837449143
+    second: MushroomBoxer_4
+  - first:
+      213: -885474143384719482
+    second: MushroomBoxer_5
+  - first:
+      213: -4257456594982017811
+    second: MushroomBoxer_6
+  - first:
+      213: 3366205409560406772
+    second: MushroomBoxer_7
+  - first:
+      213: 3090270673546575347
+    second: MushroomBoxer_8
+  - first:
+      213: 1940241740800903127
+    second: MushroomBoxer_9
+  - first:
+      213: 131225882429103710
+    second: MushroomBoxer_10
+  - first:
+      213: 1402684027952488843
+    second: MushroomBoxer_11
+  - first:
+      213: -3571925368807015274
+    second: MushroomBoxer_12
+  - first:
+      213: -5046308661590020666
+    second: MushroomBoxer_13
+  - first:
+      213: 748362401289857617
+    second: MushroomBoxer_14
+  - first:
+      213: -1740661067364227969
+    second: MushroomBoxer_15
+  - first:
+      213: 7848232493352036711
+    second: MushroomBoxer_16
+  - first:
+      213: 7181994103673752334
+    second: MushroomBoxer_17
+  - first:
+      213: 4605830344838246187
+    second: MushroomBoxer_18
+  - first:
+      213: 835117698801458474
+    second: MushroomBoxer_19
+  - first:
+      213: -6795701092020094940
+    second: MushroomBoxer_20
+  - first:
+      213: 5835450336951876574
+    second: MushroomBoxer_21
+  - first:
+      213: -6097540969128888361
+    second: MushroomBoxer_22
+  - first:
+      213: 5651494948057009096
+    second: MushroomBoxer_23
+  - first:
+      213: 6479252660776148369
+    second: MushroomBoxer_24
+  - first:
+      213: 7243106879347279894
+    second: MushroomBoxer_25
+  - first:
+      213: 7672854522288618247
+    second: MushroomBoxer_26
+  - first:
+      213: 4447056132124188776
+    second: MushroomBoxer_27
+  - first:
+      213: 4844623626234562395
+    second: MushroomBoxer_28
+  - first:
+      213: 828852084947028700
+    second: MushroomBoxer_29
+  - first:
+      213: 7192101935171891492
+    second: MushroomBoxer_30
+  - first:
+      213: 3931068573989164631
+    second: MushroomBoxer_31
+  - first:
+      213: -4911817832952313311
+    second: MushroomBoxer_32
+  - first:
+      213: 5847984675979407743
+    second: MushroomBoxer_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomBoxer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084feaec81d3d740800000000000000
+      internalID: 5175710799946008584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e8c0d1669c8650800000000000000
+      internalID: 6236524930860114031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ecd283d894f8f0800000000000000
+      internalID: -507612823784988326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa502b5ee946fee40800000000000000
+      internalID: 5687875488013485487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9abac56fdfbda00800000000000000
+      internalID: 782498194837449143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa2c145f926b3f0800000000000000
+      internalID: -885474143384719482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e379a8c97ae4c0800000000000000
+      internalID: -4257456594982017811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa8dd2cf927be20800000000000000
+      internalID: 3366205409560406772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfc8cfdc8d2ea20800000000000000
+      internalID: 3090270673546575347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c2da559f1dea10800000000000000
+      internalID: 1940241740800903127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e168bae3532d100800000000000000
+      internalID: 131225882429103710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e83211b5577310800000000000000
+      internalID: 1402684027952488843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3d0c4dc8fd6ec0800000000000000
+      internalID: -3571925368807015274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 42
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd23fe3209e7f9b0800000000000000
+      internalID: -5046308661590020666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 42
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae32493a7b26a00800000000000000
+      internalID: 748362401289857617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 42
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6486487, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74276d4bfde7d7e0800000000000000
+      internalID: -1740661067364227969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 42
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7692de8fed58aec60800000000000000
+      internalID: 7848232493352036711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 42
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b8c60e5919ba360800000000000000
+      internalID: 7181994103673752334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 42
+        width: 42
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.4468085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f6ccfbb423bef30800000000000000
+      internalID: 4605830344838246187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 42
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd3b65f1fe69b00800000000000000
+      internalID: 835117698801458474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 42
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428786aacd1d0b1a0800000000000000
+      internalID: -6795701092020094940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3376f92fabf050800000000000000
+      internalID: 5835450336951876574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77ea37bce216ba0800000000000000
+      internalID: -6097540969128888361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25490198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4adc56b42e6e40800000000000000
+      internalID: 5651494948057009096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 95
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d119767fdeae950800000000000000
+      internalID: 6479252660776148369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618cea5c45fa48460800000000000000
+      internalID: 7243106879347279894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 95
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b334619847b7a60800000000000000
+      internalID: 7672854522288618247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 95
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8602c7b9dfd17bd30800000000000000
+      internalID: 4447056132124188776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 95
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570d28258f8b3340800000000000000
+      internalID: 4844623626234562395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 95
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda0c9e649ca08b00800000000000000
+      internalID: 828852084947028700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 95
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f15aca9a7fc360800000000000000
+      internalID: 7192101935171891492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75653545a06fd8630800000000000000
+      internalID: 3931068573989164631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac27174b7b5dbb0800000000000000
+      internalID: -4911817832952313311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomBoxer_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f713eaf2417382150800000000000000
+      internalID: 5847984675979407743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomBoxer_0: 5175710799946008584
+      MushroomBoxer_1: 6236524930860114031
+      MushroomBoxer_10: 131225882429103710
+      MushroomBoxer_11: 1402684027952488843
+      MushroomBoxer_12: -3571925368807015274
+      MushroomBoxer_13: -5046308661590020666
+      MushroomBoxer_14: 748362401289857617
+      MushroomBoxer_15: -1740661067364227969
+      MushroomBoxer_16: 7848232493352036711
+      MushroomBoxer_17: 7181994103673752334
+      MushroomBoxer_18: 4605830344838246187
+      MushroomBoxer_19: 835117698801458474
+      MushroomBoxer_2: -507612823784988326
+      MushroomBoxer_20: -6795701092020094940
+      MushroomBoxer_21: 5835450336951876574
+      MushroomBoxer_22: -6097540969128888361
+      MushroomBoxer_23: 5651494948057009096
+      MushroomBoxer_24: 6479252660776148369
+      MushroomBoxer_25: 7243106879347279894
+      MushroomBoxer_26: 7672854522288618247
+      MushroomBoxer_27: 4447056132124188776
+      MushroomBoxer_28: 4844623626234562395
+      MushroomBoxer_29: 828852084947028700
+      MushroomBoxer_3: 5687875488013485487
+      MushroomBoxer_30: 7192101935171891492
+      MushroomBoxer_31: 3931068573989164631
+      MushroomBoxer_32: -4911817832952313311
+      MushroomBoxer_33: 5847984675979407743
+      MushroomBoxer_4: 782498194837449143
+      MushroomBoxer_5: -885474143384719482
+      MushroomBoxer_6: -4257456594982017811
+      MushroomBoxer_7: 3366205409560406772
+      MushroomBoxer_8: 3090270673546575347
+      MushroomBoxer_9: 1940241740800903127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

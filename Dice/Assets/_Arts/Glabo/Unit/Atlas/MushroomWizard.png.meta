@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 89e6db41157bcb84abfe764ddacb6e84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7350696509525608120
+    second: MushroomWizard_0
+  - first:
+      213: -5503843249475771328
+    second: MushroomWizard_1
+  - first:
+      213: 5939958441464662387
+    second: MushroomWizard_2
+  - first:
+      213: -2610446065458434398
+    second: MushroomWizard_3
+  - first:
+      213: 4635009726973700991
+    second: MushroomWizard_4
+  - first:
+      213: 765011683761609718
+    second: MushroomWizard_5
+  - first:
+      213: -5961117869431091561
+    second: MushroomWizard_6
+  - first:
+      213: 1740138040289641697
+    second: MushroomWizard_7
+  - first:
+      213: 314958750805101038
+    second: MushroomWizard_8
+  - first:
+      213: -1607989728968189892
+    second: MushroomWizard_9
+  - first:
+      213: -8910691083588553226
+    second: MushroomWizard_10
+  - first:
+      213: 3621855099043295407
+    second: MushroomWizard_11
+  - first:
+      213: 1586803208827217190
+    second: MushroomWizard_12
+  - first:
+      213: -7186721672240809277
+    second: MushroomWizard_13
+  - first:
+      213: -1151337452662875980
+    second: MushroomWizard_14
+  - first:
+      213: -789351282380322145
+    second: MushroomWizard_15
+  - first:
+      213: -1919608905578640291
+    second: MushroomWizard_16
+  - first:
+      213: -1566489782335218945
+    second: MushroomWizard_17
+  - first:
+      213: -1961653314588040517
+    second: MushroomWizard_18
+  - first:
+      213: 6786212597425832610
+    second: MushroomWizard_19
+  - first:
+      213: -6037499767550927872
+    second: MushroomWizard_20
+  - first:
+      213: -6627877965322311831
+    second: MushroomWizard_21
+  - first:
+      213: -4199612265914586946
+    second: MushroomWizard_22
+  - first:
+      213: -3306210581447089342
+    second: MushroomWizard_23
+  - first:
+      213: 4566225168270564224
+    second: MushroomWizard_24
+  - first:
+      213: 9160454910568238757
+    second: MushroomWizard_25
+  - first:
+      213: 8265737970604839798
+    second: MushroomWizard_26
+  - first:
+      213: -7069401536817663081
+    second: MushroomWizard_27
+  - first:
+      213: -264383983252637129
+    second: MushroomWizard_28
+  - first:
+      213: -883788924336736642
+    second: MushroomWizard_29
+  - first:
+      213: -6789976292889589938
+    second: MushroomWizard_30
+  - first:
+      213: -6010245301574231563
+    second: MushroomWizard_31
+  - first:
+      213: 108267470055709621
+    second: MushroomWizard_32
+  - first:
+      213: 7035907302884827714
+    second: MushroomWizard_33
+  - first:
+      213: 8539471115436992563
+    second: MushroomWizard_34
+  - first:
+      213: -6672676458007832151
+    second: MushroomWizard_35
+  - first:
+      213: 4601964915297156329
+    second: MushroomWizard_36
+  - first:
+      213: -447432950778421479
+    second: MushroomWizard_37
+  - first:
+      213: -832880560824637825
+    second: MushroomWizard_38
+  - first:
+      213: -4784757182911142797
+    second: MushroomWizard_39
+  - first:
+      213: -4193521553907807168
+    second: MushroomWizard_40
+  - first:
+      213: 4764104675567499064
+    second: MushroomWizard_41
+  - first:
+      213: 19223860912850895
+    second: MushroomWizard_42
+  - first:
+      213: 6220211262273650549
+    second: MushroomWizard_43
+  - first:
+      213: 5086044634549604717
+    second: MushroomWizard_44
+  - first:
+      213: -3088564475446366067
+    second: MushroomWizard_45
+  - first:
+      213: 2289180301643441261
+    second: MushroomWizard_46
+  - first:
+      213: 8126449522222160357
+    second: MushroomWizard_47
+  - first:
+      213: 5849221735424366458
+    second: MushroomWizard_48
+  - first:
+      213: -1367993432123515938
+    second: MushroomWizard_49
+  - first:
+      213: -421877191902456013
+    second: MushroomWizard_50
+  - first:
+      213: -4674423995481328554
+    second: MushroomWizard_51
+  - first:
+      213: -1437218486793299152
+    second: MushroomWizard_52
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MushroomWizard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b64afd978be20660800000000000000
+      internalID: 7350696509525608120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044a097a9bb6e93b0800000000000000
+      internalID: -5503843249475771328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37985143bb8fe6250800000000000000
+      internalID: 5939958441464662387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.55, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea80b5225d5cbd0800000000000000
+      internalID: -2610446065458434398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b6fb21accd25040800000000000000
+      internalID: 4635009726973700991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb52abb21edd9a00800000000000000
+      internalID: 765011683761609718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e835091ead54da0800000000000000
+      internalID: -5961117869431091561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4cb97f356362810800000000000000
+      internalID: 1740138040289641697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee983aca055fe5400800000000000000
+      internalID: 314958750805101038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.55, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38df5a6cd54fa9e0800000000000000
+      internalID: -1607989728968189892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b67b9badd65480800000000000000
+      internalID: -8910691083588553226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b96ee50a634230800000000000000
+      internalID: 3621855099043295407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625a8967c15750610800000000000000
+      internalID: 1586803208827217190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3c7a47b2a34c90800000000000000
+      internalID: -7186721672240809277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b81d65dfa0a500f0800000000000000
+      internalID: -1151337452662875980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac8bad039ab05f0800000000000000
+      internalID: -789351282380322145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c0f43fedd2c55e0800000000000000
+      internalID: -1919608905578640291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 43
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa51a3b7d5b24ae0800000000000000
+      internalID: -1566489782335218945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 43
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2238324bec6c4e0800000000000000
+      internalID: -1961653314588040517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 43
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a209d707687d2e50800000000000000
+      internalID: 6786212597425832610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 43
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9f9f03fd763ca0800000000000000
+      internalID: -6037499767550927872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 43
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96723564b1c0504a0800000000000000
+      internalID: -6627877965322311831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 43
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a9c705eaf7b5c0800000000000000
+      internalID: -4199612265914586946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 43
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24365344efafd12d0800000000000000
+      internalID: -3306210581447089342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b173ff89d7e5f30800000000000000
+      internalID: 4566225168270564224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae076df439702f70800000000000000
+      internalID: 9160454910568238757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 86
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6731c58f3ecc5b270800000000000000
+      internalID: 8265737970604839798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f16fe1c074ed90800000000000000
+      internalID: -7069401536817663081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 86
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7ce10b28b45cf0800000000000000
+      internalID: -264383983252637129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 86
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fb74e7a62cb3f0800000000000000
+      internalID: -883788924336736642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 86
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470ef4598825c1a0800000000000000
+      internalID: -6789976292889589938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 86
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f915baedb1579ca0800000000000000
+      internalID: -6010245301574231563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 86
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb966db0b4a08100800000000000000
+      internalID: 108267470055709621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_33
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 86
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e6050a6094a160800000000000000
+      internalID: 7035907302884827714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 86
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a4554cbb428670800000000000000
+      internalID: 8539471115436992563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_35
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d4536d14e563a0800000000000000
+      internalID: -6672676458007832151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf81d45b67ddf30800000000000000
+      internalID: 4601964915297156329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1c041a166ac9f0800000000000000
+      internalID: -447432950778421479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7628bfea830174f0800000000000000
+      internalID: -832880560824637825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 129
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.55, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374251061b0299db0800000000000000
+      internalID: -4784757182911142797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c816d6d5e9dc5c0800000000000000
+      internalID: -4193521553907807168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377afb06ff7d1240800000000000000
+      internalID: 4764104675567499064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_42
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 129
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70ce8effb444000800000000000000
+      internalID: 19223860912850895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 129
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f74bbdf21a25650800000000000000
+      internalID: 6220211262273650549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d615c1ae5a2459640800000000000000
+      internalID: 5086044634549604717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_45
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 129
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f02739f63325d0800000000000000
+      internalID: -3088564475446366067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 129
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6467421b5dc4cf10800000000000000
+      internalID: 2289180301643441261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 129
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d131e8c2f6c070800000000000000
+      internalID: 8126449522222160357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7796788d2c9c2150800000000000000
+      internalID: 5849221735424366458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 172
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd53fa839e30de0800000000000000
+      internalID: -1367993432123515938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 172
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33790dddde0352af0800000000000000
+      internalID: -421877191902456013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 172
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f5cb642c112fb0800000000000000
+      internalID: -4674423995481328554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWizard_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9f06a669fd0ce0800000000000000
+      internalID: -1437218486793299152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MushroomWizard_0: 7350696509525608120
+      MushroomWizard_1: -5503843249475771328
+      MushroomWizard_10: -8910691083588553226
+      MushroomWizard_11: 3621855099043295407
+      MushroomWizard_12: 1586803208827217190
+      MushroomWizard_13: -7186721672240809277
+      MushroomWizard_14: -1151337452662875980
+      MushroomWizard_15: -789351282380322145
+      MushroomWizard_16: -1919608905578640291
+      MushroomWizard_17: -1566489782335218945
+      MushroomWizard_18: -1961653314588040517
+      MushroomWizard_19: 6786212597425832610
+      MushroomWizard_2: 5939958441464662387
+      MushroomWizard_20: -6037499767550927872
+      MushroomWizard_21: -6627877965322311831
+      MushroomWizard_22: -4199612265914586946
+      MushroomWizard_23: -3306210581447089342
+      MushroomWizard_24: 4566225168270564224
+      MushroomWizard_25: 9160454910568238757
+      MushroomWizard_26: 8265737970604839798
+      MushroomWizard_27: -7069401536817663081
+      MushroomWizard_28: -264383983252637129
+      MushroomWizard_29: -883788924336736642
+      MushroomWizard_3: -2610446065458434398
+      MushroomWizard_30: -6789976292889589938
+      MushroomWizard_31: -6010245301574231563
+      MushroomWizard_32: 108267470055709621
+      MushroomWizard_33: 7035907302884827714
+      MushroomWizard_34: 8539471115436992563
+      MushroomWizard_35: -6672676458007832151
+      MushroomWizard_36: 4601964915297156329
+      MushroomWizard_37: -447432950778421479
+      MushroomWizard_38: -832880560824637825
+      MushroomWizard_39: -4784757182911142797
+      MushroomWizard_4: 4635009726973700991
+      MushroomWizard_40: -4193521553907807168
+      MushroomWizard_41: 4764104675567499064
+      MushroomWizard_42: 19223860912850895
+      MushroomWizard_43: 6220211262273650549
+      MushroomWizard_44: 5086044634549604717
+      MushroomWizard_45: -3088564475446366067
+      MushroomWizard_46: 2289180301643441261
+      MushroomWizard_47: 8126449522222160357
+      MushroomWizard_48: 5849221735424366458
+      MushroomWizard_49: -1367993432123515938
+      MushroomWizard_5: 765011683761609718
+      MushroomWizard_50: -421877191902456013
+      MushroomWizard_51: -4674423995481328554
+      MushroomWizard_52: -1437218486793299152
+      MushroomWizard_6: -5961117869431091561
+      MushroomWizard_7: 1740138040289641697
+      MushroomWizard_8: 314958750805101038
+      MushroomWizard_9: -1607989728968189892
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

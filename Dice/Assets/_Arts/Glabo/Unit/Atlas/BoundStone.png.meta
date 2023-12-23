@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: e069cb7799bea7840aaebd4dbb086ec4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5091085566218931858
+    second: BoundStone_0
+  - first:
+      213: -3091935777815517927
+    second: BoundStone_1
+  - first:
+      213: 5383156533260183029
+    second: BoundStone_2
+  - first:
+      213: 553002622914464411
+    second: BoundStone_3
+  - first:
+      213: -336037115061116779
+    second: BoundStone_4
+  - first:
+      213: -5942328061037212250
+    second: BoundStone_5
+  - first:
+      213: -7371263254455514863
+    second: BoundStone_6
+  - first:
+      213: -1805940050723096789
+    second: BoundStone_7
+  - first:
+      213: 4903889136614173494
+    second: BoundStone_8
+  - first:
+      213: 186943167588804704
+    second: BoundStone_9
+  - first:
+      213: 7051658099885882536
+    second: BoundStone_10
+  - first:
+      213: -3663654286277838725
+    second: BoundStone_11
+  - first:
+      213: 2984596499656228231
+    second: BoundStone_12
+  - first:
+      213: 2385951617378950154
+    second: BoundStone_13
+  - first:
+      213: 8484238426997159504
+    second: BoundStone_14
+  - first:
+      213: 7957105360141189050
+    second: BoundStone_15
+  - first:
+      213: 5920412774924295286
+    second: BoundStone_16
+  - first:
+      213: 9046480091291725342
+    second: BoundStone_17
+  - first:
+      213: -1350583927011195347
+    second: BoundStone_18
+  - first:
+      213: 56547283685658278
+    second: BoundStone_19
+  - first:
+      213: -5768988678422440311
+    second: BoundStone_20
+  - first:
+      213: -5369248823439774053
+    second: BoundStone_21
+  - first:
+      213: -2684518466097128663
+    second: BoundStone_22
+  - first:
+      213: -396828304886734195
+    second: BoundStone_23
+  - first:
+      213: 4337306559571583392
+    second: BoundStone_24
+  - first:
+      213: -6917098864768442242
+    second: BoundStone_25
+  - first:
+      213: 2628126955964161898
+    second: BoundStone_26
+  - first:
+      213: -2977322903859662301
+    second: BoundStone_27
+  - first:
+      213: -6158783948975213446
+    second: BoundStone_28
+  - first:
+      213: -3068397734472627890
+    second: BoundStone_29
+  - first:
+      213: -5559083549197793607
+    second: BoundStone_30
+  - first:
+      213: -9169398449209547877
+    second: BoundStone_31
+  - first:
+      213: -7331781580936681258
+    second: BoundStone_32
+  - first:
+      213: -5969587113784638923
+    second: BoundStone_33
+  - first:
+      213: 3558469082946300357
+    second: BoundStone_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoundStone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f668b6a4d859b0800000000000000
+      internalID: -5091085566218931858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152cf6bacc3715d0800000000000000
+      internalID: -3091935777815517927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5eb478850d4ba40800000000000000
+      internalID: 5383156533260183029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0da2a4f8aca700800000000000000
+      internalID: 553002622914464411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906f653608265bf0800000000000000
+      internalID: -336037115061116779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad8a0fbc1c988da0800000000000000
+      internalID: -5942328061037212250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190a4cef1304b990800000000000000
+      internalID: -7371263254455514863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27bff6971300f6e0800000000000000
+      internalID: -1805940050723096789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be8c5103d1e0440800000000000000
+      internalID: 4903889136614173494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068215902d7289200800000000000000
+      internalID: 186943167588804704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac34393ea58cd160800000000000000
+      internalID: 7051658099885882536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78729666d5182dc0800000000000000
+      internalID: -3663654286277838725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d32ef04ba6b6920800000000000000
+      internalID: 2984596499656228231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c142dca5a9c1120800000000000000
+      internalID: 2385951617378950154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05672eed5e11eb570800000000000000
+      internalID: 8484238426997159504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf729f9a215d6e60800000000000000
+      internalID: 7957105360141189050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1c051d08892250800000000000000
+      internalID: 5920412774924295286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e261576bd8b8d70800000000000000
+      internalID: 9046480091291725342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264527f213c14de0800000000000000
+      internalID: -1350583927011195347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aec8157475e8c000800000000000000
+      internalID: 56547283685658278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865165cc5f60ffa0800000000000000
+      internalID: -5768988678422440311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e203084a89c75b0800000000000000
+      internalID: -5369248823439774053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bdd43adacaebad0800000000000000
+      internalID: -2684518466097128663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e76a52ce2e7af0800000000000000
+      internalID: -396828304886734195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_24
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 51
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16c3df555313c30800000000000000
+      internalID: 4337306559571583392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 51
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7028391b378100a0800000000000000
+      internalID: -6917098864768442242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5fd2ca8bf87420800000000000000
+      internalID: 2628126955964161898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3227fcde79c6ea6d0800000000000000
+      internalID: -2977322903859662301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7474f801aa978aa0800000000000000
+      internalID: -6158783948975213446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49452f748cda65d0800000000000000
+      internalID: -3068397734472627890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6095d17fa2ad2b0800000000000000
+      internalID: -5559083549197793607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e8d621b0cfb080800000000000000
+      internalID: -9169398449209547877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d864816f77404a90800000000000000
+      internalID: -7331781580936681258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 102
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5320e13f524c72da0800000000000000
+      internalID: -5969587113784638923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundStone_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9693107c8326130800000000000000
+      internalID: 3558469082946300357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoundStone_0: -5091085566218931858
+      BoundStone_1: -3091935777815517927
+      BoundStone_10: 7051658099885882536
+      BoundStone_11: -3663654286277838725
+      BoundStone_12: 2984596499656228231
+      BoundStone_13: 2385951617378950154
+      BoundStone_14: 8484238426997159504
+      BoundStone_15: 7957105360141189050
+      BoundStone_16: 5920412774924295286
+      BoundStone_17: 9046480091291725342
+      BoundStone_18: -1350583927011195347
+      BoundStone_19: 56547283685658278
+      BoundStone_2: 5383156533260183029
+      BoundStone_20: -5768988678422440311
+      BoundStone_21: -5369248823439774053
+      BoundStone_22: -2684518466097128663
+      BoundStone_23: -396828304886734195
+      BoundStone_24: 4337306559571583392
+      BoundStone_25: -6917098864768442242
+      BoundStone_26: 2628126955964161898
+      BoundStone_27: -2977322903859662301
+      BoundStone_28: -6158783948975213446
+      BoundStone_29: -3068397734472627890
+      BoundStone_3: 553002622914464411
+      BoundStone_30: -5559083549197793607
+      BoundStone_31: -9169398449209547877
+      BoundStone_32: -7331781580936681258
+      BoundStone_33: -5969587113784638923
+      BoundStone_34: 3558469082946300357
+      BoundStone_4: -336037115061116779
+      BoundStone_5: -5942328061037212250
+      BoundStone_6: -7371263254455514863
+      BoundStone_7: -1805940050723096789
+      BoundStone_8: 4903889136614173494
+      BoundStone_9: 186943167588804704
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

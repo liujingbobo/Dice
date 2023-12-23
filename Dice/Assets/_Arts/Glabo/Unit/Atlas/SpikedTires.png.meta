@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 1d2e2216fd3fe8848bd13446bcc70bb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 165701247705636899
+    second: SpikedTires_0
+  - first:
+      213: -5077058480617162674
+    second: SpikedTires_1
+  - first:
+      213: 8634221388131501050
+    second: SpikedTires_2
+  - first:
+      213: -5267261240334423706
+    second: SpikedTires_3
+  - first:
+      213: -8946163680276743645
+    second: SpikedTires_4
+  - first:
+      213: 3321047218807702126
+    second: SpikedTires_5
+  - first:
+      213: 993217499935007319
+    second: SpikedTires_6
+  - first:
+      213: -1607758264201746720
+    second: SpikedTires_7
+  - first:
+      213: -1006123869847401344
+    second: SpikedTires_8
+  - first:
+      213: 7927730814434073526
+    second: SpikedTires_9
+  - first:
+      213: 261299112467255350
+    second: SpikedTires_10
+  - first:
+      213: -2568671328812527956
+    second: SpikedTires_11
+  - first:
+      213: 6987202595997311067
+    second: SpikedTires_12
+  - first:
+      213: 7868223921779779297
+    second: SpikedTires_13
+  - first:
+      213: -8890051127620248631
+    second: SpikedTires_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpikedTires_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32065582860bc4200800000000000000
+      internalID: 165701247705636899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48fde6163aaa89b0800000000000000
+      internalID: -5077058480617162674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af388af3b9ae2d770800000000000000
+      internalID: 8634221388131501050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669eeae1fcde6e6b0800000000000000
+      internalID: -5267261240334423706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7a961887d8d380800000000000000
+      internalID: -8946163680276743645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62055f89dab61e20800000000000000
+      internalID: 3321047218807702126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e35ccd0e98cd00800000000000000
+      internalID: 993217499935007319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66e81806810b9e0800000000000000
+      internalID: -1607758264201746720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c44b9cba78902f0800000000000000
+      internalID: -1006123869847401344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd24d3c25f40e60800000000000000
+      internalID: 7927730814434073526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305cba882250a300800000000000000
+      internalID: 261299112467255350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae066d290f3a5cd0800000000000000
+      internalID: -2568671328812527956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikedTires_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 42
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b506b14cdb787f060800000000000000
+      internalID: 6987202595997311067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpikedTires_0: 165701247705636899
+      SpikedTires_1: -5077058480617162674
+      SpikedTires_10: 261299112467255350
+      SpikedTires_11: -2568671328812527956
+      SpikedTires_12: 6987202595997311067
+      SpikedTires_2: 8634221388131501050
+      SpikedTires_3: -5267261240334423706
+      SpikedTires_4: -8946163680276743645
+      SpikedTires_5: 3321047218807702126
+      SpikedTires_6: 993217499935007319
+      SpikedTires_7: -1607758264201746720
+      SpikedTires_8: -1006123869847401344
+      SpikedTires_9: 7927730814434073526
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

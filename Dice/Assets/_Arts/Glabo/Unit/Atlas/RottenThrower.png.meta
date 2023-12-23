@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: daa8b43b7c52fd7448b46ba09880890e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7478677223587016625
+    second: RottenThrower_0
+  - first:
+      213: 3091651693585573589
+    second: RottenThrower_1
+  - first:
+      213: 6648319702808103569
+    second: RottenThrower_2
+  - first:
+      213: -2764193171546193773
+    second: RottenThrower_3
+  - first:
+      213: 1757036277634009612
+    second: RottenThrower_4
+  - first:
+      213: 7236771906474421463
+    second: RottenThrower_5
+  - first:
+      213: -7109407602549311775
+    second: RottenThrower_6
+  - first:
+      213: 1467470198211847191
+    second: RottenThrower_7
+  - first:
+      213: 6023933338405331002
+    second: RottenThrower_8
+  - first:
+      213: 30046853103271745
+    second: RottenThrower_9
+  - first:
+      213: -3061994310836981602
+    second: RottenThrower_10
+  - first:
+      213: -191400188999957180
+    second: RottenThrower_11
+  - first:
+      213: 3690237334203194314
+    second: RottenThrower_12
+  - first:
+      213: -4669659079703903389
+    second: RottenThrower_13
+  - first:
+      213: 1133130133985966550
+    second: RottenThrower_14
+  - first:
+      213: 3330031934354405675
+    second: RottenThrower_15
+  - first:
+      213: 9089437769528279520
+    second: RottenThrower_16
+  - first:
+      213: 1942854297531859005
+    second: RottenThrower_17
+  - first:
+      213: -6836372524456130961
+    second: RottenThrower_18
+  - first:
+      213: 1039090653742199035
+    second: RottenThrower_19
+  - first:
+      213: 5877968526997990758
+    second: RottenThrower_20
+  - first:
+      213: 5238067910371661478
+    second: RottenThrower_21
+  - first:
+      213: -7847241994353841270
+    second: RottenThrower_22
+  - first:
+      213: -2106212288267977584
+    second: RottenThrower_23
+  - first:
+      213: 5607187756978002496
+    second: RottenThrower_24
+  - first:
+      213: 8872168218247480677
+    second: RottenThrower_25
+  - first:
+      213: -8110778194548391504
+    second: RottenThrower_26
+  - first:
+      213: 1585019055474741946
+    second: RottenThrower_27
+  - first:
+      213: 7871037730470951202
+    second: RottenThrower_28
+  - first:
+      213: -5635809122025642870
+    second: RottenThrower_29
+  - first:
+      213: -5927524593321666659
+    second: RottenThrower_30
+  - first:
+      213: -662659486241543933
+    second: RottenThrower_31
+  - first:
+      213: -8346483947271572070
+    second: RottenThrower_32
+  - first:
+      213: 68908666667441560
+    second: RottenThrower_33
+  - first:
+      213: -1118783131665610745
+    second: RottenThrower_34
+  - first:
+      213: -2074696032603188127
+    second: RottenThrower_35
+  - first:
+      213: 3650525245364952508
+    second: RottenThrower_36
+  - first:
+      213: -7559254217737569861
+    second: RottenThrower_37
+  - first:
+      213: -6990859611510646631
+    second: RottenThrower_38
+  - first:
+      213: 6087052256661151324
+    second: RottenThrower_39
+  - first:
+      213: -5470996233586119937
+    second: RottenThrower_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RottenThrower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf65b5af4999c760800000000000000
+      internalID: 7478677223587016625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62765c5d0c7ea20800000000000000
+      internalID: 3091651693585573589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8b1f9b83934c50800000000000000
+      internalID: 6648319702808103569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390cd6fa4fc93a9d0800000000000000
+      internalID: -2764193171546193773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a89d17f2f326810800000000000000
+      internalID: 1757036277634009612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc2fe5f4bd2e6460800000000000000
+      internalID: 7236771906474421463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e63696e37f465d90800000000000000
+      internalID: -7109407602549311775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a3eace508d5410800000000000000
+      internalID: 1467470198211847191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306842847f499350800000000000000
+      internalID: 6023933338405331002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb6d5247fba6000800000000000000
+      internalID: 30046853103271745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e907b4eb56c9185d0800000000000000
+      internalID: -3061994310836981602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44507bcca82085df0800000000000000
+      internalID: -191400188999957180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd012cd4b563330800000000000000
+      internalID: 3690237334203194314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3634214dec9023fb0800000000000000
+      internalID: -4669659079703903389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d936807adfa9bf00800000000000000
+      internalID: 1133130133985966550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 39
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b6e9a666a63e20800000000000000
+      internalID: 3330031934354405675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 39
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e180c45e7b242e70800000000000000
+      internalID: 9089437769528279520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 39
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d304abe90b766fa10800000000000000
+      internalID: 1942854297531859005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664d8fd8635021a0800000000000000
+      internalID: -6836372524456130961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 39
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07bb9b1779b6e00800000000000000
+      internalID: 1039090653742199035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_20
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 39
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d24a48b3db29150800000000000000
+      internalID: 5877968526997990758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65313130b51b840800000000000000
+      internalID: 5238067910371661478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3829787, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8be20c8bfef81390800000000000000
+      internalID: -7847241994353841270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.38636366, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7930451b35c2e0800000000000000
+      internalID: -2106212288267977584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad79b8e8bb0dd40800000000000000
+      internalID: 5607187756978002496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565c62cdcf5402b70800000000000000
+      internalID: 8872168218247480677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b185fd643ab07f80800000000000000
+      internalID: -8110778194548391504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab21cc3ee6e1ff510800000000000000
+      internalID: 1585019055474741946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 80
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.39534885, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229fa620d1b8b3d60800000000000000
+      internalID: 7871037730470951202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 80
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.37777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8461cb967599c1b0800000000000000
+      internalID: -5635809122025642870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.36734694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979ba9a9c33dbda0800000000000000
+      internalID: -5927524593321666659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 80
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a78b45b2cdc6f0800000000000000
+      internalID: -662659486241543933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 80
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95b06f42155b2c80800000000000000
+      internalID: -8346483947271572070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 80
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d98a63110d4f000800000000000000
+      internalID: 68908666667441560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 80
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084f585ba84970f0800000000000000
+      internalID: -1118783131665610745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16456c753f23533e0800000000000000
+      internalID: -2074696032603188127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdd29d8e5549a230800000000000000
+      internalID: 3650525245364952508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 130
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f0e0f652281790800000000000000
+      internalID: -7559254217737569861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 130
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9985845f83a7bfe90800000000000000
+      internalID: -6990859611510646631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e178fd6cd897450800000000000000
+      internalID: 6087052256661151324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RottenThrower_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 130
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54838705, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa699189ed1314b0800000000000000
+      internalID: -5470996233586119937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RottenThrower_0: 7478677223587016625
+      RottenThrower_1: 3091651693585573589
+      RottenThrower_10: -3061994310836981602
+      RottenThrower_11: -191400188999957180
+      RottenThrower_12: 3690237334203194314
+      RottenThrower_13: -4669659079703903389
+      RottenThrower_14: 1133130133985966550
+      RottenThrower_15: 3330031934354405675
+      RottenThrower_16: 9089437769528279520
+      RottenThrower_17: 1942854297531859005
+      RottenThrower_18: -6836372524456130961
+      RottenThrower_19: 1039090653742199035
+      RottenThrower_2: 6648319702808103569
+      RottenThrower_20: 5877968526997990758
+      RottenThrower_21: 5238067910371661478
+      RottenThrower_22: -7847241994353841270
+      RottenThrower_23: -2106212288267977584
+      RottenThrower_24: 5607187756978002496
+      RottenThrower_25: 8872168218247480677
+      RottenThrower_26: -8110778194548391504
+      RottenThrower_27: 1585019055474741946
+      RottenThrower_28: 7871037730470951202
+      RottenThrower_29: -5635809122025642870
+      RottenThrower_3: -2764193171546193773
+      RottenThrower_30: -5927524593321666659
+      RottenThrower_31: -662659486241543933
+      RottenThrower_32: -8346483947271572070
+      RottenThrower_33: 68908666667441560
+      RottenThrower_34: -1118783131665610745
+      RottenThrower_35: -2074696032603188127
+      RottenThrower_36: 3650525245364952508
+      RottenThrower_37: -7559254217737569861
+      RottenThrower_38: -6990859611510646631
+      RottenThrower_39: 6087052256661151324
+      RottenThrower_4: 1757036277634009612
+      RottenThrower_40: -5470996233586119937
+      RottenThrower_5: 7236771906474421463
+      RottenThrower_6: -7109407602549311775
+      RottenThrower_7: 1467470198211847191
+      RottenThrower_8: 6023933338405331002
+      RottenThrower_9: 30046853103271745
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

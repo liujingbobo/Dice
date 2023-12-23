@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 00f406a80126bce47a8d9d28ee34bb25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2723182676199125112
+    second: HolyMan_0
+  - first:
+      213: -7487539942027471014
+    second: HolyMan_1
+  - first:
+      213: 3066903323829982652
+    second: HolyMan_2
+  - first:
+      213: -8733467676699229276
+    second: HolyMan_3
+  - first:
+      213: 5713469265781079976
+    second: HolyMan_4
+  - first:
+      213: 8184777643430695882
+    second: HolyMan_5
+  - first:
+      213: 5444167997259718651
+    second: HolyMan_6
+  - first:
+      213: 2410954899634994140
+    second: HolyMan_7
+  - first:
+      213: -639678861109574996
+    second: HolyMan_8
+  - first:
+      213: 4586993365614575298
+    second: HolyMan_9
+  - first:
+      213: 5468949534039039500
+    second: HolyMan_10
+  - first:
+      213: 5245999174503981144
+    second: HolyMan_11
+  - first:
+      213: -1198419485994699808
+    second: HolyMan_12
+  - first:
+      213: 3483032334584505508
+    second: HolyMan_13
+  - first:
+      213: 5644306493116634
+    second: HolyMan_14
+  - first:
+      213: 231297088429682403
+    second: HolyMan_15
+  - first:
+      213: -5227567968899313948
+    second: HolyMan_16
+  - first:
+      213: 4279480982192456883
+    second: HolyMan_17
+  - first:
+      213: 2388829795669700500
+    second: HolyMan_18
+  - first:
+      213: 125535203512581189
+    second: HolyMan_19
+  - first:
+      213: -3015671590430189454
+    second: HolyMan_20
+  - first:
+      213: 8946134517351513553
+    second: HolyMan_21
+  - first:
+      213: -3661691313405406571
+    second: HolyMan_22
+  - first:
+      213: -3638071521550751345
+    second: HolyMan_23
+  - first:
+      213: -2474189998943791321
+    second: HolyMan_24
+  - first:
+      213: -6451834202466376160
+    second: HolyMan_25
+  - first:
+      213: 5465546467628904526
+    second: HolyMan_26
+  - first:
+      213: -4485690184874064251
+    second: HolyMan_27
+  - first:
+      213: -7646553029830979248
+    second: HolyMan_28
+  - first:
+      213: 1530628661665099961
+    second: HolyMan_29
+  - first:
+      213: -5855882745153770163
+    second: HolyMan_30
+  - first:
+      213: -9016223190594496210
+    second: HolyMan_31
+  - first:
+      213: -7508737068887156598
+    second: HolyMan_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HolyMan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4255319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b8594730bac520800000000000000
+      internalID: 2723182676199125112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5757e9e71ae61890800000000000000
+      internalID: -7487539942027471014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.40909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d959e254df8a20800000000000000
+      internalID: 3066903323829982652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a38cf08b6d7cc680800000000000000
+      internalID: -8733467676699229276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af3ef5a6025a4f40800000000000000
+      internalID: 5713469265781079976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3de32e6eb269170800000000000000
+      internalID: 8184777643430695882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34210527, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1736f2f19d8b40800000000000000
+      internalID: 5444167997259718651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb3b3a15be657120800000000000000
+      internalID: 2410954899634994140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34210527, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2cc3907776f17f0800000000000000
+      internalID: -639678861109574996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb780c92648af30800000000000000
+      internalID: 4586993365614575298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5fee10ac95eb40800000000000000
+      internalID: 5468949534039039500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506d4864788dc840800000000000000
+      internalID: 5245999174503981144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 38
+        height: 45
+      alignment: 9
+      pivot: {x: 0.34210527, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e33165b3db5e5fe0800000000000000
+      internalID: -1198419485994699808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4eb145477365030800000000000000
+      internalID: 3483032334584505508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad09683877d041000800000000000000
+      internalID: 5644306493116634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 48
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeee69f97bb53300800000000000000
+      internalID: 231297088429682403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 48
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eecb8e01a2f377b0800000000000000
+      internalID: -5227567968899313948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b40f969745c36b30800000000000000
+      internalID: 4279480982192456883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.38636366, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe2c7ea04d62120800000000000000
+      internalID: 2388829795669700500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c7c2c3a9dfdb100800000000000000
+      internalID: 125535203512581189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278db2d8aae2626d0800000000000000
+      internalID: -3015671590430189454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf893e1fd072c70800000000000000
+      internalID: 8946134517351513553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 48
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925653a62f0f2dc0800000000000000
+      internalID: -3661691313405406571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 48
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a08af939f28dc0800000000000000
+      internalID: -3638071521550751345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 48
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72791260e49e9add0800000000000000
+      internalID: -2474189998943791321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 78
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a644e9fa7676a0800000000000000
+      internalID: -6451834202466376160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 94
+        width: 56
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40796afd8589db40800000000000000
+      internalID: 5465546467628904526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 94
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58600260b80afb1c0800000000000000
+      internalID: -4485690184874064251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 94
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051dcb4588cf1e590800000000000000
+      internalID: -7646553029830979248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 30
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0749d78a2ed3510800000000000000
+      internalID: 1530628661665099961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 94
+        width: 40
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14035088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d25c84ba9bbbea0800000000000000
+      internalID: -5855882745153770163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 94
+        width: 52
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d9f437c0ffd280800000000000000
+      internalID: -9016223190594496210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyMan_32
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 94
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885c293b6b9bc790800000000000000
+      internalID: -7508737068887156598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HolyMan_0: 2723182676199125112
+      HolyMan_1: -7487539942027471014
+      HolyMan_10: 5468949534039039500
+      HolyMan_11: 5245999174503981144
+      HolyMan_12: -1198419485994699808
+      HolyMan_13: 3483032334584505508
+      HolyMan_14: 5644306493116634
+      HolyMan_15: 231297088429682403
+      HolyMan_16: -5227567968899313948
+      HolyMan_17: 4279480982192456883
+      HolyMan_18: 2388829795669700500
+      HolyMan_19: 125535203512581189
+      HolyMan_2: 3066903323829982652
+      HolyMan_20: -3015671590430189454
+      HolyMan_21: 8946134517351513553
+      HolyMan_22: -3661691313405406571
+      HolyMan_23: -3638071521550751345
+      HolyMan_24: -2474189998943791321
+      HolyMan_25: -6451834202466376160
+      HolyMan_26: 5465546467628904526
+      HolyMan_27: -4485690184874064251
+      HolyMan_28: -7646553029830979248
+      HolyMan_29: 1530628661665099961
+      HolyMan_3: -8733467676699229276
+      HolyMan_30: -5855882745153770163
+      HolyMan_31: -9016223190594496210
+      HolyMan_32: -7508737068887156598
+      HolyMan_4: 5713469265781079976
+      HolyMan_5: 8184777643430695882
+      HolyMan_6: 5444167997259718651
+      HolyMan_7: 2410954899634994140
+      HolyMan_8: -639678861109574996
+      HolyMan_9: 4586993365614575298
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

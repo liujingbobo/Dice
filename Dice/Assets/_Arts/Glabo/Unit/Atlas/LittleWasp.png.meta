@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 10656f1d910ff164d9674f583109f2f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1174611882237210212
+    second: LittleWasp_0
+  - first:
+      213: 7892804692479303529
+    second: LittleWasp_1
+  - first:
+      213: -8251414465701199586
+    second: LittleWasp_2
+  - first:
+      213: -6809435182657248006
+    second: LittleWasp_3
+  - first:
+      213: -7383880037869350053
+    second: LittleWasp_4
+  - first:
+      213: 8082027515784788083
+    second: LittleWasp_5
+  - first:
+      213: -1187688216691134767
+    second: LittleWasp_6
+  - first:
+      213: 5976820966513649789
+    second: LittleWasp_7
+  - first:
+      213: 3008060021559704362
+    second: LittleWasp_8
+  - first:
+      213: -1855667351440260847
+    second: LittleWasp_9
+  - first:
+      213: -2040456215657646090
+    second: LittleWasp_10
+  - first:
+      213: 8702267301878750709
+    second: LittleWasp_11
+  - first:
+      213: -927768321439489395
+    second: LittleWasp_12
+  - first:
+      213: -8766108523485899947
+    second: LittleWasp_13
+  - first:
+      213: -6752680235055120062
+    second: LittleWasp_14
+  - first:
+      213: -7854322087132726519
+    second: LittleWasp_15
+  - first:
+      213: -5214007241765483285
+    second: LittleWasp_16
+  - first:
+      213: 6342554750351975766
+    second: LittleWasp_17
+  - first:
+      213: -2957635212990063663
+    second: LittleWasp_18
+  - first:
+      213: 4375499841492892863
+    second: LittleWasp_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleWasp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea3b5984f0d4010800000000000000
+      internalID: 1174611882237210212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 49
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd3c8cc00e88d60800000000000000
+      internalID: 7892804692479303529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114c55e2461d7d80800000000000000
+      internalID: -8251414465701199586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 49
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4eaa087c60081a0800000000000000
+      internalID: -6809435182657248006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5313be1a30378990800000000000000
+      internalID: -7383880037869350053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f8478431292070800000000000000
+      internalID: 8082027515784788083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de253c0cdb748fe0800000000000000
+      internalID: -1187688216691134767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782723a00fe1f250800000000000000
+      internalID: 5976820966513649789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bbe18f6a6ceb920800000000000000
+      internalID: 3008060021559704362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.48, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110d1820685f36e0800000000000000
+      internalID: -1855667351440260847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7fcf5f1e7dea3e0800000000000000
+      internalID: -2040456215657646090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 92
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fddaf4210aa4c870800000000000000
+      internalID: 8702267301878750709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.20454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822dbe80a7ef13f0800000000000000
+      internalID: -927768321439489395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 92
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55359132eb6885680800000000000000
+      internalID: -8766108523485899947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 92
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410dbb7a19a942a0800000000000000
+      internalID: -6752680235055120062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf2fcfca7dff290800000000000000
+      internalID: -7854322087132726519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 137
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec0142e90024a7b0800000000000000
+      internalID: -5214007241765483285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655223fe0f7450850800000000000000
+      internalID: 6342554750351975766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleWasp_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db5a8aa17e54f6d0800000000000000
+      internalID: -2957635212990063663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LittleWasp_0: 1174611882237210212
+      LittleWasp_1: 7892804692479303529
+      LittleWasp_10: -2040456215657646090
+      LittleWasp_11: 8702267301878750709
+      LittleWasp_12: -927768321439489395
+      LittleWasp_13: -8766108523485899947
+      LittleWasp_14: -6752680235055120062
+      LittleWasp_15: -7854322087132726519
+      LittleWasp_16: -5214007241765483285
+      LittleWasp_17: 6342554750351975766
+      LittleWasp_18: -2957635212990063663
+      LittleWasp_2: -8251414465701199586
+      LittleWasp_3: -6809435182657248006
+      LittleWasp_4: -7383880037869350053
+      LittleWasp_5: 8082027515784788083
+      LittleWasp_6: -1187688216691134767
+      LittleWasp_7: 5976820966513649789
+      LittleWasp_8: 3008060021559704362
+      LittleWasp_9: -1855667351440260847
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

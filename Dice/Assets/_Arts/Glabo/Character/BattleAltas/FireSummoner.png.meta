@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 7a361241a7e6a3c4aaabe54c07b9ff7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8395101885958834936
+    second: FireSummoner_0
+  - first:
+      213: 3543356529364787573
+    second: FireSummoner_1
+  - first:
+      213: 7495677059065577879
+    second: FireSummoner_2
+  - first:
+      213: -5178982232440970151
+    second: FireSummoner_3
+  - first:
+      213: 968197514552725966
+    second: FireSummoner_4
+  - first:
+      213: -4434019190534563309
+    second: FireSummoner_5
+  - first:
+      213: 2929390839877797666
+    second: FireSummoner_6
+  - first:
+      213: -3668195855068999054
+    second: FireSummoner_7
+  - first:
+      213: 5372869966549753634
+    second: FireSummoner_8
+  - first:
+      213: -4723722134447385393
+    second: FireSummoner_9
+  - first:
+      213: 609863559276860460
+    second: FireSummoner_10
+  - first:
+      213: -9011766653119076814
+    second: FireSummoner_11
+  - first:
+      213: -7078992375460067625
+    second: FireSummoner_12
+  - first:
+      213: 3875853254820096957
+    second: FireSummoner_13
+  - first:
+      213: -7343192109610263965
+    second: FireSummoner_14
+  - first:
+      213: 2188591422480114253
+    second: FireSummoner_15
+  - first:
+      213: 3919171063977358864
+    second: FireSummoner_16
+  - first:
+      213: 6886386389190419781
+    second: FireSummoner_17
+  - first:
+      213: 8752272674596591779
+    second: FireSummoner_18
+  - first:
+      213: -5521922299535024594
+    second: FireSummoner_19
+  - first:
+      213: 2095966478978234080
+    second: FireSummoner_20
+  - first:
+      213: 9029633759250044965
+    second: FireSummoner_21
+  - first:
+      213: -5055129684622250635
+    second: FireSummoner_22
+  - first:
+      213: 953760817842631257
+    second: FireSummoner_23
+  - first:
+      213: -3262361124823260514
+    second: FireSummoner_24
+  - first:
+      213: -7971268512375926048
+    second: FireSummoner_25
+  - first:
+      213: 8743253657239355033
+    second: FireSummoner_26
+  - first:
+      213: -4541537343627946670
+    second: FireSummoner_27
+  - first:
+      213: 913510448233011316
+    second: FireSummoner_28
+  - first:
+      213: -636658001240064393
+    second: FireSummoner_29
+  - first:
+      213: 708910053936233313
+    second: FireSummoner_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSummoner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805363a505b9e7b80800000000000000
+      internalID: -8395101885958834936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571695d6df78c2130800000000000000
+      internalID: 3543356529364787573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79106a8429ef50860800000000000000
+      internalID: 7495677059065577879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954eb49591f8028b0800000000000000
+      internalID: -5178982232440970151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d45f728abf6d00800000000000000
+      internalID: 968197514552725966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a1ce4e9033772c0800000000000000
+      internalID: -4434019190534563309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270333c27947a820800000000000000
+      internalID: 2929390839877797666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725d040e43f71dc0800000000000000
+      internalID: -3668195855068999054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f109494c4409a40800000000000000
+      internalID: 5372869966549753634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41d9efeb7f17eb0800000000000000
+      internalID: -4723722134447385393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24172c0daba67800800000000000000
+      internalID: 609863559276860460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2366022b9f5cfe280800000000000000
+      internalID: -9011766653119076814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6010dc0fd52cd90800000000000000
+      internalID: -7078992375460067625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbe717000cc9c530800000000000000
+      internalID: 3875853254820096957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9a35aeadb71a90800000000000000
+      internalID: -7343192109610263965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e4679d407f5e10800000000000000
+      internalID: 2188591422480114253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 39
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163c5a6151b36630800000000000000
+      internalID: 3919171063977358864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a7c17feb519f50800000000000000
+      internalID: 6886386389190419781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 77
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a810b240a1567970800000000000000
+      internalID: 8752272674596591779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e18eacce03e53b0800000000000000
+      internalID: -5521922299535024594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 77
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bf90686e561d10800000000000000
+      internalID: 2095966478978234080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 77
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52859ff1014bf4d70800000000000000
+      internalID: 9029633759250044965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dee86c55298d9b0800000000000000
+      internalID: -5055129684622250635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 78
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952323c19607c3d00800000000000000
+      internalID: 953760817842631257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 56
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92add977d3c9b2d0800000000000000
+      internalID: -3262361124823260514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3220339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29396858d506190800000000000000
+      internalID: -7971268512375926048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef2e4a0e6465970800000000000000
+      internalID: 8743253657239355033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 30
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25592ea19d739f0c0800000000000000
+      internalID: -4541537343627946670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 40
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14035088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785985a9e07dac00800000000000000
+      internalID: 913510448233011316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 52
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77efca8cbe22a27f0800000000000000
+      internalID: -636658001240064393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSummoner_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 176
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b729620fd86d900800000000000000
+      internalID: 708910053936233313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireSummoner_0: -8395101885958834936
+      FireSummoner_1: 3543356529364787573
+      FireSummoner_10: 609863559276860460
+      FireSummoner_11: -9011766653119076814
+      FireSummoner_12: -7078992375460067625
+      FireSummoner_13: 3875853254820096957
+      FireSummoner_14: -7343192109610263965
+      FireSummoner_15: 2188591422480114253
+      FireSummoner_16: 3919171063977358864
+      FireSummoner_17: 6886386389190419781
+      FireSummoner_18: 8752272674596591779
+      FireSummoner_19: -5521922299535024594
+      FireSummoner_2: 7495677059065577879
+      FireSummoner_20: 2095966478978234080
+      FireSummoner_21: 9029633759250044965
+      FireSummoner_22: -5055129684622250635
+      FireSummoner_23: 953760817842631257
+      FireSummoner_24: -3262361124823260514
+      FireSummoner_25: -7971268512375926048
+      FireSummoner_26: 8743253657239355033
+      FireSummoner_27: -4541537343627946670
+      FireSummoner_28: 913510448233011316
+      FireSummoner_29: -636658001240064393
+      FireSummoner_3: -5178982232440970151
+      FireSummoner_30: 708910053936233313
+      FireSummoner_4: 968197514552725966
+      FireSummoner_5: -4434019190534563309
+      FireSummoner_6: 2929390839877797666
+      FireSummoner_7: -3668195855068999054
+      FireSummoner_8: 5372869966549753634
+      FireSummoner_9: -4723722134447385393
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

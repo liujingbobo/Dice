@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: a843e614e7927b74f85987c18c125199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5328703866129825779
+    second: GloomyGhost_0
+  - first:
+      213: -3506621126385773839
+    second: GloomyGhost_1
+  - first:
+      213: -3911201325719313754
+    second: GloomyGhost_2
+  - first:
+      213: -6629775916535725381
+    second: GloomyGhost_3
+  - first:
+      213: 6156954175620416133
+    second: GloomyGhost_4
+  - first:
+      213: -3493103433940708537
+    second: GloomyGhost_5
+  - first:
+      213: -8518585023752755970
+    second: GloomyGhost_6
+  - first:
+      213: -7512216266828091041
+    second: GloomyGhost_7
+  - first:
+      213: -4870626565259504778
+    second: GloomyGhost_8
+  - first:
+      213: -1267035591609415822
+    second: GloomyGhost_9
+  - first:
+      213: -7698395447019325106
+    second: GloomyGhost_10
+  - first:
+      213: -5395205329999619540
+    second: GloomyGhost_11
+  - first:
+      213: -8494797657248494023
+    second: GloomyGhost_12
+  - first:
+      213: 3005770705382260196
+    second: GloomyGhost_13
+  - first:
+      213: 5491381882080540475
+    second: GloomyGhost_14
+  - first:
+      213: -67260408723347947
+    second: GloomyGhost_15
+  - first:
+      213: -925991530377058215
+    second: GloomyGhost_16
+  - first:
+      213: -1788042213012767688
+    second: GloomyGhost_17
+  - first:
+      213: 8012587579482133932
+    second: GloomyGhost_18
+  - first:
+      213: 6024535312364346436
+    second: GloomyGhost_19
+  - first:
+      213: -8068688427616613417
+    second: GloomyGhost_20
+  - first:
+      213: -5568992056023220436
+    second: GloomyGhost_21
+  - first:
+      213: 467748966279544748
+    second: GloomyGhost_22
+  - first:
+      213: -4302364078659624235
+    second: GloomyGhost_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GloomyGhost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c4120114ac06b0800000000000000
+      internalID: -5328703866129825779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f255e71aaaf55fc0800000000000000
+      internalID: -3506621126385773839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a67fdd1f98b9c0800000000000000
+      internalID: -3911201325719313754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c2721eed4ef3a0800000000000000
+      internalID: -6629775916535725381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828638a335e17550800000000000000
+      internalID: 6156954175620416133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74354402fe0068fc0800000000000000
+      internalID: -3493103433940708537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42146ed08e7c980800000000000000
+      internalID: -8518585023752755970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51fcc35b1f3fb790800000000000000
+      internalID: -7512216266828091041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735020d1fe086cb0800000000000000
+      internalID: -4870626565259504778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277085ca7d59a6ee0800000000000000
+      internalID: -1267035591609415822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49bde7f02ec92590800000000000000
+      internalID: -7698395447019325106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a141f56516025b0800000000000000
+      internalID: -5395205329999619540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e02e0c98a6c1a80800000000000000
+      internalID: -8494797657248494023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 42
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edb5920884a6b920800000000000000
+      internalID: 3005770705382260196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373d672abe453c40800000000000000
+      internalID: 5491381882080540475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e89eb30b011ff0800000000000000
+      internalID: -67260408723347947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ead6fb973623f0800000000000000
+      internalID: -925991530377058215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c78f9a4199f27e0800000000000000
+      internalID: -1788042213012767688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55db673fd623f60800000000000000
+      internalID: 8012587579482133932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c164e72f27b9350800000000000000
+      internalID: 6024535312364346436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db4b94ff92460090800000000000000
+      internalID: -8068688427616613417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f73c71b37f6b2b0800000000000000
+      internalID: -5568992056023220436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff523e437cd7600800000000000000
+      internalID: 467748966279544748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GloomyGhost_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2a7155aaeea44c0800000000000000
+      internalID: -4302364078659624235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GloomyGhost_0: -5328703866129825779
+      GloomyGhost_1: -3506621126385773839
+      GloomyGhost_10: -7698395447019325106
+      GloomyGhost_11: -5395205329999619540
+      GloomyGhost_12: -8494797657248494023
+      GloomyGhost_13: 3005770705382260196
+      GloomyGhost_14: 5491381882080540475
+      GloomyGhost_15: -67260408723347947
+      GloomyGhost_16: -925991530377058215
+      GloomyGhost_17: -1788042213012767688
+      GloomyGhost_18: 8012587579482133932
+      GloomyGhost_19: 6024535312364346436
+      GloomyGhost_2: -3911201325719313754
+      GloomyGhost_20: -8068688427616613417
+      GloomyGhost_21: -5568992056023220436
+      GloomyGhost_22: 467748966279544748
+      GloomyGhost_23: -4302364078659624235
+      GloomyGhost_3: -6629775916535725381
+      GloomyGhost_4: 6156954175620416133
+      GloomyGhost_5: -3493103433940708537
+      GloomyGhost_6: -8518585023752755970
+      GloomyGhost_7: -7512216266828091041
+      GloomyGhost_8: -4870626565259504778
+      GloomyGhost_9: -1267035591609415822
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

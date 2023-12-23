@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: bf654070a60193e41a4cc3935da86e96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1199612945247384199
+    second: SilverGlabo_0
+  - first:
+      213: -5568065251151963559
+    second: SilverGlabo_1
+  - first:
+      213: 2894009016722395655
+    second: SilverGlabo_2
+  - first:
+      213: 8049029196011608624
+    second: SilverGlabo_3
+  - first:
+      213: -7727824755887157924
+    second: SilverGlabo_4
+  - first:
+      213: 6863067534177564812
+    second: SilverGlabo_5
+  - first:
+      213: 7237050668488597164
+    second: SilverGlabo_6
+  - first:
+      213: -47676972173534254
+    second: SilverGlabo_7
+  - first:
+      213: 6787188617839783365
+    second: SilverGlabo_8
+  - first:
+      213: 8857230855138181086
+    second: SilverGlabo_9
+  - first:
+      213: 8951754939703003784
+    second: SilverGlabo_10
+  - first:
+      213: 6026954252532511567
+    second: SilverGlabo_11
+  - first:
+      213: 8455612860386391154
+    second: SilverGlabo_12
+  - first:
+      213: -496135036686087643
+    second: SilverGlabo_13
+  - first:
+      213: 6218085878366242516
+    second: SilverGlabo_14
+  - first:
+      213: -8944939059651840165
+    second: SilverGlabo_15
+  - first:
+      213: 4135913073279882896
+    second: SilverGlabo_16
+  - first:
+      213: -8838939112302766892
+    second: SilverGlabo_17
+  - first:
+      213: 1112074539032185885
+    second: SilverGlabo_18
+  - first:
+      213: -5604038893885875034
+    second: SilverGlabo_19
+  - first:
+      213: -7431964626904924608
+    second: SilverGlabo_20
+  - first:
+      213: -1953950727562569547
+    second: SilverGlabo_21
+  - first:
+      213: 5642116561662065300
+    second: SilverGlabo_22
+  - first:
+      213: 3374100991504219016
+    second: SilverGlabo_23
+  - first:
+      213: 642796133749423772
+    second: SilverGlabo_24
+  - first:
+      213: 5646162138885732765
+    second: SilverGlabo_25
+  - first:
+      213: -6979071648698547943
+    second: SilverGlabo_26
+  - first:
+      213: -6721741993476090922
+    second: SilverGlabo_27
+  - first:
+      213: -3131383674801508700
+    second: SilverGlabo_28
+  - first:
+      213: 8534980580440407891
+    second: SilverGlabo_29
+  - first:
+      213: 1348422664418283165
+    second: SilverGlabo_30
+  - first:
+      213: -967063257206917921
+    second: SilverGlabo_31
+  - first:
+      213: -768124561700388586
+    second: SilverGlabo_32
+  - first:
+      213: 2523964575992296988
+    second: SilverGlabo_33
+  - first:
+      213: -3691243612215850136
+    second: SilverGlabo_34
+  - first:
+      213: -1122006034671066441
+    second: SilverGlabo_35
+  - first:
+      213: -7538896038776440367
+    second: SilverGlabo_36
+  - first:
+      213: -3517170520005659586
+    second: SilverGlabo_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SilverGlabo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dc192d16e1a5fe0800000000000000
+      internalID: -1199612945247384199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a14eaa7224ab2b0800000000000000
+      internalID: -5568065251151963559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702148a1ed5992820800000000000000
+      internalID: 2894009016722395655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a150f7865e3bf60800000000000000
+      internalID: 8049029196011608624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d40ea045041c490800000000000000
+      internalID: -7727824755887157924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c887b2c6f838e3f50800000000000000
+      internalID: 6863067534177564812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae14cc4d3b2f6460800000000000000
+      internalID: 7237050668488597164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db51a1eb0e965ff0800000000000000
+      internalID: -47676972173534254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2aed7610f03e50800000000000000
+      internalID: 6787188617839783365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edff32ef8843bea70800000000000000
+      internalID: 8857230855138181086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a885170b50b3c70800000000000000
+      internalID: 8951754939703003784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43fab3e5fa04a350800000000000000
+      internalID: 6026954252532511567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2743e85c81f585570800000000000000
+      internalID: 8455612860386391154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a43b110df5d19f0800000000000000
+      internalID: -496135036686087643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d684ea59241b4650800000000000000
+      internalID: 6218085878366242516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577feb41513dd380800000000000000
+      internalID: -8944939059651840165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096ddb2f607b56930800000000000000
+      internalID: 4135913073279882896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d413e345b7c55580800000000000000
+      internalID: -8838939112302766892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c05c6b6e1ee6f00800000000000000
+      internalID: 1112074539032185885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac957641547a32b0800000000000000
+      internalID: -5604038893885875034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e301e4c8b5cd890800000000000000
+      internalID: -7431964626904924608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8540f6a2c22e4e0800000000000000
+      internalID: -1953950727562569547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a373f9e13dc4e40800000000000000
+      internalID: 5642116561662065300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49090907, y: 0.19607843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bf6ea99f633de20800000000000000
+      internalID: 3374100991504219016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef02f8dababe800800000000000000
+      internalID: 642796133749423772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d993b88fc823b5e40800000000000000
+      internalID: 5646162138885732765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c25def4b552f90800000000000000
+      internalID: -6979071648698547943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3180f254397b2a0800000000000000
+      internalID: -6721741993476090922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeaff773271b84d0800000000000000
+      internalID: -3131383674801508700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff10e1e97527670800000000000000
+      internalID: 8534980580440407891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eccbfd44f86b210800000000000000
+      internalID: 1348422664418283165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd479de571d4492f0800000000000000
+      internalID: -967063257206917921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118894e7c21755f0800000000000000
+      internalID: -768124561700388586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 151
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b0b9c86ce60320800000000000000
+      internalID: 2523964575992296988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bc172ed7116ccc0800000000000000
+      internalID: -3691243612215850136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 184
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22693c475dd60f0800000000000000
+      internalID: -1122006034671066441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 184
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9712adef5706790800000000000000
+      internalID: -7538896038776440367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverGlabo_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 184
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34369cfb00803fc0800000000000000
+      internalID: -3517170520005659586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SilverGlabo_0: -1199612945247384199
+      SilverGlabo_1: -5568065251151963559
+      SilverGlabo_10: 8951754939703003784
+      SilverGlabo_11: 6026954252532511567
+      SilverGlabo_12: 8455612860386391154
+      SilverGlabo_13: -496135036686087643
+      SilverGlabo_14: 6218085878366242516
+      SilverGlabo_15: -8944939059651840165
+      SilverGlabo_16: 4135913073279882896
+      SilverGlabo_17: -8838939112302766892
+      SilverGlabo_18: 1112074539032185885
+      SilverGlabo_19: -5604038893885875034
+      SilverGlabo_2: 2894009016722395655
+      SilverGlabo_20: -7431964626904924608
+      SilverGlabo_21: -1953950727562569547
+      SilverGlabo_22: 5642116561662065300
+      SilverGlabo_23: 3374100991504219016
+      SilverGlabo_24: 642796133749423772
+      SilverGlabo_25: 5646162138885732765
+      SilverGlabo_26: -6979071648698547943
+      SilverGlabo_27: -6721741993476090922
+      SilverGlabo_28: -3131383674801508700
+      SilverGlabo_29: 8534980580440407891
+      SilverGlabo_3: 8049029196011608624
+      SilverGlabo_30: 1348422664418283165
+      SilverGlabo_31: -967063257206917921
+      SilverGlabo_32: -768124561700388586
+      SilverGlabo_33: 2523964575992296988
+      SilverGlabo_34: -3691243612215850136
+      SilverGlabo_35: -1122006034671066441
+      SilverGlabo_36: -7538896038776440367
+      SilverGlabo_37: -3517170520005659586
+      SilverGlabo_4: -7727824755887157924
+      SilverGlabo_5: 6863067534177564812
+      SilverGlabo_6: 7237050668488597164
+      SilverGlabo_7: -47676972173534254
+      SilverGlabo_8: 6787188617839783365
+      SilverGlabo_9: 8857230855138181086
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

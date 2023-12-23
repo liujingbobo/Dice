@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: f4807da8c65270b48a8799cec5c25f0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7996812950485790836
+    second: IceLavaBeast_0
+  - first:
+      213: -81711090075114103
+    second: IceLavaBeast_1
+  - first:
+      213: 2700085483182098198
+    second: IceLavaBeast_2
+  - first:
+      213: -4517448808824240438
+    second: IceLavaBeast_3
+  - first:
+      213: -3813615655021125381
+    second: IceLavaBeast_4
+  - first:
+      213: -4060772758385314770
+    second: IceLavaBeast_5
+  - first:
+      213: 4579895714488108291
+    second: IceLavaBeast_6
+  - first:
+      213: -4326125059930180813
+    second: IceLavaBeast_7
+  - first:
+      213: 8394548689618078802
+    second: IceLavaBeast_8
+  - first:
+      213: -5873737242881331749
+    second: IceLavaBeast_9
+  - first:
+      213: 2671310795585064796
+    second: IceLavaBeast_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceLavaBeast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f0d0f8dfc950190800000000000000
+      internalID: -7996812950485790836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.27272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ecdd4234bddef0800000000000000
+      internalID: -81711090075114103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.25454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170248f071a87520800000000000000
+      internalID: 2700085483182098198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6050b2e3cce41c0800000000000000
+      internalID: -4517448808824240438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 61
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.2264151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0e89464c0531bc0800000000000000
+      internalID: -3813615655021125381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 61
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.24528302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243cdee0bc35a7c0800000000000000
+      internalID: -4060772758385314770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 57
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c56213ee0f8f30800000000000000
+      internalID: 4579895714488108291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 56
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.24074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33332f4cd2486f3c0800000000000000
+      internalID: -4326125059930180813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c08669e8d6f7470800000000000000
+      internalID: 8394548689618078802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49090907, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd6316191b4c7ea0800000000000000
+      internalID: -5873737242881331749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLavaBeast_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.26415095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f838fe307621520800000000000000
+      internalID: 2671310795585064796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IceLavaBeast_0: -7996812950485790836
+      IceLavaBeast_1: -81711090075114103
+      IceLavaBeast_10: 2671310795585064796
+      IceLavaBeast_2: 2700085483182098198
+      IceLavaBeast_3: -4517448808824240438
+      IceLavaBeast_4: -3813615655021125381
+      IceLavaBeast_5: -4060772758385314770
+      IceLavaBeast_6: 4579895714488108291
+      IceLavaBeast_7: -4326125059930180813
+      IceLavaBeast_8: 8394548689618078802
+      IceLavaBeast_9: -5873737242881331749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

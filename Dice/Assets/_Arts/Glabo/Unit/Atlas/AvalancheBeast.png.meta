@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 5736e9ab4ba03044eba724ba2d30d3ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6621776482065950834
+    second: AvalancheBeast_0
+  - first:
+      213: -2439287380816609197
+    second: AvalancheBeast_1
+  - first:
+      213: 7570214612357890504
+    second: AvalancheBeast_2
+  - first:
+      213: 691980270983428400
+    second: AvalancheBeast_3
+  - first:
+      213: 8697303587002584744
+    second: AvalancheBeast_4
+  - first:
+      213: -6174845948255299382
+    second: AvalancheBeast_5
+  - first:
+      213: -4564786184031290687
+    second: AvalancheBeast_6
+  - first:
+      213: -8594438592924280540
+    second: AvalancheBeast_7
+  - first:
+      213: 8506625545690134148
+    second: AvalancheBeast_8
+  - first:
+      213: 6379911020060640931
+    second: AvalancheBeast_9
+  - first:
+      213: -7450841178472214318
+    second: AvalancheBeast_10
+  - first:
+      213: -2808504483854165098
+    second: AvalancheBeast_11
+  - first:
+      213: 2352686551849007934
+    second: AvalancheBeast_12
+  - first:
+      213: -4661468101623203114
+    second: AvalancheBeast_13
+  - first:
+      213: -8474043514531305964
+    second: AvalancheBeast_14
+  - first:
+      213: 1465326476229892655
+    second: AvalancheBeast_15
+  - first:
+      213: 7049584490518984437
+    second: AvalancheBeast_16
+  - first:
+      213: 5352674028783623237
+    second: AvalancheBeast_17
+  - first:
+      213: -1136983442906474084
+    second: AvalancheBeast_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvalancheBeast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a39370a645eb50800000000000000
+      internalID: 6621776482065950834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35045511d09e52ed0800000000000000
+      internalID: -2439287380816609197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1401bc41ece0960800000000000000
+      internalID: 7570214612357890504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039bb83e3686a9900800000000000000
+      internalID: 691980270983428400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0507388703b870800000000000000
+      internalID: 8697303587002584744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac89b77635a8e4aa0800000000000000
+      internalID: -6174845948255299382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3431a62f96a0c0800000000000000
+      internalID: -4564786184031290687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 51
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42917d092ab6ab880800000000000000
+      internalID: -8594438592924280540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486bf102dda9d0670800000000000000
+      internalID: 8506625545690134148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 51
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a68051454ff98850800000000000000
+      internalID: 6379911020060640931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 51
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d09f47ac6b499890800000000000000
+      internalID: -7450841178472214318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 51
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd7c15d003609d0800000000000000
+      internalID: -2808504483854165098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7cce24fb66a020800000000000000
+      internalID: 2352686551849007934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3fe685732f4fb0800000000000000
+      internalID: -4661468101623203114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a8292256266a80800000000000000
+      internalID: -8474043514531305964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a58af9aa2e55410800000000000000
+      internalID: 1465326476229892655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6bc7b6eb725d160800000000000000
+      internalID: 7049584490518984437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 102
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5b146ba4884a40800000000000000
+      internalID: 5352674028783623237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvalancheBeast_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c991f0a259f9830f0800000000000000
+      internalID: -1136983442906474084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AvalancheBeast_0: 6621776482065950834
+      AvalancheBeast_1: -2439287380816609197
+      AvalancheBeast_10: -7450841178472214318
+      AvalancheBeast_11: -2808504483854165098
+      AvalancheBeast_12: 2352686551849007934
+      AvalancheBeast_13: -4661468101623203114
+      AvalancheBeast_14: -8474043514531305964
+      AvalancheBeast_15: 1465326476229892655
+      AvalancheBeast_16: 7049584490518984437
+      AvalancheBeast_17: 5352674028783623237
+      AvalancheBeast_18: -1136983442906474084
+      AvalancheBeast_2: 7570214612357890504
+      AvalancheBeast_3: 691980270983428400
+      AvalancheBeast_4: 8697303587002584744
+      AvalancheBeast_5: -6174845948255299382
+      AvalancheBeast_6: -4564786184031290687
+      AvalancheBeast_7: -8594438592924280540
+      AvalancheBeast_8: 8506625545690134148
+      AvalancheBeast_9: 6379911020060640931
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

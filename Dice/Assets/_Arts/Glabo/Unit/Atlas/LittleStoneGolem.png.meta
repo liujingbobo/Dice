@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 3cdca05165bdd284e92b3c4111ede7ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5795556521293936959
+    second: LittleStoneGolem_0
+  - first:
+      213: 2427205251224374150
+    second: LittleStoneGolem_1
+  - first:
+      213: -1794819091949217944
+    second: LittleStoneGolem_2
+  - first:
+      213: 726598383416447359
+    second: LittleStoneGolem_3
+  - first:
+      213: 65914955995763796
+    second: LittleStoneGolem_4
+  - first:
+      213: -114636858677935166
+    second: LittleStoneGolem_5
+  - first:
+      213: -6269893700449360136
+    second: LittleStoneGolem_6
+  - first:
+      213: 6586163989144240621
+    second: LittleStoneGolem_7
+  - first:
+      213: -4288960414525504672
+    second: LittleStoneGolem_8
+  - first:
+      213: 6506421327653210345
+    second: LittleStoneGolem_9
+  - first:
+      213: -4714780239280881037
+    second: LittleStoneGolem_10
+  - first:
+      213: 7668136152654162706
+    second: LittleStoneGolem_11
+  - first:
+      213: -4866912098402893433
+    second: LittleStoneGolem_12
+  - first:
+      213: -994041483802310508
+    second: LittleStoneGolem_13
+  - first:
+      213: -359253006661518519
+    second: LittleStoneGolem_14
+  - first:
+      213: -6654904566377580554
+    second: LittleStoneGolem_15
+  - first:
+      213: -2795347729117988927
+    second: LittleStoneGolem_16
+  - first:
+      213: 855187880954096619
+    second: LittleStoneGolem_17
+  - first:
+      213: 1191675052297634128
+    second: LittleStoneGolem_18
+  - first:
+      213: -932200944408822673
+    second: LittleStoneGolem_19
+  - first:
+      213: -5180345040822822349
+    second: LittleStoneGolem_20
+  - first:
+      213: 5730117387699286757
+    second: LittleStoneGolem_21
+  - first:
+      213: -6211526180442647747
+    second: LittleStoneGolem_22
+  - first:
+      213: -6841496495271699292
+    second: LittleStoneGolem_23
+  - first:
+      213: -3509363143267109453
+    second: LittleStoneGolem_24
+  - first:
+      213: 5866370432334152130
+    second: LittleStoneGolem_25
+  - first:
+      213: -4243326069237217152
+    second: LittleStoneGolem_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleStoneGolem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f397c6f23f3fd6050800000000000000
+      internalID: 5795556521293936959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b013ce05a2fa120800000000000000
+      internalID: 2427205251224374150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86717449b858717e0800000000000000
+      internalID: -1794819091949217944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7119e94165651a00800000000000000
+      internalID: 726598383416447359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4545381ad4d2ae000800000000000000
+      internalID: 65914955995763796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c558626ab86ef0800000000000000
+      internalID: -114636858677935166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a14516ecdcf8a0800000000000000
+      internalID: -6269893700449360136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1896dc041c66b50800000000000000
+      internalID: 6586163989144240621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063ce741a3d8a74c0800000000000000
+      internalID: -4288960414525504672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88bc999b37b4a50800000000000000
+      internalID: 6506421327653210345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c1a33a5cb19eb0800000000000000
+      internalID: -4714780239280881037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b284c0431ba6a60800000000000000
+      internalID: 7668136152654162706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78105a58b31457cb0800000000000000
+      internalID: -4866912098402893433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49806f189847432f0800000000000000
+      internalID: -994041483802310508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf2793b4da30bf0800000000000000
+      internalID: -359253006661518519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 68
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f770fa5e8705a3a0800000000000000
+      internalID: -6654904566377580554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 68
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c73a3efc0ee439d0800000000000000
+      internalID: -2795347729117988927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 68
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebec74c8dc3edb00800000000000000
+      internalID: 855187880954096619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05145e3752ea98010800000000000000
+      internalID: 1191675052297634128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c7a391e282013f0800000000000000
+      internalID: -932200944408822673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9ccbc1a7bb18b0800000000000000
+      internalID: -5180345040822822349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2fa179767758f40800000000000000
+      internalID: 5730117387699286757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 104
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335da559d93cc9a0800000000000000
+      internalID: -6211526180442647747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac10437f2f1e01a0800000000000000
+      internalID: -6841496495271699292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b537b980dc3c4fc0800000000000000
+      internalID: -3509363143267109453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 104
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c12ca3d8896150800000000000000
+      internalID: 5866370432334152130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleStoneGolem_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 104
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08806f01c6dac15c0800000000000000
+      internalID: -4243326069237217152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LittleStoneGolem_0: 5795556521293936959
+      LittleStoneGolem_1: 2427205251224374150
+      LittleStoneGolem_10: -4714780239280881037
+      LittleStoneGolem_11: 7668136152654162706
+      LittleStoneGolem_12: -4866912098402893433
+      LittleStoneGolem_13: -994041483802310508
+      LittleStoneGolem_14: -359253006661518519
+      LittleStoneGolem_15: -6654904566377580554
+      LittleStoneGolem_16: -2795347729117988927
+      LittleStoneGolem_17: 855187880954096619
+      LittleStoneGolem_18: 1191675052297634128
+      LittleStoneGolem_19: -932200944408822673
+      LittleStoneGolem_2: -1794819091949217944
+      LittleStoneGolem_20: -5180345040822822349
+      LittleStoneGolem_21: 5730117387699286757
+      LittleStoneGolem_22: -6211526180442647747
+      LittleStoneGolem_23: -6841496495271699292
+      LittleStoneGolem_24: -3509363143267109453
+      LittleStoneGolem_25: 5866370432334152130
+      LittleStoneGolem_26: -4243326069237217152
+      LittleStoneGolem_3: 726598383416447359
+      LittleStoneGolem_4: 65914955995763796
+      LittleStoneGolem_5: -114636858677935166
+      LittleStoneGolem_6: -6269893700449360136
+      LittleStoneGolem_7: 6586163989144240621
+      LittleStoneGolem_8: -4288960414525504672
+      LittleStoneGolem_9: 6506421327653210345
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

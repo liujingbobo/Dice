@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 6580e83dcdf670840b5579fe74201ac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4470233632984362236
+    second: PetStatue_0
+  - first:
+      213: 5142851366765295772
+    second: PetStatue_1
+  - first:
+      213: -8610268460912726273
+    second: PetStatue_2
+  - first:
+      213: 5693110345559691067
+    second: PetStatue_3
+  - first:
+      213: 2826317452073285443
+    second: PetStatue_4
+  - first:
+      213: -2015073310366201265
+    second: PetStatue_5
+  - first:
+      213: 6438494044837611804
+    second: PetStatue_6
+  - first:
+      213: 2449189384117044406
+    second: PetStatue_7
+  - first:
+      213: -1823712927985235245
+    second: PetStatue_8
+  - first:
+      213: -5375555022713231769
+    second: PetStatue_9
+  - first:
+      213: 7908920498423988600
+    second: PetStatue_10
+  - first:
+      213: 8267809977349307129
+    second: PetStatue_11
+  - first:
+      213: 8217523208737204613
+    second: PetStatue_12
+  - first:
+      213: 7053892717031156994
+    second: PetStatue_13
+  - first:
+      213: 8725369076452047594
+    second: PetStatue_14
+  - first:
+      213: -9104302703788286285
+    second: PetStatue_15
+  - first:
+      213: -3821172534167355571
+    second: PetStatue_16
+  - first:
+      213: 2770770395610850549
+    second: PetStatue_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PetStatue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc690d0ec5790e30800000000000000
+      internalID: 4470233632984362236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987da0f1141f5740800000000000000
+      internalID: 5142851366765295772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2c86347e228880800000000000000
+      internalID: -8610268460912726273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fcf2622bdf10f40800000000000000
+      internalID: 5693110345559691067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b0598fb8193720800000000000000
+      internalID: 2826317452073285443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a804320850904e0800000000000000
+      internalID: -2015073310366201265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19830f98302a5950800000000000000
+      internalID: 6438494044837611804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b444fbb4c44df120800000000000000
+      internalID: 2449189384117044406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da072321ced0b6e0800000000000000
+      internalID: -1823712927985235245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7666c9010313665b0800000000000000
+      internalID: -5375555022713231769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710e514a4122cd60800000000000000
+      internalID: 7908920498423988600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 51
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faf552ae592db270800000000000000
+      internalID: 8267809977349307129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892f4ee1d18a0270800000000000000
+      internalID: 8217523208737204613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6b529d0674e160800000000000000
+      internalID: 7053892717031156994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3a1032fcb61970800000000000000
+      internalID: 8725369076452047594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be12157de407a180800000000000000
+      internalID: -9104302703788286285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb97b53d778fac0800000000000000
+      internalID: -3821172534167355571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetStatue_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ad80aef0c37620800000000000000
+      internalID: 2770770395610850549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PetStatue_0: 4470233632984362236
+      PetStatue_1: 5142851366765295772
+      PetStatue_10: 7908920498423988600
+      PetStatue_11: 8267809977349307129
+      PetStatue_12: 8217523208737204613
+      PetStatue_13: 7053892717031156994
+      PetStatue_14: 8725369076452047594
+      PetStatue_15: -9104302703788286285
+      PetStatue_16: -3821172534167355571
+      PetStatue_17: 2770770395610850549
+      PetStatue_2: -8610268460912726273
+      PetStatue_3: 5693110345559691067
+      PetStatue_4: 2826317452073285443
+      PetStatue_5: -2015073310366201265
+      PetStatue_6: 6438494044837611804
+      PetStatue_7: 2449189384117044406
+      PetStatue_8: -1823712927985235245
+      PetStatue_9: -5375555022713231769
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

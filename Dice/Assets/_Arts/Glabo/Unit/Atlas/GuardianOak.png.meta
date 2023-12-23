@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 57c082f01dcc12746aa9d75d622a4424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GuardianOak_0
+  - first:
+      213: 21300002
+    second: GuardianOak_1
+  - first:
+      213: 21300004
+    second: GuardianOak_2
+  - first:
+      213: 21300006
+    second: GuardianOak_3
+  - first:
+      213: 21300008
+    second: GuardianOak_4
+  - first:
+      213: 21300010
+    second: GuardianOak_5
+  - first:
+      213: 21300012
+    second: GuardianOak_6
+  - first:
+      213: 21300014
+    second: GuardianOak_7
+  - first:
+      213: 21300016
+    second: GuardianOak_8
+  - first:
+      213: 21300018
+    second: GuardianOak_9
+  - first:
+      213: 21300020
+    second: GuardianOak_10
+  - first:
+      213: 21300022
+    second: GuardianOak_11
+  - first:
+      213: 21300024
+    second: GuardianOak_12
+  - first:
+      213: 21300026
+    second: GuardianOak_13
+  - first:
+      213: 21300028
+    second: GuardianOak_14
+  - first:
+      213: 21300030
+    second: GuardianOak_15
+  - first:
+      213: 21300032
+    second: GuardianOak_16
+  - first:
+      213: 21300034
+    second: GuardianOak_17
+  - first:
+      213: 21300036
+    second: GuardianOak_18
+  - first:
+      213: 21300038
+    second: GuardianOak_19
+  - first:
+      213: 21300040
+    second: GuardianOak_20
+  - first:
+      213: 21300042
+    second: GuardianOak_21
+  - first:
+      213: 21300044
+    second: GuardianOak_22
+  - first:
+      213: 21300046
+    second: GuardianOak_23
+  - first:
+      213: 21300048
+    second: GuardianOak_24
+  - first:
+      213: 21300050
+    second: GuardianOak_25
+  - first:
+      213: 21300052
+    second: GuardianOak_26
+  - first:
+      213: 21300054
+    second: GuardianOak_27
+  - first:
+      213: 21300056
+    second: GuardianOak_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardianOak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 41
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 41
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 41
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 83
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 83
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 83
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 83
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 124
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 124
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 124
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 168
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 168
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianOak_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 168
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GuardianOak_0: 21300000
+      GuardianOak_1: 21300002
+      GuardianOak_10: 21300020
+      GuardianOak_11: 21300022
+      GuardianOak_12: 21300024
+      GuardianOak_13: 21300026
+      GuardianOak_14: 21300028
+      GuardianOak_15: 21300030
+      GuardianOak_16: 21300032
+      GuardianOak_17: 21300034
+      GuardianOak_18: 21300036
+      GuardianOak_19: 21300038
+      GuardianOak_2: 21300004
+      GuardianOak_20: 21300040
+      GuardianOak_21: 21300042
+      GuardianOak_22: 21300044
+      GuardianOak_23: 21300046
+      GuardianOak_24: 21300048
+      GuardianOak_25: 21300050
+      GuardianOak_26: 21300052
+      GuardianOak_27: 21300054
+      GuardianOak_28: 21300056
+      GuardianOak_3: 21300006
+      GuardianOak_4: 21300008
+      GuardianOak_5: 21300010
+      GuardianOak_6: 21300012
+      GuardianOak_7: 21300014
+      GuardianOak_8: 21300016
+      GuardianOak_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

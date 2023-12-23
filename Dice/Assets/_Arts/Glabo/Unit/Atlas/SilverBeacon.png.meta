@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 2a7e1eae5924183418c91db6a403769f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8410022503238757503
+    second: SilverBeacon_0
+  - first:
+      213: -2662488917617379707
+    second: SilverBeacon_1
+  - first:
+      213: -2978429119171675132
+    second: SilverBeacon_2
+  - first:
+      213: -7243053455528164167
+    second: SilverBeacon_3
+  - first:
+      213: -7995668375382141504
+    second: SilverBeacon_4
+  - first:
+      213: 7251805428476314305
+    second: SilverBeacon_5
+  - first:
+      213: -6571445462686042881
+    second: SilverBeacon_6
+  - first:
+      213: -6793935283805661881
+    second: SilverBeacon_7
+  - first:
+      213: 5640802825300141714
+    second: SilverBeacon_8
+  - first:
+      213: 5335723228703725985
+    second: SilverBeacon_9
+  - first:
+      213: -4137837663150151344
+    second: SilverBeacon_10
+  - first:
+      213: -7333789441694468734
+    second: SilverBeacon_11
+  - first:
+      213: -7251437710285879206
+    second: SilverBeacon_12
+  - first:
+      213: -1785268060424751782
+    second: SilverBeacon_13
+  - first:
+      213: 5728581120315666023
+    second: SilverBeacon_14
+  - first:
+      213: 7922089451822882369
+    second: SilverBeacon_15
+  - first:
+      213: 7505916805749034081
+    second: SilverBeacon_16
+  - first:
+      213: -3255138104110405841
+    second: SilverBeacon_17
+  - first:
+      213: 3631980035708219857
+    second: SilverBeacon_18
+  - first:
+      213: -4374044427992631353
+    second: SilverBeacon_19
+  - first:
+      213: 1829277682500528090
+    second: SilverBeacon_20
+  - first:
+      213: 1005592435984843787
+    second: SilverBeacon_21
+  - first:
+      213: -1835719012576254092
+    second: SilverBeacon_22
+  - first:
+      213: 7826936004138748345
+    second: SilverBeacon_23
+  - first:
+      213: -439511961489279362
+    second: SilverBeacon_24
+  - first:
+      213: 947788063748620884
+    second: SilverBeacon_25
+  - first:
+      213: 5700883892324090071
+    second: SilverBeacon_26
+  - first:
+      213: -6029829746448830847
+    second: SilverBeacon_27
+  - first:
+      213: 1964123967823453951
+    second: SilverBeacon_28
+  - first:
+      213: 8212412210949783059
+    second: SilverBeacon_29
+  - first:
+      213: -9111575065673488925
+    second: SilverBeacon_30
+  - first:
+      213: 8880384648908213167
+    second: SilverBeacon_31
+  - first:
+      213: 1738297476899662302
+    second: SilverBeacon_32
+  - first:
+      213: -6046735319575419466
+    second: SilverBeacon_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SilverBeacon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183996d6719994b80800000000000000
+      internalID: -8410022503238757503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58670079f60fc0bd0800000000000000
+      internalID: -2662488917617379707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb71b1f7e7aa6d0800000000000000
+      internalID: -2978429119171675132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4041ee1418b7b90800000000000000
+      internalID: -7243053455528164167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d587b9fda90190800000000000000
+      internalID: -7995668375382141504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c284909d9693a460800000000000000
+      internalID: 7251805428476314305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4febf2b298dc4a0800000000000000
+      internalID: -6571445462686042881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74555cdead717b1a0800000000000000
+      internalID: -6793935283805661881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e80a8848284e40800000000000000
+      internalID: 5640802825300141714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a99fa2b10c4c0a40800000000000000
+      internalID: 5335723228703725985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059e3bd81927396c0800000000000000
+      internalID: -4137837663150151344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857a4edb55293a90800000000000000
+      internalID: -7333789441694468734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c98f72d7bd5b90800000000000000
+      internalID: -7251437710285879206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 43
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55388568247937e0800000000000000
+      internalID: -1785268060424751782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 43
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eac677d22008f40800000000000000
+      internalID: 5728581120315666023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 60
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e95c6226ae0fd60800000000000000
+      internalID: 7922089451822882369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 43
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4e48119f5a2860800000000000000
+      internalID: 7505916805749034081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 43
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2729a9042d63d2d0800000000000000
+      internalID: -3255138104110405841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 43
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f2b37992676230800000000000000
+      internalID: 3631980035708219857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 43
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f8b574c54c43c0800000000000000
+      internalID: -4374044427992631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 52
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad76efc3c56e26910800000000000000
+      internalID: 1829277682500528090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0442bf1ef494fd00800000000000000
+      internalID: 1005592435984843787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 86
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47726fbb8473686e0800000000000000
+      internalID: -1835719012576254092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 86
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9c76ea3dcde9c60800000000000000
+      internalID: 7826936004138748345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 86
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7675ec133a86e9f0800000000000000
+      internalID: -439511961489279362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452871ee838372d00800000000000000
+      internalID: 947788063748620884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 86
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d049bb02bb9d1f40800000000000000
+      internalID: 5700883892324090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 86
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e65d20bcdb15ca0800000000000000
+      internalID: -6029829746448830847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 86
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe92f4a758f14b10800000000000000
+      internalID: 1964123967823453951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 86
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efdb6056958f170800000000000000
+      internalID: 8212412210949783059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a932c0ce2d8180800000000000000
+      internalID: -9111575065673488925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8103b9c67d3b70800000000000000
+      internalID: 8880384648908213167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 135
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9ef88685caf1810800000000000000
+      internalID: 1738297476899662302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeacon_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b526e9834ea51ca0800000000000000
+      internalID: -6046735319575419466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SilverBeacon_0: -8410022503238757503
+      SilverBeacon_1: -2662488917617379707
+      SilverBeacon_10: -4137837663150151344
+      SilverBeacon_11: -7333789441694468734
+      SilverBeacon_12: -7251437710285879206
+      SilverBeacon_13: -1785268060424751782
+      SilverBeacon_14: 5728581120315666023
+      SilverBeacon_15: 7922089451822882369
+      SilverBeacon_16: 7505916805749034081
+      SilverBeacon_17: -3255138104110405841
+      SilverBeacon_18: 3631980035708219857
+      SilverBeacon_19: -4374044427992631353
+      SilverBeacon_2: -2978429119171675132
+      SilverBeacon_20: 1829277682500528090
+      SilverBeacon_21: 1005592435984843787
+      SilverBeacon_22: -1835719012576254092
+      SilverBeacon_23: 7826936004138748345
+      SilverBeacon_24: -439511961489279362
+      SilverBeacon_25: 947788063748620884
+      SilverBeacon_26: 5700883892324090071
+      SilverBeacon_27: -6029829746448830847
+      SilverBeacon_28: 1964123967823453951
+      SilverBeacon_29: 8212412210949783059
+      SilverBeacon_3: -7243053455528164167
+      SilverBeacon_30: -9111575065673488925
+      SilverBeacon_31: 8880384648908213167
+      SilverBeacon_32: 1738297476899662302
+      SilverBeacon_33: -6046735319575419466
+      SilverBeacon_4: -7995668375382141504
+      SilverBeacon_5: 7251805428476314305
+      SilverBeacon_6: -6571445462686042881
+      SilverBeacon_7: -6793935283805661881
+      SilverBeacon_8: 5640802825300141714
+      SilverBeacon_9: 5335723228703725985
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

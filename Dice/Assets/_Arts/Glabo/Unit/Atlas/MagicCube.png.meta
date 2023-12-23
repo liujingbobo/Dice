@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: da6840bd88af37a4ebad32308508f7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8319229922034284470
+    second: MagicCube_0
+  - first:
+      213: 4666420497870064540
+    second: MagicCube_1
+  - first:
+      213: 3550444001474137759
+    second: MagicCube_2
+  - first:
+      213: -1383142477332083965
+    second: MagicCube_3
+  - first:
+      213: -3787208931363124964
+    second: MagicCube_4
+  - first:
+      213: -1840264287320957590
+    second: MagicCube_5
+  - first:
+      213: -6458932607975181078
+    second: MagicCube_6
+  - first:
+      213: -6695360492460355897
+    second: MagicCube_7
+  - first:
+      213: -8366768663517767552
+    second: MagicCube_8
+  - first:
+      213: 8161198944643686433
+    second: MagicCube_9
+  - first:
+      213: -6798094736629395592
+    second: MagicCube_10
+  - first:
+      213: 8078775560510087042
+    second: MagicCube_11
+  - first:
+      213: -9140347367599158159
+    second: MagicCube_12
+  - first:
+      213: 8082102953441341624
+    second: MagicCube_13
+  - first:
+      213: -90149761851093366
+    second: MagicCube_14
+  - first:
+      213: -4445298808886117789
+    second: MagicCube_15
+  - first:
+      213: -8141279461751413260
+    second: MagicCube_16
+  - first:
+      213: 7568581382813652515
+    second: MagicCube_17
+  - first:
+      213: 8081945223159298420
+    second: MagicCube_18
+  - first:
+      213: 4449872015805193467
+    second: MagicCube_19
+  - first:
+      213: 9149755007535684280
+    second: MagicCube_20
+  - first:
+      213: 488499801219467194
+    second: MagicCube_21
+  - first:
+      213: -4334996975528377914
+    second: MagicCube_22
+  - first:
+      213: 2721376097525068040
+    second: MagicCube_23
+  - first:
+      213: 3475453577064631339
+    second: MagicCube_24
+  - first:
+      213: -3652822712473356469
+    second: MagicCube_25
+  - first:
+      213: 3195878357798084840
+    second: MagicCube_26
+  - first:
+      213: 8148671890641155887
+    second: MagicCube_27
+  - first:
+      213: 7209543360668717214
+    second: MagicCube_28
+  - first:
+      213: 4079339234754301837
+    second: MagicCube_29
+  - first:
+      213: -294026704048069590
+    second: MagicCube_30
+  - first:
+      213: 1213857899323185863
+    second: MagicCube_31
+  - first:
+      213: 4368715108920436628
+    second: MagicCube_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicCube_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48885c86782c8c80800000000000000
+      internalID: -8319229922034284470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b852418b472c040800000000000000
+      internalID: 4666420497870064540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e48ce1206b54130800000000000000
+      internalID: 3550444001474137759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b0edcbe371ecce0800000000000000
+      internalID: -1383142477332083965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190aebda81217bc0800000000000000
+      internalID: -3787208931363124964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d956d71611676e0800000000000000
+      internalID: -1840264287320957590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b37193034d56a0800000000000000
+      internalID: -6458932607975181078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce47bb0b1d4513a0800000000000000
+      internalID: -6695360492460355897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885725ca3443eb80800000000000000
+      internalID: -8366768663517767552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a7c44337624170800000000000000
+      internalID: 8161198944643686433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f80c9dad058a1a0800000000000000
+      internalID: -6798094736629395592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9f40b1939d1070800000000000000
+      internalID: 8078775560510087042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c439e2f76f62180800000000000000
+      internalID: -9140347367599158159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 43
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0b10ab0d5692070800000000000000
+      internalID: 8082102953441341624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e874ce449bfbef0800000000000000
+      internalID: -90149761851093366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a30e719402f42c0800000000000000
+      internalID: -4445298808886117789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5af11c67d540f80800000000000000
+      internalID: -8141279461751413260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 86
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3261e38eaa0090960800000000000000
+      internalID: 7568581382813652515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47933984c56d82070800000000000000
+      internalID: 8081945223159298420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 86
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc150e950f11cd30800000000000000
+      internalID: 4449872015805193467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba140ea3b57afe70800000000000000
+      internalID: 9149755007535684280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab709842bff77c600800000000000000
+      internalID: 488499801219467194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10d33f73ff6d3c0800000000000000
+      internalID: -4334996975528377914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 129
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017839642544c520800000000000000
+      internalID: 2721376097525068040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 129
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c4c465d9a4b3030800000000000000
+      internalID: 3475453577064631339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 129
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fb83b8119e4dc0800000000000000
+      internalID: -3652822712473356469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 129
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e9e51f6a0a5c20800000000000000
+      internalID: 3195878357798084840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 129
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2770e839e5e51170800000000000000
+      internalID: 8148671890641155887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905f6d1d717d0460800000000000000
+      internalID: 7209543360668717214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f08d5bb69bc9830800000000000000
+      internalID: 4079339234754301837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 172
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246cbe35486bebf0800000000000000
+      internalID: -294026704048069590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 172
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad5f0045d78d010800000000000000
+      internalID: 1213857899323185863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCube_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 172
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a510ce3bc0ac30800000000000000
+      internalID: 4368715108920436628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagicCube_0: -8319229922034284470
+      MagicCube_1: 4666420497870064540
+      MagicCube_10: -6798094736629395592
+      MagicCube_11: 8078775560510087042
+      MagicCube_12: -9140347367599158159
+      MagicCube_13: 8082102953441341624
+      MagicCube_14: -90149761851093366
+      MagicCube_15: -4445298808886117789
+      MagicCube_16: -8141279461751413260
+      MagicCube_17: 7568581382813652515
+      MagicCube_18: 8081945223159298420
+      MagicCube_19: 4449872015805193467
+      MagicCube_2: 3550444001474137759
+      MagicCube_20: 9149755007535684280
+      MagicCube_21: 488499801219467194
+      MagicCube_22: -4334996975528377914
+      MagicCube_23: 2721376097525068040
+      MagicCube_24: 3475453577064631339
+      MagicCube_25: -3652822712473356469
+      MagicCube_26: 3195878357798084840
+      MagicCube_27: 8148671890641155887
+      MagicCube_28: 7209543360668717214
+      MagicCube_29: 4079339234754301837
+      MagicCube_3: -1383142477332083965
+      MagicCube_30: -294026704048069590
+      MagicCube_31: 1213857899323185863
+      MagicCube_32: 4368715108920436628
+      MagicCube_4: -3787208931363124964
+      MagicCube_5: -1840264287320957590
+      MagicCube_6: -6458932607975181078
+      MagicCube_7: -6695360492460355897
+      MagicCube_8: -8366768663517767552
+      MagicCube_9: 8161198944643686433
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 71330f3840439074faadf12f4de06ea6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4540825552339941976
+    second: Gugo_0
+  - first:
+      213: 2561873780157673789
+    second: Gugo_1
+  - first:
+      213: 2449910626377330670
+    second: Gugo_2
+  - first:
+      213: 8841799349543995384
+    second: Gugo_3
+  - first:
+      213: -7786811096077410973
+    second: Gugo_4
+  - first:
+      213: 2036969165482789347
+    second: Gugo_5
+  - first:
+      213: 7769880304563075474
+    second: Gugo_6
+  - first:
+      213: -4337830051950050904
+    second: Gugo_7
+  - first:
+      213: -166646032383338309
+    second: Gugo_8
+  - first:
+      213: -1184321955727030836
+    second: Gugo_9
+  - first:
+      213: -5501922192763789775
+    second: Gugo_10
+  - first:
+      213: -2117918145457461376
+    second: Gugo_11
+  - first:
+      213: 4172810056577634566
+    second: Gugo_12
+  - first:
+      213: -2287110047268636653
+    second: Gugo_13
+  - first:
+      213: 2579949284579171048
+    second: Gugo_14
+  - first:
+      213: -8475460980333409467
+    second: Gugo_15
+  - first:
+      213: 6791950530753640933
+    second: Gugo_16
+  - first:
+      213: -3426109351375961221
+    second: Gugo_17
+  - first:
+      213: -6700809715817112746
+    second: Gugo_18
+  - first:
+      213: 522925852738131875
+    second: Gugo_19
+  - first:
+      213: 6557093616598355942
+    second: Gugo_20
+  - first:
+      213: -7132223357495570365
+    second: Gugo_21
+  - first:
+      213: -6913125499786992196
+    second: Gugo_22
+  - first:
+      213: -6797280321946224704
+    second: Gugo_23
+  - first:
+      213: -470146932629466243
+    second: Gugo_24
+  - first:
+      213: -5017749794555315285
+    second: Gugo_25
+  - first:
+      213: 8607492670879729087
+    second: Gugo_26
+  - first:
+      213: -5561641088093813593
+    second: Gugo_27
+  - first:
+      213: -2654407258282429832
+    second: Gugo_28
+  - first:
+      213: -8493346134848467391
+    second: Gugo_29
+  - first:
+      213: 2625895619823142514
+    second: Gugo_30
+  - first:
+      213: 6630858647646218951
+    second: Gugo_31
+  - first:
+      213: -8439473296652123285
+    second: Gugo_32
+  - first:
+      213: 7107202953229288012
+    second: Gugo_33
+  - first:
+      213: 6996442967401197974
+    second: Gugo_34
+  - first:
+      213: 2515753544343676353
+    second: Gugo_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gugo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3d3218c0440f30800000000000000
+      internalID: 4540825552339941976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317fa131aa9d8320800000000000000
+      internalID: 2561873780157673789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefeca80cb4dff120800000000000000
+      internalID: 2449910626377330670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f789dc99a164ba70800000000000000
+      internalID: 8841799349543995384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d5c3d7090bfe390800000000000000
+      internalID: -7786811096077410973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98607e9a4c44c10800000000000000
+      internalID: 2036969165482789347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29939cc68f824db60800000000000000
+      internalID: 7769880304563075474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c081fc8eecc3c0800000000000000
+      internalID: -4337830051950050904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb810940154ffadf0800000000000000
+      internalID: -166646032383338309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 41
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c131c471709fe0800000000000000
+      internalID: -1184321955727030836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed9768aee35a3b0800000000000000
+      internalID: -5501922192763789775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 41
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08767acfaa4ab92e0800000000000000
+      internalID: -2117918145457461376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601dc7153acc8e930800000000000000
+      internalID: 4172810056577634566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 41
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187356978d8240e0800000000000000
+      internalID: -2287110047268636653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 41
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5dd58432ddc320800000000000000
+      internalID: 2579949284579171048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b0b8fa42d116a80800000000000000
+      internalID: -8475460980333409467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b89db50bd14e50800000000000000
+      internalID: 6791950530753640933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73879d72b30470d0800000000000000
+      internalID: -3426109351375961221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1c3dd011f103a0800000000000000
+      internalID: -6700809715817112746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71350ea4ec14700800000000000000
+      internalID: 522925852738131875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 82
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef835047e97ffa50800000000000000
+      internalID: 6557093616598355942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409bbdf4a0450d90800000000000000
+      internalID: -7132223357495570365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 82
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb560893cf4af00a0800000000000000
+      internalID: -6913125499786992196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 82
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c774ab8f853ba1a0800000000000000
+      internalID: -6797280321946224704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7391601bd3b979f0800000000000000
+      internalID: -470146932629466243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 125
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babbdb3a52f5d5ab0800000000000000
+      internalID: -5017749794555315285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 125
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5809ecaf4f37770800000000000000
+      internalID: 8607492670879729087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 125
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a483ffa5e411d2b0800000000000000
+      internalID: -5561641088093813593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 125
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727bd889a6a92bd0800000000000000
+      internalID: -2654407258282429832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 125
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e8be5a0b2912a80800000000000000
+      internalID: -8493346134848467391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 125
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27600d4572e017420800000000000000
+      internalID: 2625895619823142514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caa7c8eeca850c50800000000000000
+      internalID: 6630858647646218951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c7ad30c7f0ea80800000000000000
+      internalID: -8439473296652123285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c6dd2e6bd1a260800000000000000
+      internalID: 7107202953229288012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917a336fcb581160800000000000000
+      internalID: 6996442967401197974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gugo_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e8010580c9e220800000000000000
+      internalID: 2515753544343676353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gugo_0: 4540825552339941976
+      Gugo_1: 2561873780157673789
+      Gugo_10: -5501922192763789775
+      Gugo_11: -2117918145457461376
+      Gugo_12: 4172810056577634566
+      Gugo_13: -2287110047268636653
+      Gugo_14: 2579949284579171048
+      Gugo_15: -8475460980333409467
+      Gugo_16: 6791950530753640933
+      Gugo_17: -3426109351375961221
+      Gugo_18: -6700809715817112746
+      Gugo_19: 522925852738131875
+      Gugo_2: 2449910626377330670
+      Gugo_20: 6557093616598355942
+      Gugo_21: -7132223357495570365
+      Gugo_22: -6913125499786992196
+      Gugo_23: -6797280321946224704
+      Gugo_24: -470146932629466243
+      Gugo_25: -5017749794555315285
+      Gugo_26: 8607492670879729087
+      Gugo_27: -5561641088093813593
+      Gugo_28: -2654407258282429832
+      Gugo_29: -8493346134848467391
+      Gugo_3: 8841799349543995384
+      Gugo_30: 2625895619823142514
+      Gugo_31: 6630858647646218951
+      Gugo_32: -8439473296652123285
+      Gugo_33: 7107202953229288012
+      Gugo_34: 6996442967401197974
+      Gugo_35: 2515753544343676353
+      Gugo_4: -7786811096077410973
+      Gugo_5: 2036969165482789347
+      Gugo_6: 7769880304563075474
+      Gugo_7: -4337830051950050904
+      Gugo_8: -166646032383338309
+      Gugo_9: -1184321955727030836
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

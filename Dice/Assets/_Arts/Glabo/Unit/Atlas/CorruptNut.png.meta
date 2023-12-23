@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: 7df6cc297c794d3438d7e8ad7669fb6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CorruptNut_0
+  - first:
+      213: 21300002
+    second: CorruptNut_1
+  - first:
+      213: 21300004
+    second: CorruptNut_2
+  - first:
+      213: 21300006
+    second: CorruptNut_3
+  - first:
+      213: 21300008
+    second: CorruptNut_4
+  - first:
+      213: 21300010
+    second: CorruptNut_5
+  - first:
+      213: 21300012
+    second: CorruptNut_6
+  - first:
+      213: 21300014
+    second: CorruptNut_7
+  - first:
+      213: 21300016
+    second: CorruptNut_8
+  - first:
+      213: 21300018
+    second: CorruptNut_9
+  - first:
+      213: 21300020
+    second: CorruptNut_10
+  - first:
+      213: 21300022
+    second: CorruptNut_11
+  - first:
+      213: 21300024
+    second: CorruptNut_12
+  - first:
+      213: 21300026
+    second: CorruptNut_13
+  - first:
+      213: 21300028
+    second: CorruptNut_14
+  - first:
+      213: 21300030
+    second: CorruptNut_15
+  - first:
+      213: 21300032
+    second: CorruptNut_16
+  - first:
+      213: 21300034
+    second: CorruptNut_17
+  - first:
+      213: 21300036
+    second: CorruptNut_18
+  - first:
+      213: 21300038
+    second: CorruptNut_19
+  - first:
+      213: 21300040
+    second: CorruptNut_20
+  - first:
+      213: 21300042
+    second: CorruptNut_21
+  - first:
+      213: 21300044
+    second: CorruptNut_22
+  - first:
+      213: 21300046
+    second: CorruptNut_23
+  - first:
+      213: 21300048
+    second: CorruptNut_24
+  - first:
+      213: 21300050
+    second: CorruptNut_25
+  - first:
+      213: -4763406821163257941
+    second: CorruptNut_26
+  - first:
+      213: -4572673848475499104
+    second: CorruptNut_27
+  - first:
+      213: -278857326145248613
+    second: CorruptNut_28
+  - first:
+      213: -2239551425023520213
+    second: CorruptNut_29
+  - first:
+      213: -5338737840292267585
+    second: CorruptNut_30
+  - first:
+      213: 8310841778034762129
+    second: CorruptNut_31
+  - first:
+      213: -3176618221633984792
+    second: CorruptNut_32
+  - first:
+      213: -3907966165691025696
+    second: CorruptNut_33
+  - first:
+      213: 3329099777477930038
+    second: CorruptNut_34
+  - first:
+      213: -205357340690603304
+    second: CorruptNut_35
+  - first:
+      213: -8166445235243019319
+    second: CorruptNut_36
+  - first:
+      213: 6699889923488045558
+    second: CorruptNut_37
+  - first:
+      213: -441001701139778302
+    second: CorruptNut_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CorruptNut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.475, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 43
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 43
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.475, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 43
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 43
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 43
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf24e7dbbaf4edb0800000000000000
+      internalID: -4763406821163257941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a546e3ac599a80c0800000000000000
+      internalID: -4572673848475499104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e8144dbc412cf0800000000000000
+      internalID: -278857326145248613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d04738d38be0e0800000000000000
+      internalID: -2239551425023520213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 96
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97178583ef8e5b0800000000000000
+      internalID: -5338737840292267585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191ec3c709a065370800000000000000
+      internalID: 8310841778034762129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e62970de826ae3d0800000000000000
+      internalID: -3176618221633984792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bdb34a7d14c9c0800000000000000
+      internalID: -3907966165691025696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43243244, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c676afb96533e20800000000000000
+      internalID: 3329099777477930038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22e10369c662df0800000000000000
+      internalID: -205357340690603304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 96
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c398a38355faae80800000000000000
+      internalID: -8166445235243019319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_37
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 96
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f959bb436acafc50800000000000000
+      internalID: 6699889923488045558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorruptNut_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 96
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20578321a4f31e9f0800000000000000
+      internalID: -441001701139778302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CorruptNut_0: 21300000
+      CorruptNut_1: 21300002
+      CorruptNut_10: 21300020
+      CorruptNut_11: 21300022
+      CorruptNut_12: 21300024
+      CorruptNut_13: 21300026
+      CorruptNut_14: 21300028
+      CorruptNut_15: 21300030
+      CorruptNut_16: 21300032
+      CorruptNut_17: 21300034
+      CorruptNut_18: 21300036
+      CorruptNut_19: 21300038
+      CorruptNut_2: 21300004
+      CorruptNut_20: 21300040
+      CorruptNut_21: 21300042
+      CorruptNut_22: 21300044
+      CorruptNut_23: 21300046
+      CorruptNut_24: 21300048
+      CorruptNut_25: 21300050
+      CorruptNut_26: -4763406821163257941
+      CorruptNut_27: -4572673848475499104
+      CorruptNut_28: -278857326145248613
+      CorruptNut_29: -2239551425023520213
+      CorruptNut_3: 21300006
+      CorruptNut_30: -5338737840292267585
+      CorruptNut_31: 8310841778034762129
+      CorruptNut_32: -3176618221633984792
+      CorruptNut_33: -3907966165691025696
+      CorruptNut_34: 3329099777477930038
+      CorruptNut_35: -205357340690603304
+      CorruptNut_36: -8166445235243019319
+      CorruptNut_37: 6699889923488045558
+      CorruptNut_38: -441001701139778302
+      CorruptNut_4: 21300008
+      CorruptNut_5: 21300010
+      CorruptNut_6: 21300012
+      CorruptNut_7: 21300014
+      CorruptNut_8: 21300016
+      CorruptNut_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

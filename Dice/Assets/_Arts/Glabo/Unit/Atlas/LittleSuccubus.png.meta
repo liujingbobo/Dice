@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: a5ec38a61b90c4242824575178daf2cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5127811110124597133
+    second: LittleSuccubus_0
+  - first:
+      213: 4839775875240372653
+    second: LittleSuccubus_1
+  - first:
+      213: 6298097694913331428
+    second: LittleSuccubus_2
+  - first:
+      213: 5532388024669740428
+    second: LittleSuccubus_3
+  - first:
+      213: -4573829993604954413
+    second: LittleSuccubus_4
+  - first:
+      213: 4106632612463806436
+    second: LittleSuccubus_5
+  - first:
+      213: -6420106468331786567
+    second: LittleSuccubus_6
+  - first:
+      213: -190658563912482080
+    second: LittleSuccubus_7
+  - first:
+      213: -7942562030093968040
+    second: LittleSuccubus_8
+  - first:
+      213: -4145536769224121903
+    second: LittleSuccubus_9
+  - first:
+      213: -814385339991948799
+    second: LittleSuccubus_10
+  - first:
+      213: 3610666608461161760
+    second: LittleSuccubus_11
+  - first:
+      213: -2009483550137607062
+    second: LittleSuccubus_12
+  - first:
+      213: 7819598593914218579
+    second: LittleSuccubus_13
+  - first:
+      213: 3509746585523245233
+    second: LittleSuccubus_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleSuccubus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48, y: 0.27450982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d8b1b6fa56d8b0800000000000000
+      internalID: -5127811110124597133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9253c24865a2340800000000000000
+      internalID: 4839775875240372653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0040a1c76576750800000000000000
+      internalID: 6298097694913331428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.24444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d901ab89df6cc40800000000000000
+      internalID: 5532388024669740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 60
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64620aadd7680c0800000000000000
+      internalID: -4573829993604954413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 62
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e780f86a90bdf830800000000000000
+      internalID: 4106632612463806436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 52
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be65e6ae2337e6a0800000000000000
+      internalID: -6420106468331786567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e24c98db05aa5df0800000000000000
+      internalID: -190658563912482080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 52
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5eb54ae956c190800000000000000
+      internalID: -7942562030093968040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 52
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1631bb5481876c0800000000000000
+      internalID: -4145536769224121903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.24444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1028e7b19d8b2b4f0800000000000000
+      internalID: -814385339991948799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 60
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02521b7762aab1230800000000000000
+      internalID: 3610666608461161760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 62
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9e0c9b51ec14e0800000000000000
+      internalID: -2009483550137607062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a66cbd7bc48c60800000000000000
+      internalID: 7819598593914218579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleSuccubus_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d0c19cef15b030800000000000000
+      internalID: 3509746585523245233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LittleSuccubus_0: -5127811110124597133
+      LittleSuccubus_1: 4839775875240372653
+      LittleSuccubus_10: -814385339991948799
+      LittleSuccubus_11: 3610666608461161760
+      LittleSuccubus_12: -2009483550137607062
+      LittleSuccubus_13: 7819598593914218579
+      LittleSuccubus_14: 3509746585523245233
+      LittleSuccubus_2: 6298097694913331428
+      LittleSuccubus_3: 5532388024669740428
+      LittleSuccubus_4: -4573829993604954413
+      LittleSuccubus_5: 4106632612463806436
+      LittleSuccubus_6: -6420106468331786567
+      LittleSuccubus_7: -190658563912482080
+      LittleSuccubus_8: -7942562030093968040
+      LittleSuccubus_9: -4145536769224121903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

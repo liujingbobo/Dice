@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 7ebb5dc6e469f0843a5bbf8643b6d37a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2506649933577433159
+    second: GuardianStoneGolem_0
+  - first:
+      213: 5084437187464580614
+    second: GuardianStoneGolem_1
+  - first:
+      213: 1278579025797136157
+    second: GuardianStoneGolem_2
+  - first:
+      213: -6215178851107699874
+    second: GuardianStoneGolem_3
+  - first:
+      213: -4745648221525463810
+    second: GuardianStoneGolem_4
+  - first:
+      213: 7740732227577439046
+    second: GuardianStoneGolem_5
+  - first:
+      213: -644654306370849771
+    second: GuardianStoneGolem_6
+  - first:
+      213: -781190752550084823
+    second: GuardianStoneGolem_7
+  - first:
+      213: -2836693376146146258
+    second: GuardianStoneGolem_8
+  - first:
+      213: 1571917711813641489
+    second: GuardianStoneGolem_9
+  - first:
+      213: -8961839876322088816
+    second: GuardianStoneGolem_10
+  - first:
+      213: -3188588576680705566
+    second: GuardianStoneGolem_11
+  - first:
+      213: -6194145417751116248
+    second: GuardianStoneGolem_12
+  - first:
+      213: 1953440710565865918
+    second: GuardianStoneGolem_13
+  - first:
+      213: -5622985822940977989
+    second: GuardianStoneGolem_14
+  - first:
+      213: 278961408862113273
+    second: GuardianStoneGolem_15
+  - first:
+      213: 946428553106562610
+    second: GuardianStoneGolem_16
+  - first:
+      213: -3747579797206782944
+    second: GuardianStoneGolem_17
+  - first:
+      213: 3603213576699323636
+    second: GuardianStoneGolem_18
+  - first:
+      213: 5704028004535938217
+    second: GuardianStoneGolem_19
+  - first:
+      213: -102645958598131958
+    second: GuardianStoneGolem_20
+  - first:
+      213: 4418907822354720212
+    second: GuardianStoneGolem_21
+  - first:
+      213: 6189953195363315067
+    second: GuardianStoneGolem_22
+  - first:
+      213: -1633585110125080809
+    second: GuardianStoneGolem_23
+  - first:
+      213: -7702736775203865768
+    second: GuardianStoneGolem_24
+  - first:
+      213: 8794999674601550669
+    second: GuardianStoneGolem_25
+  - first:
+      213: -841107133378480656
+    second: GuardianStoneGolem_26
+  - first:
+      213: 7665238300175981334
+    second: GuardianStoneGolem_27
+  - first:
+      213: -4901913173183340746
+    second: GuardianStoneGolem_28
+  - first:
+      213: 1410911401442367215
+    second: GuardianStoneGolem_29
+  - first:
+      213: -1026719198815323990
+    second: GuardianStoneGolem_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardianStoneGolem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4cdc8a27963dd0800000000000000
+      internalID: -2506649933577433159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ecc99feac8f8640800000000000000
+      internalID: 5084437187464580614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f37e989dc6eb110800000000000000
+      internalID: 1278579025797136157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53843ca3cf3fb9a0800000000000000
+      internalID: -6215178851107699874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca2070612142eb0800000000000000
+      internalID: -4745648221525463810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643eb26e2fa9c6b60800000000000000
+      internalID: 7740732227577439046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f6d9e25abd07f0800000000000000
+      internalID: -644654306370849771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f9e644627a825f0800000000000000
+      internalID: -781190752550084823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cfa12676a02a8d0800000000000000
+      internalID: -2836693376146146258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150ccc94d290d510800000000000000
+      internalID: 1571917711813641489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09824e54d1621a380800000000000000
+      internalID: -8961839876322088816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 43
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e10418559bdfb3d0800000000000000
+      internalID: -3188588576680705566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c4df7f89f90aa0800000000000000
+      internalID: -6194145417751116248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a01bf9f30c1b10800000000000000
+      internalID: 1953440710565865918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 86
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ab869f2427f1b0800000000000000
+      internalID: -5622985822940977989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 86
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdc4416ce11fd300800000000000000
+      internalID: 278961408862113273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 86
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e143131c3622d00800000000000000
+      internalID: 946428553106562610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 86
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2f0ca70cedfbc0800000000000000
+      internalID: -3747579797206782944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4270948af210230800000000000000
+      internalID: 3603213576699323636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acae37bf37c82f40800000000000000
+      internalID: 5704028004535938217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff0246b04539ef0800000000000000
+      internalID: -102645958598131958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e5a6804d135d30800000000000000
+      internalID: 4418907822354720212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dace9a2a127e550800000000000000
+      internalID: 6189953195363315067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 127
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f80a85ff65459e0800000000000000
+      internalID: -1633585110125080809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb2abb6b16a1590800000000000000
+      internalID: -7702736775203865768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433d4c2b9d1e0a70800000000000000
+      internalID: 8794999674601550669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 169
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bde0c489c354f0800000000000000
+      internalID: -841107133378480656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 169
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b55b03f95606a60800000000000000
+      internalID: 7665238300175981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 169
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5990c0f7e8fbb0800000000000000
+      internalID: -4901913173183340746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 169
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6558cb170949310800000000000000
+      internalID: 1410911401442367215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardianStoneGolem_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52500004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f986145c50c1f0800000000000000
+      internalID: -1026719198815323990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GuardianStoneGolem_0: -2506649933577433159
+      GuardianStoneGolem_1: 5084437187464580614
+      GuardianStoneGolem_10: -8961839876322088816
+      GuardianStoneGolem_11: -3188588576680705566
+      GuardianStoneGolem_12: -6194145417751116248
+      GuardianStoneGolem_13: 1953440710565865918
+      GuardianStoneGolem_14: -5622985822940977989
+      GuardianStoneGolem_15: 278961408862113273
+      GuardianStoneGolem_16: 946428553106562610
+      GuardianStoneGolem_17: -3747579797206782944
+      GuardianStoneGolem_18: 3603213576699323636
+      GuardianStoneGolem_19: 5704028004535938217
+      GuardianStoneGolem_2: 1278579025797136157
+      GuardianStoneGolem_20: -102645958598131958
+      GuardianStoneGolem_21: 4418907822354720212
+      GuardianStoneGolem_22: 6189953195363315067
+      GuardianStoneGolem_23: -1633585110125080809
+      GuardianStoneGolem_24: -7702736775203865768
+      GuardianStoneGolem_25: 8794999674601550669
+      GuardianStoneGolem_26: -841107133378480656
+      GuardianStoneGolem_27: 7665238300175981334
+      GuardianStoneGolem_28: -4901913173183340746
+      GuardianStoneGolem_29: 1410911401442367215
+      GuardianStoneGolem_3: -6215178851107699874
+      GuardianStoneGolem_30: -1026719198815323990
+      GuardianStoneGolem_4: -4745648221525463810
+      GuardianStoneGolem_5: 7740732227577439046
+      GuardianStoneGolem_6: -644654306370849771
+      GuardianStoneGolem_7: -781190752550084823
+      GuardianStoneGolem_8: -2836693376146146258
+      GuardianStoneGolem_9: 1571917711813641489
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

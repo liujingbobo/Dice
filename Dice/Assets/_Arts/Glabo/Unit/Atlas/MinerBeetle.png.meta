@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: f40239015af37c94aa9abf40f28c6c2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4949483359113883058
+    second: MinerBeetle_0
+  - first:
+      213: 5491022989672121833
+    second: MinerBeetle_1
+  - first:
+      213: -4759598468950011472
+    second: MinerBeetle_2
+  - first:
+      213: -4611299906380971776
+    second: MinerBeetle_3
+  - first:
+      213: -173086097577336840
+    second: MinerBeetle_4
+  - first:
+      213: 8564572177255001351
+    second: MinerBeetle_5
+  - first:
+      213: -463199142997386203
+    second: MinerBeetle_6
+  - first:
+      213: -2947682922391854580
+    second: MinerBeetle_7
+  - first:
+      213: -7231348422142656037
+    second: MinerBeetle_8
+  - first:
+      213: 8982729839323929811
+    second: MinerBeetle_9
+  - first:
+      213: -2284656174167276183
+    second: MinerBeetle_10
+  - first:
+      213: -6175052104692277893
+    second: MinerBeetle_11
+  - first:
+      213: 5083751511882370150
+    second: MinerBeetle_12
+  - first:
+      213: 1245261834550842327
+    second: MinerBeetle_13
+  - first:
+      213: 7402013502963552132
+    second: MinerBeetle_14
+  - first:
+      213: -6339243485060069325
+    second: MinerBeetle_15
+  - first:
+      213: -364820884618803684
+    second: MinerBeetle_16
+  - first:
+      213: 2814982765174687542
+    second: MinerBeetle_17
+  - first:
+      213: -6248379190213978962
+    second: MinerBeetle_18
+  - first:
+      213: 669413271773354485
+    second: MinerBeetle_19
+  - first:
+      213: 6070389078361441739
+    second: MinerBeetle_20
+  - first:
+      213: 6981056717224288127
+    second: MinerBeetle_21
+  - first:
+      213: 2593279559471634017
+    second: MinerBeetle_22
+  - first:
+      213: 4159235871894889967
+    second: MinerBeetle_23
+  - first:
+      213: -8032372349614842879
+    second: MinerBeetle_24
+  - first:
+      213: 190149654470533711
+    second: MinerBeetle_25
+  - first:
+      213: 1759425412553933849
+    second: MinerBeetle_26
+  - first:
+      213: -1893308167134284750
+    second: MinerBeetle_27
+  - first:
+      213: 3623558258214814935
+    second: MinerBeetle_28
+  - first:
+      213: -4145667280031149418
+    second: MinerBeetle_29
+  - first:
+      213: -7044016998084619750
+    second: MinerBeetle_30
+  - first:
+      213: 3934146749799836864
+    second: MinerBeetle_31
+  - first:
+      213: -6633563418954652833
+    second: MinerBeetle_32
+  - first:
+      213: 12967659029433562
+    second: MinerBeetle_33
+  - first:
+      213: 169753800335049922
+    second: MinerBeetle_34
+  - first:
+      213: 610429466237858687
+    second: MinerBeetle_35
+  - first:
+      213: 7629651835445563235
+    second: MinerBeetle_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinerBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda0b144e810b440800000000000000
+      internalID: 4949483359113883058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e509e00158043c40800000000000000
+      internalID: 5491022989672121833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ddb0f86282fdb0800000000000000
+      internalID: -4759598468950011472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ce57ba2f5100c0800000000000000
+      internalID: -4611299906380971776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff185e7c13199df0800000000000000
+      internalID: -173086097577336840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d6a76a4097bd670800000000000000
+      internalID: 8564572177255001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c106565d26299f0800000000000000
+      internalID: -463199142997386203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c022954eff9b717d0800000000000000
+      internalID: -2947682922391854580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10b136ce615ab90800000000000000
+      internalID: -7231348422142656037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5432423119ac70800000000000000
+      internalID: 8982729839323929811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 35
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9654bd070554b40e0800000000000000
+      internalID: -2284656174167276183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 35
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd94ed3decd4aa0800000000000000
+      internalID: -6175052104692277893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8a10b01d1d8640800000000000000
+      internalID: 5083751511882370150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d311c47a0f084110800000000000000
+      internalID: 1245261834550842327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 70
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f89ca301c39b660800000000000000
+      internalID: 7402013502963552132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 70
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338094813ab7608a0800000000000000
+      internalID: -6339243485060069325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 70
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1607ad9655efeaf0800000000000000
+      internalID: -364820884618803684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637851719e3d01720800000000000000
+      internalID: 2814982765174687542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45a595b3c4949a0800000000000000
+      internalID: -6248379190213978962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99bffe2db3a4900800000000000000
+      internalID: 669413271773354485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5052854ba5e3450800000000000000
+      internalID: 6070389078361441739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 109
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f120bd812b1e060800000000000000
+      internalID: 6981056717224288127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669691050e2df320800000000000000
+      internalID: 2593279559471634017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 109
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe56b592df298b930800000000000000
+      internalID: 4159235871894889967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c9985c7e7478090800000000000000
+      internalID: -8032372349614842879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 148
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4221e07a1c83a200800000000000000
+      internalID: 190149654470533711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 148
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148214471cba6810800000000000000
+      internalID: 1759425412553933849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21212122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2347d9fc04e99b5e0800000000000000
+      internalID: -1893308167134284750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 148
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c3d39907794230800000000000000
+      internalID: 3623558258214814935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 148
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69298c0d291a776c0800000000000000
+      internalID: -4145667280031149418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125a5d6cdf9e3e90800000000000000
+      internalID: -7044016998084619750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 187
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca31cff95e89630800000000000000
+      internalID: 3934146749799836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 187
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53ae227739d0f3a0800000000000000
+      internalID: -6633563418954652833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 187
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc840664021e2000800000000000000
+      internalID: 12967659029433562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 187
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c44e389e261b5200800000000000000
+      internalID: 169753800335049922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 187
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73f9878d5ea87800800000000000000
+      internalID: 610429466237858687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBeetle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fc3a3bbe7f1e960800000000000000
+      internalID: 7629651835445563235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MinerBeetle_0: 4949483359113883058
+      MinerBeetle_1: 5491022989672121833
+      MinerBeetle_10: -2284656174167276183
+      MinerBeetle_11: -6175052104692277893
+      MinerBeetle_12: 5083751511882370150
+      MinerBeetle_13: 1245261834550842327
+      MinerBeetle_14: 7402013502963552132
+      MinerBeetle_15: -6339243485060069325
+      MinerBeetle_16: -364820884618803684
+      MinerBeetle_17: 2814982765174687542
+      MinerBeetle_18: -6248379190213978962
+      MinerBeetle_19: 669413271773354485
+      MinerBeetle_2: -4759598468950011472
+      MinerBeetle_20: 6070389078361441739
+      MinerBeetle_21: 6981056717224288127
+      MinerBeetle_22: 2593279559471634017
+      MinerBeetle_23: 4159235871894889967
+      MinerBeetle_24: -8032372349614842879
+      MinerBeetle_25: 190149654470533711
+      MinerBeetle_26: 1759425412553933849
+      MinerBeetle_27: -1893308167134284750
+      MinerBeetle_28: 3623558258214814935
+      MinerBeetle_29: -4145667280031149418
+      MinerBeetle_3: -4611299906380971776
+      MinerBeetle_30: -7044016998084619750
+      MinerBeetle_31: 3934146749799836864
+      MinerBeetle_32: -6633563418954652833
+      MinerBeetle_33: 12967659029433562
+      MinerBeetle_34: 169753800335049922
+      MinerBeetle_35: 610429466237858687
+      MinerBeetle_36: 7629651835445563235
+      MinerBeetle_4: -173086097577336840
+      MinerBeetle_5: 8564572177255001351
+      MinerBeetle_6: -463199142997386203
+      MinerBeetle_7: -2947682922391854580
+      MinerBeetle_8: -7231348422142656037
+      MinerBeetle_9: 8982729839323929811
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

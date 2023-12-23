@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 0dbc669d5cdb1c944a453f101b4c91c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2423616406627861072
+    second: SimpleFridge_0
+  - first:
+      213: -7202156076044246709
+    second: SimpleFridge_1
+  - first:
+      213: 1161865850585875779
+    second: SimpleFridge_2
+  - first:
+      213: 1718898304788047561
+    second: SimpleFridge_3
+  - first:
+      213: -4955858345337883965
+    second: SimpleFridge_4
+  - first:
+      213: -6588387027034558010
+    second: SimpleFridge_5
+  - first:
+      213: -7445029575578405760
+    second: SimpleFridge_6
+  - first:
+      213: 1117056978726843581
+    second: SimpleFridge_7
+  - first:
+      213: 338062824538003401
+    second: SimpleFridge_8
+  - first:
+      213: 1053052235002190912
+    second: SimpleFridge_9
+  - first:
+      213: -6796133231205047548
+    second: SimpleFridge_10
+  - first:
+      213: -5626960430804174485
+    second: SimpleFridge_11
+  - first:
+      213: 3006763167855543194
+    second: SimpleFridge_12
+  - first:
+      213: 5952997118890924015
+    second: SimpleFridge_13
+  - first:
+      213: -7217517293954140537
+    second: SimpleFridge_14
+  - first:
+      213: 2731389676642065336
+    second: SimpleFridge_15
+  - first:
+      213: -777492744016143343
+    second: SimpleFridge_16
+  - first:
+      213: 3565850359619312689
+    second: SimpleFridge_17
+  - first:
+      213: -6706971949940659727
+    second: SimpleFridge_18
+  - first:
+      213: -2944264146954164948
+    second: SimpleFridge_19
+  - first:
+      213: -5244291062184095171
+    second: SimpleFridge_20
+  - first:
+      213: -6837551959105948191
+    second: SimpleFridge_21
+  - first:
+      213: -3257393925742587907
+    second: SimpleFridge_22
+  - first:
+      213: -6147266037427266037
+    second: SimpleFridge_23
+  - first:
+      213: 1525149198157841080
+    second: SimpleFridge_24
+  - first:
+      213: 3540819415037621015
+    second: SimpleFridge_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SimpleFridge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd332318b59d5ed0800000000000000
+      internalID: -2423616406627861072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41267e153dcc0c90800000000000000
+      internalID: -7202156076044246709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34504d4d5d6cf1010800000000000000
+      internalID: 1161865850585875779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a9eda6e0cad710800000000000000
+      internalID: 1718898304788047561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2faf89711493bb0800000000000000
+      internalID: -4955858345337883965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c130dad7e85194a0800000000000000
+      internalID: -6588387027034558010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843f55eb01fda890800000000000000
+      internalID: -7445029575578405760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db472ea5765908f00800000000000000
+      internalID: 1117056978726843581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75a58095a01b400800000000000000
+      internalID: 338062824538003401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9c3dad613d9e00800000000000000
+      internalID: 1053052235002190912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403abcb65d84fa1a0800000000000000
+      internalID: -6796133231205047548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fcb41d4509e1b0800000000000000
+      internalID: -5626960430804174485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9302cfab2b2ab920800000000000000
+      internalID: 3006763167855543194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7da6cd65b4d9250800000000000000
+      internalID: 5952997118890924015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786ff9dd24a36db90800000000000000
+      internalID: -7217517293954140537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5b6b7078d7e520800000000000000
+      internalID: 2731389676642065336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c5979f77ac535f0800000000000000
+      internalID: -777492744016143343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 78
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cde4762027c7130800000000000000
+      internalID: 3565850359619312689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9274deb8c0ce2a0800000000000000
+      internalID: -6706971949940659727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e0e39b5fd327d0800000000000000
+      internalID: -2944264146954164948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32d2cb70198837b0800000000000000
+      internalID: -5244291062184095171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5b63858b22c11a0800000000000000
+      internalID: -6837551959105948191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 117
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff0992ab796bc2d0800000000000000
+      internalID: -3257393925742587907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 117
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e135bcb1680baa0800000000000000
+      internalID: -6147266037427266037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 117
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b28ba97d1b6a2510800000000000000
+      internalID: 1525149198157841080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFridge_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713bf177f74832130800000000000000
+      internalID: 3540819415037621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SimpleFridge_0: -2423616406627861072
+      SimpleFridge_1: -7202156076044246709
+      SimpleFridge_10: -6796133231205047548
+      SimpleFridge_11: -5626960430804174485
+      SimpleFridge_12: 3006763167855543194
+      SimpleFridge_13: 5952997118890924015
+      SimpleFridge_14: -7217517293954140537
+      SimpleFridge_15: 2731389676642065336
+      SimpleFridge_16: -777492744016143343
+      SimpleFridge_17: 3565850359619312689
+      SimpleFridge_18: -6706971949940659727
+      SimpleFridge_19: -2944264146954164948
+      SimpleFridge_2: 1161865850585875779
+      SimpleFridge_20: -5244291062184095171
+      SimpleFridge_21: -6837551959105948191
+      SimpleFridge_22: -3257393925742587907
+      SimpleFridge_23: -6147266037427266037
+      SimpleFridge_24: 1525149198157841080
+      SimpleFridge_25: 3540819415037621015
+      SimpleFridge_3: 1718898304788047561
+      SimpleFridge_4: -4955858345337883965
+      SimpleFridge_5: -6588387027034558010
+      SimpleFridge_6: -7445029575578405760
+      SimpleFridge_7: 1117056978726843581
+      SimpleFridge_8: 338062824538003401
+      SimpleFridge_9: 1053052235002190912
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

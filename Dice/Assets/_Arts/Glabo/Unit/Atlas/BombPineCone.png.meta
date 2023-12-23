@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: ae25c1ceb403e9f46bd2761524fdfcb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -681949865345589963
+    second: BombPineCone_0
+  - first:
+      213: -7829865613233360269
+    second: BombPineCone_1
+  - first:
+      213: -2359776042705164682
+    second: BombPineCone_2
+  - first:
+      213: -4594521616948999233
+    second: BombPineCone_3
+  - first:
+      213: -6996221345814217032
+    second: BombPineCone_4
+  - first:
+      213: 5115860001614213975
+    second: BombPineCone_5
+  - first:
+      213: 6417649739217678677
+    second: BombPineCone_6
+  - first:
+      213: -8438613511277192856
+    second: BombPineCone_7
+  - first:
+      213: 6826258807826382230
+    second: BombPineCone_8
+  - first:
+      213: -8238989687985586752
+    second: BombPineCone_9
+  - first:
+      213: 241522790367575935
+    second: BombPineCone_10
+  - first:
+      213: -7451507008088706325
+    second: BombPineCone_11
+  - first:
+      213: -854152548616109950
+    second: BombPineCone_12
+  - first:
+      213: 1355954532375522200
+    second: BombPineCone_13
+  - first:
+      213: -7790090089377395388
+    second: BombPineCone_14
+  - first:
+      213: 6769239606483213064
+    second: BombPineCone_15
+  - first:
+      213: -2847724803397716197
+    second: BombPineCone_16
+  - first:
+      213: 878808118212922556
+    second: BombPineCone_17
+  - first:
+      213: 7913316629166601295
+    second: BombPineCone_18
+  - first:
+      213: -5571313145567739110
+    second: BombPineCone_19
+  - first:
+      213: -6469326036164371147
+    second: BombPineCone_20
+  - first:
+      213: -6031381148253228214
+    second: BombPineCone_21
+  - first:
+      213: 1442855155292563395
+    second: BombPineCone_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombPineCone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5379e53a3986f0800000000000000
+      internalID: -681949865345589963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372fd2c85bab65390800000000000000
+      internalID: -7829865613233360269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e4191134604fd0800000000000000
+      internalID: -2359776042705164682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbc6e4aeeafc30c0800000000000000
+      internalID: -4594521616948999233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8befcb8e0cd68ee90800000000000000
+      internalID: -6996221345814217032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75338d4019f2ff640800000000000000
+      internalID: 5115860001614213975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b2f68f62101950800000000000000
+      internalID: 6417649739217678677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d28f98b504ea80800000000000000
+      internalID: -8438613511277192856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d7f59f73ebbbe50800000000000000
+      internalID: 6826258807826382230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd3383e78a39ad80800000000000000
+      internalID: -8238989687985586752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 32
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f350db2bf0a5300800000000000000
+      internalID: 241522790367575935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2f98d1bdde69890800000000000000
+      internalID: -7451507008088706325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2800eb358c07524f0800000000000000
+      internalID: -854152548616109950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be2d9867151d210800000000000000
+      internalID: 1355954532375522200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d8e5e565a04e390800000000000000
+      internalID: -7790090089377395388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bdfef9e8b21fd50800000000000000
+      internalID: 6769239606483213064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f8631169da78d0800000000000000
+      internalID: -2847724803397716197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 64
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8fcfc357223c00800000000000000
+      internalID: 878808118212922556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44baa43c8fb1dd60800000000000000
+      internalID: 7913316629166601295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1388f15638bea2b0800000000000000
+      internalID: -5571313145567739110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9c3efe365836a0800000000000000
+      internalID: -6469326036164371147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f0612dca3c4ca0800000000000000
+      internalID: -6031381148253228214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPineCone_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ed818e1d060410800000000000000
+      internalID: 1442855155292563395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BombPineCone_0: -681949865345589963
+      BombPineCone_1: -7829865613233360269
+      BombPineCone_10: 241522790367575935
+      BombPineCone_11: -7451507008088706325
+      BombPineCone_12: -854152548616109950
+      BombPineCone_13: 1355954532375522200
+      BombPineCone_14: -7790090089377395388
+      BombPineCone_15: 6769239606483213064
+      BombPineCone_16: -2847724803397716197
+      BombPineCone_17: 878808118212922556
+      BombPineCone_18: 7913316629166601295
+      BombPineCone_19: -5571313145567739110
+      BombPineCone_2: -2359776042705164682
+      BombPineCone_20: -6469326036164371147
+      BombPineCone_21: -6031381148253228214
+      BombPineCone_22: 1442855155292563395
+      BombPineCone_3: -4594521616948999233
+      BombPineCone_4: -6996221345814217032
+      BombPineCone_5: 5115860001614213975
+      BombPineCone_6: 6417649739217678677
+      BombPineCone_7: -8438613511277192856
+      BombPineCone_8: 6826258807826382230
+      BombPineCone_9: -8238989687985586752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

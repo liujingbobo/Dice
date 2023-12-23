@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 4e0e9689876d4434690d15b8e071942d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4304300727487955307
+    second: IronShark_0
+  - first:
+      213: -271997386431857491
+    second: IronShark_1
+  - first:
+      213: 1884806939785388857
+    second: IronShark_2
+  - first:
+      213: -5305787668039091459
+    second: IronShark_3
+  - first:
+      213: -1601319764638804889
+    second: IronShark_4
+  - first:
+      213: 2735880866647355241
+    second: IronShark_5
+  - first:
+      213: -4816791250626560405
+    second: IronShark_6
+  - first:
+      213: 112968676413444625
+    second: IronShark_7
+  - first:
+      213: -937097317628107479
+    second: IronShark_8
+  - first:
+      213: 1803119162733311731
+    second: IronShark_9
+  - first:
+      213: 5243476583229714981
+    second: IronShark_10
+  - first:
+      213: 1665244291529674369
+    second: IronShark_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronShark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61006cd4b2fbbb30800000000000000
+      internalID: 4304300727487955307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 0.54901963, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf4e171dba93cf0800000000000000
+      internalID: -271997386431857491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 47
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336914fced282a10800000000000000
+      internalID: 1884806939785388857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 53
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5660378, y: 0.28571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab1e82a3e0e56b0800000000000000
+      internalID: -5305787668039091459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76454e08828f6c9e0800000000000000
+      internalID: -1601319764638804889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.28571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fad44272dc7f520800000000000000
+      internalID: 2735880866647355241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eb135c0e1572db0800000000000000
+      internalID: -4816791250626560405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129e54a968519100800000000000000
+      internalID: 112968676413444625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 53
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252ece54f2cef2f0800000000000000
+      internalID: -937097317628107479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 53
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63b6e3357f50910800000000000000
+      internalID: 1803119162733311731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5227c7bdb2294c840800000000000000
+      internalID: 5243476583229714981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronShark_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 106
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e8fdc3cd22c1710800000000000000
+      internalID: 1665244291529674369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IronShark_0: 4304300727487955307
+      IronShark_1: -271997386431857491
+      IronShark_10: 5243476583229714981
+      IronShark_11: 1665244291529674369
+      IronShark_2: 1884806939785388857
+      IronShark_3: -5305787668039091459
+      IronShark_4: -1601319764638804889
+      IronShark_5: 2735880866647355241
+      IronShark_6: -4816791250626560405
+      IronShark_7: 112968676413444625
+      IronShark_8: -937097317628107479
+      IronShark_9: 1803119162733311731
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

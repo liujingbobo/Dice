@@ -1,0 +1,2447 @@
+fileFormatVersion: 2
+guid: 384c75ab6cea35546a1b9549d2cc7bc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9112297490797189624
+    second: Star5_0
+  - first:
+      213: -5287214672089931470
+    second: Star5_1
+  - first:
+      213: -1371190704192314837
+    second: Star5_2
+  - first:
+      213: 4822583191586089253
+    second: Star5_3
+  - first:
+      213: 1035462905765266242
+    second: Star5_4
+  - first:
+      213: 2877316499313888958
+    second: Star5_5
+  - first:
+      213: 5292706411558240612
+    second: Star5_6
+  - first:
+      213: -6763206259406707441
+    second: Star5_7
+  - first:
+      213: -6768152248626856488
+    second: Star5_8
+  - first:
+      213: -5368880050022441130
+    second: Star5_9
+  - first:
+      213: -3028712735523958898
+    second: Star5_10
+  - first:
+      213: -3752730027912970495
+    second: Star5_11
+  - first:
+      213: 8207742425028786299
+    second: Star5_12
+  - first:
+      213: 2105705139029307083
+    second: Star5_13
+  - first:
+      213: -5108306556723548675
+    second: Star5_14
+  - first:
+      213: 7003957121106601671
+    second: Star5_15
+  - first:
+      213: -3755252758926114114
+    second: Star5_16
+  - first:
+      213: -4172025619257459720
+    second: Star5_17
+  - first:
+      213: 9032677621435473226
+    second: Star5_18
+  - first:
+      213: -7772257034562523276
+    second: Star5_19
+  - first:
+      213: -4580268748519853369
+    second: Star5_20
+  - first:
+      213: -5425526936692311158
+    second: Star5_21
+  - first:
+      213: 880366299727860241
+    second: Star5_22
+  - first:
+      213: 440749810790759276
+    second: Star5_23
+  - first:
+      213: 4627508592626798079
+    second: Star5_24
+  - first:
+      213: -8927658810541543215
+    second: Star5_25
+  - first:
+      213: -445205739145470993
+    second: Star5_26
+  - first:
+      213: -5579969673527871339
+    second: Star5_27
+  - first:
+      213: 742578744016719500
+    second: Star5_28
+  - first:
+      213: -3485092902522903066
+    second: Star5_29
+  - first:
+      213: -1532876148473455652
+    second: Star5_30
+  - first:
+      213: -4728402635025267744
+    second: Star5_31
+  - first:
+      213: -9026427347154283784
+    second: Star5_32
+  - first:
+      213: -3004731313397873466
+    second: Star5_33
+  - first:
+      213: -3600577881648978270
+    second: Star5_34
+  - first:
+      213: 5653614969579324383
+    second: Star5_35
+  - first:
+      213: -8333101544431888924
+    second: Star5_36
+  - first:
+      213: -2131266211442474785
+    second: Star5_37
+  - first:
+      213: -6402951870922749673
+    second: Star5_38
+  - first:
+      213: -2582061651662992868
+    second: Star5_39
+  - first:
+      213: 1755157676754806496
+    second: Star5_40
+  - first:
+      213: -6172197515532730492
+    second: Star5_41
+  - first:
+      213: 3172278131805501671
+    second: Star5_42
+  - first:
+      213: -2908093441735015786
+    second: Star5_43
+  - first:
+      213: -6853087655249593729
+    second: Star5_44
+  - first:
+      213: -5233636696233154162
+    second: Star5_45
+  - first:
+      213: -3561847680467342936
+    second: Star5_46
+  - first:
+      213: -4826365461762751365
+    second: Star5_47
+  - first:
+      213: 1334560584832180611
+    second: Star5_48
+  - first:
+      213: -3113863466228986985
+    second: Star5_49
+  - first:
+      213: 2348619458762486708
+    second: Star5_50
+  - first:
+      213: 425196236078603236
+    second: Star5_51
+  - first:
+      213: 6016263726447910044
+    second: Star5_52
+  - first:
+      213: -7032380121430492464
+    second: Star5_53
+  - first:
+      213: -1864502442749389882
+    second: Star5_54
+  - first:
+      213: 8097132539646558206
+    second: Star5_55
+  - first:
+      213: -1044148164400885473
+    second: Star5_56
+  - first:
+      213: -4644541007787226440
+    second: Star5_57
+  - first:
+      213: -6015163140823264214
+    second: Star5_58
+  - first:
+      213: -908261466691814772
+    second: Star5_59
+  - first:
+      213: -2451989912437430888
+    second: Star5_60
+  - first:
+      213: 7365717250716688114
+    second: Star5_61
+  - first:
+      213: -2005529467502350550
+    second: Star5_62
+  - first:
+      213: 4089619445849965059
+    second: Star5_63
+  - first:
+      213: -2610840055784728857
+    second: Star5_64
+  - first:
+      213: -6518960240423531312
+    second: Star5_65
+  - first:
+      213: 5173641081563929554
+    second: Star5_66
+  - first:
+      213: -7951398112141948048
+    second: Star5_67
+  - first:
+      213: 6774919036286747385
+    second: Star5_68
+  - first:
+      213: -8266852016607157595
+    second: Star5_69
+  - first:
+      213: 832201680355307578
+    second: Star5_70
+  - first:
+      213: 2252313902459292973
+    second: Star5_71
+  - first:
+      213: 710390299258804673
+    second: Star5_72
+  - first:
+      213: 6362492409092085045
+    second: Star5_73
+  - first:
+      213: 2852996425086338595
+    second: Star5_74
+  - first:
+      213: -7752637595087795511
+    second: Star5_75
+  - first:
+      213: -465228850276467316
+    second: Star5_76
+  - first:
+      213: 3853011948876365200
+    second: Star5_77
+  - first:
+      213: 5340177635960919812
+    second: Star5_78
+  - first:
+      213: 8561689315017734596
+    second: Star5_79
+  - first:
+      213: -817568083285480187
+    second: Star5_80
+  - first:
+      213: 8733310818681431889
+    second: Star5_81
+  - first:
+      213: 2588682289108046059
+    second: Star5_82
+  - first:
+      213: 274567950171036304
+    second: Star5_83
+  - first:
+      213: 7476900023015978325
+    second: Star5_84
+  - first:
+      213: 792161827797455226
+    second: Star5_85
+  - first:
+      213: 8702074572094057603
+    second: Star5_86
+  - first:
+      213: -9169365870645396691
+    second: Star5_87
+  - first:
+      213: 7581207398017650475
+    second: Star5_88
+  - first:
+      213: 795296954417936532
+    second: Star5_89
+  - first:
+      213: 8810466779612129968
+    second: Star5_90
+  - first:
+      213: 6252652431301608173
+    second: Star5_91
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a95d06bd9a8180800000000000000
+      internalID: -9112297490797189624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231a8d2c44a00a6b0800000000000000
+      internalID: -5287214672089931470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ac45c15d88fce0800000000000000
+      internalID: -1371190704192314837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52922429cd14de240800000000000000
+      internalID: 4822583191586089253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438b34d604be5e00800000000000000
+      internalID: 1035462905765266242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe89f78c184ee720800000000000000
+      internalID: 2877316499313888958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618c597078737940800000000000000
+      internalID: 5292706411558240612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056d557db34422a0800000000000000
+      internalID: -6763206259406707441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddb5da9361b212a0800000000000000
+      internalID: -6768152248626856488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1bb04a08ed75b0800000000000000
+      internalID: -5368880050022441130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f846850d9d7f5d0800000000000000
+      internalID: -3028712735523958898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3e442cef9bebc0800000000000000
+      internalID: -3752730027912970495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b787eb3cf32c7e170800000000000000
+      internalID: 8207742425028786299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce6e8ddaa7f83d10800000000000000
+      internalID: 2105705139029307083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda1ba6046ab19b0800000000000000
+      internalID: -5108306556723548675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c660a1a4ed033160800000000000000
+      internalID: 7003957121106601671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2476e0389a2ebc0800000000000000
+      internalID: -3755252758926114114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb745abdccf916c0800000000000000
+      internalID: -4172025619257459720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d184480748a5d70800000000000000
+      internalID: 9032677621435473226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47faedff765632490800000000000000
+      internalID: -7772257034562523276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b6ac27dd9f60c0800000000000000
+      internalID: -4580268748519853369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b342b2ff7a4b4b0800000000000000
+      internalID: -5425526936692311158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11211873c70b73c00800000000000000
+      internalID: 880366299727860241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bf0032e9bdd1600800000000000000
+      internalID: 440749810790759276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd86922c86383040800000000000000
+      internalID: 4627508592626798079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 37
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f8c1dc959a1480800000000000000
+      internalID: -8927658810541543215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 37
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd4423dbf42d9f0800000000000000
+      internalID: -445205739145470993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983be75527ff82b0800000000000000
+      internalID: -5579969673527871339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e4fdeee6b2e4a00800000000000000
+      internalID: 742578744016719500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e523ef487672afc0800000000000000
+      internalID: -3485092902522903066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1295b3412abae0800000000000000
+      internalID: -1532876148473455652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e34c480bd6516eb0800000000000000
+      internalID: -4728402635025267744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25ffdd620bbb280800000000000000
+      internalID: -9026427347154283784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44d6b4acc0d46d0800000000000000
+      internalID: -3004731313397873466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62f2a4e7d280ec0800000000000000
+      internalID: -3600577881648978270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34b965cdca57e40800000000000000
+      internalID: 5653614969579324383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5d0e6cb40ea5c80800000000000000
+      internalID: -8333101544431888924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0cd213ca83c62e0800000000000000
+      internalID: -2131266211442474785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7190abb92352427a0800000000000000
+      internalID: -6402951870922749673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 74
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0870bb9caa2cd0800000000000000
+      internalID: -2582061651662992868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 74
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e625c79b929b5810800000000000000
+      internalID: 1755157676754806496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 74
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f7f13bf03f75aa0800000000000000
+      internalID: -6172197515532730492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b1074722360c20800000000000000
+      internalID: 3172278131805501671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cdb72c6064a7d0800000000000000
+      internalID: -2908093441735015786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7abb363611f4e0a0800000000000000
+      internalID: -6853087655249593729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e29d57236e57b0800000000000000
+      internalID: -5233636696233154162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e1b5f766c19ec0800000000000000
+      internalID: -3561847680467342936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ca670f2e450db0800000000000000
+      internalID: -4826365461762751365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e826f7cf458210800000000000000
+      internalID: 1334560584832180611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bca58eca559c4d0800000000000000
+      internalID: -3113863466228986985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bb1844f8f79020800000000000000
+      internalID: 2348619458762486708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb5c4359b996e500800000000000000
+      internalID: 425196236078603236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cdef1dbff0e7350800000000000000
+      internalID: 6016263726447910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafd98e987f76e90800000000000000
+      internalID: -7032380121430492464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 111
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3131928e4ff16e0800000000000000
+      internalID: -1864502442749389882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb3e4f42bce5070800000000000000
+      internalID: 8097132539646558206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115200d6c07281f0800000000000000
+      internalID: -1044148164400885473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba8b1eaf864b8fb0800000000000000
+      internalID: -4644541007787226440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d43d3ef8d58ca0800000000000000
+      internalID: -6015163140823264214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab8aa12053563f0800000000000000
+      internalID: -908261466691814772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89563547a28c8fdd0800000000000000
+      internalID: -2451989912437430888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe5fe470d8483660800000000000000
+      internalID: 7365717250716688114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa1f6339dea24e0800000000000000
+      internalID: -2005529467502350550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ca60e73f31c830800000000000000
+      internalID: 4089619445849965059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e617955dce64cbd0800000000000000
+      internalID: -2610840055784728857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_65
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc09a443300885a0800000000000000
+      internalID: -6518960240423531312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 148
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5cfd07277cc740800000000000000
+      internalID: 5173641081563929554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_67
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b411a9b85f6a190800000000000000
+      internalID: -7951398112141948048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f247ebe7f8550e50800000000000000
+      internalID: 6774919036286747385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a86bf3ed364d80800000000000000
+      internalID: -8266852016607157595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bf03e4039c8b00800000000000000
+      internalID: 832201680355307578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d82ce9f83d14f10800000000000000
+      internalID: 2252313902459292973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9543f9630dbd900800000000000000
+      internalID: 710390299258804673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359d0ad22d1c4850800000000000000
+      internalID: 6362492409092085045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260bbef121e79720800000000000000
+      internalID: 2852996425086338595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_75
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0478be29196490800000000000000
+      internalID: -7752637595087795511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df10853dc2b89f0800000000000000
+      internalID: -465228850276467316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_77
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7c1014f5a87530800000000000000
+      internalID: 3853011948876365200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_78
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079fe4344f1c1a40800000000000000
+      internalID: 5340177635960919812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_79
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b3eaf11b31d670800000000000000
+      internalID: 8561689315017734596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_80
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6210f82a67a4f0800000000000000
+      internalID: -817568083285480187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_81
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 185
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15725942be3f23970800000000000000
+      internalID: 8733310818681431889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be051a693d8dce320800000000000000
+      internalID: 2588682289108046059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad6a098167fc300800000000000000
+      internalID: 274567950171036304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553af4e4f843c760800000000000000
+      internalID: 7476900023015978325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71dd7e3cf25efa00800000000000000
+      internalID: 792161827797455226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c20aeb7baf3c870800000000000000
+      internalID: 8702074572094057603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_87
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b3790725edfb080800000000000000
+      internalID: -9169365870645396691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_88
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc76726fbd53960800000000000000
+      internalID: 7581207398017650475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f70bcd56790b00800000000000000
+      internalID: 795296954417936532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 222
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba29203bd0154a70800000000000000
+      internalID: 8810466779612129968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star5_91
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 222
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de207bf1242e5c650800000000000000
+      internalID: 6252652431301608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Star5_0: -9112297490797189624
+      Star5_1: -5287214672089931470
+      Star5_10: -3028712735523958898
+      Star5_11: -3752730027912970495
+      Star5_12: 8207742425028786299
+      Star5_13: 2105705139029307083
+      Star5_14: -5108306556723548675
+      Star5_15: 7003957121106601671
+      Star5_16: -3755252758926114114
+      Star5_17: -4172025619257459720
+      Star5_18: 9032677621435473226
+      Star5_19: -7772257034562523276
+      Star5_2: -1371190704192314837
+      Star5_20: -4580268748519853369
+      Star5_21: -5425526936692311158
+      Star5_22: 880366299727860241
+      Star5_23: 440749810790759276
+      Star5_24: 4627508592626798079
+      Star5_25: -8927658810541543215
+      Star5_26: -445205739145470993
+      Star5_27: -5579969673527871339
+      Star5_28: 742578744016719500
+      Star5_29: -3485092902522903066
+      Star5_3: 4822583191586089253
+      Star5_30: -1532876148473455652
+      Star5_31: -4728402635025267744
+      Star5_32: -9026427347154283784
+      Star5_33: -3004731313397873466
+      Star5_34: -3600577881648978270
+      Star5_35: 5653614969579324383
+      Star5_36: -8333101544431888924
+      Star5_37: -2131266211442474785
+      Star5_38: -6402951870922749673
+      Star5_39: -2582061651662992868
+      Star5_4: 1035462905765266242
+      Star5_40: 1755157676754806496
+      Star5_41: -6172197515532730492
+      Star5_42: 3172278131805501671
+      Star5_43: -2908093441735015786
+      Star5_44: -6853087655249593729
+      Star5_45: -5233636696233154162
+      Star5_46: -3561847680467342936
+      Star5_47: -4826365461762751365
+      Star5_48: 1334560584832180611
+      Star5_49: -3113863466228986985
+      Star5_5: 2877316499313888958
+      Star5_50: 2348619458762486708
+      Star5_51: 425196236078603236
+      Star5_52: 6016263726447910044
+      Star5_53: -7032380121430492464
+      Star5_54: -1864502442749389882
+      Star5_55: 8097132539646558206
+      Star5_56: -1044148164400885473
+      Star5_57: -4644541007787226440
+      Star5_58: -6015163140823264214
+      Star5_59: -908261466691814772
+      Star5_6: 5292706411558240612
+      Star5_60: -2451989912437430888
+      Star5_61: 7365717250716688114
+      Star5_62: -2005529467502350550
+      Star5_63: 4089619445849965059
+      Star5_64: -2610840055784728857
+      Star5_65: -6518960240423531312
+      Star5_66: 5173641081563929554
+      Star5_67: -7951398112141948048
+      Star5_68: 6774919036286747385
+      Star5_69: -8266852016607157595
+      Star5_7: -6763206259406707441
+      Star5_70: 832201680355307578
+      Star5_71: 2252313902459292973
+      Star5_72: 710390299258804673
+      Star5_73: 6362492409092085045
+      Star5_74: 2852996425086338595
+      Star5_75: -7752637595087795511
+      Star5_76: -465228850276467316
+      Star5_77: 3853011948876365200
+      Star5_78: 5340177635960919812
+      Star5_79: 8561689315017734596
+      Star5_8: -6768152248626856488
+      Star5_80: -817568083285480187
+      Star5_81: 8733310818681431889
+      Star5_82: 2588682289108046059
+      Star5_83: 274567950171036304
+      Star5_84: 7476900023015978325
+      Star5_85: 792161827797455226
+      Star5_86: 8702074572094057603
+      Star5_87: -9169365870645396691
+      Star5_88: 7581207398017650475
+      Star5_89: 795296954417936532
+      Star5_9: -5368880050022441130
+      Star5_90: 8810466779612129968
+      Star5_91: 6252652431301608173
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

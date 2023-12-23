@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: e9a613398f187944faed93fc4d9ee9f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7980237305849685810
+    second: RedCrystal_0
+  - first:
+      213: 5337301970146802435
+    second: RedCrystal_1
+  - first:
+      213: -8134059159145923615
+    second: RedCrystal_2
+  - first:
+      213: -8117371233551061566
+    second: RedCrystal_3
+  - first:
+      213: -7192646978547465977
+    second: RedCrystal_4
+  - first:
+      213: 5766842701595146019
+    second: RedCrystal_5
+  - first:
+      213: 9105000407971064734
+    second: RedCrystal_6
+  - first:
+      213: -2587345986515590611
+    second: RedCrystal_7
+  - first:
+      213: 5912664085682353375
+    second: RedCrystal_8
+  - first:
+      213: -683858694731611917
+    second: RedCrystal_9
+  - first:
+      213: -1378111051403479609
+    second: RedCrystal_10
+  - first:
+      213: -8552027661747767629
+    second: RedCrystal_11
+  - first:
+      213: -564335964033452367
+    second: RedCrystal_12
+  - first:
+      213: -5212289690395036749
+    second: RedCrystal_13
+  - first:
+      213: -1763528027285723447
+    second: RedCrystal_14
+  - first:
+      213: -3337920977392317020
+    second: RedCrystal_15
+  - first:
+      213: 14957555900433899
+    second: RedCrystal_16
+  - first:
+      213: 8067338247515165703
+    second: RedCrystal_17
+  - first:
+      213: -57857767300419581
+    second: RedCrystal_18
+  - first:
+      213: 3755605449432094386
+    second: RedCrystal_19
+  - first:
+      213: -537406013317608096
+    second: RedCrystal_20
+  - first:
+      213: 5551889344112151883
+    second: RedCrystal_21
+  - first:
+      213: -3939495640531492519
+    second: RedCrystal_22
+  - first:
+      213: 7638613134430989733
+    second: RedCrystal_23
+  - first:
+      213: 3416609415858344498
+    second: RedCrystal_24
+  - first:
+      213: -3419725457549796530
+    second: RedCrystal_25
+  - first:
+      213: -8838054147160806957
+    second: RedCrystal_26
+  - first:
+      213: 7463563542432315447
+    second: RedCrystal_27
+  - first:
+      213: 1476736406745886097
+    second: RedCrystal_28
+  - first:
+      213: -8676883615271166680
+    second: RedCrystal_29
+  - first:
+      213: 8374480587294622897
+    second: RedCrystal_30
+  - first:
+      213: 5072076385221134009
+    second: RedCrystal_31
+  - first:
+      213: 7908322642443303718
+    second: RedCrystal_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedCrystal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec852819370804190800000000000000
+      internalID: -7980237305849685810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb7951dd7e11a40800000000000000
+      internalID: 5337301970146802435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb38157a440e1f80800000000000000
+      internalID: -8134059159145923615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde63aeedd495f80800000000000000
+      internalID: -8117371233551061566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70144e86ea59e2c90800000000000000
+      internalID: -7192646978547465977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327f12012e0f70050800000000000000
+      internalID: 5766842701595146019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be6e471a57b5e70800000000000000
+      internalID: 9105000407971064734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a4ba9886e71cd0800000000000000
+      internalID: -2587345986515590611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47e47c8a00e0250800000000000000
+      internalID: 5912664085682353375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c5ffe3227286f0800000000000000
+      internalID: -683858694731611917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c53e00ec47ffdce0800000000000000
+      internalID: -1378111051403479609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 61
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44262293, y: 0.27272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6b538f628115980800000000000000
+      internalID: -8552027661747767629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0.28846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6fec14e631b28f0800000000000000
+      internalID: -564335964033452367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b299742a3aa7b0800000000000000
+      internalID: -5212289690395036749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6603e4a90b687e0800000000000000
+      internalID: -1763528027285723447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc43e5e825da1d0800000000000000
+      internalID: -3337920977392317020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5472e51d3253000800000000000000
+      internalID: 14957555900433899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704501eb461f4ff60800000000000000
+      internalID: 8067338247515165703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300bf8ccaa2723ff0800000000000000
+      internalID: -57857767300419581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6dbe912479e1430800000000000000
+      internalID: 3755605449432094386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8b040410ca88f0800000000000000
+      internalID: -537406013317608096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dc41c71f54c0d40800000000000000
+      internalID: 5551889344112151883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951abe756991459c0800000000000000
+      internalID: -3939495640531492519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 56
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6466bc2ec10a60800000000000000
+      internalID: 7638613134430989733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232dd78692c3a6f20800000000000000
+      internalID: 3416609415858344498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 56
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b526990d1ba80d0800000000000000
+      internalID: -3419725457549796530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9efc4449ce85580800000000000000
+      internalID: -8838054147160806957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738fb398f77e39760800000000000000
+      internalID: 7463563542432315447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da9f610fb6e7410800000000000000
+      internalID: 1476736406745886097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dda52f254859780800000000000000
+      internalID: -8676883615271166680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4c91869b1283470800000000000000
+      internalID: 8374480587294622897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 109
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c0ce6992a36640800000000000000
+      internalID: 5072076385221134009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrystal_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 109
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf2001b8100cd60800000000000000
+      internalID: 7908322642443303718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedCrystal_0: -7980237305849685810
+      RedCrystal_1: 5337301970146802435
+      RedCrystal_10: -1378111051403479609
+      RedCrystal_11: -8552027661747767629
+      RedCrystal_12: -564335964033452367
+      RedCrystal_13: -5212289690395036749
+      RedCrystal_14: -1763528027285723447
+      RedCrystal_15: -3337920977392317020
+      RedCrystal_16: 14957555900433899
+      RedCrystal_17: 8067338247515165703
+      RedCrystal_18: -57857767300419581
+      RedCrystal_19: 3755605449432094386
+      RedCrystal_2: -8134059159145923615
+      RedCrystal_20: -537406013317608096
+      RedCrystal_21: 5551889344112151883
+      RedCrystal_22: -3939495640531492519
+      RedCrystal_23: 7638613134430989733
+      RedCrystal_24: 3416609415858344498
+      RedCrystal_25: -3419725457549796530
+      RedCrystal_26: -8838054147160806957
+      RedCrystal_27: 7463563542432315447
+      RedCrystal_28: 1476736406745886097
+      RedCrystal_29: -8676883615271166680
+      RedCrystal_3: -8117371233551061566
+      RedCrystal_30: 8374480587294622897
+      RedCrystal_31: 5072076385221134009
+      RedCrystal_32: 7908322642443303718
+      RedCrystal_4: -7192646978547465977
+      RedCrystal_5: 5766842701595146019
+      RedCrystal_6: 9105000407971064734
+      RedCrystal_7: -2587345986515590611
+      RedCrystal_8: 5912664085682353375
+      RedCrystal_9: -683858694731611917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

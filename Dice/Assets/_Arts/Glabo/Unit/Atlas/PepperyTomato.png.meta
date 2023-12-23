@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: f5883afbe0e13414d9597daa092b57c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PepperyTomato_0
+  - first:
+      213: 21300002
+    second: PepperyTomato_1
+  - first:
+      213: 21300004
+    second: PepperyTomato_2
+  - first:
+      213: 21300006
+    second: PepperyTomato_3
+  - first:
+      213: 21300008
+    second: PepperyTomato_4
+  - first:
+      213: 21300010
+    second: PepperyTomato_5
+  - first:
+      213: 21300012
+    second: PepperyTomato_6
+  - first:
+      213: 21300014
+    second: PepperyTomato_7
+  - first:
+      213: 21300016
+    second: PepperyTomato_8
+  - first:
+      213: 21300018
+    second: PepperyTomato_9
+  - first:
+      213: 21300020
+    second: PepperyTomato_10
+  - first:
+      213: 21300022
+    second: PepperyTomato_11
+  - first:
+      213: 21300024
+    second: PepperyTomato_12
+  - first:
+      213: 21300026
+    second: PepperyTomato_13
+  - first:
+      213: 21300028
+    second: PepperyTomato_14
+  - first:
+      213: 21300030
+    second: PepperyTomato_15
+  - first:
+      213: 21300032
+    second: PepperyTomato_16
+  - first:
+      213: 21300034
+    second: PepperyTomato_17
+  - first:
+      213: 21300036
+    second: PepperyTomato_18
+  - first:
+      213: 21300038
+    second: PepperyTomato_19
+  - first:
+      213: 21300040
+    second: PepperyTomato_20
+  - first:
+      213: 21300042
+    second: PepperyTomato_21
+  - first:
+      213: 21300044
+    second: PepperyTomato_22
+  - first:
+      213: 21300046
+    second: PepperyTomato_23
+  - first:
+      213: 21300048
+    second: PepperyTomato_24
+  - first:
+      213: 21300050
+    second: PepperyTomato_25
+  - first:
+      213: 21300052
+    second: PepperyTomato_26
+  - first:
+      213: 21300054
+    second: PepperyTomato_27
+  - first:
+      213: 21300056
+    second: PepperyTomato_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PepperyTomato_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 42
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 34
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 34
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 131
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperyTomato_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PepperyTomato_0: 21300000
+      PepperyTomato_1: 21300002
+      PepperyTomato_10: 21300020
+      PepperyTomato_11: 21300022
+      PepperyTomato_12: 21300024
+      PepperyTomato_13: 21300026
+      PepperyTomato_14: 21300028
+      PepperyTomato_15: 21300030
+      PepperyTomato_16: 21300032
+      PepperyTomato_17: 21300034
+      PepperyTomato_18: 21300036
+      PepperyTomato_19: 21300038
+      PepperyTomato_2: 21300004
+      PepperyTomato_20: 21300040
+      PepperyTomato_21: 21300042
+      PepperyTomato_22: 21300044
+      PepperyTomato_23: 21300046
+      PepperyTomato_24: 21300048
+      PepperyTomato_25: 21300050
+      PepperyTomato_26: 21300052
+      PepperyTomato_27: 21300054
+      PepperyTomato_28: 21300056
+      PepperyTomato_3: 21300006
+      PepperyTomato_4: 21300008
+      PepperyTomato_5: 21300010
+      PepperyTomato_6: 21300012
+      PepperyTomato_7: 21300014
+      PepperyTomato_8: 21300016
+      PepperyTomato_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

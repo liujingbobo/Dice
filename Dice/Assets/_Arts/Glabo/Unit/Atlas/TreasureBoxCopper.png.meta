@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 437ef115fcd2b0244a4e0c8a45688a79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3572826762312337087
+    second: TreasureBoxCopper_0
+  - first:
+      213: 8415959717789630291
+    second: TreasureBoxCopper_1
+  - first:
+      213: 6463448595236787257
+    second: TreasureBoxCopper_2
+  - first:
+      213: -2605075926703307823
+    second: TreasureBoxCopper_3
+  - first:
+      213: -6711231371098149046
+    second: TreasureBoxCopper_4
+  - first:
+      213: 3357432337956141766
+    second: TreasureBoxCopper_5
+  - first:
+      213: 7713468086068880692
+    second: TreasureBoxCopper_6
+  - first:
+      213: 1778730132722112121
+    second: TreasureBoxCopper_7
+  - first:
+      213: -7735288479877139124
+    second: TreasureBoxCopper_8
+  - first:
+      213: 7928632806268631640
+    second: TreasureBoxCopper_9
+  - first:
+      213: -415149471011182747
+    second: TreasureBoxCopper_10
+  - first:
+      213: 8663438280025670215
+    second: TreasureBoxCopper_11
+  - first:
+      213: 29173208852494399
+    second: TreasureBoxCopper_12
+  - first:
+      213: 2351529607300250488
+    second: TreasureBoxCopper_13
+  - first:
+      213: 4095069192122990562
+    second: TreasureBoxCopper_14
+  - first:
+      213: -3180520887632100169
+    second: TreasureBoxCopper_15
+  - first:
+      213: -981941429652915491
+    second: TreasureBoxCopper_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreasureBoxCopper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c2abb20b359130800000000000000
+      internalID: 3572826762312337087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff8de06ce7bc470800000000000000
+      internalID: 8415959717789630291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9341617a048c2b950800000000000000
+      internalID: 6463448595236787257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38de73f39e8dbd0800000000000000
+      internalID: -2605075926703307823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fac3820aaecd2a0800000000000000
+      internalID: -6711231371098149046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caf8454ceef79e20800000000000000
+      internalID: 3357432337956141766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a2784b5ebb0b60800000000000000
+      internalID: 7713468086068880692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765f20b1a15fa810800000000000000
+      internalID: 1778730132722112121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4570c16c1cb6a490800000000000000
+      internalID: -7735288479877139124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a76249789280e60800000000000000
+      internalID: 7928632806268631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567efa371c71d3af0800000000000000
+      internalID: -415149471011182747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742837ef637ba3870800000000000000
+      internalID: 8663438280025670215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 35
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387c9ef0e4a76000800000000000000
+      internalID: 29173208852494399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf1f908bf42a020800000000000000
+      internalID: 2351529607300250488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eff22fcbbb94d830800000000000000
+      internalID: 4095069192122990562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b48af39a158cd3d0800000000000000
+      internalID: -3180520887632100169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureBoxCopper_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda7c47e8717f52f0800000000000000
+      internalID: -981941429652915491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TreasureBoxCopper_0: 3572826762312337087
+      TreasureBoxCopper_1: 8415959717789630291
+      TreasureBoxCopper_10: -415149471011182747
+      TreasureBoxCopper_11: 8663438280025670215
+      TreasureBoxCopper_12: 29173208852494399
+      TreasureBoxCopper_13: 2351529607300250488
+      TreasureBoxCopper_14: 4095069192122990562
+      TreasureBoxCopper_15: -3180520887632100169
+      TreasureBoxCopper_16: -981941429652915491
+      TreasureBoxCopper_2: 6463448595236787257
+      TreasureBoxCopper_3: -2605075926703307823
+      TreasureBoxCopper_4: -6711231371098149046
+      TreasureBoxCopper_5: 3357432337956141766
+      TreasureBoxCopper_6: 7713468086068880692
+      TreasureBoxCopper_7: 1778730132722112121
+      TreasureBoxCopper_8: -7735288479877139124
+      TreasureBoxCopper_9: 7928632806268631640
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

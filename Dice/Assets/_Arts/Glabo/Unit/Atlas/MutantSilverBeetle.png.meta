@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 30fca85ffedef844faad81bbf30c3c5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7413899345999855732
+    second: MutantSilverBeetle_0
+  - first:
+      213: 667525033626105085
+    second: MutantSilverBeetle_1
+  - first:
+      213: -6386001674826470485
+    second: MutantSilverBeetle_2
+  - first:
+      213: -7131406413665047325
+    second: MutantSilverBeetle_3
+  - first:
+      213: -8059326938113987507
+    second: MutantSilverBeetle_4
+  - first:
+      213: -8300488126089825954
+    second: MutantSilverBeetle_5
+  - first:
+      213: -1749593121913334361
+    second: MutantSilverBeetle_6
+  - first:
+      213: 6967477751085020101
+    second: MutantSilverBeetle_7
+  - first:
+      213: -8932701829888802566
+    second: MutantSilverBeetle_8
+  - first:
+      213: -3256627873703413709
+    second: MutantSilverBeetle_9
+  - first:
+      213: -7783311827784968755
+    second: MutantSilverBeetle_10
+  - first:
+      213: -7918817050967017298
+    second: MutantSilverBeetle_11
+  - first:
+      213: -8786028613206438279
+    second: MutantSilverBeetle_12
+  - first:
+      213: 3738710050167202757
+    second: MutantSilverBeetle_13
+  - first:
+      213: 3021410309369581867
+    second: MutantSilverBeetle_14
+  - first:
+      213: -1065052875915314952
+    second: MutantSilverBeetle_15
+  - first:
+      213: 8790594536454619978
+    second: MutantSilverBeetle_16
+  - first:
+      213: 4084794807298866082
+    second: MutantSilverBeetle_17
+  - first:
+      213: -114675677772131071
+    second: MutantSilverBeetle_18
+  - first:
+      213: -5565379660677966762
+    second: MutantSilverBeetle_19
+  - first:
+      213: -3510423408978438887
+    second: MutantSilverBeetle_20
+  - first:
+      213: 2617132281543522884
+    second: MutantSilverBeetle_21
+  - first:
+      213: 9196417846202926972
+    second: MutantSilverBeetle_22
+  - first:
+      213: -886506319397598347
+    second: MutantSilverBeetle_23
+  - first:
+      213: 6098068938930750212
+    second: MutantSilverBeetle_24
+  - first:
+      213: -1621876067491345017
+    second: MutantSilverBeetle_25
+  - first:
+      213: -4881560870837695963
+    second: MutantSilverBeetle_26
+  - first:
+      213: -5010862742353963418
+    second: MutantSilverBeetle_27
+  - first:
+      213: 7571867991856538225
+    second: MutantSilverBeetle_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MutantSilverBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f7d2943d98c1990800000000000000
+      internalID: -7413899345999855732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4f6fb3b76834900800000000000000
+      internalID: 667525033626105085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2becaf4d5067a0800000000000000
+      internalID: -6386001674826470485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6d8c86a7280d90800000000000000
+      internalID: -7131406413665047325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4caaf499d4872090800000000000000
+      internalID: -8059326938113987507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e517116f60ebecc80800000000000000
+      internalID: -8300488126089825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a593ea435238b7e0800000000000000
+      internalID: -1749593121913334361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33cdd691471b060800000000000000
+      internalID: 6967477751085020101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af00ff0630ba80480800000000000000
+      internalID: -8932701829888802566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b54604322ec2d0800000000000000
+      internalID: -3256627873703413709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5d7c0612f1cf390800000000000000
+      internalID: -7783311827784968755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fdcb09d5ba1290800000000000000
+      internalID: -7918817050967017298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8963d681c11680800000000000000
+      internalID: -8786028613206438279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3266a6bf092e330800000000000000
+      internalID: 3738710050167202757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215da21ba43ee920800000000000000
+      internalID: 3021410309369581867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 75
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83f006d0c2831f0800000000000000
+      internalID: -1065052875915314952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 75
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430ed508277ef970800000000000000
+      internalID: 8790594536454619978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 75
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb86d2c3b10b830800000000000000
+      internalID: 4084794807298866082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d3022417986ef0800000000000000
+      internalID: -114675677772131071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541b1d6facc3c2b0800000000000000
+      internalID: -5565379660677966762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915df903288784fc0800000000000000
+      internalID: -3510423408978438887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 114
+        width: 39
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44afb93a1fbe15420800000000000000
+      internalID: 2617132281543522884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770df07e4d30af70800000000000000
+      internalID: 9196417846202926972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bca2d033f72b3f0800000000000000
+      internalID: -886506319397598347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4038fc81461b0a450800000000000000
+      internalID: 6098068938930750212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d88774f40fd79e0800000000000000
+      internalID: -1621876067491345017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 161
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ac5486046314cb0800000000000000
+      internalID: -4881560870837695963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 161
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66690cf62e6d57ab0800000000000000
+      internalID: -5010862742353963418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MutantSilverBeetle_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17262c432dda41960800000000000000
+      internalID: 7571867991856538225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MutantSilverBeetle_0: -7413899345999855732
+      MutantSilverBeetle_1: 667525033626105085
+      MutantSilverBeetle_10: -7783311827784968755
+      MutantSilverBeetle_11: -7918817050967017298
+      MutantSilverBeetle_12: -8786028613206438279
+      MutantSilverBeetle_13: 3738710050167202757
+      MutantSilverBeetle_14: 3021410309369581867
+      MutantSilverBeetle_15: -1065052875915314952
+      MutantSilverBeetle_16: 8790594536454619978
+      MutantSilverBeetle_17: 4084794807298866082
+      MutantSilverBeetle_18: -114675677772131071
+      MutantSilverBeetle_19: -5565379660677966762
+      MutantSilverBeetle_2: -6386001674826470485
+      MutantSilverBeetle_20: -3510423408978438887
+      MutantSilverBeetle_21: 2617132281543522884
+      MutantSilverBeetle_22: 9196417846202926972
+      MutantSilverBeetle_23: -886506319397598347
+      MutantSilverBeetle_24: 6098068938930750212
+      MutantSilverBeetle_25: -1621876067491345017
+      MutantSilverBeetle_26: -4881560870837695963
+      MutantSilverBeetle_27: -5010862742353963418
+      MutantSilverBeetle_28: 7571867991856538225
+      MutantSilverBeetle_3: -7131406413665047325
+      MutantSilverBeetle_4: -8059326938113987507
+      MutantSilverBeetle_5: -8300488126089825954
+      MutantSilverBeetle_6: -1749593121913334361
+      MutantSilverBeetle_7: 6967477751085020101
+      MutantSilverBeetle_8: -8932701829888802566
+      MutantSilverBeetle_9: -3256627873703413709
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

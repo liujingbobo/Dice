@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: 4da1b4eb773d7654fae9132e85d2c78d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Swoogun_0
+  - first:
+      213: 21300002
+    second: Swoogun_1
+  - first:
+      213: 21300004
+    second: Swoogun_2
+  - first:
+      213: 21300006
+    second: Swoogun_3
+  - first:
+      213: 21300008
+    second: Swoogun_4
+  - first:
+      213: 21300010
+    second: Swoogun_5
+  - first:
+      213: 21300012
+    second: Swoogun_6
+  - first:
+      213: 21300014
+    second: Swoogun_7
+  - first:
+      213: 21300016
+    second: Swoogun_8
+  - first:
+      213: 21300018
+    second: Swoogun_9
+  - first:
+      213: 21300020
+    second: Swoogun_10
+  - first:
+      213: 21300022
+    second: Swoogun_11
+  - first:
+      213: 21300024
+    second: Swoogun_12
+  - first:
+      213: 21300026
+    second: Swoogun_13
+  - first:
+      213: 21300028
+    second: Swoogun_14
+  - first:
+      213: 21300030
+    second: Swoogun_15
+  - first:
+      213: 21300032
+    second: Swoogun_16
+  - first:
+      213: 21300034
+    second: Swoogun_17
+  - first:
+      213: 21300036
+    second: Swoogun_18
+  - first:
+      213: 21300038
+    second: Swoogun_19
+  - first:
+      213: 21300040
+    second: Swoogun_20
+  - first:
+      213: 21300042
+    second: Swoogun_21
+  - first:
+      213: 21300044
+    second: Swoogun_22
+  - first:
+      213: 21300046
+    second: Swoogun_23
+  - first:
+      213: 21300048
+    second: Swoogun_24
+  - first:
+      213: 21300050
+    second: Swoogun_25
+  - first:
+      213: 21300052
+    second: Swoogun_26
+  - first:
+      213: 21300054
+    second: Swoogun_27
+  - first:
+      213: 21300056
+    second: Swoogun_28
+  - first:
+      213: 21300058
+    second: Swoogun_29
+  - first:
+      213: 21300060
+    second: Swoogun_30
+  - first:
+      213: 21300062
+    second: Swoogun_31
+  - first:
+      213: 21300064
+    second: Swoogun_32
+  - first:
+      213: 21300066
+    second: Swoogun_33
+  - first:
+      213: 21300068
+    second: Swoogun_34
+  - first:
+      213: 21300070
+    second: Swoogun_35
+  - first:
+      213: 21300072
+    second: Swoogun_36
+  - first:
+      213: 21300074
+    second: Swoogun_37
+  - first:
+      213: 21300076
+    second: Swoogun_38
+  - first:
+      213: 21300078
+    second: Swoogun_39
+  - first:
+      213: 21300080
+    second: Swoogun_40
+  - first:
+      213: 21300082
+    second: Swoogun_41
+  - first:
+      213: 3536614114796119120
+    second: Swoogun_42
+  - first:
+      213: -5207577468436687564
+    second: Swoogun_43
+  - first:
+      213: 7997987093004444893
+    second: Swoogun_44
+  - first:
+      213: 7613895988903850062
+    second: Swoogun_45
+  - first:
+      213: 9065386435159645059
+    second: Swoogun_46
+  - first:
+      213: -5817296245489835720
+    second: Swoogun_47
+  - first:
+      213: -4598228890740245226
+    second: Swoogun_48
+  - first:
+      213: -6996670842734303808
+    second: Swoogun_49
+  - first:
+      213: 2947064372903857368
+    second: Swoogun_50
+  - first:
+      213: 3255758731426101673
+    second: Swoogun_51
+  - first:
+      213: -3329773157011615059
+    second: Swoogun_52
+  - first:
+      213: -698814241625554020
+    second: Swoogun_53
+  - first:
+      213: 3514756521659880529
+    second: Swoogun_54
+  - first:
+      213: -1702267331258170837
+    second: Swoogun_55
+  - first:
+      213: -6484655473467728651
+    second: Swoogun_56
+  - first:
+      213: 554013674218254967
+    second: Swoogun_57
+  - first:
+      213: 6947734297405421835
+    second: Swoogun_58
+  - first:
+      213: 4834481503663764990
+    second: Swoogun_59
+  - first:
+      213: -3086550794262836062
+    second: Swoogun_60
+  - first:
+      213: 1513956974262800283
+    second: Swoogun_61
+  - first:
+      213: 6214701065383504941
+    second: Swoogun_62
+  - first:
+      213: 1903168145041194708
+    second: Swoogun_63
+  - first:
+      213: 6005407241945979279
+    second: Swoogun_64
+  - first:
+      213: -8362813629144625401
+    second: Swoogun_65
+  - first:
+      213: -1308683147341859061
+    second: Swoogun_66
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swoogun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_9
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_10
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 79
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.42682925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 88
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 88
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 88
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 88
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 88
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_20
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 88
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 88
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_22
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 88
+        width: 79
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.42682925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 88
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 88
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 176
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 176
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 176
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 176
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_34
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 176
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_35
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 176
+        width: 80
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_36
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 176
+        width: 79
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 258
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 258
+        width: 79
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 258
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 258
+        width: 79
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0542e04bcc3941130800000000000000
+      internalID: 3536614114796119120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 258
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d08522e7fab7b0800000000000000
+      internalID: -5207577468436687564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 258
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd460bcc2ee8efe60800000000000000
+      internalID: 7997987093004444893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 258
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b26fcf0ef9a960800000000000000
+      internalID: 7613895988903850062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_46
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 258
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd55baee8becd70800000000000000
+      internalID: 9065386435159645059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_47
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 258
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316d56d2efc44fa0800000000000000
+      internalID: -5817296245489835720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_48
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 258
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3d73bf2fcf20c0800000000000000
+      internalID: -4598228890740245226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c52d7040f4d6ee90800000000000000
+      internalID: -6996670842734303808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 338
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc425de6316e820800000000000000
+      internalID: 2947064372903857368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 338
+        width: 82
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a977050157ce2d20800000000000000
+      internalID: 3255758731426101673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 338
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da211b1a4f44ac1d0800000000000000
+      internalID: -3329773157011615059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 338
+        width: 92
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4456522, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93cce356205d46f0800000000000000
+      internalID: -698814241625554020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 338
+        width: 92
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4456522, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15456893f6ce6c030800000000000000
+      internalID: 3514756521659880529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 338
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5731707, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ca9791e45068e0800000000000000
+      internalID: -1702267331258170837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_56
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 338
+        width: 91
+        height: 86
+      alignment: 9
+      pivot: {x: 0.45054945, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd92d3430e106a0800000000000000
+      internalID: -6484655473467728651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_57
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 338
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4137931, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fc7c508040b700800000000000000
+      internalID: 554013674218254967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_58
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 338
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.40697673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f5a6688f4b6060800000000000000
+      internalID: 6947734297405421835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_59
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 338
+        width: 81
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5331b3057871340800000000000000
+      internalID: 4834481503663764990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_60
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 338
+        width: 88
+        height: 91
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac83c6e76e5a25d0800000000000000
+      internalID: -3086550794262836062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 90
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc828c8d7a20510800000000000000
+      internalID: 1513956974262800283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_62
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 430
+        width: 89
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5505618, y: 0.40229884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cec6b21bd0f3650800000000000000
+      internalID: 6214701065383504941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 430
+        width: 93
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5591398, y: 0.39772728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def4013859696a10800000000000000
+      internalID: 1903168145041194708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 430
+        width: 93
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f899fbb811e775350800000000000000
+      internalID: 6005407241945979279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 430
+        width: 95
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5368421, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0a08ff4151fb80800000000000000
+      internalID: -8362813629144625401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swoogun_66
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 430
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f5277c9f96dde0800000000000000
+      internalID: -1308683147341859061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swoogun_0: 21300000
+      Swoogun_1: 21300002
+      Swoogun_10: 21300020
+      Swoogun_11: 21300022
+      Swoogun_12: 21300024
+      Swoogun_13: 21300026
+      Swoogun_14: 21300028
+      Swoogun_15: 21300030
+      Swoogun_16: 21300032
+      Swoogun_17: 21300034
+      Swoogun_18: 21300036
+      Swoogun_19: 21300038
+      Swoogun_2: 21300004
+      Swoogun_20: 21300040
+      Swoogun_21: 21300042
+      Swoogun_22: 21300044
+      Swoogun_23: 21300046
+      Swoogun_24: 21300048
+      Swoogun_25: 21300050
+      Swoogun_26: 21300052
+      Swoogun_27: 21300054
+      Swoogun_28: 21300056
+      Swoogun_29: 21300058
+      Swoogun_3: 21300006
+      Swoogun_30: 21300060
+      Swoogun_31: 21300062
+      Swoogun_32: 21300064
+      Swoogun_33: 21300066
+      Swoogun_34: 21300068
+      Swoogun_35: 21300070
+      Swoogun_36: 21300072
+      Swoogun_37: 21300074
+      Swoogun_38: 21300076
+      Swoogun_39: 21300078
+      Swoogun_4: 21300008
+      Swoogun_40: 21300080
+      Swoogun_41: 21300082
+      Swoogun_42: 3536614114796119120
+      Swoogun_43: -5207577468436687564
+      Swoogun_44: 7997987093004444893
+      Swoogun_45: 7613895988903850062
+      Swoogun_46: 9065386435159645059
+      Swoogun_47: -5817296245489835720
+      Swoogun_48: -4598228890740245226
+      Swoogun_49: -6996670842734303808
+      Swoogun_5: 21300010
+      Swoogun_50: 2947064372903857368
+      Swoogun_51: 3255758731426101673
+      Swoogun_52: -3329773157011615059
+      Swoogun_53: -698814241625554020
+      Swoogun_54: 3514756521659880529
+      Swoogun_55: -1702267331258170837
+      Swoogun_56: -6484655473467728651
+      Swoogun_57: 554013674218254967
+      Swoogun_58: 6947734297405421835
+      Swoogun_59: 4834481503663764990
+      Swoogun_6: 21300012
+      Swoogun_60: -3086550794262836062
+      Swoogun_61: 1513956974262800283
+      Swoogun_62: 6214701065383504941
+      Swoogun_63: 1903168145041194708
+      Swoogun_64: 6005407241945979279
+      Swoogun_65: -8362813629144625401
+      Swoogun_66: -1308683147341859061
+      Swoogun_7: 21300014
+      Swoogun_8: 21300016
+      Swoogun_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

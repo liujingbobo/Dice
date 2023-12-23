@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 9304137a455d62d46b13e3e3b680c97f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -523224286091801511
+    second: LightSaber_0
+  - first:
+      213: -3113717267837065656
+    second: LightSaber_1
+  - first:
+      213: -7954749782679044963
+    second: LightSaber_2
+  - first:
+      213: 2999013826540548985
+    second: LightSaber_3
+  - first:
+      213: 7938370661709662921
+    second: LightSaber_4
+  - first:
+      213: 6479375775284010465
+    second: LightSaber_5
+  - first:
+      213: -588151934658533249
+    second: LightSaber_6
+  - first:
+      213: 416995014306851181
+    second: LightSaber_7
+  - first:
+      213: -7750882641863325315
+    second: LightSaber_8
+  - first:
+      213: -2262293999221877983
+    second: LightSaber_9
+  - first:
+      213: 7651299881835224768
+    second: LightSaber_10
+  - first:
+      213: -4399111157871343952
+    second: LightSaber_11
+  - first:
+      213: 6895932236361284140
+    second: LightSaber_12
+  - first:
+      213: -3185657884170009449
+    second: LightSaber_13
+  - first:
+      213: -1917593353651848252
+    second: LightSaber_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightSaber_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c04a1b8422db8f0800000000000000
+      internalID: -523224286091801511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846629f54aad9c4d0800000000000000
+      internalID: -3113717267837065656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cbc4ef73d0b9190800000000000000
+      internalID: -7954749782679044963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733f6f8f23ae9920800000000000000
+      internalID: 2999013826540548985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca469abe02ca2e60800000000000000
+      internalID: 7938370661709662921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed131c30fd5be950800000000000000
+      internalID: 6479375775284010465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7828bc7ee676d7f0800000000000000
+      internalID: -588151934658533249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 38
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d696ed491c679c500800000000000000
+      internalID: 416995014306851181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79cefb9d455f6490800000000000000
+      internalID: -7750882641863325315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d1e60897ba90e0800000000000000
+      internalID: -2262293999221877983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced6c644b0ee2a60800000000000000
+      internalID: 7651299881835224768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60f9b95b733f2c0800000000000000
+      internalID: -4399111157871343952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aba7f25d543bf50800000000000000
+      internalID: 6895932236361284140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794cf1e58054ac3d0800000000000000
+      internalID: -3185657884170009449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSaber_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 76
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7ee331075365e0800000000000000
+      internalID: -1917593353651848252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LightSaber_0: -523224286091801511
+      LightSaber_1: -3113717267837065656
+      LightSaber_10: 7651299881835224768
+      LightSaber_11: -4399111157871343952
+      LightSaber_12: 6895932236361284140
+      LightSaber_13: -3185657884170009449
+      LightSaber_14: -1917593353651848252
+      LightSaber_2: -7954749782679044963
+      LightSaber_3: 2999013826540548985
+      LightSaber_4: 7938370661709662921
+      LightSaber_5: 6479375775284010465
+      LightSaber_6: -588151934658533249
+      LightSaber_7: 416995014306851181
+      LightSaber_8: -7750882641863325315
+      LightSaber_9: -2262293999221877983
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

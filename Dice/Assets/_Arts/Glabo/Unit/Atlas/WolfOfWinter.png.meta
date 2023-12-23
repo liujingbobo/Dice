@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 73e6fce0463bef14d80a44fe5ede2d63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2632804979444306040
+    second: WolfOfWinter_0
+  - first:
+      213: -3458161896411491916
+    second: WolfOfWinter_1
+  - first:
+      213: 4295963251985255774
+    second: WolfOfWinter_2
+  - first:
+      213: 4844672377171024700
+    second: WolfOfWinter_3
+  - first:
+      213: 4059196105056567152
+    second: WolfOfWinter_4
+  - first:
+      213: 1503147172590759877
+    second: WolfOfWinter_5
+  - first:
+      213: 7431124522336705182
+    second: WolfOfWinter_6
+  - first:
+      213: 2941860750354670426
+    second: WolfOfWinter_7
+  - first:
+      213: -3610965953741591392
+    second: WolfOfWinter_8
+  - first:
+      213: -867025863781822372
+    second: WolfOfWinter_9
+  - first:
+      213: 7650821331977189432
+    second: WolfOfWinter_10
+  - first:
+      213: 2626197062681461793
+    second: WolfOfWinter_11
+  - first:
+      213: 3987668095909321366
+    second: WolfOfWinter_12
+  - first:
+      213: -3301432175245910322
+    second: WolfOfWinter_13
+  - first:
+      213: -4322447864264961950
+    second: WolfOfWinter_14
+  - first:
+      213: -4046275276388651173
+    second: WolfOfWinter_15
+  - first:
+      213: 7295811664378540859
+    second: WolfOfWinter_16
+  - first:
+      213: -4442208317597004932
+    second: WolfOfWinter_17
+  - first:
+      213: -8769624837673039413
+    second: WolfOfWinter_18
+  - first:
+      213: -3541538544377579989
+    second: WolfOfWinter_19
+  - first:
+      213: -5173475631426940402
+    second: WolfOfWinter_20
+  - first:
+      213: -8531912078978523635
+    second: WolfOfWinter_21
+  - first:
+      213: 5459185601610773938
+    second: WolfOfWinter_22
+  - first:
+      213: -2582133521008436853
+    second: WolfOfWinter_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WolfOfWinter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa75502d5667bd0800000000000000
+      internalID: -2632804979444306040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11a9cc3142200d0800000000000000
+      internalID: -3458161896411491916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d86b211d35e9b30800000000000000
+      internalID: 4295963251985255774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1d6edbdbbb3340800000000000000
+      internalID: 4844672377171024700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbb8bd959255830800000000000000
+      internalID: 4059196105056567152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa763b3604cd410800000000000000
+      internalID: 1503147172590759877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 51
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad29b9168a02760800000000000000
+      internalID: 7431124522336705182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 51
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ed8b04c693d820800000000000000
+      internalID: 2941860750354670426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 51
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29787233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ace337c89543edc0800000000000000
+      internalID: -3610965953741591392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 51
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5055321294b7f3f0800000000000000
+      internalID: -867025863781822372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383b74377d2d2a60800000000000000
+      internalID: 7650821331977189432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 100
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248d477050227420800000000000000
+      internalID: 2626197062681461793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 100
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a55d2710b075730800000000000000
+      internalID: 3987668095909321366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece1c68ade4fe22d0800000000000000
+      internalID: -3301432175245910322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 100
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260575a91949304c0800000000000000
+      internalID: -4322447864264961950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa86ff21eb8d7c0800000000000000
+      internalID: -4046275276388651173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 149
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333f6bcd0eef3560800000000000000
+      internalID: 7295811664378540859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 149
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b485b221b1a52c0800000000000000
+      internalID: -4442208317597004932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 149
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94e017ca80c4680800000000000000
+      internalID: -8769624837673039413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 149
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.29787233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263500357de9dec0800000000000000
+      internalID: -3541538544377579989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0258aec25f1438b0800000000000000
+      internalID: -5173475631426940402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 197
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ede9d0b2f889980800000000000000
+      internalID: -8531912078978523635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 197
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ffe2716ce2cb40800000000000000
+      internalID: 5459185601610773938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfOfWinter_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 197
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89d9ad4e3b6a2cd0800000000000000
+      internalID: -2582133521008436853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WolfOfWinter_0: -2632804979444306040
+      WolfOfWinter_1: -3458161896411491916
+      WolfOfWinter_10: 7650821331977189432
+      WolfOfWinter_11: 2626197062681461793
+      WolfOfWinter_12: 3987668095909321366
+      WolfOfWinter_13: -3301432175245910322
+      WolfOfWinter_14: -4322447864264961950
+      WolfOfWinter_15: -4046275276388651173
+      WolfOfWinter_16: 7295811664378540859
+      WolfOfWinter_17: -4442208317597004932
+      WolfOfWinter_18: -8769624837673039413
+      WolfOfWinter_19: -3541538544377579989
+      WolfOfWinter_2: 4295963251985255774
+      WolfOfWinter_20: -5173475631426940402
+      WolfOfWinter_21: -8531912078978523635
+      WolfOfWinter_22: 5459185601610773938
+      WolfOfWinter_23: -2582133521008436853
+      WolfOfWinter_3: 4844672377171024700
+      WolfOfWinter_4: 4059196105056567152
+      WolfOfWinter_5: 1503147172590759877
+      WolfOfWinter_6: 7431124522336705182
+      WolfOfWinter_7: 2941860750354670426
+      WolfOfWinter_8: -3610965953741591392
+      WolfOfWinter_9: -867025863781822372
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

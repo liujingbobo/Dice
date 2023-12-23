@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 566e78d0019ab5540aaf6e61e4eb2cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4166844030154831553
+    second: BladeMorpho_0
+  - first:
+      213: 7743598324219829842
+    second: BladeMorpho_1
+  - first:
+      213: 8847069793169196099
+    second: BladeMorpho_2
+  - first:
+      213: 212409129509265294
+    second: BladeMorpho_3
+  - first:
+      213: -6258862056817160401
+    second: BladeMorpho_4
+  - first:
+      213: 6640930410755126210
+    second: BladeMorpho_5
+  - first:
+      213: 8757891248205323509
+    second: BladeMorpho_6
+  - first:
+      213: 1629398993804401213
+    second: BladeMorpho_7
+  - first:
+      213: -3545017396865351992
+    second: BladeMorpho_8
+  - first:
+      213: 3189932377231535053
+    second: BladeMorpho_9
+  - first:
+      213: 1034684237500390844
+    second: BladeMorpho_10
+  - first:
+      213: 8907954598220507348
+    second: BladeMorpho_11
+  - first:
+      213: 3914376126266373435
+    second: BladeMorpho_12
+  - first:
+      213: 363428613026510160
+    second: BladeMorpho_13
+  - first:
+      213: 6618630773210733404
+    second: BladeMorpho_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BladeMorpho_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.2580645, y: 0.37777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f5db819a93d930800000000000000
+      internalID: 4166844030154831553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ede6606a9c67b60800000000000000
+      internalID: 7743598324219829842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34440f46a1b17ca70800000000000000
+      internalID: 8847069793169196099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f13775af0a2f200800000000000000
+      internalID: 212409129509265294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0e35ce1e0429a0800000000000000
+      internalID: -6258862056817160401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f52ff503592c50800000000000000
+      internalID: 6640930410755126210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd7ce50b74a8970800000000000000
+      internalID: 8757891248205323509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 46
+        width: 43
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a171f70c9cc9610800000000000000
+      internalID: 1629398993804401213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb249b5719dcec0800000000000000
+      internalID: -3545017396865351992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb276a989ae44c20800000000000000
+      internalID: 3189932377231535053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd18eef4dfeb5e00800000000000000
+      internalID: 1034684237500390844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 49
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ad3eb2896f9b70800000000000000
+      internalID: 8907954598220507348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35706bf858a25630800000000000000
+      internalID: 3914376126266373435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 94
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05578a4e5682b0500800000000000000
+      internalID: 363428613026510160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeMorpho_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 94
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5952381, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd1b80f991adb50800000000000000
+      internalID: 6618630773210733404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BladeMorpho_0: 4166844030154831553
+      BladeMorpho_1: 7743598324219829842
+      BladeMorpho_10: 1034684237500390844
+      BladeMorpho_11: 8907954598220507348
+      BladeMorpho_12: 3914376126266373435
+      BladeMorpho_13: 363428613026510160
+      BladeMorpho_14: 6618630773210733404
+      BladeMorpho_2: 8847069793169196099
+      BladeMorpho_3: 212409129509265294
+      BladeMorpho_4: -6258862056817160401
+      BladeMorpho_5: 6640930410755126210
+      BladeMorpho_6: 8757891248205323509
+      BladeMorpho_7: 1629398993804401213
+      BladeMorpho_8: -3545017396865351992
+      BladeMorpho_9: 3189932377231535053
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

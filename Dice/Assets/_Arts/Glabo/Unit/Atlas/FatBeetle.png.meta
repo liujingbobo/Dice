@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 973247ec5c9f4f64ea0ddeb03c2e9f22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4402854661513146375
+    second: FatBeetle_0
+  - first:
+      213: -2462572240244299420
+    second: FatBeetle_1
+  - first:
+      213: 5635873149635639681
+    second: FatBeetle_2
+  - first:
+      213: 6509355247891260951
+    second: FatBeetle_3
+  - first:
+      213: 2177257898676671372
+    second: FatBeetle_4
+  - first:
+      213: -5627822166361780515
+    second: FatBeetle_5
+  - first:
+      213: -4644060435534071020
+    second: FatBeetle_6
+  - first:
+      213: 4117219061525178910
+    second: FatBeetle_7
+  - first:
+      213: 250702801117402251
+    second: FatBeetle_8
+  - first:
+      213: -3615968520730274775
+    second: FatBeetle_9
+  - first:
+      213: -8296324919725567304
+    second: FatBeetle_10
+  - first:
+      213: -8276776429784580156
+    second: FatBeetle_11
+  - first:
+      213: -2886802978295151540
+    second: FatBeetle_12
+  - first:
+      213: -6064140273394027161
+    second: FatBeetle_13
+  - first:
+      213: -2153131019050963381
+    second: FatBeetle_14
+  - first:
+      213: 4421781187329026733
+    second: FatBeetle_15
+  - first:
+      213: 1850555698473869124
+    second: FatBeetle_16
+  - first:
+      213: -4198686131821899778
+    second: FatBeetle_17
+  - first:
+      213: -1766417933913180256
+    second: FatBeetle_18
+  - first:
+      213: 6452720385200997727
+    second: FatBeetle_19
+  - first:
+      213: 1047855741997686587
+    second: FatBeetle_20
+  - first:
+      213: -7043848982268510118
+    second: FatBeetle_21
+  - first:
+      213: 9074992481360205891
+    second: FatBeetle_22
+  - first:
+      213: 7638945661373802773
+    second: FatBeetle_23
+  - first:
+      213: -5039679419242022555
+    second: FatBeetle_24
+  - first:
+      213: 6171180935955823656
+    second: FatBeetle_25
+  - first:
+      213: 3099543377446458354
+    second: FatBeetle_26
+  - first:
+      213: 2308252455243570470
+    second: FatBeetle_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FatBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff06de330be5e2c0800000000000000
+      internalID: -4402854661513146375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4692082489f23ddd0800000000000000
+      internalID: -2462572240244299420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b13bf4c4a63e40800000000000000
+      internalID: 5635873149635639681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71622632c10e55a50800000000000000
+      internalID: 6509355247891260951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835903f58c273e10800000000000000
+      internalID: 2177257898676671372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddecfe2ae85f5e1b0800000000000000
+      internalID: -5627822166361780515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbb80a3abfc8fb0800000000000000
+      internalID: -4644060435534071020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aeca82cec432930800000000000000
+      internalID: 4117219061525178910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b845ccc8edcaa7300800000000000000
+      internalID: 250702801117402251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92490e2e9cf71ddc0800000000000000
+      internalID: -3615968520730274775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 39
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2598af0788ddc80800000000000000
+      internalID: -8296324919725567304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 39
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf3d5970bbf22d80800000000000000
+      internalID: -8276776429784580156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448d267cf300f7d0800000000000000
+      internalID: -2886802978295151540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7657530fc88d7dba0800000000000000
+      internalID: -6064140273394027161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea796feba8e12e0800000000000000
+      internalID: -2153131019050963381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 78
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa6041ff825d5d30800000000000000
+      internalID: 4421781187329026733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 78
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38636366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1c946a9e7ea910800000000000000
+      internalID: 1850555698473869124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 78
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff856d65354bb5c0800000000000000
+      internalID: -4198686131821899778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b93c7f3c6c77e0800000000000000
+      internalID: -1766417933913180256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 125
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c3da900bac8950800000000000000
+      internalID: 6452720385200997727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 125
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f10adde3bba8e00800000000000000
+      internalID: 1047855741997686587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508368aba83f3e90800000000000000
+      internalID: -7043848982268510118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 125
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d0d69499d0fd70800000000000000
+      internalID: 9074992481360205891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 125
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51962bc2b9cf20a60800000000000000
+      internalID: 7638945661373802773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697b3205467f0ab0800000000000000
+      internalID: -5039679419242022555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 164
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3f4c6d5074a550800000000000000
+      internalID: 6171180935955823656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f35c9a974ac30b20800000000000000
+      internalID: 3099543377446458354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 164
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d57bed06f880020800000000000000
+      internalID: 2308252455243570470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FatBeetle_0: -4402854661513146375
+      FatBeetle_1: -2462572240244299420
+      FatBeetle_10: -8296324919725567304
+      FatBeetle_11: -8276776429784580156
+      FatBeetle_12: -2886802978295151540
+      FatBeetle_13: -6064140273394027161
+      FatBeetle_14: -2153131019050963381
+      FatBeetle_15: 4421781187329026733
+      FatBeetle_16: 1850555698473869124
+      FatBeetle_17: -4198686131821899778
+      FatBeetle_18: -1766417933913180256
+      FatBeetle_19: 6452720385200997727
+      FatBeetle_2: 5635873149635639681
+      FatBeetle_20: 1047855741997686587
+      FatBeetle_21: -7043848982268510118
+      FatBeetle_22: 9074992481360205891
+      FatBeetle_23: 7638945661373802773
+      FatBeetle_24: -5039679419242022555
+      FatBeetle_25: 6171180935955823656
+      FatBeetle_26: 3099543377446458354
+      FatBeetle_27: 2308252455243570470
+      FatBeetle_3: 6509355247891260951
+      FatBeetle_4: 2177257898676671372
+      FatBeetle_5: -5627822166361780515
+      FatBeetle_6: -4644060435534071020
+      FatBeetle_7: 4117219061525178910
+      FatBeetle_8: 250702801117402251
+      FatBeetle_9: -3615968520730274775
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

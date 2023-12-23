@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 90b95c8e8cb88d74cb169a0f587fdf62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3349596774221186202
+    second: ChainSunspirit_0
+  - first:
+      213: 3389331125433625339
+    second: ChainSunspirit_1
+  - first:
+      213: 2580299987782949362
+    second: ChainSunspirit_2
+  - first:
+      213: 478705573575845410
+    second: ChainSunspirit_3
+  - first:
+      213: 4237218254183651424
+    second: ChainSunspirit_4
+  - first:
+      213: 7063371723037998882
+    second: ChainSunspirit_5
+  - first:
+      213: 2357083853001665772
+    second: ChainSunspirit_6
+  - first:
+      213: 8983824841466763911
+    second: ChainSunspirit_7
+  - first:
+      213: -4411808189355464381
+    second: ChainSunspirit_8
+  - first:
+      213: -6659596352301174619
+    second: ChainSunspirit_9
+  - first:
+      213: 569217402238457229
+    second: ChainSunspirit_10
+  - first:
+      213: -7599135279396495036
+    second: ChainSunspirit_11
+  - first:
+      213: -7516950850973058038
+    second: ChainSunspirit_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChainSunspirit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b70c31b77d381d0800000000000000
+      internalID: -3349596774221186202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa65ad73b2590f20800000000000000
+      internalID: 3389331125433625339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f95fb9fa211fc320800000000000000
+      internalID: 2580299987782949362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ecf0de24b4a600800000000000000
+      internalID: 478705573575845410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068da6c6d8f9dca30800000000000000
+      internalID: 4237218254183651424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff734a823260260800000000000000
+      internalID: 7063371723037998882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec29f3a64b06b020800000000000000
+      internalID: 2357083853001665772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad4ff4815fcac70800000000000000
+      internalID: 8983824841466763911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 43
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ee4893db16c2c0800000000000000
+      internalID: -4411808189355464381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 43
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f991d66c5493a0800000000000000
+      internalID: -6659596352301174619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 43
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85d464263446e700800000000000000
+      internalID: 569217402238457229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ee6fa9b27a8690800000000000000
+      internalID: -7599135279396495036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainSunspirit_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 86
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c3ead070d6ea790800000000000000
+      internalID: -7516950850973058038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChainSunspirit_0: -3349596774221186202
+      ChainSunspirit_1: 3389331125433625339
+      ChainSunspirit_10: 569217402238457229
+      ChainSunspirit_11: -7599135279396495036
+      ChainSunspirit_12: -7516950850973058038
+      ChainSunspirit_2: 2580299987782949362
+      ChainSunspirit_3: 478705573575845410
+      ChainSunspirit_4: 4237218254183651424
+      ChainSunspirit_5: 7063371723037998882
+      ChainSunspirit_6: 2357083853001665772
+      ChainSunspirit_7: 8983824841466763911
+      ChainSunspirit_8: -4411808189355464381
+      ChainSunspirit_9: -6659596352301174619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

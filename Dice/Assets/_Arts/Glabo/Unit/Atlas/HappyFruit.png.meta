@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 0c9c6927b1885724b8898408fc238f8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8161550355043361001
+    second: HappyFruit_0
+  - first:
+      213: -1748835567662213284
+    second: HappyFruit_1
+  - first:
+      213: -7353897621862994692
+    second: HappyFruit_2
+  - first:
+      213: -3328740070688761963
+    second: HappyFruit_3
+  - first:
+      213: -7034323104970650631
+    second: HappyFruit_4
+  - first:
+      213: -6163647422726392570
+    second: HappyFruit_5
+  - first:
+      213: -4149562763198588963
+    second: HappyFruit_6
+  - first:
+      213: -7514547800053872458
+    second: HappyFruit_7
+  - first:
+      213: -7977706576673843549
+    second: HappyFruit_8
+  - first:
+      213: -5369313431463155381
+    second: HappyFruit_9
+  - first:
+      213: 897371615482273657
+    second: HappyFruit_10
+  - first:
+      213: 4582339578816011575
+    second: HappyFruit_11
+  - first:
+      213: -6971126711000661725
+    second: HappyFruit_12
+  - first:
+      213: -7204136640299594177
+    second: HappyFruit_13
+  - first:
+      213: -2454335365918522606
+    second: HappyFruit_14
+  - first:
+      213: -7474972444750202908
+    second: HappyFruit_15
+  - first:
+      213: 5392535617066884755
+    second: HappyFruit_16
+  - first:
+      213: -5752216604264153303
+    second: HappyFruit_17
+  - first:
+      213: 1479555248829991034
+    second: HappyFruit_18
+  - first:
+      213: -6078723802165150178
+    second: HappyFruit_19
+  - first:
+      213: 8941493821414630743
+    second: HappyFruit_20
+  - first:
+      213: -5569467498782314614
+    second: HappyFruit_21
+  - first:
+      213: 1729413140816484411
+    second: HappyFruit_22
+  - first:
+      213: 7360436844561213878
+    second: HappyFruit_23
+  - first:
+      213: -2617239808364304681
+    second: HappyFruit_24
+  - first:
+      213: 5806871024860381035
+    second: HappyFruit_25
+  - first:
+      213: -2963966969372758787
+    second: HappyFruit_26
+  - first:
+      213: 5587102253425267856
+    second: HappyFruit_27
+  - first:
+      213: 2782198788855239932
+    second: HappyFruit_28
+  - first:
+      213: -9038836833504666284
+    second: HappyFruit_29
+  - first:
+      213: -1318941673239842333
+    second: HappyFruit_30
+  - first:
+      213: 9168731991448364345
+    second: HappyFruit_31
+  - first:
+      213: -6138206989334873446
+    second: HappyFruit_32
+  - first:
+      213: 4113980034555969681
+    second: HappyFruit_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HappyFruit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0a2d06ec6a34170800000000000000
+      internalID: 8161550355043361001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57dce22153eab7e0800000000000000
+      internalID: -1748835567662213284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 34
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc24465315b1f990800000000000000
+      internalID: -7353897621862994692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597dcf8ca80fdc1d0800000000000000
+      internalID: -3328740070688761963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc6ecc760116e90800000000000000
+      internalID: -7034323104970650631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60534af4353567aa0800000000000000
+      internalID: -6163647422726392570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.17948718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71c56f6aac966c0800000000000000
+      internalID: -4149562763198588963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88812f696f6b790800000000000000
+      internalID: -7514547800053872458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 56
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6de0fd22e794190800000000000000
+      internalID: -7977706576673843549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a7e5c1ed5c75b0800000000000000
+      internalID: -5369313431463155381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd654daba147c00800000000000000
+      internalID: 897371615482273657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 56
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d9a83919db79f30800000000000000
+      internalID: 4582339578816011575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 56
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3218192e035914f90800000000000000
+      internalID: -6971126711000661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 56
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e019115e3c50c90800000000000000
+      internalID: -7204136640299594177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2138fb20df270fdd0800000000000000
+      internalID: -2454335365918522606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b4d46a20934890800000000000000
+      internalID: -7474972444750202908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed9e5a29226da40800000000000000
+      internalID: 5392535617066884755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f3bb799750c20b0800000000000000
+      internalID: -5752216604264153303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.36585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a788318e8af688410800000000000000
+      internalID: 1479555248829991034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1efb3c88e804aba0800000000000000
+      internalID: -6078723802165150178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 99
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e4caa141961c70800000000000000
+      internalID: 8941493821414630743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.45945948, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2ff271d645b2b0800000000000000
+      internalID: -5569467498782314614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 142
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b385248b61c100810800000000000000
+      internalID: 1729413140816484411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 142
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.45945948, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a4c71056852660800000000000000
+      internalID: 7360436844561213878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62f62d242bdabd0800000000000000
+      internalID: -2617239808364304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 142
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fbf455e66269050800000000000000
+      internalID: 5806871024860381035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 142
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcab80cebfddd6d0800000000000000
+      internalID: -2963966969372758787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949233d5ef598d40800000000000000
+      internalID: 5587102253425267856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf41d38ce0b5c9620800000000000000
+      internalID: 2782198788855239932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 182
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ddc3c2ac99f8280800000000000000
+      internalID: -9038836833504666284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 182
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17417498d22bde0800000000000000
+      internalID: -1318941673239842333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 182
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9352a0f0b21ed3f70800000000000000
+      internalID: 9168731991448364345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 182
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9affdac345b0daa0800000000000000
+      internalID: -6138206989334873446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyFruit_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19002cc6b0bc71930800000000000000
+      internalID: 4113980034555969681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HappyFruit_0: 8161550355043361001
+      HappyFruit_1: -1748835567662213284
+      HappyFruit_10: 897371615482273657
+      HappyFruit_11: 4582339578816011575
+      HappyFruit_12: -6971126711000661725
+      HappyFruit_13: -7204136640299594177
+      HappyFruit_14: -2454335365918522606
+      HappyFruit_15: -7474972444750202908
+      HappyFruit_16: 5392535617066884755
+      HappyFruit_17: -5752216604264153303
+      HappyFruit_18: 1479555248829991034
+      HappyFruit_19: -6078723802165150178
+      HappyFruit_2: -7353897621862994692
+      HappyFruit_20: 8941493821414630743
+      HappyFruit_21: -5569467498782314614
+      HappyFruit_22: 1729413140816484411
+      HappyFruit_23: 7360436844561213878
+      HappyFruit_24: -2617239808364304681
+      HappyFruit_25: 5806871024860381035
+      HappyFruit_26: -2963966969372758787
+      HappyFruit_27: 5587102253425267856
+      HappyFruit_28: 2782198788855239932
+      HappyFruit_29: -9038836833504666284
+      HappyFruit_3: -3328740070688761963
+      HappyFruit_30: -1318941673239842333
+      HappyFruit_31: 9168731991448364345
+      HappyFruit_32: -6138206989334873446
+      HappyFruit_33: 4113980034555969681
+      HappyFruit_4: -7034323104970650631
+      HappyFruit_5: -6163647422726392570
+      HappyFruit_6: -4149562763198588963
+      HappyFruit_7: -7514547800053872458
+      HappyFruit_8: -7977706576673843549
+      HappyFruit_9: -5369313431463155381
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 99088c92a7134d44dba71e3c8536ba01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2678021704266716651
+    second: ShieldStoneGolem_0
+  - first:
+      213: -4491411620366765207
+    second: ShieldStoneGolem_1
+  - first:
+      213: 4574578072682238278
+    second: ShieldStoneGolem_2
+  - first:
+      213: -1759925764220002439
+    second: ShieldStoneGolem_3
+  - first:
+      213: 3501287443561213828
+    second: ShieldStoneGolem_4
+  - first:
+      213: -4040062308578477617
+    second: ShieldStoneGolem_5
+  - first:
+      213: -4166414152471563104
+    second: ShieldStoneGolem_6
+  - first:
+      213: -2134544962985727580
+    second: ShieldStoneGolem_7
+  - first:
+      213: 6946798476106636953
+    second: ShieldStoneGolem_8
+  - first:
+      213: -3676121202214626879
+    second: ShieldStoneGolem_9
+  - first:
+      213: -899823532851100230
+    second: ShieldStoneGolem_10
+  - first:
+      213: -3543298522676572547
+    second: ShieldStoneGolem_11
+  - first:
+      213: 4439841825746717151
+    second: ShieldStoneGolem_12
+  - first:
+      213: -8669027772545986139
+    second: ShieldStoneGolem_13
+  - first:
+      213: 1450530469741661571
+    second: ShieldStoneGolem_14
+  - first:
+      213: 138661340642228210
+    second: ShieldStoneGolem_15
+  - first:
+      213: -5616503587666152301
+    second: ShieldStoneGolem_16
+  - first:
+      213: 1035247499848440234
+    second: ShieldStoneGolem_17
+  - first:
+      213: 1646405202302951750
+    second: ShieldStoneGolem_18
+  - first:
+      213: 250634137903516578
+    second: ShieldStoneGolem_19
+  - first:
+      213: -9199012038942469466
+    second: ShieldStoneGolem_20
+  - first:
+      213: 4576893017291373065
+    second: ShieldStoneGolem_21
+  - first:
+      213: -4793435993955943364
+    second: ShieldStoneGolem_22
+  - first:
+      213: 4820290343994115311
+    second: ShieldStoneGolem_23
+  - first:
+      213: -494327862223070545
+    second: ShieldStoneGolem_24
+  - first:
+      213: -9194066473610636596
+    second: ShieldStoneGolem_25
+  - first:
+      213: 7205432463780361889
+    second: ShieldStoneGolem_26
+  - first:
+      213: -3407645646054550076
+    second: ShieldStoneGolem_27
+  - first:
+      213: 4711031297573837777
+    second: ShieldStoneGolem_28
+  - first:
+      213: 8800049291643520887
+    second: ShieldStoneGolem_29
+  - first:
+      213: 4152319792749533596
+    second: ShieldStoneGolem_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldStoneGolem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59a9f1d8e3a2520800000000000000
+      internalID: 2678021704266716651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9633af38dec4ba1c0800000000000000
+      internalID: -4491411620366765207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641148b158a2c7f30800000000000000
+      internalID: 4574578072682238278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdb9887dc7397e0800000000000000
+      internalID: -1759925764220002439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f600a1162179030800000000000000
+      internalID: 3501287443561213828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93cba4cb0dee7c0800000000000000
+      internalID: -4040062308578477617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4b5c6276ced26c0800000000000000
+      internalID: -4166414152471563104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e22c5aa29062e0800000000000000
+      internalID: -2134544962985727580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e9f86886cf76060800000000000000
+      internalID: 6946798476106636953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c917b65e3bcbfcc0800000000000000
+      internalID: -3676121202214626879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58fdba34f2383f0800000000000000
+      internalID: -899823532851100230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e42be44cca3dec0800000000000000
+      internalID: -3543298522676572547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 38
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd90e820e9c7d9d30800000000000000
+      internalID: 4439841825746717151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 38
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1966ddb2d61b780800000000000000
+      internalID: -8669027772545986139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d05d8e6c1512410800000000000000
+      internalID: 1450530469741661571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73f0131cf9ce100800000000000000
+      internalID: 138661340642228210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 78
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394b3799ebb2e02b0800000000000000
+      internalID: -5616503587666152301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 78
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d31bbd10fd5e00800000000000000
+      internalID: 1035247499848440234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416f97fec439d610800000000000000
+      internalID: 1646405202302951750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 78
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4356ab6e6a7300800000000000000
+      internalID: 250634137903516578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2da4ef94b865080800000000000000
+      internalID: -9199012038942469466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3e9623f3648f30800000000000000
+      internalID: 4576893017291373065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3fa63c5b4a7db0800000000000000
+      internalID: -4793435993955943364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c304678c15e240800000000000000
+      internalID: 4820290343994115311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa9d99ad6bc329f0800000000000000
+      internalID: -494327862223070545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc21c17214d186080800000000000000
+      internalID: -9194066473610636596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a632b856a6def360800000000000000
+      internalID: 7205432463780361889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c51382e65c95b0d0800000000000000
+      internalID: -3407645646054550076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd2a94102f06140800000000000000
+      internalID: 4711031297573837777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7770752c43e002a70800000000000000
+      internalID: 8800049291643520887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldStoneGolem_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 163
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d8a00ad000a930800000000000000
+      internalID: 4152319792749533596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShieldStoneGolem_0: 2678021704266716651
+      ShieldStoneGolem_1: -4491411620366765207
+      ShieldStoneGolem_10: -899823532851100230
+      ShieldStoneGolem_11: -3543298522676572547
+      ShieldStoneGolem_12: 4439841825746717151
+      ShieldStoneGolem_13: -8669027772545986139
+      ShieldStoneGolem_14: 1450530469741661571
+      ShieldStoneGolem_15: 138661340642228210
+      ShieldStoneGolem_16: -5616503587666152301
+      ShieldStoneGolem_17: 1035247499848440234
+      ShieldStoneGolem_18: 1646405202302951750
+      ShieldStoneGolem_19: 250634137903516578
+      ShieldStoneGolem_2: 4574578072682238278
+      ShieldStoneGolem_20: -9199012038942469466
+      ShieldStoneGolem_21: 4576893017291373065
+      ShieldStoneGolem_22: -4793435993955943364
+      ShieldStoneGolem_23: 4820290343994115311
+      ShieldStoneGolem_24: -494327862223070545
+      ShieldStoneGolem_25: -9194066473610636596
+      ShieldStoneGolem_26: 7205432463780361889
+      ShieldStoneGolem_27: -3407645646054550076
+      ShieldStoneGolem_28: 4711031297573837777
+      ShieldStoneGolem_29: 8800049291643520887
+      ShieldStoneGolem_3: -1759925764220002439
+      ShieldStoneGolem_30: 4152319792749533596
+      ShieldStoneGolem_4: 3501287443561213828
+      ShieldStoneGolem_5: -4040062308578477617
+      ShieldStoneGolem_6: -4166414152471563104
+      ShieldStoneGolem_7: -2134544962985727580
+      ShieldStoneGolem_8: 6946798476106636953
+      ShieldStoneGolem_9: -3676121202214626879
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 7674573446c05dd42825269068868c66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8684718363711459573
+    second: KnowledgeStatue_0
+  - first:
+      213: 485639773783785524
+    second: KnowledgeStatue_1
+  - first:
+      213: 7046008737976310677
+    second: KnowledgeStatue_2
+  - first:
+      213: -8877667214850211972
+    second: KnowledgeStatue_3
+  - first:
+      213: -956168486487346831
+    second: KnowledgeStatue_4
+  - first:
+      213: -4917721110197320524
+    second: KnowledgeStatue_5
+  - first:
+      213: 6432426852600392693
+    second: KnowledgeStatue_6
+  - first:
+      213: -1189212982072377075
+    second: KnowledgeStatue_7
+  - first:
+      213: 2261557670924959594
+    second: KnowledgeStatue_8
+  - first:
+      213: 3962923093191476062
+    second: KnowledgeStatue_9
+  - first:
+      213: -6070538880117861105
+    second: KnowledgeStatue_10
+  - first:
+      213: 1020115134594278273
+    second: KnowledgeStatue_11
+  - first:
+      213: -7439703421876772826
+    second: KnowledgeStatue_12
+  - first:
+      213: -6287927979642685247
+    second: KnowledgeStatue_13
+  - first:
+      213: 1205224249579739459
+    second: KnowledgeStatue_14
+  - first:
+      213: -5770927322107725431
+    second: KnowledgeStatue_15
+  - first:
+      213: -3684940383404769705
+    second: KnowledgeStatue_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnowledgeStatue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f055539651568870800000000000000
+      internalID: 8684718363711459573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300f2d1dc65db600800000000000000
+      internalID: 485639773783785524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5067ad9378c160800000000000000
+      internalID: 7046008737976310677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb8b834b03cc480800000000000000
+      internalID: -8877667214850211972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171bf79d3d10bb2f0800000000000000
+      internalID: -956168486487346831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4cf3a94beb0cbb0800000000000000
+      internalID: -4917721110197320524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2ee85422944950800000000000000
+      internalID: 6432426852600392693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010b41f7111f7fe0800000000000000
+      internalID: -1189212982072377075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fba8e28baa26f10800000000000000
+      internalID: 2261557670924959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53ced98e812ff630800000000000000
+      internalID: 3962923093191476062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 39
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0590673d0d11cba0800000000000000
+      internalID: -6070538880117861105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 39
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ed736f4d282e00800000000000000
+      internalID: 1020115134594278273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e6c0b72dd0c890800000000000000
+      internalID: -7439703421876772826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8782041daccb8a0800000000000000
+      internalID: -6287927979642685247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34913e6c111d9b010800000000000000
+      internalID: 1205224249579739459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9893c2d1d2c89efa0800000000000000
+      internalID: -5770927322107725431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeStatue_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ebaa4be367cdcc0800000000000000
+      internalID: -3684940383404769705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KnowledgeStatue_0: 8684718363711459573
+      KnowledgeStatue_1: 485639773783785524
+      KnowledgeStatue_10: -6070538880117861105
+      KnowledgeStatue_11: 1020115134594278273
+      KnowledgeStatue_12: -7439703421876772826
+      KnowledgeStatue_13: -6287927979642685247
+      KnowledgeStatue_14: 1205224249579739459
+      KnowledgeStatue_15: -5770927322107725431
+      KnowledgeStatue_16: -3684940383404769705
+      KnowledgeStatue_2: 7046008737976310677
+      KnowledgeStatue_3: -8877667214850211972
+      KnowledgeStatue_4: -956168486487346831
+      KnowledgeStatue_5: -4917721110197320524
+      KnowledgeStatue_6: 6432426852600392693
+      KnowledgeStatue_7: -1189212982072377075
+      KnowledgeStatue_8: 2261557670924959594
+      KnowledgeStatue_9: 3962923093191476062
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

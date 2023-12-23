@@ -2092,7 +2092,7 @@ public class CacheList<T>
 
     public IEnumerable<Pair<T, int>> UseByIndex(int count)
     {
-        int index = 0;
+        var index = 0;
         foreach (var t in Use(count))
         {
             yield return new Pair<T, int>(t, index++);

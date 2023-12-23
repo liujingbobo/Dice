@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 3d6cc27049094554083e878a4f00178c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4774394787696528463
+    second: HopelessBud_0
+  - first:
+      213: 5682124869020545659
+    second: HopelessBud_1
+  - first:
+      213: -4031994535440116479
+    second: HopelessBud_2
+  - first:
+      213: 1652213524687091799
+    second: HopelessBud_3
+  - first:
+      213: -2868464220476120966
+    second: HopelessBud_4
+  - first:
+      213: 740980887669553255
+    second: HopelessBud_5
+  - first:
+      213: -8702337038616980881
+    second: HopelessBud_6
+  - first:
+      213: 6297602035182492691
+    second: HopelessBud_7
+  - first:
+      213: -7621299699893264374
+    second: HopelessBud_8
+  - first:
+      213: 6321391637490799603
+    second: HopelessBud_9
+  - first:
+      213: -3968747538893999442
+    second: HopelessBud_10
+  - first:
+      213: 6703469700459765259
+    second: HopelessBud_11
+  - first:
+      213: -8053451807539632211
+    second: HopelessBud_12
+  - first:
+      213: -5188516404124103800
+    second: HopelessBud_13
+  - first:
+      213: -6654880809793675553
+    second: HopelessBud_14
+  - first:
+      213: -6139874485977633659
+    second: HopelessBud_15
+  - first:
+      213: -7011652955709443112
+    second: HopelessBud_16
+  - first:
+      213: 2109585578514895483
+    second: HopelessBud_17
+  - first:
+      213: 187779225964183333
+    second: HopelessBud_18
+  - first:
+      213: 7349731875464083038
+    second: HopelessBud_19
+  - first:
+      213: 3942480830166885420
+    second: HopelessBud_20
+  - first:
+      213: -8296717195920471779
+    second: HopelessBud_21
+  - first:
+      213: 5082918460033216125
+    second: HopelessBud_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HopelessBud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33fd58c31fdbdb0800000000000000
+      internalID: -4774394787696528463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f1639676fade40800000000000000
+      internalID: 5682124869020545659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10596ca155a7b08c0800000000000000
+      internalID: -4031994535440116479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f1186277dde610800000000000000
+      internalID: 1652213524687091799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706a9f3dfa2138d0800000000000000
+      internalID: -2868464220476120966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b5e2013e784a00800000000000000
+      internalID: 740980887669553255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62928102961b3780800000000000000
+      internalID: -8702337038616980881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c54d35fa3956750800000000000000
+      internalID: 6297602035182492691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 36
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0022156d44bb3690800000000000000
+      internalID: -7621299699893264374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f393ceb3381ab750800000000000000
+      internalID: 6321391637490799603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea27405042d2ce8c0800000000000000
+      internalID: -3968747538893999442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 72
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e9f721d22870d50800000000000000
+      internalID: 6703469700459765259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 48
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76fd300446c3090800000000000000
+      internalID: -8053451807539632211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54838705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b45e402dfaef7b0800000000000000
+      internalID: -5188516404124103800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 72
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde1fad992d15a3a0800000000000000
+      internalID: -6654880809793675553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca1d97fa8cacaa0800000000000000
+      internalID: -6139874485977633659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3fe9e39ca91be90800000000000000
+      internalID: -7011652955709443112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72daa618e0c64d10800000000000000
+      internalID: 2109585578514895483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.36956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ffacb06302b9200800000000000000
+      internalID: 187779225964183333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56f66f333e7ff560800000000000000
+      internalID: 7349731875464083038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2462e74d6186b630800000000000000
+      internalID: 3942480830166885420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 174
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19094f0ba32cdc80800000000000000
+      internalID: -8296717195920471779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HopelessBud_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2e80b8672a8640800000000000000
+      internalID: 5082918460033216125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HopelessBud_0: -4774394787696528463
+      HopelessBud_1: 5682124869020545659
+      HopelessBud_10: -3968747538893999442
+      HopelessBud_11: 6703469700459765259
+      HopelessBud_12: -8053451807539632211
+      HopelessBud_13: -5188516404124103800
+      HopelessBud_14: -6654880809793675553
+      HopelessBud_15: -6139874485977633659
+      HopelessBud_16: -7011652955709443112
+      HopelessBud_17: 2109585578514895483
+      HopelessBud_18: 187779225964183333
+      HopelessBud_19: 7349731875464083038
+      HopelessBud_2: -4031994535440116479
+      HopelessBud_20: 3942480830166885420
+      HopelessBud_21: -8296717195920471779
+      HopelessBud_22: 5082918460033216125
+      HopelessBud_3: 1652213524687091799
+      HopelessBud_4: -2868464220476120966
+      HopelessBud_5: 740980887669553255
+      HopelessBud_6: -8702337038616980881
+      HopelessBud_7: 6297602035182492691
+      HopelessBud_8: -7621299699893264374
+      HopelessBud_9: 6321391637490799603
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -24,3 +24,39 @@ public interface BeforeTurnEnd : EffectTrigger
 {
     public IEnumerator BeforeTurnEnd(bool isPlayer, List<string> units);
 }
+
+public interface BeforeHeal : EffectTrigger
+{
+    public IEnumerator BeforeHeal(HealInfo healInfo);
+}
+
+public interface AfterHeal : EffectTrigger
+{
+    public IEnumerator AfterHeal(HealInfo healInfo);
+}
+
+public interface BeforeGainBlock : EffectTrigger
+{
+    public IEnumerator BeforeGainBlock(GainBlockInfo info);
+}
+
+public interface AfterGainBlock : EffectTrigger
+{
+    public IEnumerator AfterGainBlock(GainBlockInfo info);
+}
+
+public interface BeforeLoseBlock : EffectTrigger
+{
+    public IEnumerator BeforeLoseBlock(LoseBlockInfo info);
+}
+
+public interface AfterLoseBlock : EffectTrigger
+{
+    public IEnumerator AfterLoseBlock(LoseBlockInfo info);
+}
+
+public interface OnUnitDead : EffectTrigger
+{
+    public IEnumerator OnUnitDead(string id);
+}
+

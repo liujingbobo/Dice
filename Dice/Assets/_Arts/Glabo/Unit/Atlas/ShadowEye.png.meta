@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: f4f933c8b94baa041bf935ea719d4878
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6069503262020828339
+    second: ShadowEye_0
+  - first:
+      213: 4501249326457059162
+    second: ShadowEye_1
+  - first:
+      213: 4097056054924144717
+    second: ShadowEye_2
+  - first:
+      213: -1522965774267073045
+    second: ShadowEye_3
+  - first:
+      213: 5476189751893791241
+    second: ShadowEye_4
+  - first:
+      213: -24741755107969313
+    second: ShadowEye_5
+  - first:
+      213: 968637637879259279
+    second: ShadowEye_6
+  - first:
+      213: -6527576640716132947
+    second: ShadowEye_7
+  - first:
+      213: 5671418715584115115
+    second: ShadowEye_8
+  - first:
+      213: -434770497005255192
+    second: ShadowEye_9
+  - first:
+      213: 6015868926767398554
+    second: ShadowEye_10
+  - first:
+      213: 1149869285393550033
+    second: ShadowEye_11
+  - first:
+      213: 1996969605722870454
+    second: ShadowEye_12
+  - first:
+      213: -5512446619720258396
+    second: ShadowEye_13
+  - first:
+      213: -173623806591373005
+    second: ShadowEye_14
+  - first:
+      213: 774639935548645587
+    second: ShadowEye_15
+  - first:
+      213: -4186074799030046817
+    second: ShadowEye_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShadowEye_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438c28d0fac4cba0800000000000000
+      internalID: -6069503262020828339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5770fce966a77e30800000000000000
+      internalID: 4501249326457059162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40fd9a56caabd830800000000000000
+      internalID: 4097056054924144717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbbb382b65ddae0800000000000000
+      internalID: -1522965774267073045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029344b0955ffb40800000000000000
+      internalID: 5476189751893791241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd67bab318918aff0800000000000000
+      internalID: -24741755107969313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80edd1bcca417d00800000000000000
+      internalID: 968637637879259279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad2afd31a36965a0800000000000000
+      internalID: -6527576640716132947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b4eaf54de4be40800000000000000
+      internalID: 5671418715584115115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58e27598267f9f0800000000000000
+      internalID: -434770497005255192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ef74b5ae8ac7350800000000000000
+      internalID: 6015868926767398554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dac306d50825ff00800000000000000
+      internalID: 1149869285393550033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 82
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b21d58a649a6bb10800000000000000
+      internalID: 1996969605722870454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac654c610bdf73b0800000000000000
+      internalID: -5512446619720258396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331f19b511a279df0800000000000000
+      internalID: -173623806591373005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0653bcae210ca00800000000000000
+      internalID: 774639935548645587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowEye_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f6998262318e5c0800000000000000
+      internalID: -4186074799030046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShadowEye_0: -6069503262020828339
+      ShadowEye_1: 4501249326457059162
+      ShadowEye_10: 6015868926767398554
+      ShadowEye_11: 1149869285393550033
+      ShadowEye_12: 1996969605722870454
+      ShadowEye_13: -5512446619720258396
+      ShadowEye_14: -173623806591373005
+      ShadowEye_15: 774639935548645587
+      ShadowEye_16: -4186074799030046817
+      ShadowEye_2: 4097056054924144717
+      ShadowEye_3: -1522965774267073045
+      ShadowEye_4: 5476189751893791241
+      ShadowEye_5: -24741755107969313
+      ShadowEye_6: 968637637879259279
+      ShadowEye_7: -6527576640716132947
+      ShadowEye_8: 5671418715584115115
+      ShadowEye_9: -434770497005255192
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

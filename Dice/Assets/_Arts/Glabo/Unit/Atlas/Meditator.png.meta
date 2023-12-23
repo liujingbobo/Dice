@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 10de7d22152cf8448a38990ed5510fd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6249981687845081923
+    second: Meditator_0
+  - first:
+      213: -3547505542064921591
+    second: Meditator_1
+  - first:
+      213: -1680609717459123845
+    second: Meditator_2
+  - first:
+      213: 1858531456966491990
+    second: Meditator_3
+  - first:
+      213: -7839474979208371844
+    second: Meditator_4
+  - first:
+      213: -3140400113119811824
+    second: Meditator_5
+  - first:
+      213: 8007482250884176506
+    second: Meditator_6
+  - first:
+      213: -6576917268363320456
+    second: Meditator_7
+  - first:
+      213: 8236781437232895472
+    second: Meditator_8
+  - first:
+      213: 1613014467007840257
+    second: Meditator_9
+  - first:
+      213: 2343569208662675877
+    second: Meditator_10
+  - first:
+      213: -2283027700960485523
+    second: Meditator_11
+  - first:
+      213: 6679179397543466061
+    second: Meditator_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meditator_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc2c4bc4ca9349a0800000000000000
+      internalID: -6249981687845081923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ad76418ab4cec0800000000000000
+      internalID: -3547505542064921591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7187c0cd564da8e0800000000000000
+      internalID: -1680609717459123845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f70606384dac910800000000000000
+      internalID: 1858531456966491990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e8beaa07943390800000000000000
+      internalID: -7839474979208371844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a5e45cbe0b64d0800000000000000
+      internalID: -3140400113119811824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a52358eaa402f60800000000000000
+      internalID: 8007482250884176506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873621627981ab4a0800000000000000
+      internalID: -6576917268363320456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20408162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f55ccaa31dee4270800000000000000
+      internalID: 8236781437232895472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10081939c14926610800000000000000
+      internalID: 1613014467007840257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 98
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d1ec47c7068020800000000000000
+      internalID: 2343569208662675877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f9fd7e66e0150e0800000000000000
+      internalID: -2283027700960485523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meditator_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 98
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449fa5364631bc50800000000000000
+      internalID: 6679179397543466061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Meditator_0: -6249981687845081923
+      Meditator_1: -3547505542064921591
+      Meditator_10: 2343569208662675877
+      Meditator_11: -2283027700960485523
+      Meditator_12: 6679179397543466061
+      Meditator_2: -1680609717459123845
+      Meditator_3: 1858531456966491990
+      Meditator_4: -7839474979208371844
+      Meditator_5: -3140400113119811824
+      Meditator_6: 8007482250884176506
+      Meditator_7: -6576917268363320456
+      Meditator_8: 8236781437232895472
+      Meditator_9: 1613014467007840257
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

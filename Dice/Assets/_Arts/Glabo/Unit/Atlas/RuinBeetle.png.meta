@@ -1,0 +1,1925 @@
+fileFormatVersion: 2
+guid: 6b3109be90afe0d46beaa4562c38571b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RuinBeetle_0
+  - first:
+      213: 21300002
+    second: RuinBeetle_1
+  - first:
+      213: 21300004
+    second: RuinBeetle_2
+  - first:
+      213: 21300006
+    second: RuinBeetle_3
+  - first:
+      213: 21300008
+    second: RuinBeetle_4
+  - first:
+      213: 21300010
+    second: RuinBeetle_5
+  - first:
+      213: 21300012
+    second: RuinBeetle_6
+  - first:
+      213: 21300014
+    second: RuinBeetle_7
+  - first:
+      213: 21300016
+    second: RuinBeetle_8
+  - first:
+      213: 21300018
+    second: RuinBeetle_9
+  - first:
+      213: 21300020
+    second: RuinBeetle_10
+  - first:
+      213: 21300022
+    second: RuinBeetle_11
+  - first:
+      213: 21300024
+    second: RuinBeetle_12
+  - first:
+      213: 21300026
+    second: RuinBeetle_13
+  - first:
+      213: 21300028
+    second: RuinBeetle_14
+  - first:
+      213: 21300030
+    second: RuinBeetle_15
+  - first:
+      213: 21300032
+    second: RuinBeetle_16
+  - first:
+      213: 21300034
+    second: RuinBeetle_17
+  - first:
+      213: 21300036
+    second: RuinBeetle_18
+  - first:
+      213: 21300038
+    second: RuinBeetle_19
+  - first:
+      213: 21300040
+    second: RuinBeetle_20
+  - first:
+      213: 21300042
+    second: RuinBeetle_21
+  - first:
+      213: 21300044
+    second: RuinBeetle_22
+  - first:
+      213: 21300046
+    second: RuinBeetle_23
+  - first:
+      213: 21300048
+    second: RuinBeetle_24
+  - first:
+      213: 21300050
+    second: RuinBeetle_25
+  - first:
+      213: 21300052
+    second: RuinBeetle_26
+  - first:
+      213: 21300054
+    second: RuinBeetle_27
+  - first:
+      213: 21300056
+    second: RuinBeetle_28
+  - first:
+      213: 21300058
+    second: RuinBeetle_29
+  - first:
+      213: 21300060
+    second: RuinBeetle_30
+  - first:
+      213: 21300062
+    second: RuinBeetle_31
+  - first:
+      213: 21300064
+    second: RuinBeetle_32
+  - first:
+      213: 21300066
+    second: RuinBeetle_33
+  - first:
+      213: 21300068
+    second: RuinBeetle_34
+  - first:
+      213: 21300070
+    second: RuinBeetle_35
+  - first:
+      213: 21300072
+    second: RuinBeetle_36
+  - first:
+      213: 21300074
+    second: RuinBeetle_37
+  - first:
+      213: 21300076
+    second: RuinBeetle_38
+  - first:
+      213: 21300078
+    second: RuinBeetle_39
+  - first:
+      213: 21300080
+    second: RuinBeetle_40
+  - first:
+      213: 21300082
+    second: RuinBeetle_41
+  - first:
+      213: 21300084
+    second: RuinBeetle_42
+  - first:
+      213: 21300086
+    second: RuinBeetle_43
+  - first:
+      213: 21300088
+    second: RuinBeetle_44
+  - first:
+      213: 21300090
+    second: RuinBeetle_45
+  - first:
+      213: 21300092
+    second: RuinBeetle_46
+  - first:
+      213: 21300094
+    second: RuinBeetle_47
+  - first:
+      213: 21300096
+    second: RuinBeetle_48
+  - first:
+      213: 21300098
+    second: RuinBeetle_49
+  - first:
+      213: 21300100
+    second: RuinBeetle_50
+  - first:
+      213: 21300102
+    second: RuinBeetle_51
+  - first:
+      213: 21300104
+    second: RuinBeetle_52
+  - first:
+      213: 21300106
+    second: RuinBeetle_53
+  - first:
+      213: 21300108
+    second: RuinBeetle_54
+  - first:
+      213: 21300110
+    second: RuinBeetle_55
+  - first:
+      213: 21300112
+    second: RuinBeetle_56
+  - first:
+      213: 21300114
+    second: RuinBeetle_57
+  - first:
+      213: 21300116
+    second: RuinBeetle_58
+  - first:
+      213: 21300118
+    second: RuinBeetle_59
+  - first:
+      213: 21300120
+    second: RuinBeetle_60
+  - first:
+      213: 21300122
+    second: RuinBeetle_61
+  - first:
+      213: 21300124
+    second: RuinBeetle_62
+  - first:
+      213: 21300126
+    second: RuinBeetle_63
+  - first:
+      213: 21300128
+    second: RuinBeetle_64
+  - first:
+      213: 21300130
+    second: RuinBeetle_65
+  - first:
+      213: 21300132
+    second: RuinBeetle_66
+  - first:
+      213: 21300134
+    second: RuinBeetle_67
+  - first:
+      213: 21300136
+    second: RuinBeetle_68
+  - first:
+      213: 21300138
+    second: RuinBeetle_69
+  - first:
+      213: 21300140
+    second: RuinBeetle_70
+  - first:
+      213: 21300142
+    second: RuinBeetle_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuinBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 36
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 36
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: -0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 36
+        width: 38
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 36
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: -0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 36
+        width: 38
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 36
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 72
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_53
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_56
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 108
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_67
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_68
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinBeetle_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 144
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.31428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RuinBeetle_0: 21300000
+      RuinBeetle_1: 21300002
+      RuinBeetle_10: 21300020
+      RuinBeetle_11: 21300022
+      RuinBeetle_12: 21300024
+      RuinBeetle_13: 21300026
+      RuinBeetle_14: 21300028
+      RuinBeetle_15: 21300030
+      RuinBeetle_16: 21300032
+      RuinBeetle_17: 21300034
+      RuinBeetle_18: 21300036
+      RuinBeetle_19: 21300038
+      RuinBeetle_2: 21300004
+      RuinBeetle_20: 21300040
+      RuinBeetle_21: 21300042
+      RuinBeetle_22: 21300044
+      RuinBeetle_23: 21300046
+      RuinBeetle_24: 21300048
+      RuinBeetle_25: 21300050
+      RuinBeetle_26: 21300052
+      RuinBeetle_27: 21300054
+      RuinBeetle_28: 21300056
+      RuinBeetle_29: 21300058
+      RuinBeetle_3: 21300006
+      RuinBeetle_30: 21300060
+      RuinBeetle_31: 21300062
+      RuinBeetle_32: 21300064
+      RuinBeetle_33: 21300066
+      RuinBeetle_34: 21300068
+      RuinBeetle_35: 21300070
+      RuinBeetle_36: 21300072
+      RuinBeetle_37: 21300074
+      RuinBeetle_38: 21300076
+      RuinBeetle_39: 21300078
+      RuinBeetle_4: 21300008
+      RuinBeetle_40: 21300080
+      RuinBeetle_41: 21300082
+      RuinBeetle_42: 21300084
+      RuinBeetle_43: 21300086
+      RuinBeetle_44: 21300088
+      RuinBeetle_45: 21300090
+      RuinBeetle_46: 21300092
+      RuinBeetle_47: 21300094
+      RuinBeetle_48: 21300096
+      RuinBeetle_49: 21300098
+      RuinBeetle_5: 21300010
+      RuinBeetle_50: 21300100
+      RuinBeetle_51: 21300102
+      RuinBeetle_52: 21300104
+      RuinBeetle_53: 21300106
+      RuinBeetle_54: 21300108
+      RuinBeetle_55: 21300110
+      RuinBeetle_56: 21300112
+      RuinBeetle_57: 21300114
+      RuinBeetle_58: 21300116
+      RuinBeetle_59: 21300118
+      RuinBeetle_6: 21300012
+      RuinBeetle_60: 21300120
+      RuinBeetle_61: 21300122
+      RuinBeetle_62: 21300124
+      RuinBeetle_63: 21300126
+      RuinBeetle_64: 21300128
+      RuinBeetle_65: 21300130
+      RuinBeetle_66: 21300132
+      RuinBeetle_67: 21300134
+      RuinBeetle_68: 21300136
+      RuinBeetle_69: 21300138
+      RuinBeetle_7: 21300014
+      RuinBeetle_70: 21300140
+      RuinBeetle_8: 21300016
+      RuinBeetle_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

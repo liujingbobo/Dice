@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 5b168a351b123be46aabcbec07dd34d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1439585465643556780
+    second: EtherFractal_0
+  - first:
+      213: -4887434339176774851
+    second: EtherFractal_1
+  - first:
+      213: 7766131800467498719
+    second: EtherFractal_2
+  - first:
+      213: 3852825820008805088
+    second: EtherFractal_3
+  - first:
+      213: 4527050335559780949
+    second: EtherFractal_4
+  - first:
+      213: -5590697047281446622
+    second: EtherFractal_5
+  - first:
+      213: -7605233257749094711
+    second: EtherFractal_6
+  - first:
+      213: 3974812053483127229
+    second: EtherFractal_7
+  - first:
+      213: 7298521949821075931
+    second: EtherFractal_8
+  - first:
+      213: 2468590159783243126
+    second: EtherFractal_9
+  - first:
+      213: -7311053992997698132
+    second: EtherFractal_10
+  - first:
+      213: 3874529518437030373
+    second: EtherFractal_11
+  - first:
+      213: -7360199335416640897
+    second: EtherFractal_12
+  - first:
+      213: -8587589447591687645
+    second: EtherFractal_13
+  - first:
+      213: 6376355892188855134
+    second: EtherFractal_14
+  - first:
+      213: 1611064061234405044
+    second: EtherFractal_15
+  - first:
+      213: -8172044924643335799
+    second: EtherFractal_16
+  - first:
+      213: 3795561600435418721
+    second: EtherFractal_17
+  - first:
+      213: 2157900301616617685
+    second: EtherFractal_18
+  - first:
+      213: -5715864775876345783
+    second: EtherFractal_19
+  - first:
+      213: 1915544519905080456
+    second: EtherFractal_20
+  - first:
+      213: 6041455131886728499
+    second: EtherFractal_21
+  - first:
+      213: 1379733448592499552
+    second: EtherFractal_22
+  - first:
+      213: -3989105658110528972
+    second: EtherFractal_23
+  - first:
+      213: -6542046358388433042
+    second: EtherFractal_24
+  - first:
+      213: 2187707692680231120
+    second: EtherFractal_25
+  - first:
+      213: -7873865518531299116
+    second: EtherFractal_26
+  - first:
+      213: 7855129599656787164
+    second: EtherFractal_27
+  - first:
+      213: -2169871947806326288
+    second: EtherFractal_28
+  - first:
+      213: -1022680375778701123
+    second: EtherFractal_29
+  - first:
+      213: 3624570071737049601
+    second: EtherFractal_30
+  - first:
+      213: 6472120498592463547
+    second: EtherFractal_31
+  - first:
+      213: -3612622754651422100
+    second: EtherFractal_32
+  - first:
+      213: 6360452440613564063
+    second: EtherFractal_33
+  - first:
+      213: 7615591177325902675
+    second: EtherFractal_34
+  - first:
+      213: -1871915233095362032
+    second: EtherFractal_35
+  - first:
+      213: -2100440112339127881
+    second: EtherFractal_36
+  - first:
+      213: 8028308904338782053
+    second: EtherFractal_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EtherFractal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450208075a0950ce0800000000000000
+      internalID: -1439585465643556780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33825efc585c2cb0800000000000000
+      internalID: -4887434339176774851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6eabdc9b7d6cb60800000000000000
+      internalID: 7766131800467498719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f31f8bacf77530800000000000000
+      internalID: 3852825820008805088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43333337, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a8a5b7b4053de30800000000000000
+      internalID: 4527050335559780949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d6f108aad962b0800000000000000
+      internalID: -5590697047281446622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 21
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ced0e575a8c47690800000000000000
+      internalID: -7605233257749094711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db18dc0d08e592730800000000000000
+      internalID: 3974812053483127229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10a7c4b0f894560800000000000000
+      internalID: 7298521949821075931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 39
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da7e1dba1324220800000000000000
+      internalID: 2468590159783243126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 39
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5cba5012be98a90800000000000000
+      internalID: -7311053992997698132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e95432a11815c530800000000000000
+      internalID: 3874529518437030373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 35
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51428574, y: -0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acc6053b15bd990800000000000000
+      internalID: -7360199335416640897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: -0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a876b75e0c2d880800000000000000
+      internalID: -8587589447591687645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 39
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: -0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb26b86ed5d7850800000000000000
+      internalID: 6376355892188855134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 39
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be56485a36ab5610800000000000000
+      internalID: 1611064061234405044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5652174, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a91a3070179e80800000000000000
+      internalID: -8172044924643335799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6086957, y: -0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f0157a2b8ca430800000000000000
+      internalID: 3795561600435418721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8119a24e662fd10800000000000000
+      internalID: 2157900301616617685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3478261, y: -0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94009b1354b2da0b0800000000000000
+      internalID: -5715864775876345783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.39130434, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88473648791659a10800000000000000
+      internalID: 1915544519905080456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335b196fe6f87d350800000000000000
+      internalID: 6041455131886728499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: -0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a418e24cc52310800000000000000
+      internalID: 1379733448592499552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: -0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43232d40a89d3a8c0800000000000000
+      internalID: -3989105658110528972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 35
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51428574, y: -0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f9e109f7bf535a0800000000000000
+      internalID: -6542046358388433042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d838963e8c4c5e10800000000000000
+      internalID: 2187707692680231120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8beb647096ab290800000000000000
+      internalID: -7873865518531299116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf23ca0c6030d60800000000000000
+      internalID: 7855129599656787164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14beeb5f013e1e0800000000000000
+      internalID: -2169871947806326288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db092fadd95bec1f0800000000000000
+      internalID: -1022680375778701123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 103
+        width: 21
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022665c64f0d4230800000000000000
+      internalID: 3624570071737049601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 103
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbab02e7d4791d950800000000000000
+      internalID: 6472120498592463547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43333337, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624281ceb26dddc0800000000000000
+      internalID: -3612622754651422100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea98dabcdd44850800000000000000
+      internalID: 6360452440613564063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bfb1f93d300b960800000000000000
+      internalID: 7615591177325902675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 143
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a55b9630f9506e0800000000000000
+      internalID: -1871915233095362032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17b00b8dcb9d2e0800000000000000
+      internalID: -2100440112339127881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EtherFractal_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f736a9684a6f60800000000000000
+      internalID: 8028308904338782053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EtherFractal_0: -1439585465643556780
+      EtherFractal_1: -4887434339176774851
+      EtherFractal_10: -7311053992997698132
+      EtherFractal_11: 3874529518437030373
+      EtherFractal_12: -7360199335416640897
+      EtherFractal_13: -8587589447591687645
+      EtherFractal_14: 6376355892188855134
+      EtherFractal_15: 1611064061234405044
+      EtherFractal_16: -8172044924643335799
+      EtherFractal_17: 3795561600435418721
+      EtherFractal_18: 2157900301616617685
+      EtherFractal_19: -5715864775876345783
+      EtherFractal_2: 7766131800467498719
+      EtherFractal_20: 1915544519905080456
+      EtherFractal_21: 6041455131886728499
+      EtherFractal_22: 1379733448592499552
+      EtherFractal_23: -3989105658110528972
+      EtherFractal_24: -6542046358388433042
+      EtherFractal_25: 2187707692680231120
+      EtherFractal_26: -7873865518531299116
+      EtherFractal_27: 7855129599656787164
+      EtherFractal_28: -2169871947806326288
+      EtherFractal_29: -1022680375778701123
+      EtherFractal_3: 3852825820008805088
+      EtherFractal_30: 3624570071737049601
+      EtherFractal_31: 6472120498592463547
+      EtherFractal_32: -3612622754651422100
+      EtherFractal_33: 6360452440613564063
+      EtherFractal_34: 7615591177325902675
+      EtherFractal_35: -1871915233095362032
+      EtherFractal_36: -2100440112339127881
+      EtherFractal_37: 8028308904338782053
+      EtherFractal_4: 4527050335559780949
+      EtherFractal_5: -5590697047281446622
+      EtherFractal_6: -7605233257749094711
+      EtherFractal_7: 3974812053483127229
+      EtherFractal_8: 7298521949821075931
+      EtherFractal_9: 2468590159783243126
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

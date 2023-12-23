@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: cc865c0656c521a43b3798be3c093fc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Samuoak_0
+  - first:
+      213: 21300002
+    second: Samuoak_1
+  - first:
+      213: 21300004
+    second: Samuoak_2
+  - first:
+      213: 21300006
+    second: Samuoak_3
+  - first:
+      213: 21300008
+    second: Samuoak_4
+  - first:
+      213: 21300010
+    second: Samuoak_5
+  - first:
+      213: 21300012
+    second: Samuoak_6
+  - first:
+      213: 21300014
+    second: Samuoak_7
+  - first:
+      213: 21300016
+    second: Samuoak_8
+  - first:
+      213: 21300018
+    second: Samuoak_9
+  - first:
+      213: 21300020
+    second: Samuoak_10
+  - first:
+      213: 21300022
+    second: Samuoak_11
+  - first:
+      213: 21300024
+    second: Samuoak_12
+  - first:
+      213: 21300026
+    second: Samuoak_13
+  - first:
+      213: 21300028
+    second: Samuoak_14
+  - first:
+      213: 21300030
+    second: Samuoak_15
+  - first:
+      213: 21300032
+    second: Samuoak_16
+  - first:
+      213: 21300034
+    second: Samuoak_17
+  - first:
+      213: 21300036
+    second: Samuoak_18
+  - first:
+      213: 21300038
+    second: Samuoak_19
+  - first:
+      213: 21300040
+    second: Samuoak_20
+  - first:
+      213: 21300042
+    second: Samuoak_21
+  - first:
+      213: 21300044
+    second: Samuoak_22
+  - first:
+      213: 21300046
+    second: Samuoak_23
+  - first:
+      213: 21300048
+    second: Samuoak_24
+  - first:
+      213: 21300050
+    second: Samuoak_25
+  - first:
+      213: 21300052
+    second: Samuoak_26
+  - first:
+      213: 21300054
+    second: Samuoak_27
+  - first:
+      213: 21300056
+    second: Samuoak_28
+  - first:
+      213: 21300058
+    second: Samuoak_29
+  - first:
+      213: 21300060
+    second: Samuoak_30
+  - first:
+      213: 21300062
+    second: Samuoak_31
+  - first:
+      213: 8740623015451862738
+    second: Samuoak_32
+  - first:
+      213: 2959418453481518816
+    second: Samuoak_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samuoak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46511626, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 44
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 44
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 44
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 44
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 44
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 44
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 44
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 44
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 91
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 91
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 91
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.52500004, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 91
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 91
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.475, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 91
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 91
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 91
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ac9f925eec4970800000000000000
+      internalID: 8740623015451862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuoak_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 91
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6708d5767f11920800000000000000
+      internalID: 2959418453481518816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Samuoak_0: 21300000
+      Samuoak_1: 21300002
+      Samuoak_10: 21300020
+      Samuoak_11: 21300022
+      Samuoak_12: 21300024
+      Samuoak_13: 21300026
+      Samuoak_14: 21300028
+      Samuoak_15: 21300030
+      Samuoak_16: 21300032
+      Samuoak_17: 21300034
+      Samuoak_18: 21300036
+      Samuoak_19: 21300038
+      Samuoak_2: 21300004
+      Samuoak_20: 21300040
+      Samuoak_21: 21300042
+      Samuoak_22: 21300044
+      Samuoak_23: 21300046
+      Samuoak_24: 21300048
+      Samuoak_25: 21300050
+      Samuoak_26: 21300052
+      Samuoak_27: 21300054
+      Samuoak_28: 21300056
+      Samuoak_29: 21300058
+      Samuoak_3: 21300006
+      Samuoak_30: 21300060
+      Samuoak_31: 21300062
+      Samuoak_32: 8740623015451862738
+      Samuoak_33: 2959418453481518816
+      Samuoak_4: 21300008
+      Samuoak_5: 21300010
+      Samuoak_6: 21300012
+      Samuoak_7: 21300014
+      Samuoak_8: 21300016
+      Samuoak_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

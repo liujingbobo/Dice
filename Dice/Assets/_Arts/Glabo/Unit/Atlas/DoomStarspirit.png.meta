@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 67f0ea2cbb1794a46ae20b7a25c23f6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2113002570539432127
+    second: DoomStarspirit_0
+  - first:
+      213: -7209156157244656632
+    second: DoomStarspirit_1
+  - first:
+      213: -6539758826281618298
+    second: DoomStarspirit_2
+  - first:
+      213: -2446857686511812408
+    second: DoomStarspirit_3
+  - first:
+      213: -6851569472869236488
+    second: DoomStarspirit_4
+  - first:
+      213: -6574391399710188332
+    second: DoomStarspirit_5
+  - first:
+      213: 1340885436206903545
+    second: DoomStarspirit_6
+  - first:
+      213: 8036643821377102875
+    second: DoomStarspirit_7
+  - first:
+      213: 3648125398009892059
+    second: DoomStarspirit_8
+  - first:
+      213: -4028889980579657933
+    second: DoomStarspirit_9
+  - first:
+      213: -5695480008558947667
+    second: DoomStarspirit_10
+  - first:
+      213: -7854066604567227176
+    second: DoomStarspirit_11
+  - first:
+      213: -3769951993507984365
+    second: DoomStarspirit_12
+  - first:
+      213: 6201046121245671065
+    second: DoomStarspirit_13
+  - first:
+      213: 1378772952721985489
+    second: DoomStarspirit_14
+  - first:
+      213: -6763602746318792142
+    second: DoomStarspirit_15
+  - first:
+      213: 1966319770879324419
+    second: DoomStarspirit_16
+  - first:
+      213: 3473747141131506528
+    second: DoomStarspirit_17
+  - first:
+      213: 6986610142917946710
+    second: DoomStarspirit_18
+  - first:
+      213: -3439105244300399047
+    second: DoomStarspirit_19
+  - first:
+      213: -7836804811813949681
+    second: DoomStarspirit_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoomStarspirit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87d7a84a4e25d10800000000000000
+      internalID: 2113002570539432127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bc15bbaee3fb90800000000000000
+      internalID: -7209156157244656632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68432c22ffb1e35a0800000000000000
+      internalID: -6539758826281618298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0878be5e30b0ed0800000000000000
+      internalID: -2446857686511812408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f008b79dd55ae0a0800000000000000
+      internalID: -6851569472869236488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc14e5cad113c4a0800000000000000
+      internalID: -6574391399710188332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07b9d2338cb9210800000000000000
+      internalID: 1340885436206903545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46875, y: -0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14258fb9f4e78f60800000000000000
+      internalID: 8036643821377102875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcc57c88beb0a230800000000000000
+      internalID: 3648125398009892059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3374b6c98e18618c0800000000000000
+      internalID: -4028889980579657933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25180bb1795f0b0800000000000000
+      internalID: -5695480008558947667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d413882900c00390800000000000000
+      internalID: -7854066604567227176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 35
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c4eaec2a07eabc0800000000000000
+      internalID: -3769951993507984365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 35
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e79acb79a8e0650800000000000000
+      internalID: 6201046121245671065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df09e802b2622310800000000000000
+      internalID: 1378772952721985489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23adfc7232bd222a0800000000000000
+      internalID: -6763602746318792142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f612e965c94b10800000000000000
+      internalID: 1966319770879324419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46875, y: -0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631ca2ce9a353030800000000000000
+      internalID: 3473747141131506528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de3c888ec65f060800000000000000
+      internalID: 6986610142917946710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eaa406008d540d0800000000000000
+      internalID: -3439105244300399047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomStarspirit_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 71
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe1c97b831e3390800000000000000
+      internalID: -7836804811813949681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DoomStarspirit_0: 2113002570539432127
+      DoomStarspirit_1: -7209156157244656632
+      DoomStarspirit_10: -5695480008558947667
+      DoomStarspirit_11: -7854066604567227176
+      DoomStarspirit_12: -3769951993507984365
+      DoomStarspirit_13: 6201046121245671065
+      DoomStarspirit_14: 1378772952721985489
+      DoomStarspirit_15: -6763602746318792142
+      DoomStarspirit_16: 1966319770879324419
+      DoomStarspirit_17: 3473747141131506528
+      DoomStarspirit_18: 6986610142917946710
+      DoomStarspirit_19: -3439105244300399047
+      DoomStarspirit_2: -6539758826281618298
+      DoomStarspirit_20: -7836804811813949681
+      DoomStarspirit_3: -2446857686511812408
+      DoomStarspirit_4: -6851569472869236488
+      DoomStarspirit_5: -6574391399710188332
+      DoomStarspirit_6: 1340885436206903545
+      DoomStarspirit_7: 8036643821377102875
+      DoomStarspirit_8: 3648125398009892059
+      DoomStarspirit_9: -4028889980579657933
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

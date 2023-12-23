@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 625e38fb13ffde6489077e73b17944f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3113676805279130971
+    second: BombBarrel_0
+  - first:
+      213: -5407658459080442489
+    second: BombBarrel_1
+  - first:
+      213: 5279416535784647115
+    second: BombBarrel_2
+  - first:
+      213: -801051119064845001
+    second: BombBarrel_3
+  - first:
+      213: -1984777853565697613
+    second: BombBarrel_4
+  - first:
+      213: -4150487647739706260
+    second: BombBarrel_5
+  - first:
+      213: 7102673500065339207
+    second: BombBarrel_6
+  - first:
+      213: -929444071106728448
+    second: BombBarrel_7
+  - first:
+      213: 7634839755582593312
+    second: BombBarrel_8
+  - first:
+      213: 1871670747709417166
+    second: BombBarrel_9
+  - first:
+      213: 6027506012150694299
+    second: BombBarrel_10
+  - first:
+      213: 6642679356349223482
+    second: BombBarrel_11
+  - first:
+      213: 1572217312925584796
+    second: BombBarrel_12
+  - first:
+      213: 7738948080498105933
+    second: BombBarrel_13
+  - first:
+      213: 4719535316966338786
+    second: BombBarrel_14
+  - first:
+      213: -3436347386446614320
+    second: BombBarrel_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombBarrel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552904be80063b20800000000000000
+      internalID: 3113676805279130971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dbfdf484324f4b0800000000000000
+      internalID: -5407658459080442489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc964c42e51444940800000000000000
+      internalID: 5279416535784647115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f539504812e4f0800000000000000
+      internalID: -801051119064845001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.16216217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18728de07a474e0800000000000000
+      internalID: -1984777853565697613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6404df79718666c0800000000000000
+      internalID: -4150487647739706260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74799feaae3c19260800000000000000
+      internalID: 7102673500065339207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e271faa83f913f0800000000000000
+      internalID: -929444071106728448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d78c7e4664f960800000000000000
+      internalID: 7634839755582593312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a5b5e0a289f910800000000000000
+      internalID: 1871670747709417166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9106cf68c006a350800000000000000
+      internalID: 6027506012150694299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3214002ea98f2c50800000000000000
+      internalID: 6642679356349223482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d06aee053a1d510800000000000000
+      internalID: 1572217312925584796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 38
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed749c644466b60800000000000000
+      internalID: 7738948080498105933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 38
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e070b89d582f7140800000000000000
+      internalID: 4719535316966338786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombBarrel_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f1023244af40d0800000000000000
+      internalID: -3436347386446614320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BombBarrel_0: 3113676805279130971
+      BombBarrel_1: -5407658459080442489
+      BombBarrel_10: 6027506012150694299
+      BombBarrel_11: 6642679356349223482
+      BombBarrel_12: 1572217312925584796
+      BombBarrel_13: 7738948080498105933
+      BombBarrel_14: 4719535316966338786
+      BombBarrel_15: -3436347386446614320
+      BombBarrel_2: 5279416535784647115
+      BombBarrel_3: -801051119064845001
+      BombBarrel_4: -1984777853565697613
+      BombBarrel_5: -4150487647739706260
+      BombBarrel_6: 7102673500065339207
+      BombBarrel_7: -929444071106728448
+      BombBarrel_8: 7634839755582593312
+      BombBarrel_9: 1871670747709417166
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

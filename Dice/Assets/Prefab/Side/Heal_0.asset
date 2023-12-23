@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2285fea205f6f4bb2f8ac31312d84f, type: 3}
+  m_Name: Heal_0
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 2c3034a9892c74101a47658f59c77e6b, type: 3}
+  sideType: 1
+  isPositive: 1
+  targetType: 1
+  value: 2

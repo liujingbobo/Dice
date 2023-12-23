@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 76e95c5af072d5346ae80d223b657867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5426914243817848306
+    second: Gloomushroom_0
+  - first:
+      213: 3295098674288194345
+    second: Gloomushroom_1
+  - first:
+      213: 4630885641250901412
+    second: Gloomushroom_2
+  - first:
+      213: 2687760280662990773
+    second: Gloomushroom_3
+  - first:
+      213: 535908328725349121
+    second: Gloomushroom_4
+  - first:
+      213: 7357754708897089556
+    second: Gloomushroom_5
+  - first:
+      213: 4220492265966908729
+    second: Gloomushroom_6
+  - first:
+      213: 5199942106922887396
+    second: Gloomushroom_7
+  - first:
+      213: -3193218257745086516
+    second: Gloomushroom_8
+  - first:
+      213: -7719818316547450779
+    second: Gloomushroom_9
+  - first:
+      213: -8967449417474395516
+    second: Gloomushroom_10
+  - first:
+      213: -5975707426634185041
+    second: Gloomushroom_11
+  - first:
+      213: 160522150188214164
+    second: Gloomushroom_12
+  - first:
+      213: -3160579494036420409
+    second: Gloomushroom_13
+  - first:
+      213: 8617544565841063559
+    second: Gloomushroom_14
+  - first:
+      213: -686659007482215176
+    second: Gloomushroom_15
+  - first:
+      213: 8930153960603128723
+    second: Gloomushroom_16
+  - first:
+      213: 65127613610074462
+    second: Gloomushroom_17
+  - first:
+      213: -5065675606158840320
+    second: Gloomushroom_18
+  - first:
+      213: 4563007561762217559
+    second: Gloomushroom_19
+  - first:
+      213: 4455348306474145744
+    second: Gloomushroom_20
+  - first:
+      213: -5156226316142448420
+    second: Gloomushroom_21
+  - first:
+      213: 5349753378771342287
+    second: Gloomushroom_22
+  - first:
+      213: -7124429091502506548
+    second: Gloomushroom_23
+  - first:
+      213: -7917192131302582158
+    second: Gloomushroom_24
+  - first:
+      213: -975974284729348104
+    second: Gloomushroom_25
+  - first:
+      213: -1969486571775561863
+    second: Gloomushroom_26
+  - first:
+      213: -3583150626104527459
+    second: Gloomushroom_27
+  - first:
+      213: 2615269723305584400
+    second: Gloomushroom_28
+  - first:
+      213: 9006764111731268307
+    second: Gloomushroom_29
+  - first:
+      213: 4499744466810438810
+    second: Gloomushroom_30
+  - first:
+      213: -6192906086845437710
+    second: Gloomushroom_31
+  - first:
+      213: -5578184651055275794
+    second: Gloomushroom_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gloomushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02cabe8f3abfa4b0800000000000000
+      internalID: -5426914243817848306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923fecc39ca8abd20800000000000000
+      internalID: 3295098674288194345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad873a84f5344040800000000000000
+      internalID: 4630885641250901412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf52522cb7dc4520800000000000000
+      internalID: 2687760280662990773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10309dd19cdef6700800000000000000
+      internalID: 535908328725349121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c448bceefb1660800000000000000
+      internalID: 7357754708897089556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935bd32da53329a30800000000000000
+      internalID: 4220492265966908729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e82cb7bbc7e92840800000000000000
+      internalID: 5199942106922887396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ffc8b9e86fa3d0800000000000000
+      internalID: -3193218257745086516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56892a77422bdd490800000000000000
+      internalID: -7719818316547450779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b72234483d8380800000000000000
+      internalID: -8967449417474395516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa64ec191c5021da0800000000000000
+      internalID: -5975707426634185041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ec8c8b0a4a3200800000000000000
+      internalID: 160522150188214164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8439512bd5324d0800000000000000
+      internalID: -3160579494036420409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 46
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eed0bff1ba79770800000000000000
+      internalID: 8617544565841063559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44331554f7876f0800000000000000
+      internalID: -686659007482215176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3931c4396b74eeb70800000000000000
+      internalID: 8930153960603128723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e512c42383167e000800000000000000
+      internalID: 65127613610074462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e6a8310ea13b9b0800000000000000
+      internalID: -5065675606158840320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e124a933f035f30800000000000000
+      internalID: 4563007561762217559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 46
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79706eda394dd30800000000000000
+      internalID: 4455348306474145744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 46
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0feccfb776178b0800000000000000
+      internalID: -5156226316142448420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc39c919a542e3a40800000000000000
+      internalID: 5349753378771342287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 46
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdb885fc71f02d90800000000000000
+      internalID: -7124429091502506548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278113324bb702290800000000000000
+      internalID: -7917192131302582158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff8ac81f84a472f0800000000000000
+      internalID: -975974284729348104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6a63d56afaa4e0800000000000000
+      internalID: -1969486571775561863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 95
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95325a6d77164ec0800000000000000
+      internalID: -3583150626104527459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a67105fd4b4420800000000000000
+      internalID: 2615269723305584400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 95
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da9a7f5d347efc70800000000000000
+      internalID: 9006764111731268307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 95
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94044c70cd427e30800000000000000
+      internalID: 4499744466810438810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 95
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f82936b9b06e0aa0800000000000000
+      internalID: -6192906086845437710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomushroom_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 95
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.71794873, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee060564d9e4692b0800000000000000
+      internalID: -5578184651055275794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gloomushroom_0: -5426914243817848306
+      Gloomushroom_1: 3295098674288194345
+      Gloomushroom_10: -8967449417474395516
+      Gloomushroom_11: -5975707426634185041
+      Gloomushroom_12: 160522150188214164
+      Gloomushroom_13: -3160579494036420409
+      Gloomushroom_14: 8617544565841063559
+      Gloomushroom_15: -686659007482215176
+      Gloomushroom_16: 8930153960603128723
+      Gloomushroom_17: 65127613610074462
+      Gloomushroom_18: -5065675606158840320
+      Gloomushroom_19: 4563007561762217559
+      Gloomushroom_2: 4630885641250901412
+      Gloomushroom_20: 4455348306474145744
+      Gloomushroom_21: -5156226316142448420
+      Gloomushroom_22: 5349753378771342287
+      Gloomushroom_23: -7124429091502506548
+      Gloomushroom_24: -7917192131302582158
+      Gloomushroom_25: -975974284729348104
+      Gloomushroom_26: -1969486571775561863
+      Gloomushroom_27: -3583150626104527459
+      Gloomushroom_28: 2615269723305584400
+      Gloomushroom_29: 9006764111731268307
+      Gloomushroom_3: 2687760280662990773
+      Gloomushroom_30: 4499744466810438810
+      Gloomushroom_31: -6192906086845437710
+      Gloomushroom_32: -5578184651055275794
+      Gloomushroom_4: 535908328725349121
+      Gloomushroom_5: 7357754708897089556
+      Gloomushroom_6: 4220492265966908729
+      Gloomushroom_7: 5199942106922887396
+      Gloomushroom_8: -3193218257745086516
+      Gloomushroom_9: -7719818316547450779
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

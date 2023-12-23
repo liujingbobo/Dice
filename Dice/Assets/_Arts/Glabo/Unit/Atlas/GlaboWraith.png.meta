@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 5ea19e6ea9276744e82aa7156998452f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8711840588355940554
+    second: GlaboWraith_0
+  - first:
+      213: -8236017406428525147
+    second: GlaboWraith_1
+  - first:
+      213: -5540492919248299912
+    second: GlaboWraith_2
+  - first:
+      213: -617745512867115410
+    second: GlaboWraith_3
+  - first:
+      213: 8667828153633558847
+    second: GlaboWraith_4
+  - first:
+      213: -35494385559608805
+    second: GlaboWraith_5
+  - first:
+      213: 5254095236844682230
+    second: GlaboWraith_6
+  - first:
+      213: -6089052094960275328
+    second: GlaboWraith_7
+  - first:
+      213: 839991811051799702
+    second: GlaboWraith_8
+  - first:
+      213: -3978309921006627845
+    second: GlaboWraith_9
+  - first:
+      213: -6494454823622607185
+    second: GlaboWraith_10
+  - first:
+      213: -7820107291337203089
+    second: GlaboWraith_11
+  - first:
+      213: 8891228045893807425
+    second: GlaboWraith_12
+  - first:
+      213: 4630384965229896945
+    second: GlaboWraith_13
+  - first:
+      213: -8766203819117755367
+    second: GlaboWraith_14
+  - first:
+      213: -7915125442555130842
+    second: GlaboWraith_15
+  - first:
+      213: 8833610113287085568
+    second: GlaboWraith_16
+  - first:
+      213: 8739371815197667268
+    second: GlaboWraith_17
+  - first:
+      213: 4421524382749713799
+    second: GlaboWraith_18
+  - first:
+      213: -8010029734377993468
+    second: GlaboWraith_19
+  - first:
+      213: 1034386314595218848
+    second: GlaboWraith_20
+  - first:
+      213: 5849597894253731274
+    second: GlaboWraith_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GlaboWraith_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac039c89bdca6e870800000000000000
+      internalID: 8711840588355940554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc4ed1ec9c3bd80800000000000000
+      internalID: -8236017406428525147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87853a37b073c13b0800000000000000
+      internalID: -5540492919248299912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec6ff9ab35d67f0800000000000000
+      internalID: -617745512867115410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31557718cf4a4870800000000000000
+      internalID: 8667828153633558847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e23d5b06e18ff0800000000000000
+      internalID: -35494385559608805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.31111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf230d7cb4ae840800000000000000
+      internalID: 5254095236844682230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 34
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.31914893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807b0d71675f7ba0800000000000000
+      internalID: -6089052094960275328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694caf70a1048ab00800000000000000
+      internalID: 839991811051799702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3dcff64343ac8c0800000000000000
+      internalID: -3978309921006627845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faef62c3fbf0fd5a0800000000000000
+      internalID: -6494454823622607185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.29545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62676ae9d5697390800000000000000
+      internalID: -7820107291337203089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dad7cccccf36b70800000000000000
+      internalID: 8891228045893807425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 47
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f466d1d79e624040800000000000000
+      internalID: 4630384965229896945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91440d46210385680800000000000000
+      internalID: -8766203819117755367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.29545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c48db9853d72290800000000000000
+      internalID: -7915125442555130842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e56c67899479a70800000000000000
+      internalID: 8833610113287085568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfeaecdc5c784970800000000000000
+      internalID: 8739371815197667268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7856687fff86c5d30800000000000000
+      internalID: 4421524382749713799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 97
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b45124568a6d090800000000000000
+      internalID: -8010029734377993468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 97
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.22916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a539f96fd0ea5e00800000000000000
+      internalID: 1034386314595218848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlaboWraith_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdddd5da42fd2150800000000000000
+      internalID: 5849597894253731274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GlaboWraith_0: 8711840588355940554
+      GlaboWraith_1: -8236017406428525147
+      GlaboWraith_10: -6494454823622607185
+      GlaboWraith_11: -7820107291337203089
+      GlaboWraith_12: 8891228045893807425
+      GlaboWraith_13: 4630384965229896945
+      GlaboWraith_14: -8766203819117755367
+      GlaboWraith_15: -7915125442555130842
+      GlaboWraith_16: 8833610113287085568
+      GlaboWraith_17: 8739371815197667268
+      GlaboWraith_18: 4421524382749713799
+      GlaboWraith_19: -8010029734377993468
+      GlaboWraith_2: -5540492919248299912
+      GlaboWraith_20: 1034386314595218848
+      GlaboWraith_21: 5849597894253731274
+      GlaboWraith_3: -617745512867115410
+      GlaboWraith_4: 8667828153633558847
+      GlaboWraith_5: -35494385559608805
+      GlaboWraith_6: 5254095236844682230
+      GlaboWraith_7: -6089052094960275328
+      GlaboWraith_8: 839991811051799702
+      GlaboWraith_9: -3978309921006627845
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

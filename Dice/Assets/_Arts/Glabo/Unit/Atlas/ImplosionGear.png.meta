@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: f649b47a5505f7a499ab5e69cf1178a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2488660655729451126
+    second: ImplosionGear_0
+  - first:
+      213: 3637467035179194972
+    second: ImplosionGear_1
+  - first:
+      213: -4688850989804969311
+    second: ImplosionGear_2
+  - first:
+      213: -5963744931255193951
+    second: ImplosionGear_3
+  - first:
+      213: -7674679121056130684
+    second: ImplosionGear_4
+  - first:
+      213: -5465166133103389663
+    second: ImplosionGear_5
+  - first:
+      213: 1819559609131598934
+    second: ImplosionGear_6
+  - first:
+      213: -1386748729208357403
+    second: ImplosionGear_7
+  - first:
+      213: 2797320453153567888
+    second: ImplosionGear_8
+  - first:
+      213: 1955492694029644949
+    second: ImplosionGear_9
+  - first:
+      213: -2397479641327532828
+    second: ImplosionGear_10
+  - first:
+      213: 7731643654203343291
+    second: ImplosionGear_11
+  - first:
+      213: 5695781911528753605
+    second: ImplosionGear_12
+  - first:
+      213: 7355566345202350127
+    second: ImplosionGear_13
+  - first:
+      213: 7686101079635419533
+    second: ImplosionGear_14
+  - first:
+      213: -4123030961445803077
+    second: ImplosionGear_15
+  - first:
+      213: 130569111539041653
+    second: ImplosionGear_16
+  - first:
+      213: 2674998024296586546
+    second: ImplosionGear_17
+  - first:
+      213: 1821451230800814349
+    second: ImplosionGear_18
+  - first:
+      213: -2705082814566130444
+    second: ImplosionGear_19
+  - first:
+      213: 5200271268168002312
+    second: ImplosionGear_20
+  - first:
+      213: 2851774887386258044
+    second: ImplosionGear_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImplosionGear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ae3f4eaf798220800000000000000
+      internalID: 2488660655729451126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a9c021ff0ea7230800000000000000
+      internalID: 3637467035179194972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2afeb0edaddeeb0800000000000000
+      internalID: -4688850989804969311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae6f7115958c3da0800000000000000
+      internalID: -5963744931255193951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.575, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489975860001e7590800000000000000
+      internalID: -7674679121056130684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12490ed8b54d724b0800000000000000
+      internalID: -5465166133103389663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65400f5f2df504910800000000000000
+      internalID: 1819559609131598934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edbfcac06741cce0800000000000000
+      internalID: -1386748729208357403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094372d912412d620800000000000000
+      internalID: 2797320453153567888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594328c9e3e432b10800000000000000
+      internalID: 1955492694029644949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e40176f7f07abed0800000000000000
+      internalID: -2397479641327532828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb181b280f05c4b60800000000000000
+      internalID: 7731643654203343291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c944c2987b7b0f40800000000000000
+      internalID: 5695781911528753605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 38
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ba979e98341660800000000000000
+      internalID: 7355566345202350127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.575, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d816a6f85348aaa60800000000000000
+      internalID: 7686101079635419533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe5117f2d08c6c0800000000000000
+      internalID: -4123030961445803077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 76
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5754ce74aefdfc100800000000000000
+      internalID: 130569111539041653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd115c7808f1520800000000000000
+      internalID: 2674998024296586546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 76
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01a4937e38174910800000000000000
+      internalID: 1821451230800814349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc95c5238d957ad0800000000000000
+      internalID: -2705082814566130444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80be2da8a231b2840800000000000000
+      internalID: 5200271268168002312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImplosionGear_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a9906962a839720800000000000000
+      internalID: 2851774887386258044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ImplosionGear_0: 2488660655729451126
+      ImplosionGear_1: 3637467035179194972
+      ImplosionGear_10: -2397479641327532828
+      ImplosionGear_11: 7731643654203343291
+      ImplosionGear_12: 5695781911528753605
+      ImplosionGear_13: 7355566345202350127
+      ImplosionGear_14: 7686101079635419533
+      ImplosionGear_15: -4123030961445803077
+      ImplosionGear_16: 130569111539041653
+      ImplosionGear_17: 2674998024296586546
+      ImplosionGear_18: 1821451230800814349
+      ImplosionGear_19: -2705082814566130444
+      ImplosionGear_2: -4688850989804969311
+      ImplosionGear_20: 5200271268168002312
+      ImplosionGear_21: 2851774887386258044
+      ImplosionGear_3: -5963744931255193951
+      ImplosionGear_4: -7674679121056130684
+      ImplosionGear_5: -5465166133103389663
+      ImplosionGear_6: 1819559609131598934
+      ImplosionGear_7: -1386748729208357403
+      ImplosionGear_8: 2797320453153567888
+      ImplosionGear_9: 1955492694029644949
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

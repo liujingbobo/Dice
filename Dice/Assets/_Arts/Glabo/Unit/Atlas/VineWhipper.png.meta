@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 80d463690a9c22b42a93a7165b66ecfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6677587686013250079
+    second: VineWhipper_0
+  - first:
+      213: -646308250302094943
+    second: VineWhipper_1
+  - first:
+      213: 7734332204342371782
+    second: VineWhipper_2
+  - first:
+      213: 4469479752063333007
+    second: VineWhipper_3
+  - first:
+      213: 6390473635760718643
+    second: VineWhipper_4
+  - first:
+      213: 24011326834874248
+    second: VineWhipper_5
+  - first:
+      213: 3797250754194314514
+    second: VineWhipper_6
+  - first:
+      213: -7277337678826452716
+    second: VineWhipper_7
+  - first:
+      213: 4252674694898440964
+    second: VineWhipper_8
+  - first:
+      213: -4740919560387372782
+    second: VineWhipper_9
+  - first:
+      213: -4094342970428364914
+    second: VineWhipper_10
+  - first:
+      213: -1519096332152067964
+    second: VineWhipper_11
+  - first:
+      213: 4088343017545530925
+    second: VineWhipper_12
+  - first:
+      213: 2914269027120130760
+    second: VineWhipper_13
+  - first:
+      213: -181173442287468373
+    second: VineWhipper_14
+  - first:
+      213: -3000012686237469996
+    second: VineWhipper_15
+  - first:
+      213: -4658732985646518234
+    second: VineWhipper_16
+  - first:
+      213: -7476967149087271772
+    second: VineWhipper_17
+  - first:
+      213: -8879417899238141723
+    second: VineWhipper_18
+  - first:
+      213: 3159728287124983526
+    second: VineWhipper_19
+  - first:
+      213: -7471055692385466085
+    second: VineWhipper_20
+  - first:
+      213: -8293723350052058165
+    second: VineWhipper_21
+  - first:
+      213: 3556125699769477326
+    second: VineWhipper_22
+  - first:
+      213: 41861002473839759
+    second: VineWhipper_23
+  - first:
+      213: 2912066545494261333
+    second: VineWhipper_24
+  - first:
+      213: 6821272757093566813
+    second: VineWhipper_25
+  - first:
+      213: -1311283942530249551
+    second: VineWhipper_26
+  - first:
+      213: 8623917889904373563
+    second: VineWhipper_27
+  - first:
+      213: 3934443315439198952
+    second: VineWhipper_28
+  - first:
+      213: 1478556785060464738
+    second: VineWhipper_29
+  - first:
+      213: -456256730744971319
+    second: VineWhipper_30
+  - first:
+      213: -5616621201974847199
+    second: VineWhipper_31
+  - first:
+      213: 5987801831586461571
+    second: VineWhipper_32
+  - first:
+      213: -4556632807198474606
+    second: VineWhipper_33
+  - first:
+      213: 6400935525550295094
+    second: VineWhipper_34
+  - first:
+      213: -1932596768070358728
+    second: VineWhipper_35
+  - first:
+      213: -5892214404142497367
+    second: VineWhipper_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VineWhipper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa75dfe9e8bac50800000000000000
+      internalID: 6677587686013250079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e655121ad707f0800000000000000
+      internalID: -646308250302094943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5e0be592ed55b60800000000000000
+      internalID: 7734332204342371782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8239887728c60e30800000000000000
+      internalID: 4469479752063333007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333440ed9e58fa850800000000000000
+      internalID: 6390473635760718643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887149eac2e455000800000000000000
+      internalID: 24011326834874248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21516d6317b82b430800000000000000
+      internalID: 3797250754194314514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419cbf620f3b10b90800000000000000
+      internalID: -7277337678826452716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd6b67a19840b30800000000000000
+      internalID: 4252674694898440964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219d86e37ced43eb0800000000000000
+      internalID: -4740919560387372782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87effad2c8fd27c0800000000000000
+      internalID: -4094342970428364914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 43
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882a763fe51beae0800000000000000
+      internalID: -1519096332152067964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 43
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2effb04056bcb830800000000000000
+      internalID: 4088343017545530925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca2b6d5d30917820800000000000000
+      internalID: 2914269027120130760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 43
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba088b1d6b75c7df0800000000000000
+      internalID: -181173442287468373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 43
+        width: 50
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2762b4b50dd56d0800000000000000
+      internalID: -3000012686237469996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 43
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f427580bd85fb0800000000000000
+      internalID: -4658732985646518234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 43
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a453691ef97c3890800000000000000
+      internalID: -7476967149087271772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e05aaf3778f5c480800000000000000
+      internalID: -8879417899238141723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 43
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee86dcd22c99db20800000000000000
+      internalID: 3159728287124983526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 43
+        width: 44
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19443e5e6a715890800000000000000
+      internalID: -7471055692385466085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 43
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbc8ce1e86c6ec80800000000000000
+      internalID: -8293723350052058165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a5679b75e95130800000000000000
+      internalID: 3556125699769477326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 94
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c15662c58b49000800000000000000
+      internalID: 41861002473839759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 94
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55efb76281db96820800000000000000
+      internalID: 2912066545494261333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 94
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598c929e670aae50800000000000000
+      internalID: 6821272757093566813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 94
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3207547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8fc5a3326dcde0800000000000000
+      internalID: -1311283942530249551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 94
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe2ef11af4ea770800000000000000
+      internalID: 8623917889904373563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 94
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e9ad8953f99630800000000000000
+      internalID: 3934443315439198952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 94
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268c5c1ff83e48410800000000000000
+      internalID: 1478556785060464738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 94
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf9095bbec0ba9f0800000000000000
+      internalID: -456256730744971319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_31
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 94
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41463414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1299c5266c0cd02b0800000000000000
+      internalID: -5616621201974847199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387f4258a02f81350800000000000000
+      internalID: 5987801831586461571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3b0b9a9693c0c0800000000000000
+      internalID: -4556632807198474606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 148
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388a9662f0b4d850800000000000000
+      internalID: 6400935525550295094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83929119a790e25e0800000000000000
+      internalID: -1932596768070358728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipper_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 148
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a185acb736aa3ea0800000000000000
+      internalID: -5892214404142497367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VineWhipper_0: 6677587686013250079
+      VineWhipper_1: -646308250302094943
+      VineWhipper_10: -4094342970428364914
+      VineWhipper_11: -1519096332152067964
+      VineWhipper_12: 4088343017545530925
+      VineWhipper_13: 2914269027120130760
+      VineWhipper_14: -181173442287468373
+      VineWhipper_15: -3000012686237469996
+      VineWhipper_16: -4658732985646518234
+      VineWhipper_17: -7476967149087271772
+      VineWhipper_18: -8879417899238141723
+      VineWhipper_19: 3159728287124983526
+      VineWhipper_2: 7734332204342371782
+      VineWhipper_20: -7471055692385466085
+      VineWhipper_21: -8293723350052058165
+      VineWhipper_22: 3556125699769477326
+      VineWhipper_23: 41861002473839759
+      VineWhipper_24: 2912066545494261333
+      VineWhipper_25: 6821272757093566813
+      VineWhipper_26: -1311283942530249551
+      VineWhipper_27: 8623917889904373563
+      VineWhipper_28: 3934443315439198952
+      VineWhipper_29: 1478556785060464738
+      VineWhipper_3: 4469479752063333007
+      VineWhipper_30: -456256730744971319
+      VineWhipper_31: -5616621201974847199
+      VineWhipper_32: 5987801831586461571
+      VineWhipper_33: -4556632807198474606
+      VineWhipper_34: 6400935525550295094
+      VineWhipper_35: -1932596768070358728
+      VineWhipper_36: -5892214404142497367
+      VineWhipper_4: 6390473635760718643
+      VineWhipper_5: 24011326834874248
+      VineWhipper_6: 3797250754194314514
+      VineWhipper_7: -7277337678826452716
+      VineWhipper_8: 4252674694898440964
+      VineWhipper_9: -4740919560387372782
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

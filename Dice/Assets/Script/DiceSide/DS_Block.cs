@@ -1,22 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 [CreateAssetMenu(fileName = "DiceSide", menuName = "DiceSide/Block", order = 1)]
 public class DS_Block : DiceSideEffect
 {
-    public List<int> Values;
-
-    public override int MaxLevel => Values.Count - 1;
+    [SerializeField] private int value;
 
     public override IEnumerator TakeAction(ActionInfo actionInfo)
     {
-        var info = new GainBlockInfo()
-        {
-            Value = Values[actionInfo.Level],
-            Source = actionInfo.Source,
-            Target = actionInfo.Source
-        };
+        var info = new GainBlockInfo(actionInfo.Source, actionInfo.Target, value);
         
         yield return Action(info);
     }

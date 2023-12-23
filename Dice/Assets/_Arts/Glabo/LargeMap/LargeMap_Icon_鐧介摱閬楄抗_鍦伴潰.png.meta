@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: adc8ecbfcfd36744b9e1b0ecb4ce1a2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1320337354625795617
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_0"
+  - first:
+      213: -1095144474794435714
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_1"
+  - first:
+      213: -1687503736478294036
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_2"
+  - first:
+      213: -2584875924689027067
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_3"
+  - first:
+      213: -8973923201935414643
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_4"
+  - first:
+      213: 2053698991794095700
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_5"
+  - first:
+      213: 9206174668312981723
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_6"
+  - first:
+      213: 5654732913929433532
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_7"
+  - first:
+      213: 2397683760478976921
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_8"
+  - first:
+      213: -4153261643151599050
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_9"
+  - first:
+      213: -1907374764147310134
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_10"
+  - first:
+      213: 2069975436469668103
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_11"
+  - first:
+      213: 4903687853837667973
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_12"
+  - first:
+      213: 2784262689061521585
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_13"
+  - first:
+      213: -4685444600818573458
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_14"
+  - first:
+      213: 1040244047722331045
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_0"
+  - first:
+      213: -3867865334035844935
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_1"
+  - first:
+      213: 1995948791103654547
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_2"
+  - first:
+      213: 2509637500670245047
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_3"
+  - first:
+      213: -2059018283522822006
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_4"
+  - first:
+      213: 4882732761226639062
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_5"
+  - first:
+      213: -4058069994440116282
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_6"
+  - first:
+      213: 7319870993362457315
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_7"
+  - first:
+      213: 3219735995276389600
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_8"
+  - first:
+      213: -1715006672884561464
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_9"
+  - first:
+      213: 3487182855654520181
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_10"
+  - first:
+      213: 339307499956271088
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_11"
+  - first:
+      213: -2374233602378318417
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_12"
+  - first:
+      213: 7599316698551491241
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_13"
+  - first:
+      213: 3793839561649191941
+    second: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_14"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab34303370bf6e00800000000000000
+      internalID: -1320337354625795617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_1"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0feb5b8f4925ac0800000000000000
+      internalID: -1095144474794435714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_2"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8a9bb9d803bb10800000000000000
+      internalID: -1687503736478294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_3"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f27e920604d220800000000000000
+      internalID: -2584875924689027067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_4"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807690c7c5ec63e0800000000000000
+      internalID: -8973923201935414643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d673169393f2c340800000000000000
+      internalID: 2053698991794095700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_6"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b9b337d6dea7c0800000000000000
+      internalID: 9206174668312981723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_7"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21e09d2e7659560800000000000000
+      internalID: 5654732913929433532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_8"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ececfc24dcceac20800000000000000
+      internalID: 2397683760478976921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_9"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c98a4b74821338e0800000000000000
+      internalID: -4153261643151599050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18479f1c4a785e0800000000000000
+      internalID: -1907374764147310134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_11"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090f8831b70abc10800000000000000
+      internalID: 2069975436469668103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_12"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e44694f166d0440800000000000000
+      internalID: 4903687853837667973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_13"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c2eef920b3a620800000000000000
+      internalID: 2784262689061521585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_14"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fdf69c5f4f9feb0800000000000000
+      internalID: -4685444600818573458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_0": -1320337354625795617
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_1": -1095144474794435714
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_10": -1907374764147310134
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_11": 2069975436469668103
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_12": 4903687853837667973
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_13": 2784262689061521585
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_14": -4685444600818573458
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_2": -1687503736478294036
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_3": -2584875924689027067
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_4": -8973923201935414643
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_5": 2053698991794095700
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_6": 9206174668312981723
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_7": 5654732913929433532
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_8": 2397683760478976921
+      "LargeMap_Icon_\u767D\u94F6\u9057\u8FF9_\u5730\u9762_9": -4153261643151599050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1b54729badd1ad94d9b5856b5d404327
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4599084507808179664
+    second: NovaElement_0
+  - first:
+      213: -95395395444501825
+    second: NovaElement_1
+  - first:
+      213: -8327795798208042351
+    second: NovaElement_2
+  - first:
+      213: -2023680059518730001
+    second: NovaElement_3
+  - first:
+      213: 6021293887534149727
+    second: NovaElement_4
+  - first:
+      213: 7855757209935551276
+    second: NovaElement_5
+  - first:
+      213: 3821302103779510651
+    second: NovaElement_6
+  - first:
+      213: 4448232765581153863
+    second: NovaElement_7
+  - first:
+      213: -2125680189103379743
+    second: NovaElement_8
+  - first:
+      213: 6627594188140203974
+    second: NovaElement_9
+  - first:
+      213: -2368306430835941048
+    second: NovaElement_10
+  - first:
+      213: 3095967396297616157
+    second: NovaElement_11
+  - first:
+      213: -4387225624083822173
+    second: NovaElement_12
+  - first:
+      213: 4338963619383261622
+    second: NovaElement_13
+  - first:
+      213: 5820004222164668747
+    second: NovaElement_14
+  - first:
+      213: -7302401270575809466
+    second: NovaElement_15
+  - first:
+      213: 4492265750879072754
+    second: NovaElement_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NovaElement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 52
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a8eb2efa33df30800000000000000
+      internalID: 4599084507808179664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2925da4661daef0800000000000000
+      internalID: -95395395444501825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa1d518d9bd6c80800000000000000
+      internalID: -8327795798208042351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0485135b17ae3e0800000000000000
+      internalID: -2023680059518730001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5034b673eeef8350800000000000000
+      internalID: 6021293887534149727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b1ce39f81450d60800000000000000
+      internalID: 7855757209935551276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790b3b640ef70530800000000000000
+      internalID: 3821302103779510651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 53
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d7bee12c4bbd30800000000000000
+      internalID: 4448232765581153863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 53
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea686e51211082e0800000000000000
+      internalID: -2125680189103379743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4a83bcc1f9fb50800000000000000
+      internalID: 6627594188140203974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 53
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84120c659d5122fd0800000000000000
+      internalID: -2368306430835941048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba28c91f517fa20800000000000000
+      internalID: 3095967396297616157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 101
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90ef61a817d13c0800000000000000
+      internalID: -4387225624083822173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9beaa4c68173c30800000000000000
+      internalID: 4338963619383261622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 101
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41166d110fc4c050800000000000000
+      internalID: 5820004222164668747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 101
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb7f3fbb8a8aa90800000000000000
+      internalID: -7302401270575809466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NovaElement_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fccd36ebb75e30800000000000000
+      internalID: 4492265750879072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NovaElement_0: 4599084507808179664
+      NovaElement_1: -95395395444501825
+      NovaElement_10: -2368306430835941048
+      NovaElement_11: 3095967396297616157
+      NovaElement_12: -4387225624083822173
+      NovaElement_13: 4338963619383261622
+      NovaElement_14: 5820004222164668747
+      NovaElement_15: -7302401270575809466
+      NovaElement_16: 4492265750879072754
+      NovaElement_2: -8327795798208042351
+      NovaElement_3: -2023680059518730001
+      NovaElement_4: 6021293887534149727
+      NovaElement_5: 7855757209935551276
+      NovaElement_6: 3821302103779510651
+      NovaElement_7: 4448232765581153863
+      NovaElement_8: -2125680189103379743
+      NovaElement_9: 6627594188140203974
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

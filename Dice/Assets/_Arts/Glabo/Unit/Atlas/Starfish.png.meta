@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 69602cb152e729247b7a92fe5ff0d992
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3514020835062027974
+    second: Starfish_0
+  - first:
+      213: 4198055377472481164
+    second: Starfish_1
+  - first:
+      213: -5606578627069722438
+    second: Starfish_2
+  - first:
+      213: 6569350391231483116
+    second: Starfish_3
+  - first:
+      213: 9176491317963080161
+    second: Starfish_4
+  - first:
+      213: 6833747355330710194
+    second: Starfish_5
+  - first:
+      213: 5252507962323915428
+    second: Starfish_6
+  - first:
+      213: -6168122380423119095
+    second: Starfish_7
+  - first:
+      213: 5948225640899884562
+    second: Starfish_8
+  - first:
+      213: 8816974293282430496
+    second: Starfish_9
+  - first:
+      213: -8927788569610025765
+    second: Starfish_10
+  - first:
+      213: -1556728316123840160
+    second: Starfish_11
+  - first:
+      213: 5186399175940575855
+    second: Starfish_12
+  - first:
+      213: -6041965605061493104
+    second: Starfish_13
+  - first:
+      213: -8780298822157648185
+    second: Starfish_14
+  - first:
+      213: -7284600772157249061
+    second: Starfish_15
+  - first:
+      213: -3734148527822508092
+    second: Starfish_16
+  - first:
+      213: 1159958052920069381
+    second: Starfish_17
+  - first:
+      213: -5263361298039098551
+    second: Starfish_18
+  - first:
+      213: -3255640421569860408
+    second: Starfish_19
+  - first:
+      213: 2585066403683610110
+    second: Starfish_20
+  - first:
+      213: -8468017192545998568
+    second: Starfish_21
+  - first:
+      213: 8701112541909860942
+    second: Starfish_22
+  - first:
+      213: -6267575086713171035
+    second: Starfish_23
+  - first:
+      213: 1612059643971395948
+    second: Starfish_24
+  - first:
+      213: -732075034975848966
+    second: Starfish_25
+  - first:
+      213: 7814775189465125142
+    second: Starfish_26
+  - first:
+      213: -7097481110468463468
+    second: Starfish_27
+  - first:
+      213: 5834689053635107177
+    second: Starfish_28
+  - first:
+      213: 8943335605851533844
+    second: Starfish_29
+  - first:
+      213: -774233514091404563
+    second: Starfish_30
+  - first:
+      213: -8765022908356068987
+    second: Starfish_31
+  - first:
+      213: -2983179575312890723
+    second: Starfish_32
+  - first:
+      213: -8878112847024473377
+    second: Starfish_33
+  - first:
+      213: 3752185441286965452
+    second: Starfish_34
+  - first:
+      213: -4664705580781640051
+    second: Starfish_35
+  - first:
+      213: -815562500552661301
+    second: Starfish_36
+  - first:
+      213: 102581245094478225
+    second: Starfish_37
+  - first:
+      213: 7712694434376754987
+    second: Starfish_38
+  - first:
+      213: -9167342449222686792
+    second: Starfish_39
+  - first:
+      213: 5068021638683002057
+    second: Starfish_40
+  - first:
+      213: -2100139875863104656
+    second: Starfish_41
+  - first:
+      213: 7223612264352183567
+    second: Starfish_42
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Starfish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a396ec82ba0bb3fc0800000000000000
+      internalID: -3514020835062027974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c876aa1af1d724a30800000000000000
+      internalID: 4198055377472481164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04630917e6132b0800000000000000
+      internalID: -5606578627069722438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0d6aff550b2b50800000000000000
+      internalID: 6569350391231483116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e145ab0c32795f70800000000000000
+      internalID: 9176491317963080161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba804f430956de50800000000000000
+      internalID: 6833747355330710194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25a3aa928a4e840800000000000000
+      internalID: 5252507962323915428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 31
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f3eb7006d666aa0800000000000000
+      internalID: -6168122380423119095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21635b194b75c8250800000000000000
+      internalID: 5948225640899884562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e99d8c76f2c5a70800000000000000
+      internalID: 8816974293282430496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd40a9ee89f1a1480800000000000000
+      internalID: -8927788569610025765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 31
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06185a928d3656ae0800000000000000
+      internalID: -1556728316123840160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621151629ac9f740800000000000000
+      internalID: 5186399175940575855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e7e2d3b40a62ca0800000000000000
+      internalID: -6041965605061493104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce3383cdbc162680800000000000000
+      internalID: -8780298822157648185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e7057136e7ea90800000000000000
+      internalID: -7284600772157249061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf6794c2b3ad2cc0800000000000000
+      internalID: -3734148527822508092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 64
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d87a214bff81010800000000000000
+      internalID: 1159958052920069381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94337d139c8c4f6b0800000000000000
+      internalID: -5263361298039098551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccece32944a1d2d0800000000000000
+      internalID: -3255640421569860408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdab58a23000e320800000000000000
+      internalID: 2585066403683610110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81925669a3f8b7a80800000000000000
+      internalID: -8468017192545998568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 95
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42cb33a1cf80c870800000000000000
+      internalID: 8701112541909860942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a39f596aa91509a0800000000000000
+      internalID: -6267575086713171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6168a384bf2f5610800000000000000
+      internalID: 1612059643971395948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5355762a527d5f0800000000000000
+      internalID: -732075034975848966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611da9f51a8a37c60800000000000000
+      internalID: 7814775189465125142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4947b7ab88ea08d90800000000000000
+      internalID: -7097481110468463468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969d7c0e7caf8f050800000000000000
+      internalID: 5834689053635107177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41232e5895c1d1c70800000000000000
+      internalID: 8943335605851533844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 126
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2216398be5145f0800000000000000
+      internalID: -774233514091404563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 126
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.40000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589764b9a126c5680800000000000000
+      internalID: -8765022908356068987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.43333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9446485bfd9996d0800000000000000
+      internalID: -2983179575312890723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3645676b9ac480800000000000000
+      internalID: -8878112847024473377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc84d4767c0721430800000000000000
+      internalID: 3752185441286965452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866abb2df2a34fb0800000000000000
+      internalID: -4664705580781640051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ed6e0a3a8ea4f0800000000000000
+      internalID: -815562500552661301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191497259117c6100800000000000000
+      internalID: 102581245094478225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 157
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a82679bef80b60800000000000000
+      internalID: 7712694434376754987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7e8b3fc9e07c080800000000000000
+      internalID: -9167342449222686792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 188
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c481bf24da355640800000000000000
+      internalID: 5068021638683002057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 188
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fb80f8edcad2e0800000000000000
+      internalID: -2100139875863104656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starfish_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 188
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05fdd3051d6f3460800000000000000
+      internalID: 7223612264352183567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Starfish_0: -3514020835062027974
+      Starfish_1: 4198055377472481164
+      Starfish_10: -8927788569610025765
+      Starfish_11: -1556728316123840160
+      Starfish_12: 5186399175940575855
+      Starfish_13: -6041965605061493104
+      Starfish_14: -8780298822157648185
+      Starfish_15: -7284600772157249061
+      Starfish_16: -3734148527822508092
+      Starfish_17: 1159958052920069381
+      Starfish_18: -5263361298039098551
+      Starfish_19: -3255640421569860408
+      Starfish_2: -5606578627069722438
+      Starfish_20: 2585066403683610110
+      Starfish_21: -8468017192545998568
+      Starfish_22: 8701112541909860942
+      Starfish_23: -6267575086713171035
+      Starfish_24: 1612059643971395948
+      Starfish_25: -732075034975848966
+      Starfish_26: 7814775189465125142
+      Starfish_27: -7097481110468463468
+      Starfish_28: 5834689053635107177
+      Starfish_29: 8943335605851533844
+      Starfish_3: 6569350391231483116
+      Starfish_30: -774233514091404563
+      Starfish_31: -8765022908356068987
+      Starfish_32: -2983179575312890723
+      Starfish_33: -8878112847024473377
+      Starfish_34: 3752185441286965452
+      Starfish_35: -4664705580781640051
+      Starfish_36: -815562500552661301
+      Starfish_37: 102581245094478225
+      Starfish_38: 7712694434376754987
+      Starfish_39: -9167342449222686792
+      Starfish_4: 9176491317963080161
+      Starfish_40: 5068021638683002057
+      Starfish_41: -2100139875863104656
+      Starfish_42: 7223612264352183567
+      Starfish_5: 6833747355330710194
+      Starfish_6: 5252507962323915428
+      Starfish_7: -6168122380423119095
+      Starfish_8: 5948225640899884562
+      Starfish_9: 8816974293282430496
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

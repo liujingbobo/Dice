@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: f25bf42116499a547963db934f8b6134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2593076075522853938
+    second: TelecontrolGear_0
+  - first:
+      213: 8657458189237950747
+    second: TelecontrolGear_1
+  - first:
+      213: -4372591601806625744
+    second: TelecontrolGear_2
+  - first:
+      213: -2453178177688848868
+    second: TelecontrolGear_3
+  - first:
+      213: -5367132164963405653
+    second: TelecontrolGear_4
+  - first:
+      213: -1641257761833688010
+    second: TelecontrolGear_5
+  - first:
+      213: -2181804847831641948
+    second: TelecontrolGear_6
+  - first:
+      213: 3128054779784077082
+    second: TelecontrolGear_7
+  - first:
+      213: -7808764879209372907
+    second: TelecontrolGear_8
+  - first:
+      213: -2155177242846725410
+    second: TelecontrolGear_9
+  - first:
+      213: 240524258505352694
+    second: TelecontrolGear_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TelecontrolGear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec375ea4c0b830cd0800000000000000
+      internalID: -2593076075522853938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19135b9a58752870800000000000000
+      internalID: 8657458189237950747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b57aea1f6153c0800000000000000
+      internalID: -4372591601806625744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16bd14e17f84fdd0800000000000000
+      internalID: -2453178177688848868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba078c47bbd1485b0800000000000000
+      internalID: -5367132164963405653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.575, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ec09e2c41939e0800000000000000
+      internalID: -1641257761833688010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a015c3fc0ca8b1e0800000000000000
+      internalID: -2181804847831641948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f1ef2cf35196b20800000000000000
+      internalID: 3128054779784077082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ed2807b1b1a390800000000000000
+      internalID: -7808764879209372907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda7d1c57b54712e0800000000000000
+      internalID: -2155177242846725410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelecontrolGear_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5631ce983865300800000000000000
+      internalID: 240524258505352694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TelecontrolGear_0: -2593076075522853938
+      TelecontrolGear_1: 8657458189237950747
+      TelecontrolGear_10: 240524258505352694
+      TelecontrolGear_2: -4372591601806625744
+      TelecontrolGear_3: -2453178177688848868
+      TelecontrolGear_4: -5367132164963405653
+      TelecontrolGear_5: -1641257761833688010
+      TelecontrolGear_6: -2181804847831641948
+      TelecontrolGear_7: 3128054779784077082
+      TelecontrolGear_8: -7808764879209372907
+      TelecontrolGear_9: -2155177242846725410
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

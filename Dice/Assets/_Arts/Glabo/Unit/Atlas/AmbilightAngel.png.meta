@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 95783d5de23432e4981707d86031b4a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5027137839412483753
+    second: AmbilightAngel_0
+  - first:
+      213: -6498054698258330832
+    second: AmbilightAngel_1
+  - first:
+      213: 8922844140523037393
+    second: AmbilightAngel_2
+  - first:
+      213: -2457066210901897907
+    second: AmbilightAngel_3
+  - first:
+      213: 850047825803060093
+    second: AmbilightAngel_4
+  - first:
+      213: -3183772136574974920
+    second: AmbilightAngel_5
+  - first:
+      213: 1599444205489344140
+    second: AmbilightAngel_6
+  - first:
+      213: 8023754276356717736
+    second: AmbilightAngel_7
+  - first:
+      213: 4750575622721837663
+    second: AmbilightAngel_8
+  - first:
+      213: -4311106705525782040
+    second: AmbilightAngel_9
+  - first:
+      213: 5457121867493068083
+    second: AmbilightAngel_10
+  - first:
+      213: -5504663122054959437
+    second: AmbilightAngel_11
+  - first:
+      213: -1809578951708805978
+    second: AmbilightAngel_12
+  - first:
+      213: -801820397683131585
+    second: AmbilightAngel_13
+  - first:
+      213: 712269817481339948
+    second: AmbilightAngel_14
+  - first:
+      213: -9074774245022205201
+    second: AmbilightAngel_15
+  - first:
+      213: 5691218738167780246
+    second: AmbilightAngel_16
+  - first:
+      213: 7149413180549799317
+    second: AmbilightAngel_17
+  - first:
+      213: 5500232256533647930
+    second: AmbilightAngel_18
+  - first:
+      213: 2572957836222074839
+    second: AmbilightAngel_19
+  - first:
+      213: -9052619515026885283
+    second: AmbilightAngel_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmbilightAngel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e4ec15c40c3ab0800000000000000
+      internalID: -5027137839412483753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b014b1ea542d5a0800000000000000
+      internalID: -6498054698258330832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22d06787f44db70800000000000000
+      internalID: 8922844140523037393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc39d9c4fb6edd0800000000000000
+      internalID: -2457066210901897907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a51b6ef9fbcb00800000000000000
+      internalID: 850047825803060093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83489a13c18f0d3d0800000000000000
+      internalID: -3183772136574974920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ecf3ad70e523610800000000000000
+      internalID: 1599444205489344140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 49
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac734fa00a1a5f60800000000000000
+      internalID: 8023754276356717736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 49
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a17f6fb5f6de140800000000000000
+      internalID: 4750575622721837663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 49
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c454ea4fdb24c0800000000000000
+      internalID: -4311106705525782040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 49
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc0f7ec679bbb40800000000000000
+      internalID: 5457121867493068083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea8b13e028b93b0800000000000000
+      internalID: -5504663122054959437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 90
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47f5ee78513e6e0800000000000000
+      internalID: -1809578951708805978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3f66b89c5fd4f0800000000000000
+      internalID: -801820397683131585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24253f00ad72e900800000000000000
+      internalID: 712269817481339948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 90
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea769487ecef0280800000000000000
+      internalID: -9074774245022205201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693998bf9454bfe40800000000000000
+      internalID: 5691218738167780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9a239861d73360800000000000000
+      internalID: 7149413180549799317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 131
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3255d88810c45c40800000000000000
+      internalID: 5500232256533647930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df031a158bf4b320800000000000000
+      internalID: 2572957836222074839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmbilightAngel_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 131
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bd009382ae5280800000000000000
+      internalID: -9052619515026885283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AmbilightAngel_0: -5027137839412483753
+      AmbilightAngel_1: -6498054698258330832
+      AmbilightAngel_10: 5457121867493068083
+      AmbilightAngel_11: -5504663122054959437
+      AmbilightAngel_12: -1809578951708805978
+      AmbilightAngel_13: -801820397683131585
+      AmbilightAngel_14: 712269817481339948
+      AmbilightAngel_15: -9074774245022205201
+      AmbilightAngel_16: 5691218738167780246
+      AmbilightAngel_17: 7149413180549799317
+      AmbilightAngel_18: 5500232256533647930
+      AmbilightAngel_19: 2572957836222074839
+      AmbilightAngel_2: 8922844140523037393
+      AmbilightAngel_20: -9052619515026885283
+      AmbilightAngel_3: -2457066210901897907
+      AmbilightAngel_4: 850047825803060093
+      AmbilightAngel_5: -3183772136574974920
+      AmbilightAngel_6: 1599444205489344140
+      AmbilightAngel_7: 8023754276356717736
+      AmbilightAngel_8: 4750575622721837663
+      AmbilightAngel_9: -4311106705525782040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

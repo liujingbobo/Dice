@@ -16,4 +16,5 @@ MonoBehaviour:
   sideType: 1
   isPositive: 0
   targetType: 2
-  Values: 
+  value: 3
+  effect: {fileID: 11400000, guid: aaf85dd2d985a784d89ca9b141081054, type: 2}

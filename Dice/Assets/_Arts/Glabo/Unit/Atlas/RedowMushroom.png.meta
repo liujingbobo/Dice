@@ -1,0 +1,1147 @@
+fileFormatVersion: 2
+guid: c88e3feb915f3524794dbdfffcb9def4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8577924489594484492
+    second: RedowMushroom_0
+  - first:
+      213: 6062592909680412249
+    second: RedowMushroom_1
+  - first:
+      213: -4354701312500988944
+    second: RedowMushroom_2
+  - first:
+      213: -3234895270952381496
+    second: RedowMushroom_3
+  - first:
+      213: 8088794315458290664
+    second: RedowMushroom_4
+  - first:
+      213: -1478288286601654661
+    second: RedowMushroom_5
+  - first:
+      213: -5830703454076199415
+    second: RedowMushroom_6
+  - first:
+      213: -382001323279816046
+    second: RedowMushroom_7
+  - first:
+      213: 1129431132532203980
+    second: RedowMushroom_8
+  - first:
+      213: 3585743031366920670
+    second: RedowMushroom_9
+  - first:
+      213: 7421297327559905784
+    second: RedowMushroom_10
+  - first:
+      213: 2653646929626406535
+    second: RedowMushroom_11
+  - first:
+      213: 5664046443500261074
+    second: RedowMushroom_12
+  - first:
+      213: -7528127525289189213
+    second: RedowMushroom_13
+  - first:
+      213: -4938610583385167436
+    second: RedowMushroom_14
+  - first:
+      213: -1716471075789549307
+    second: RedowMushroom_15
+  - first:
+      213: -2714008719079475769
+    second: RedowMushroom_16
+  - first:
+      213: 7303259675498979148
+    second: RedowMushroom_17
+  - first:
+      213: 7748334167536610879
+    second: RedowMushroom_18
+  - first:
+      213: -3423627280730668044
+    second: RedowMushroom_19
+  - first:
+      213: 1695294810473046986
+    second: RedowMushroom_20
+  - first:
+      213: 9085287804175997562
+    second: RedowMushroom_21
+  - first:
+      213: 3152558643329308060
+    second: RedowMushroom_22
+  - first:
+      213: 4186854461093985869
+    second: RedowMushroom_23
+  - first:
+      213: -3055027220802745667
+    second: RedowMushroom_24
+  - first:
+      213: -7817041682641361625
+    second: RedowMushroom_25
+  - first:
+      213: -671037209841297383
+    second: RedowMushroom_26
+  - first:
+      213: 2246119374972898564
+    second: RedowMushroom_27
+  - first:
+      213: -6322534589550292474
+    second: RedowMushroom_28
+  - first:
+      213: -3152209906839168698
+    second: RedowMushroom_29
+  - first:
+      213: 9094458339946817220
+    second: RedowMushroom_30
+  - first:
+      213: -721983030614093189
+    second: RedowMushroom_31
+  - first:
+      213: 10648145901708393
+    second: RedowMushroom_32
+  - first:
+      213: 3665509927352850141
+    second: RedowMushroom_33
+  - first:
+      213: 8384323177347795485
+    second: RedowMushroom_34
+  - first:
+      213: -941855873125979364
+    second: RedowMushroom_35
+  - first:
+      213: 220470253214216258
+    second: RedowMushroom_36
+  - first:
+      213: -2009849043775749462
+    second: RedowMushroom_37
+  - first:
+      213: -7653906449293516718
+    second: RedowMushroom_38
+  - first:
+      213: 1054585911260659857
+    second: RedowMushroom_39
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedowMushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07376020e8ea0770800000000000000
+      internalID: 8577924489594484492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568d4f5128a22450800000000000000
+      internalID: 6062592909680412249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3837d7a3ef093c0800000000000000
+      internalID: -4354701312500988944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3da49e3e75b13d0800000000000000
+      internalID: -3234895270952381496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3271ad29b214070800000000000000
+      internalID: 8088794315458290664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ecc79b2a01c7be0800000000000000
+      internalID: -1478288286601654661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e1525d91e251fa0800000000000000
+      internalID: -5830703454076199415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6d2602dbd2baf0800000000000000
+      internalID: -382001323279816046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc169dc81ab8caf00800000000000000
+      internalID: 1129431132532203980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed92578f94e13c130800000000000000
+      internalID: 3585743031366920670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f193c5899ebdf660800000000000000
+      internalID: 7421297327559905784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e10b7a2d5a3d420800000000000000
+      internalID: 2653646929626406535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec5202b3cba9e40800000000000000
+      internalID: 5664046443500261074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a02c47c6e7b68790800000000000000
+      internalID: -7528127525289189213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a75d17d7867bb0800000000000000
+      internalID: -4938610583385167436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d45c96aedd28e0800000000000000
+      internalID: -1716471075789549307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 41
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c574fd0377e55ad0800000000000000
+      internalID: -2714008719079475769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 41
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f1d840bf36a5560800000000000000
+      internalID: 7303259675498979148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 41
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eaa097fdc978b60800000000000000
+      internalID: 7748334167536610879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 41
+        width: 61
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4754098, y: 0.25454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f346b89025dc70d0800000000000000
+      internalID: -3423627280730668044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac32fc7e5a5e68710800000000000000
+      internalID: 1695294810473046986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 41
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a591a3f1d651e70800000000000000
+      internalID: 9085287804175997562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_22
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 41
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951b35126320cb20800000000000000
+      internalID: 3152558643329308060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 41
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e34cf03f1ba1a30800000000000000
+      internalID: 4186854461093985869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba47eccdec5a95d0800000000000000
+      internalID: -3055027220802745667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 97
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7256dbf810a448390800000000000000
+      internalID: -7817041682641361625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181754863fffa6f0800000000000000
+      internalID: -671037209841297383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 13.666667, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc16ccba1db2f10800000000000000
+      internalID: 2246119374972898564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6021cbdf948d148a0800000000000000
+      internalID: -6322534589550292474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64952657ac91144d0800000000000000
+      internalID: -3152209906839168698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66e19fca1063e70800000000000000
+      internalID: 9094458339946817220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72136642400bf5f0800000000000000
+      internalID: -721983030614093189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ecf9ae64d52000800000000000000
+      internalID: 10648145901708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d884bbd18ed230800000000000000
+      internalID: 3665509927352850141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac3ebf1891b5470800000000000000
+      internalID: 8384323177347795485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 97
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1be5b4d21bdde2f0800000000000000
+      internalID: -941855873125979364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240bf56f6844f0300800000000000000
+      internalID: 220470253214216258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 138
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2869d71f49b14e0800000000000000
+      internalID: -2009849043775749462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 138
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e9c1f2acd7c590800000000000000
+      internalID: -7653906449293516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedowMushroom_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 138
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c2d18c44a2ae00800000000000000
+      internalID: 1054585911260659857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedowMushroom_0: 8577924489594484492
+      RedowMushroom_1: 6062592909680412249
+      RedowMushroom_10: 7421297327559905784
+      RedowMushroom_11: 2653646929626406535
+      RedowMushroom_12: 5664046443500261074
+      RedowMushroom_13: -7528127525289189213
+      RedowMushroom_14: -4938610583385167436
+      RedowMushroom_15: -1716471075789549307
+      RedowMushroom_16: -2714008719079475769
+      RedowMushroom_17: 7303259675498979148
+      RedowMushroom_18: 7748334167536610879
+      RedowMushroom_19: -3423627280730668044
+      RedowMushroom_2: -4354701312500988944
+      RedowMushroom_20: 1695294810473046986
+      RedowMushroom_21: 9085287804175997562
+      RedowMushroom_22: 3152558643329308060
+      RedowMushroom_23: 4186854461093985869
+      RedowMushroom_24: -3055027220802745667
+      RedowMushroom_25: -7817041682641361625
+      RedowMushroom_26: -671037209841297383
+      RedowMushroom_27: 2246119374972898564
+      RedowMushroom_28: -6322534589550292474
+      RedowMushroom_29: -3152209906839168698
+      RedowMushroom_3: -3234895270952381496
+      RedowMushroom_30: 9094458339946817220
+      RedowMushroom_31: -721983030614093189
+      RedowMushroom_32: 10648145901708393
+      RedowMushroom_33: 3665509927352850141
+      RedowMushroom_34: 8384323177347795485
+      RedowMushroom_35: -941855873125979364
+      RedowMushroom_36: 220470253214216258
+      RedowMushroom_37: -2009849043775749462
+      RedowMushroom_38: -7653906449293516718
+      RedowMushroom_39: 1054585911260659857
+      RedowMushroom_4: 8088794315458290664
+      RedowMushroom_5: -1478288286601654661
+      RedowMushroom_6: -5830703454076199415
+      RedowMushroom_7: -382001323279816046
+      RedowMushroom_8: 1129431132532203980
+      RedowMushroom_9: 3585743031366920670
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

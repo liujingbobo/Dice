@@ -1,0 +1,2047 @@
+fileFormatVersion: 2
+guid: 85681d44d4c625841a92cf7a86f89641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2046285644444964399
+    second: VoidSummoner_0
+  - first:
+      213: -418431476391533780
+    second: VoidSummoner_1
+  - first:
+      213: 5844051204413730129
+    second: VoidSummoner_2
+  - first:
+      213: 8245997882895273583
+    second: VoidSummoner_3
+  - first:
+      213: -8823491032001235226
+    second: VoidSummoner_4
+  - first:
+      213: 8296497968875650355
+    second: VoidSummoner_5
+  - first:
+      213: -4874436159589496179
+    second: VoidSummoner_6
+  - first:
+      213: -8794684440530725536
+    second: VoidSummoner_7
+  - first:
+      213: 1410710361940629729
+    second: VoidSummoner_8
+  - first:
+      213: -8070101174818199545
+    second: VoidSummoner_9
+  - first:
+      213: -945116811454272537
+    second: VoidSummoner_10
+  - first:
+      213: 2224165996928711733
+    second: VoidSummoner_11
+  - first:
+      213: -5506138884385748272
+    second: VoidSummoner_12
+  - first:
+      213: -490950646150045861
+    second: VoidSummoner_13
+  - first:
+      213: 3151258434720290804
+    second: VoidSummoner_14
+  - first:
+      213: -7411620801729928827
+    second: VoidSummoner_15
+  - first:
+      213: 1689708388206923537
+    second: VoidSummoner_16
+  - first:
+      213: 7211264513055156587
+    second: VoidSummoner_17
+  - first:
+      213: 2562325994111872325
+    second: VoidSummoner_18
+  - first:
+      213: -7350428987284215921
+    second: VoidSummoner_19
+  - first:
+      213: -5084082900418741381
+    second: VoidSummoner_20
+  - first:
+      213: 8207869618705527326
+    second: VoidSummoner_21
+  - first:
+      213: -747623267965260896
+    second: VoidSummoner_22
+  - first:
+      213: 738945458031574973
+    second: VoidSummoner_23
+  - first:
+      213: 6154034771383797689
+    second: VoidSummoner_24
+  - first:
+      213: -3397795482074018570
+    second: VoidSummoner_25
+  - first:
+      213: 6210980176008112660
+    second: VoidSummoner_26
+  - first:
+      213: 1301725521720802969
+    second: VoidSummoner_27
+  - first:
+      213: 6594320096357307289
+    second: VoidSummoner_28
+  - first:
+      213: -8582745763374302387
+    second: VoidSummoner_29
+  - first:
+      213: -5999858746855178225
+    second: VoidSummoner_30
+  - first:
+      213: -3912705731551039107
+    second: VoidSummoner_31
+  - first:
+      213: 2482383082924862369
+    second: VoidSummoner_32
+  - first:
+      213: -4378711504209789311
+    second: VoidSummoner_33
+  - first:
+      213: -757550229137510039
+    second: VoidSummoner_34
+  - first:
+      213: -8083009931220663833
+    second: VoidSummoner_35
+  - first:
+      213: 4252642328328623537
+    second: VoidSummoner_36
+  - first:
+      213: -4371261008791868541
+    second: VoidSummoner_37
+  - first:
+      213: -2318283380494739734
+    second: VoidSummoner_38
+  - first:
+      213: 3322690347189292366
+    second: VoidSummoner_39
+  - first:
+      213: 7861810604019461773
+    second: VoidSummoner_40
+  - first:
+      213: 155183723507110116
+    second: VoidSummoner_41
+  - first:
+      213: -7501467023519346627
+    second: VoidSummoner_42
+  - first:
+      213: -4961824445141422243
+    second: VoidSummoner_43
+  - first:
+      213: -8152881624345551934
+    second: VoidSummoner_44
+  - first:
+      213: -5589362659852558373
+    second: VoidSummoner_45
+  - first:
+      213: 4752723077541117575
+    second: VoidSummoner_46
+  - first:
+      213: 4226168716407529488
+    second: VoidSummoner_47
+  - first:
+      213: -1483912556968416381
+    second: VoidSummoner_48
+  - first:
+      213: 7827021670707828503
+    second: VoidSummoner_49
+  - first:
+      213: -1556455809146583460
+    second: VoidSummoner_50
+  - first:
+      213: 2838434007786582829
+    second: VoidSummoner_51
+  - first:
+      213: -3328301852768315768
+    second: VoidSummoner_52
+  - first:
+      213: 4329494640446315793
+    second: VoidSummoner_53
+  - first:
+      213: 5447734073580402463
+    second: VoidSummoner_54
+  - first:
+      213: -8776810221414824833
+    second: VoidSummoner_55
+  - first:
+      213: -2282137646273747252
+    second: VoidSummoner_56
+  - first:
+      213: 6150166111141589061
+    second: VoidSummoner_57
+  - first:
+      213: -4598133842181238576
+    second: VoidSummoner_58
+  - first:
+      213: 1560920133910068455
+    second: VoidSummoner_59
+  - first:
+      213: -664720355264771263
+    second: VoidSummoner_60
+  - first:
+      213: -6176508685949405323
+    second: VoidSummoner_61
+  - first:
+      213: 5727726727505664516
+    second: VoidSummoner_62
+  - first:
+      213: 2490555103349317651
+    second: VoidSummoner_63
+  - first:
+      213: 4803612514163798426
+    second: VoidSummoner_64
+  - first:
+      213: 445948147290383417
+    second: VoidSummoner_65
+  - first:
+      213: 7981738759686814791
+    second: VoidSummoner_66
+  - first:
+      213: -6517497298937448265
+    second: VoidSummoner_67
+  - first:
+      213: 1547375865701717895
+    second: VoidSummoner_68
+  - first:
+      213: -3580814691072250513
+    second: VoidSummoner_69
+  - first:
+      213: -3878079956176085412
+    second: VoidSummoner_70
+  - first:
+      213: 6000298275945204602
+    second: VoidSummoner_71
+  - first:
+      213: 8519443229489461571
+    second: VoidSummoner_72
+  - first:
+      213: 2920006296709538553
+    second: VoidSummoner_73
+  - first:
+      213: 5348377237329344210
+    second: VoidSummoner_74
+  - first:
+      213: 7177853973985619543
+    second: VoidSummoner_75
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VoidSummoner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269f12b3fdd56c10800000000000000
+      internalID: 2046285644444964399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2327d60ace613af0800000000000000
+      internalID: -418431476391533780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d26487b9d3a1150800000000000000
+      internalID: 5844051204413730129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e8894a26baf6270800000000000000
+      internalID: 8245997882895273583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b8beb7a9ac8580800000000000000
+      internalID: -8823491032001235226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d359a22f4132370800000000000000
+      internalID: 8296497968875650355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a495383268a5cb0800000000000000
+      internalID: -4874436159589496179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065d28af81103f580800000000000000
+      internalID: -8794684440530725536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e81f649999d39310800000000000000
+      internalID: 1410710361940629729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708af7d1dbd310090800000000000000
+      internalID: -8070101174818199545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba406744542e2f0800000000000000
+      internalID: -945116811454272537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3078a033ddde10800000000000000
+      internalID: 2224165996928711733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dac8308bd34693b0800000000000000
+      internalID: -5506138884385748272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f5afd0dfacf29f0800000000000000
+      internalID: -490950646150045861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d4fca9d48bbb20800000000000000
+      internalID: 3151258434720290804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581edf63622a42990800000000000000
+      internalID: -7411620801729928827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f421d93dc037710800000000000000
+      internalID: 1689708388206923537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6968022ede831460800000000000000
+      internalID: 7211264513055156587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da9c57ae53f8320800000000000000
+      internalID: 2562325994111872325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87a032c7c70ef990800000000000000
+      internalID: -7350428987284215921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b37e7e985b179b0800000000000000
+      internalID: -5084082900418741381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f9a95ee538e170800000000000000
+      internalID: 8207869618705527326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab2d1f4998ef95f0800000000000000
+      internalID: -747623267965260896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf3c5e9af2414a00800000000000000
+      internalID: 738945458031574973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cbb3e406876550800000000000000
+      internalID: 6154034771383797689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc0d87e20b98d0d0800000000000000
+      internalID: -3397795482074018570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae4f91095d13650800000000000000
+      internalID: 6210980176008112660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e7a351778a01210800000000000000
+      internalID: 1301725521720802969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d89e703bb38b50800000000000000
+      internalID: 6594320096357307289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 46
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf5989336f3e880800000000000000
+      internalID: -8582745763374302387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 46
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004d2322483cbca0800000000000000
+      internalID: -5999858746855178225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f3481ed643b9c0800000000000000
+      internalID: -3912705731551039107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 46
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abec2ef242337220800000000000000
+      internalID: 2482383082924862369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 46
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb8a91611bb33c0800000000000000
+      internalID: -4378711504209789311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 46
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9613ebc8414ac75f0800000000000000
+      internalID: -757550229137510039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 46
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e143ad0b4163df80800000000000000
+      internalID: -8083009931220663833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 46
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b551d88aab640b30800000000000000
+      internalID: 4252642328328623537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 46
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be17eb5492653c0800000000000000
+      internalID: -4371261008791868541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 46
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae65be85c8dc3dfd0800000000000000
+      internalID: -2318283380494739734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d46d234419c1e20800000000000000
+      internalID: 3322690347189292366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 46
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eaaf73713ca1d60800000000000000
+      internalID: 7861810604019461773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_41
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 46
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0509a36c2572200800000000000000
+      internalID: 155183723507110116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 46
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3092d09c7f65e790800000000000000
+      internalID: -7501467023519346627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fee7db4fe042bb0800000000000000
+      internalID: -4961824445141422243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd215cb552bde80800000000000000
+      internalID: -8152881624345551934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 93
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfd7aa46489e62b0800000000000000
+      internalID: -5589362659852558373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb3a0457015f140800000000000000
+      internalID: 4752723077541117575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 93
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e65e6e0e56aa30800000000000000
+      internalID: 4226168716407529488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be72c3465186be0800000000000000
+      internalID: -1483912556968416381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 93
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71713db7dba2f9c60800000000000000
+      internalID: 7827021670707828503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_50
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56893320bb566ae0800000000000000
+      internalID: -1556455809146583460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 93
+        width: 22
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f18001b4246720800000000000000
+      internalID: 2838434007786582829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 93
+        width: 22
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8865878591f7fc1d0800000000000000
+      internalID: -3328301852768315768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 93
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d92c4df64751c30800000000000000
+      internalID: 4329494640446315793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 93
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173d8ec64d3a9b40800000000000000
+      internalID: 5447734073580402463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f744d8bea91823680800000000000000
+      internalID: -8776810221414824833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6ae49e6e73450e0800000000000000
+      internalID: -2282137646273747252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407d3c3e77c95550800000000000000
+      internalID: 6150166111141589061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_58
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d51be1a52030c0800000000000000
+      internalID: -4598133842181238576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf678779089a510800000000000000
+      internalID: 1560920133910068455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc875db5076c6f0800000000000000
+      internalID: -664720355264771263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577fedd1312a84aa0800000000000000
+      internalID: -6176508685949405323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_62
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a5c73ac19fc7f40800000000000000
+      internalID: 5727726727505664516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_63
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 93
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102ca4cbaa309220800000000000000
+      internalID: 2490555103349317651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ba59812cd9a240800000000000000
+      internalID: 4803612514163798426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 140
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ac7b2a73503600800000000000000
+      internalID: 445948147290383417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 140
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7915ec15d4ce60800000000000000
+      internalID: 7981738759686814791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.121951215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f340ecb23d85a0800000000000000
+      internalID: -6517497298937448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_68
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 140
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787d929c622697510800000000000000
+      internalID: 1547375865701717895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d632ca2046e4ec0800000000000000
+      internalID: -3580814691072250513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5edf89a3da4e2ac0800000000000000
+      internalID: -3878079956176085412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_71
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 140
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4a14bd77554350800000000000000
+      internalID: 6000298275945204602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 140
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.108695656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34973d1ba742b3670800000000000000
+      internalID: 8519443229489461571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a6498142f58820800000000000000
+      internalID: 2920006296709538553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 140
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6fccba2c0493a40800000000000000
+      internalID: 5348377237329344210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoidSummoner_75
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 140
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.116279066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee901d82cdc9360800000000000000
+      internalID: 7177853973985619543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VoidSummoner_0: 2046285644444964399
+      VoidSummoner_1: -418431476391533780
+      VoidSummoner_10: -945116811454272537
+      VoidSummoner_11: 2224165996928711733
+      VoidSummoner_12: -5506138884385748272
+      VoidSummoner_13: -490950646150045861
+      VoidSummoner_14: 3151258434720290804
+      VoidSummoner_15: -7411620801729928827
+      VoidSummoner_16: 1689708388206923537
+      VoidSummoner_17: 7211264513055156587
+      VoidSummoner_18: 2562325994111872325
+      VoidSummoner_19: -7350428987284215921
+      VoidSummoner_2: 5844051204413730129
+      VoidSummoner_20: -5084082900418741381
+      VoidSummoner_21: 8207869618705527326
+      VoidSummoner_22: -747623267965260896
+      VoidSummoner_23: 738945458031574973
+      VoidSummoner_24: 6154034771383797689
+      VoidSummoner_25: -3397795482074018570
+      VoidSummoner_26: 6210980176008112660
+      VoidSummoner_27: 1301725521720802969
+      VoidSummoner_28: 6594320096357307289
+      VoidSummoner_29: -8582745763374302387
+      VoidSummoner_3: 8245997882895273583
+      VoidSummoner_30: -5999858746855178225
+      VoidSummoner_31: -3912705731551039107
+      VoidSummoner_32: 2482383082924862369
+      VoidSummoner_33: -4378711504209789311
+      VoidSummoner_34: -757550229137510039
+      VoidSummoner_35: -8083009931220663833
+      VoidSummoner_36: 4252642328328623537
+      VoidSummoner_37: -4371261008791868541
+      VoidSummoner_38: -2318283380494739734
+      VoidSummoner_39: 3322690347189292366
+      VoidSummoner_4: -8823491032001235226
+      VoidSummoner_40: 7861810604019461773
+      VoidSummoner_41: 155183723507110116
+      VoidSummoner_42: -7501467023519346627
+      VoidSummoner_43: -4961824445141422243
+      VoidSummoner_44: -8152881624345551934
+      VoidSummoner_45: -5589362659852558373
+      VoidSummoner_46: 4752723077541117575
+      VoidSummoner_47: 4226168716407529488
+      VoidSummoner_48: -1483912556968416381
+      VoidSummoner_49: 7827021670707828503
+      VoidSummoner_5: 8296497968875650355
+      VoidSummoner_50: -1556455809146583460
+      VoidSummoner_51: 2838434007786582829
+      VoidSummoner_52: -3328301852768315768
+      VoidSummoner_53: 4329494640446315793
+      VoidSummoner_54: 5447734073580402463
+      VoidSummoner_55: -8776810221414824833
+      VoidSummoner_56: -2282137646273747252
+      VoidSummoner_57: 6150166111141589061
+      VoidSummoner_58: -4598133842181238576
+      VoidSummoner_59: 1560920133910068455
+      VoidSummoner_6: -4874436159589496179
+      VoidSummoner_60: -664720355264771263
+      VoidSummoner_61: -6176508685949405323
+      VoidSummoner_62: 5727726727505664516
+      VoidSummoner_63: 2490555103349317651
+      VoidSummoner_64: 4803612514163798426
+      VoidSummoner_65: 445948147290383417
+      VoidSummoner_66: 7981738759686814791
+      VoidSummoner_67: -6517497298937448265
+      VoidSummoner_68: 1547375865701717895
+      VoidSummoner_69: -3580814691072250513
+      VoidSummoner_7: -8794684440530725536
+      VoidSummoner_70: -3878079956176085412
+      VoidSummoner_71: 6000298275945204602
+      VoidSummoner_72: 8519443229489461571
+      VoidSummoner_73: 2920006296709538553
+      VoidSummoner_74: 5348377237329344210
+      VoidSummoner_75: 7177853973985619543
+      VoidSummoner_8: 1410710361940629729
+      VoidSummoner_9: -8070101174818199545
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

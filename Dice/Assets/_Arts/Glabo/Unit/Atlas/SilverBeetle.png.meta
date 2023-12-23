@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 02b89eb9deba9544f86918459a21d804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5605122363654630484
+    second: SilverBeetle_0
+  - first:
+      213: 5767950583230440797
+    second: SilverBeetle_1
+  - first:
+      213: 6834764839096050091
+    second: SilverBeetle_2
+  - first:
+      213: -1679909585957566706
+    second: SilverBeetle_3
+  - first:
+      213: -1366500591110600091
+    second: SilverBeetle_4
+  - first:
+      213: -7124824100451505262
+    second: SilverBeetle_5
+  - first:
+      213: 2366487881969045508
+    second: SilverBeetle_6
+  - first:
+      213: -1766289351570377046
+    second: SilverBeetle_7
+  - first:
+      213: 4498521611791980069
+    second: SilverBeetle_8
+  - first:
+      213: -6805648575918926323
+    second: SilverBeetle_9
+  - first:
+      213: 47139534165617758
+    second: SilverBeetle_10
+  - first:
+      213: 6199970764832716884
+    second: SilverBeetle_11
+  - first:
+      213: -453937911951259311
+    second: SilverBeetle_12
+  - first:
+      213: 5490963654245472276
+    second: SilverBeetle_13
+  - first:
+      213: 2565419287955738016
+    second: SilverBeetle_14
+  - first:
+      213: 2929093525714246955
+    second: SilverBeetle_15
+  - first:
+      213: -146013863493931582
+    second: SilverBeetle_16
+  - first:
+      213: -1311229010247654588
+    second: SilverBeetle_17
+  - first:
+      213: 3722502050822374999
+    second: SilverBeetle_18
+  - first:
+      213: -5809077013765853648
+    second: SilverBeetle_19
+  - first:
+      213: -2765196782546129208
+    second: SilverBeetle_20
+  - first:
+      213: -6965279511571111776
+    second: SilverBeetle_21
+  - first:
+      213: -8003050372188722453
+    second: SilverBeetle_22
+  - first:
+      213: 3260055975388354786
+    second: SilverBeetle_23
+  - first:
+      213: 3456934036493815563
+    second: SilverBeetle_24
+  - first:
+      213: -3746666090258300333
+    second: SilverBeetle_25
+  - first:
+      213: -801778583475816210
+    second: SilverBeetle_26
+  - first:
+      213: -1551039446134185891
+    second: SilverBeetle_27
+  - first:
+      213: -6842906855755927867
+    second: SilverBeetle_28
+  - first:
+      213: -2305327179441547716
+    second: SilverBeetle_29
+  - first:
+      213: 111548457168110480
+    second: SilverBeetle_30
+  - first:
+      213: 8022653343651954432
+    second: SilverBeetle_31
+  - first:
+      213: 5540499454418295353
+    second: SilverBeetle_32
+  - first:
+      213: -3414749624555897733
+    second: SilverBeetle_33
+  - first:
+      213: -8203262929377205157
+    second: SilverBeetle_34
+  - first:
+      213: -260315755866120069
+    second: SilverBeetle_35
+  - first:
+      213: -3449193917065649685
+    second: SilverBeetle_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SilverBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca394cf48ea9632b0800000000000000
+      internalID: -5605122363654630484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55257bde70eb0050800000000000000
+      internalID: 5767950583230440797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba166a5b866f9de50800000000000000
+      internalID: 6834764839096050091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c932d123cfa8e0800000000000000
+      internalID: -1679909585957566706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56acd71d3f6390de0800000000000000
+      internalID: -1366500591110600091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b2275ca3a8f1d90800000000000000
+      internalID: -7124824100451505262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001802c03477d020800000000000000
+      internalID: 2366487881969045508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b7156131ec77e0800000000000000
+      internalID: -1766289351570377046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526574d5295fd6e30800000000000000
+      internalID: 4498521611791980069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0695369daa7d81a0800000000000000
+      internalID: -6805648575918926323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca1d4182977a000800000000000000
+      internalID: 47139534165617758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45839afcf88ba0650800000000000000
+      internalID: 6199970764832716884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1590018cfd943b9f0800000000000000
+      internalID: -453937911951259311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d1e5e952d33c40800000000000000
+      internalID: 5490963654245472276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad898e00433a9320800000000000000
+      internalID: 2565419287955738016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 64
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d181aea0b36a820800000000000000
+      internalID: 2929093525714246955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd692e2a2149fdf0800000000000000
+      internalID: -146013863493931582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443600199249dcde0800000000000000
+      internalID: -1311229010247654588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564eee74ebf8a330800000000000000
+      internalID: 3722502050822374999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e6999db33026fa0800000000000000
+      internalID: -5809077013765853648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee84a4d2c00a9d0800000000000000
+      internalID: -2765196782546129208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a06f77103b565f90800000000000000
+      internalID: -6965279511571111776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2226a6147fe090800000000000000
+      internalID: -8003050372188722453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 102
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e899e813ab0e3d20800000000000000
+      internalID: 3260055975388354786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fcb29c03f79ff20800000000000000
+      internalID: 3456934036493815563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 140
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520726aa0b210cc0800000000000000
+      internalID: -3746666090258300333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 140
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8786750a28fd4f0800000000000000
+      internalID: -801778583475816210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 140
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ad8c67d9997ae0800000000000000
+      internalID: -1551039446134185891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 140
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce259f487c1901a0800000000000000
+      internalID: -6842906855755927867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36555af425d100e0800000000000000
+      internalID: -2305327179441547716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0938fb41bbc4c8100800000000000000
+      internalID: 111548457168110480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f7970d5b0365f60800000000000000
+      internalID: 8022653343651954432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 172
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a19d226eec3ec40800000000000000
+      internalID: 5540499454418295353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 172
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c727ffe4f5c90d0800000000000000
+      internalID: -3414749624555897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54675714d7282e80800000000000000
+      internalID: -8203262929377205157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 172
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a922033c236cf0800000000000000
+      internalID: -260315755866120069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverBeetle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be12dd338600220d0800000000000000
+      internalID: -3449193917065649685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SilverBeetle_0: -5605122363654630484
+      SilverBeetle_1: 5767950583230440797
+      SilverBeetle_10: 47139534165617758
+      SilverBeetle_11: 6199970764832716884
+      SilverBeetle_12: -453937911951259311
+      SilverBeetle_13: 5490963654245472276
+      SilverBeetle_14: 2565419287955738016
+      SilverBeetle_15: 2929093525714246955
+      SilverBeetle_16: -146013863493931582
+      SilverBeetle_17: -1311229010247654588
+      SilverBeetle_18: 3722502050822374999
+      SilverBeetle_19: -5809077013765853648
+      SilverBeetle_2: 6834764839096050091
+      SilverBeetle_20: -2765196782546129208
+      SilverBeetle_21: -6965279511571111776
+      SilverBeetle_22: -8003050372188722453
+      SilverBeetle_23: 3260055975388354786
+      SilverBeetle_24: 3456934036493815563
+      SilverBeetle_25: -3746666090258300333
+      SilverBeetle_26: -801778583475816210
+      SilverBeetle_27: -1551039446134185891
+      SilverBeetle_28: -6842906855755927867
+      SilverBeetle_29: -2305327179441547716
+      SilverBeetle_3: -1679909585957566706
+      SilverBeetle_30: 111548457168110480
+      SilverBeetle_31: 8022653343651954432
+      SilverBeetle_32: 5540499454418295353
+      SilverBeetle_33: -3414749624555897733
+      SilverBeetle_34: -8203262929377205157
+      SilverBeetle_35: -260315755866120069
+      SilverBeetle_36: -3449193917065649685
+      SilverBeetle_4: -1366500591110600091
+      SilverBeetle_5: -7124824100451505262
+      SilverBeetle_6: 2366487881969045508
+      SilverBeetle_7: -1766289351570377046
+      SilverBeetle_8: 4498521611791980069
+      SilverBeetle_9: -6805648575918926323
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

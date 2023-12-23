@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 29243aa533d7da64ab20abb881f1c1e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8615780402003433115
+    second: RafflesiaTitan_0
+  - first:
+      213: 5537001740957440611
+    second: RafflesiaTitan_1
+  - first:
+      213: 8620460383218933082
+    second: RafflesiaTitan_2
+  - first:
+      213: -2925028030941335154
+    second: RafflesiaTitan_3
+  - first:
+      213: 7133566003581828034
+    second: RafflesiaTitan_4
+  - first:
+      213: 4853768667750028492
+    second: RafflesiaTitan_5
+  - first:
+      213: -5694728080671562418
+    second: RafflesiaTitan_6
+  - first:
+      213: -6539946227462622591
+    second: RafflesiaTitan_7
+  - first:
+      213: -8952927768646934457
+    second: RafflesiaTitan_8
+  - first:
+      213: -4646702599690920343
+    second: RafflesiaTitan_9
+  - first:
+      213: 1703561895450598978
+    second: RafflesiaTitan_10
+  - first:
+      213: 3278503769002320466
+    second: RafflesiaTitan_11
+  - first:
+      213: -7309629727402318893
+    second: RafflesiaTitan_12
+  - first:
+      213: -7553417246626617813
+    second: RafflesiaTitan_13
+  - first:
+      213: 6496302639181196541
+    second: RafflesiaTitan_14
+  - first:
+      213: 8589631902122685665
+    second: RafflesiaTitan_15
+  - first:
+      213: 3954367955234021255
+    second: RafflesiaTitan_16
+  - first:
+      213: -4661881072927428989
+    second: RafflesiaTitan_17
+  - first:
+      213: -2296312117533522311
+    second: RafflesiaTitan_18
+  - first:
+      213: -1961384880496399784
+    second: RafflesiaTitan_19
+  - first:
+      213: -352965107719877726
+    second: RafflesiaTitan_20
+  - first:
+      213: -6959924831017831249
+    second: RafflesiaTitan_21
+  - first:
+      213: 6416710897230669119
+    second: RafflesiaTitan_22
+  - first:
+      213: -6931691973800168836
+    second: RafflesiaTitan_23
+  - first:
+      213: 3959887883211736560
+    second: RafflesiaTitan_24
+  - first:
+      213: -1537759499996743083
+    second: RafflesiaTitan_25
+  - first:
+      213: -2817473477830508235
+    second: RafflesiaTitan_26
+  - first:
+      213: -939396161172867638
+    second: RafflesiaTitan_27
+  - first:
+      213: -5257888710346333295
+    second: RafflesiaTitan_28
+  - first:
+      213: 4730335927478606647
+    second: RafflesiaTitan_29
+  - first:
+      213: -166422867988467064
+    second: RafflesiaTitan_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RafflesiaTitan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56920db6f599e6880800000000000000
+      internalID: -8615780402003433115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36adc724fb167dc40800000000000000
+      internalID: 5537001740957440611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d971e9b0702a770800000000000000
+      internalID: 8620460383218933082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817ea9d0863867d0800000000000000
+      internalID: -2925028030941335154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3c492c748ff260800000000000000
+      internalID: 7133566003581828034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4592f03ec0c5340800000000000000
+      internalID: 4853768667750028492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 66
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45212b8bf248f0b0800000000000000
+      internalID: -5694728080671562418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823fe56e817d35a0800000000000000
+      internalID: -6539946227462622591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 66
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a11a01afc0c380800000000000000
+      internalID: -8952927768646934457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed988da98938fb0800000000000000
+      internalID: -4646702599690920343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 66
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e593f948444a710800000000000000
+      internalID: 1703561895450598978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252a922cec59f7d20800000000000000
+      internalID: 3278503769002320466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 133
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ac82bd7afe8a90800000000000000
+      internalID: -7309629727402318893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 133
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e28ea80fdc2790800000000000000
+      internalID: -7553417246626617813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 133
+        width: 88
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce3d9d4d0872a50800000000000000
+      internalID: 6496302639181196541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 133
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b26584b0843770800000000000000
+      internalID: 8589631902122685665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 133
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f59e244bcb0e630800000000000000
+      internalID: 3954367955234021255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e2b072ddbad4fb0800000000000000
+      internalID: -4661881072927428989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 200
+        width: 89
+        height: 64
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764df4ab4cd120e0800000000000000
+      internalID: -2296312117533522311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 200
+        width: 89
+        height: 64
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa032d7d2c7c4e0800000000000000
+      internalID: -1961384880496399784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 200
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abcf38ca140a1bf0800000000000000
+      internalID: -352965107719877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 200
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f2cfcd31696f90800000000000000
+      internalID: -6959924831017831249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 200
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35efc7509cbc0950800000000000000
+      internalID: 6416710897230669119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f63120eeadcf90800000000000000
+      internalID: -6931691973800168836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 266
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f58535ac0954f630800000000000000
+      internalID: 3959887883211736560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 266
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a36b4d1e7c8aae0800000000000000
+      internalID: -1537759499996743083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 266
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53104ddacc256e8d0800000000000000
+      internalID: -2817473477830508235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 266
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5fce52b2896f2f0800000000000000
+      internalID: -939396161172867638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 266
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193254f431a3807b0800000000000000
+      internalID: -5257888710346333295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 89
+        height: 65
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b51a1b67785a140800000000000000
+      internalID: 4730335927478606647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafflesiaTitan_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 20.333334, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882bb07884fb0bdf0800000000000000
+      internalID: -166422867988467064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RafflesiaTitan_0: -8615780402003433115
+      RafflesiaTitan_1: 5537001740957440611
+      RafflesiaTitan_10: 1703561895450598978
+      RafflesiaTitan_11: 3278503769002320466
+      RafflesiaTitan_12: -7309629727402318893
+      RafflesiaTitan_13: -7553417246626617813
+      RafflesiaTitan_14: 6496302639181196541
+      RafflesiaTitan_15: 8589631902122685665
+      RafflesiaTitan_16: 3954367955234021255
+      RafflesiaTitan_17: -4661881072927428989
+      RafflesiaTitan_18: -2296312117533522311
+      RafflesiaTitan_19: -1961384880496399784
+      RafflesiaTitan_2: 8620460383218933082
+      RafflesiaTitan_20: -352965107719877726
+      RafflesiaTitan_21: -6959924831017831249
+      RafflesiaTitan_22: 6416710897230669119
+      RafflesiaTitan_23: -6931691973800168836
+      RafflesiaTitan_24: 3959887883211736560
+      RafflesiaTitan_25: -1537759499996743083
+      RafflesiaTitan_26: -2817473477830508235
+      RafflesiaTitan_27: -939396161172867638
+      RafflesiaTitan_28: -5257888710346333295
+      RafflesiaTitan_29: 4730335927478606647
+      RafflesiaTitan_3: -2925028030941335154
+      RafflesiaTitan_30: -166422867988467064
+      RafflesiaTitan_4: 7133566003581828034
+      RafflesiaTitan_5: 4853768667750028492
+      RafflesiaTitan_6: -5694728080671562418
+      RafflesiaTitan_7: -6539946227462622591
+      RafflesiaTitan_8: -8952927768646934457
+      RafflesiaTitan_9: -4646702599690920343
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

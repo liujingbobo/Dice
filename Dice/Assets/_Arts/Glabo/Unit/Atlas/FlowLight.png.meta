@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 93b9e692bb3f3ef4d8a47d64f30f5a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1116251759630838817
+    second: FlowLight_0
+  - first:
+      213: -8888822938056307638
+    second: FlowLight_1
+  - first:
+      213: 6111213726341547732
+    second: FlowLight_2
+  - first:
+      213: -4029710028220003235
+    second: FlowLight_3
+  - first:
+      213: -3098438572012979810
+    second: FlowLight_4
+  - first:
+      213: 1862932570142278494
+    second: FlowLight_5
+  - first:
+      213: 2733393430975251332
+    second: FlowLight_6
+  - first:
+      213: 6885426540510946969
+    second: FlowLight_7
+  - first:
+      213: -4227812539891673898
+    second: FlowLight_8
+  - first:
+      213: -9095785896565805965
+    second: FlowLight_9
+  - first:
+      213: 1068574716510592296
+    second: FlowLight_10
+  - first:
+      213: -2133222656279192118
+    second: FlowLight_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlowLight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c63bcaf09bd7f00800000000000000
+      internalID: 1116251759630838817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c4fc102ae84a480800000000000000
+      internalID: -8888822938056307638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6441961846fc450800000000000000
+      internalID: 6111213726341547732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c0e1464189318c0800000000000000
+      internalID: -4029710028220003235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.61290324, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e993cc4f8822005d0800000000000000
+      internalID: -3098438572012979810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5306d36d477ad910800000000000000
+      internalID: 1862932570142278494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.375, y: 0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4838aa4e7d6fee520800000000000000
+      internalID: 2733393430975251332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a33245f2fd8f50800000000000000
+      internalID: 6885426540510946969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.060606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d490d615eac355c0800000000000000
+      internalID: -4227812539891673898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.40000004, y: -0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cef2a2be645c180800000000000000
+      internalID: -9095785896565805965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dd3990b0754de00800000000000000
+      internalID: 1068574716510592296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowLight_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdd9a1eb454562e0800000000000000
+      internalID: -2133222656279192118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlowLight_0: 1116251759630838817
+      FlowLight_1: -8888822938056307638
+      FlowLight_10: 1068574716510592296
+      FlowLight_11: -2133222656279192118
+      FlowLight_2: 6111213726341547732
+      FlowLight_3: -4029710028220003235
+      FlowLight_4: -3098438572012979810
+      FlowLight_5: 1862932570142278494
+      FlowLight_6: 2733393430975251332
+      FlowLight_7: 6885426540510946969
+      FlowLight_8: -4227812539891673898
+      FlowLight_9: -9095785896565805965
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

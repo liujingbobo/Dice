@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8fcb1b76e149e04db592d80e499b451, type: 3}
+  m_Name: "UI\u52A8\u753B"
+  m_EditorClassIdentifier: 
+  ppu: 40
+  alignment: 0
+  customPivot: {x: 0.5, y: 0.5}
+  densePacked: 0
+  border: 0
+  innerBorder: 1
+  baseName: 
+  spriteTarget: 
+  atlasOutputDirectory: Assets/_ArtAssets/UIAnimSheet/Altas
+  clipOutputDirectory: Assets/_ArtAssets/UIAnimSheet
+  OriginModel: {fileID: 0}
+  controllerPolicy: 1
+  animControllerOutputPath: Assets/_ArtAssets/UIAnimSheet
+  animControllerPrefix: UIAnim

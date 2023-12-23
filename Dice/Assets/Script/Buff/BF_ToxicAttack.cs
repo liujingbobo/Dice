@@ -6,21 +6,21 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Buff", menuName = "Buff/ToxicAttack", order = 0)]
 public class BF_ToxicAttack : Effect, AfterDealDamage, BeforeTurnEnd
 {
-    public string Source;
+    private string _target;
     
     public override IEnumerator AddBuff(BuffAction buffAction)
     {
-        Source = buffAction.Target;
+        _target = buffAction.Target;
         yield break;
     }
 
     public IEnumerator AfterDealDamage(DamageInfo DmgInfo)
     {
-        if (Source == DmgInfo.Source && Source == DmgInfo.Target && DmgInfo.SourceType == SourceType.Unit)
+        if (_target == DmgInfo.Source && _target != DmgInfo.Target && DmgInfo.SourceType == SourceType.Side)
         {
-            BuffAction buffAction = new BuffAction()
+            var buffAction = new BuffAction()
             {
-                BuffType = BuffType,
+                BuffType = BuffType.Toxic,
                 ByStack = true,
                 Stacks = 1,
                 Source = DmgInfo.Source,
@@ -34,13 +34,15 @@ public class BF_ToxicAttack : Effect, AfterDealDamage, BeforeTurnEnd
     {
         foreach (var unit in units)
         {
-            if (unit == Source && BattleManager.GetUnit(unit).HasBuff(BuffType))
+            if (unit == _target && BattleManager.GetUnit(unit).HasBuff(buffType))
             {
                 var info = new BuffAction()
                 {
-                    BuffType = BuffType,
+                    BuffType = buffType,
                     Stacks = 1,
                     ByStack = true,
+                    Source = _target,
+                    Target = _target
                 };
             
                 yield return BattleManager.Instance.LoseBuff(info);

@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 3b6f9e750a634d041a3bf643564fb62b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StrongDryad_0
+  - first:
+      213: 21300002
+    second: StrongDryad_1
+  - first:
+      213: 21300004
+    second: StrongDryad_2
+  - first:
+      213: 21300006
+    second: StrongDryad_3
+  - first:
+      213: 21300008
+    second: StrongDryad_4
+  - first:
+      213: 21300010
+    second: StrongDryad_5
+  - first:
+      213: 21300012
+    second: StrongDryad_6
+  - first:
+      213: 21300014
+    second: StrongDryad_7
+  - first:
+      213: 21300016
+    second: StrongDryad_8
+  - first:
+      213: 21300018
+    second: StrongDryad_9
+  - first:
+      213: 21300020
+    second: StrongDryad_10
+  - first:
+      213: 21300022
+    second: StrongDryad_11
+  - first:
+      213: 21300024
+    second: StrongDryad_12
+  - first:
+      213: 21300026
+    second: StrongDryad_13
+  - first:
+      213: 21300028
+    second: StrongDryad_14
+  - first:
+      213: 21300030
+    second: StrongDryad_15
+  - first:
+      213: 21300032
+    second: StrongDryad_16
+  - first:
+      213: 21300034
+    second: StrongDryad_17
+  - first:
+      213: 21300036
+    second: StrongDryad_18
+  - first:
+      213: 21300038
+    second: StrongDryad_19
+  - first:
+      213: 21300040
+    second: StrongDryad_20
+  - first:
+      213: 21300042
+    second: StrongDryad_21
+  - first:
+      213: 21300044
+    second: StrongDryad_22
+  - first:
+      213: 21300046
+    second: StrongDryad_23
+  - first:
+      213: 21300048
+    second: StrongDryad_24
+  - first:
+      213: 21300050
+    second: StrongDryad_25
+  - first:
+      213: 21300052
+    second: StrongDryad_26
+  - first:
+      213: 21300054
+    second: StrongDryad_27
+  - first:
+      213: 21300056
+    second: StrongDryad_28
+  - first:
+      213: 21300058
+    second: StrongDryad_29
+  - first:
+      213: -8266659901374038731
+    second: StrongDryad_30
+  - first:
+      213: 6591035917870738280
+    second: StrongDryad_31
+  - first:
+      213: -6655436355421177122
+    second: StrongDryad_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StrongDryad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29268292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 42
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.20408162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 47
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.21153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 42
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 42
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 42
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 42
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 42
+        width: 36
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 42
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_24
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 42
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 42
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4054054, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43243244, y: 0.32432434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d72ab4e9ce64d80800000000000000
+      internalID: -8266659901374038731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ba68a1f30187b50800000000000000
+      internalID: 6591035917870738280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrongDryad_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 95
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda76e195e323a3a0800000000000000
+      internalID: -6655436355421177122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c38608f5dd702734eb7c88047329cdd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StrongDryad_0: 21300000
+      StrongDryad_1: 21300002
+      StrongDryad_10: 21300020
+      StrongDryad_11: 21300022
+      StrongDryad_12: 21300024
+      StrongDryad_13: 21300026
+      StrongDryad_14: 21300028
+      StrongDryad_15: 21300030
+      StrongDryad_16: 21300032
+      StrongDryad_17: 21300034
+      StrongDryad_18: 21300036
+      StrongDryad_19: 21300038
+      StrongDryad_2: 21300004
+      StrongDryad_20: 21300040
+      StrongDryad_21: 21300042
+      StrongDryad_22: 21300044
+      StrongDryad_23: 21300046
+      StrongDryad_24: 21300048
+      StrongDryad_25: 21300050
+      StrongDryad_26: 21300052
+      StrongDryad_27: 21300054
+      StrongDryad_28: 21300056
+      StrongDryad_29: 21300058
+      StrongDryad_3: 21300006
+      StrongDryad_30: -8266659901374038731
+      StrongDryad_31: 6591035917870738280
+      StrongDryad_32: -6655436355421177122
+      StrongDryad_4: 21300008
+      StrongDryad_5: 21300010
+      StrongDryad_6: 21300012
+      StrongDryad_7: 21300014
+      StrongDryad_8: 21300016
+      StrongDryad_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

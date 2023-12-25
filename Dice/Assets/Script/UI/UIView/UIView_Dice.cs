@@ -10,15 +10,16 @@ public class UIView_Dice : MonoBehaviour
     [SerializeField] private int randomDisplayTime = 10;
     
     [SerializeField] private float randomDisplayGap = 0.1f;
+    
     public void Fill(List<DiceSideEffect> sidesEffects)
     {
         var sides = cache.Cache.Use(sidesEffects).ToList();
         
         foreach (var p in sides)
         {
-            if (p.Key.TryGetComponent<UI_BattleSide>(out var side))
+            if (p.Key.TryGetComponent<UIView_Side>(out var side))
             {
-                // side.Init(p.Value);
+                side.Fill(p.Value);
             }
         }
     }
@@ -28,7 +29,7 @@ public class UIView_Dice : MonoBehaviour
         var curUsing = cache.Cache.UsingByIndex();
         foreach (var pair in curUsing)
         {
-            if (pair.Key.GetComponent<UI_BattleSide>() is { } s)
+            if (pair.Key.GetComponent<UIView_Side>() is { } s)
             {
                 s.SetHighLight(sideIndexes.Contains(pair.Value));
             }
@@ -41,7 +42,7 @@ public class UIView_Dice : MonoBehaviour
         
         allSide.ForEach(_ =>
         {
-            if (_.Key.TryGetComponent<UI_BattleSide>(out var side))
+            if (_.Key.TryGetComponent<UIView_Side>(out var side))
             {
                 side.SetSelected(false);
             }
@@ -53,7 +54,7 @@ public class UIView_Dice : MonoBehaviour
             int ran = Random.Range(0, allSide.Count);
             allSide.ForEach(_ =>
             {
-                if (_.Key.TryGetComponent<UI_BattleSide>(out var side))
+                if (_.Key.TryGetComponent<UIView_Side>(out var side))
                 {
                     side.SetHighLight(_.Value == ran);
                 }
@@ -63,7 +64,7 @@ public class UIView_Dice : MonoBehaviour
         }
         allSide.ForEach(_ =>
         {
-            if (_.Key.TryGetComponent<UI_BattleSide>(out var side))
+            if (_.Key.TryGetComponent<UIView_Side>(out var side))
             {
                 side.SetHighLight(_.Value == result);
             }
@@ -71,13 +72,10 @@ public class UIView_Dice : MonoBehaviour
         yield return new WaitForSeconds(randomDisplayGap);
         allSide.ForEach(_ =>
         {
-            if (_.Key.TryGetComponent<UI_BattleSide>(out var side))
+            if (_.Key.TryGetComponent<UIView_Side>(out var side))
             {
                 side.SetSelected(_.Value == result);
             }
         });
-        
-        // Refresh Reroll
     }
-
 }

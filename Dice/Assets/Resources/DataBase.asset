@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6057c7dedf20e844982d1481197cf74f, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  refa:
+    m_AssetGUID: 5c8dda637ca574d44a4bf37851fa797e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Dice:
+    Path: Assets/Prefab/Dice
+    pairs:
+    - Key: AttackDice
+      Reference:
+        m_AssetGUID: 52c813428d688e044b5c42f5eb2b486d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: AttackDice_1
+      Reference:
+        m_AssetGUID: 5c8dda637ca574d44a4bf37851fa797e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: BlockDice
+      Reference:
+        m_AssetGUID: 2abbc4d34f322474398a71a656547c19
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: ToxicAttack
+      Reference:
+        m_AssetGUID: 7152976e50e175a43ab2330e0140e136
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: ToxicDice
+      Reference:
+        m_AssetGUID: 1a77ba257a3aa5d45af38e51a74db5a2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+  Sides:
+    Path: Assets/Prefab/Side
+    pairs:
+    - Key: Attack_0
+      Reference:
+        m_AssetGUID: ebbb4c9ca95bc2c48b510719c563df70
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: Attack_1
+      Reference:
+        m_AssetGUID: 30221cfdbe8ff2b4c895c9cf32334eec
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: Block_0
+      Reference:
+        m_AssetGUID: b15290e406cbede48bca738076ffd113
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: DoubleAttack_0
+      Reference:
+        m_AssetGUID: 13ad3eb45fa46d54e8b9f32ba9686e6f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: Heal_0
+      Reference:
+        m_AssetGUID: 3461355354c998148916dbee2cdce821
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: Toxic_0
+      Reference:
+        m_AssetGUID: 1181d16651437054094fbac2a64121c4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - Key: ToxicAttack_0
+      Reference:
+        m_AssetGUID: 75aba7f183f21fa41aa7154ea8902e91
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0

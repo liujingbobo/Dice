@@ -76,7 +76,7 @@ public class UIView_PlayerUnit : MonoBehaviour, IPointerEnterHandler, IPointerEx
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        highlight.SetActive(!DiceManager.Instance.dragging ||
+        highlight.SetActive(!DiceManager.Dragging ||
                             B.BelongsToTarget(_target, DiceManager.Instance.CurrentDragging.GetSide().Side.TargetType));
     }
 

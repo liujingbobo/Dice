@@ -12,7 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c16aed4a271f071459af216b04d9ca38, type: 3}
   m_Name: DoubleAttack_0
   m_EditorClassIdentifier: 
-  Icon: {fileID: 21300000, guid: 13c035a6820ee40139858ef1f949e854, type: 3}
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  icon: {fileID: 21300000, guid: 13c035a6820ee40139858ef1f949e854, type: 3}
   sideType: 0
   isPositive: 0
   targetType: 2

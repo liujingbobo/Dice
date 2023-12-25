@@ -5,6 +5,11 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.Serialization;
 
+public struct Dice
+{
+    
+}
+
 [Serializable]
 public struct BTUnit
 {
@@ -12,11 +17,11 @@ public struct BTUnit
     public int maxHp;
     public int hp; // HealthPoint
     public int br; // Barrier
-    public List<RTDiceData> Dices;
+    public List<BTDiceData> Dices;
     public Dictionary<BuffType, int> buffs;
     public bool dead;
 
-    public List<(int sideIndex, RTSideData side)> Roll()
+    public List<(int sideIndex, BTSideData side)> Roll()
     {
         var dices = Dices.Select(_ => _.Roll()).ToList();
         return dices;

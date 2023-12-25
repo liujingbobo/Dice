@@ -12,7 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e136c4d9337f0c4429098a1c16bf6138, type: 3}
   m_Name: Toxic_0
   m_EditorClassIdentifier: 
-  Icon: {fileID: 21300000, guid: d03196b2da51b402f8db62a23d9fa4d8, type: 3}
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  icon: {fileID: 21300000, guid: d03196b2da51b402f8db62a23d9fa4d8, type: 3}
   sideType: 1
   isPositive: 0
   targetType: 2

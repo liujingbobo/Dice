@@ -23,13 +23,13 @@ public class FakeStart : MonoBehaviour
     {
         _currentUnitCount = 0;
         
-        var playerRTDices = new List<RTDiceData>();
+        var playerRTDices = new List<BTDiceData>();
         
         for (int i = 0; i < playerDices.Count; i++)
         {
-            playerRTDices.Add(new RTDiceData()
+            playerRTDices.Add(new BTDiceData()
             {
-                Sides = playerDices[i].Sides.Select(side => new RTSideData()
+                Sides = playerDices[i].Sides.Select(side => new BTSideData()
                 {
                     Side = Instantiate(side),
                 }).ToList(),
@@ -53,13 +53,13 @@ public class FakeStart : MonoBehaviour
 
         for (int e = 0; e < enemyCount; e++)
         {
-            var enemyRTDices = new List<RTDiceData>();
+            var enemyRTDices = new List<BTDiceData>();
             
             for (int i = 0; i < enemyDices.Count; i++)
             {
-                enemyRTDices.Add(new RTDiceData()
+                enemyRTDices.Add(new BTDiceData()
                 {
-                    Sides = enemyDices[i].Sides.Select(side => new RTSideData()
+                    Sides = enemyDices[i].Sides.Select(side => new BTSideData()
                     {
                         Side = Instantiate(side),
                     }).ToList(),

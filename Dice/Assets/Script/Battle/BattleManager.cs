@@ -40,7 +40,7 @@ public class BattleManager : MonoBehaviour
 
     public ReactiveProperty<int> RerollChance;
 
-    private List<RTDiceData> GetDiceDatas => playerRP.Value.Dices;
+    private List<BTDiceData> GetDiceDatas => playerRP.Value.Dices;
 
     public static BTUnit GetUnit(string id)
     {
@@ -411,7 +411,7 @@ public class BattleManager : MonoBehaviour
 
         unitState.Dices[diceIndex] = diceState;
 
-        yield return diceManager.Roll(new List<RTDiceData>() { diceState });
+        yield return diceManager.Roll(new List<BTDiceData>() { diceState });
 
         RefreshDices();
 
@@ -426,6 +426,7 @@ public class BattleManager : MonoBehaviour
         yield return eventManager.RemoveUnit(id);
         unitManager.RemoveUnit(id);
     }
+
 }
 
 public enum BattleState

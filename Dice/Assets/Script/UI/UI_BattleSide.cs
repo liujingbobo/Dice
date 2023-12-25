@@ -6,17 +6,17 @@ using UnityEngine.UI;
 
 public class UI_BattleSide : MonoBehaviour
 {
-    private UIView_Side view;
+    [SerializeField] private UIView_Side view;
 
-    private RTSideData _target;
+    private BTSideData _target;
 
-    public void Init(RTSideData content)
+    public void Init(BTSideData content)
     {
         _target = content;
         view.Fill(content.Side);
     }
 
-    public void Reset()
+    public void ManuelReset()
     {
         SetHighLight(false);
         SetSelected(true);

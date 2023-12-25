@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class PlayerData
 {
-    public List<RTDiceData> Dices;
+    public List<BTDiceData> Dices;
 }
 
-public struct RTDiceData
+public struct BTDiceData
 {
-    public List<RTSideData> Sides;
+    public List<BTSideData> Sides;
 
     public bool Used;
 
@@ -21,12 +21,12 @@ public struct RTDiceData
 
     public int RolledResult;
     
-    public (int sideIndex, RTSideData side) Roll()
+    public (int sideIndex, BTSideData side) Roll()
     {
         return Sides.RandomlyGetOneWithIndex();
     }
 
-    public readonly RTSideData GetSide()
+    public readonly BTSideData GetSide()
     {
         return !HasSide() ? default : Sides[RolledResult];
     }
@@ -38,7 +38,7 @@ public struct RTDiceData
 }
 
 
-public struct RTSideData
+public struct BTSideData
 {
     public DiceSideEffect Side;
 }

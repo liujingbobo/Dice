@@ -11,7 +11,7 @@ using Random = UnityEngine.Random;
 
 public class UI_BattleDice : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler
 {
-    private RTDiceData target;
+    private BTDiceData target;
 
     private int Index => target.Index;
 
@@ -40,7 +40,7 @@ public class UI_BattleDice : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
         rerollButton.onClick.AddListener(() => BattleManager.Instance.ReRoll(Index));
     }
 
-    public void Init(RTDiceData data)
+    public void Init(BTDiceData data)
     {
         target = data;
         
@@ -49,7 +49,7 @@ public class UI_BattleDice : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
         Refresh(data);
     }
 
-    public void Refresh(RTDiceData data)
+    public void Refresh(BTDiceData data)
     {
         target = data;
         rerollButton.gameObject.SetActive(data.Rerollable);
@@ -77,9 +77,9 @@ public class UI_BattleDice : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        if (!target.Used && !DiceManager.Instance.dragging)
+        if (!target.Used && !DiceManager.Dragging)
         {
-            DiceManager.Instance.dragging = true;
+            DiceManager.Instance.SetDragging(true); 
             DiceManager.Instance.CurrentDragging = target;
             sideFollower.SetActive(true);
             sideFollower.rectTransform().position = eventData.position;
@@ -88,9 +88,9 @@ public class UI_BattleDice : MonoBehaviour, IDragHandler, IBeginDragHandler, IEn
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        if (!target.Used && DiceManager.Instance.dragging)
+        if (!target.Used && DiceManager.Dragging)
         {
-            DiceManager.Instance.dragging = false;
+            DiceManager.Instance.SetDragging(false); 
 
             sideFollower.SetActive(false);
         

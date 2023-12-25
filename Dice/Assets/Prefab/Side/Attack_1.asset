@@ -12,8 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 177ea196cf990a345a9f9728a9a97785, type: 3}
   m_Name: Attack_1
   m_EditorClassIdentifier: 
-  Icon: {fileID: 21300000, guid: 5eec0cf9e8ff94ee38a599e54bdc32b6, type: 3}
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  icon: {fileID: 21300000, guid: 678a0ad4be47340d49403da6b930716c, type: 3}
   sideType: 0
   isPositive: 0
   targetType: 2
-  value: 03000000
+  value: 3

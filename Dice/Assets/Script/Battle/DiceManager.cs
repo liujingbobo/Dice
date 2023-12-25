@@ -12,8 +12,11 @@ public class DiceManager : MonoBehaviour
     
     public CacheLayoutPattern cache;
 
-    public bool dragging;
-    public RTDiceData CurrentDragging;
+    public static bool Dragging => Instance._dragging;
+    
+    private bool _dragging;
+    
+    public BTDiceData CurrentDragging;
 
     [SerializeField] private float rollGap;
 
@@ -26,7 +29,7 @@ public class DiceManager : MonoBehaviour
         Instance = this;
     }
 
-    public void Init(List<RTDiceData> dices)
+    public void Init(List<BTDiceData> dices)
     {
         var triplets = cache.Cache.UseByIndex(dices);
         
@@ -39,7 +42,7 @@ public class DiceManager : MonoBehaviour
         }
     }
     
-    public IEnumerator Roll(List<RTDiceData> infos)
+    public IEnumerator Roll(List<BTDiceData> infos)
     {
         var pairs = cache.Cache.UsingByIndex().ToList();
         for (int i = 0; i < infos.Count; i++)
@@ -61,7 +64,7 @@ public class DiceManager : MonoBehaviour
         }
     }
 
-    public void RefreshAll(List<RTDiceData> datas)
+    public void RefreshAll(List<BTDiceData> datas)
     {
         var pairs = cache.Cache.UsingByIndex().PairWith(datas);
         foreach (var pair in pairs)
@@ -71,5 +74,10 @@ public class DiceManager : MonoBehaviour
                 dice.Refresh(pair.Item2);
             }
         }
+    }
+    
+    public void SetDragging(bool dragging)
+    {
+        _dragging = dragging;
     }
 }
